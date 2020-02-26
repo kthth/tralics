@@ -7,6 +7,7 @@ var consts_8h =
     [ "hash_offset", "d8/db5/consts_8h.html#aec3f45b64350234ebce6d1c0b44c2972", null ],
     [ "hash_prime", "d8/db5/consts_8h.html#a657a50b89927094636254a4409f707f6", null ],
     [ "hash_size", "d8/db5/consts_8h.html#aa0772155d23737582b7704cde6c1295a", null ],
+    [ "lmaxchar", "d8/db5/consts_8h.html#aeb1be64453f3d8d569bb79b3798f2523", null ],
     [ "max_dimension", "d8/db5/consts_8h.html#aec9516c0d1b5c43880db9cc2f9a524f3", null ],
     [ "max_encoding", "d8/db5/consts_8h.html#aeaf9ad0969659e652c3933916fe445be", null ],
     [ "max_integer", "d8/db5/consts_8h.html#ae63e51037c0eab17336842260b5fbfb2", null ],

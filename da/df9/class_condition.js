@@ -14,5 +14,7 @@ var class_condition =
     [ "top_line", "da/df9/class_condition.html#a7ff4a8c8df0c3f6430924fe18aabc4d6", null ],
     [ "top_serial", "da/df9/class_condition.html#adeb6fe1a5617b59ce316c84675739fec", null ],
     [ "top_type", "da/df9/class_condition.html#afa69bcb459865d2fa2e490c27e163ec3", null ],
-    [ "wait_for_fi", "da/df9/class_condition.html#a4fe075df490c21f28b8eefa9b4a7408d", null ]
+    [ "wait_for_fi", "da/df9/class_condition.html#a4fe075df490c21f28b8eefa9b4a7408d", null ],
+    [ "D", "da/df9/class_condition.html#a6e914d9dc5120e57339b29808b0f4d61", null ],
+    [ "if_serial", "da/df9/class_condition.html#a184707da211c06b26242ff944cfa4b4d", null ]
 ];

@@ -69,6 +69,7 @@ $(document).ready(function(){initNavTree('dd/da8/class_bibliography.html','../..
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d9/d88/class_bibliography-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">Bibliography Class Reference</div>  </div>
@@ -76,11 +77,6 @@ $(document).ready(function(){initNavTree('dd/da8/class_bibliography.html','../..
 <div class="contents">
 
 <p><code>#include &lt;<a class="el" href="../../d6/dcb/txbib_8h_source.html">txbib.h</a>&gt;</code></p>
-<div class="dynheader">
-Collaboration diagram for Bibliography:</div>
-<div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d4c/class_bibliography__coll__graph.svg" width="188" height="210"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-<center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -129,6 +125,23 @@ Public Member Functions</h2></td></tr>
 Public Attributes</h2></td></tr>
 <tr class="memitem:a730f9bb5011b2374047f510c830e11cf"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../dc/d0f/class_citation_item.html">CitationItem</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da8/class_bibliography.html#a730f9bb5011b2374047f510c830e11cf">citation_table</a></td></tr>
 <tr class="separator:a730f9bb5011b2374047f510c830e11cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ac519d5071426879d3a8fc26dc22dbd13"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da8/class_bibliography.html#ac519d5071426879d3a8fc26dc22dbd13">bib_style</a></td></tr>
+<tr class="separator:ac519d5071426879d3a8fc26dc22dbd13"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a855582ae258893e69efe4d82a5cd57"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da8/class_bibliography.html#a9a855582ae258893e69efe4d82a5cd57">bib_cmd</a></td></tr>
+<tr class="separator:a9a855582ae258893e69efe4d82a5cd57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac589252a20c6d698829988f3db0c51fb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d9a/class_xml.html">Xml</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da8/class_bibliography.html#ac589252a20c6d698829988f3db0c51fb">biblio_loc</a> {nullptr}</td></tr>
+<tr class="separator:ac589252a20c6d698829988f3db0c51fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad28c7fe0e24b9ea9a90138d4a118e1a3"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da8/class_bibliography.html#ad28c7fe0e24b9ea9a90138d4a118e1a3">biblio_src</a></td></tr>
+<tr class="separator:ad28c7fe0e24b9ea9a90138d4a118e1a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0751ea7e745bfd46f8f389b47b1fad56"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da8/class_bibliography.html#a0751ea7e745bfd46f8f389b47b1fad56">nocite</a> {false}</td></tr>
+<tr class="separator:a0751ea7e745bfd46f8f389b47b1fad56"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a15ba2976c435b3fb215af852b04b1e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da8/class_bibliography.html#a6a15ba2976c435b3fb215af852b04b1e">biblio_loc_force</a> {false}</td></tr>
+<tr class="separator:a6a15ba2976c435b3fb215af852b04b1e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33abf546b191718b0543c553edd33450"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da8/class_bibliography.html#a33abf546b191718b0543c553edd33450">last_bid</a> {-1}</td></tr>
+<tr class="separator:a33abf546b191718b0543c553edd33450"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
@@ -657,6 +670,126 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a id="a9a855582ae258893e69efe4d82a5cd57"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a855582ae258893e69efe4d82a5cd57">&#9670;&nbsp;</a></span>bib_cmd</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string Bibliography::bib_cmd</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d6/dcb/txbib_8h_source.html#l00062">62</a> of file <a class="el" href="../../d6/dcb/txbib_8h_source.html">txbib.h</a>.</p>
+
+</div>
+</div>
+<a id="ac519d5071426879d3a8fc26dc22dbd13"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac519d5071426879d3a8fc26dc22dbd13">&#9670;&nbsp;</a></span>bib_style</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string Bibliography::bib_style</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d6/dcb/txbib_8h_source.html#l00061">61</a> of file <a class="el" href="../../d6/dcb/txbib_8h_source.html">txbib.h</a>.</p>
+
+</div>
+</div>
+<a id="ac589252a20c6d698829988f3db0c51fb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac589252a20c6d698829988f3db0c51fb">&#9670;&nbsp;</a></span>biblio_loc</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d9a/class_xml.html">Xml</a>* Bibliography::biblio_loc {nullptr}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d6/dcb/txbib_8h_source.html#l00063">63</a> of file <a class="el" href="../../d6/dcb/txbib_8h_source.html">txbib.h</a>.</p>
+
+</div>
+</div>
+<a id="a6a15ba2976c435b3fb215af852b04b1e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a15ba2976c435b3fb215af852b04b1e">&#9670;&nbsp;</a></span>biblio_loc_force</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Bibliography::biblio_loc_force {false}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d6/dcb/txbib_8h_source.html#l00066">66</a> of file <a class="el" href="../../d6/dcb/txbib_8h_source.html">txbib.h</a>.</p>
+
+</div>
+</div>
+<a id="ad28c7fe0e24b9ea9a90138d4a118e1a3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad28c7fe0e24b9ea9a90138d4a118e1a3">&#9670;&nbsp;</a></span>biblio_src</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;std::string&gt; Bibliography::biblio_src</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d6/dcb/txbib_8h_source.html#l00064">64</a> of file <a class="el" href="../../d6/dcb/txbib_8h_source.html">txbib.h</a>.</p>
+
+</div>
+</div>
 <a id="a730f9bb5011b2374047f510c830e11cf"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a730f9bb5011b2374047f510c830e11cf">&#9670;&nbsp;</a></span>citation_table</h2>
 
@@ -670,6 +803,54 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d6/dcb/txbib_8h_source.html#l00069">69</a> of file <a class="el" href="../../d6/dcb/txbib_8h_source.html">txbib.h</a>.</p>
+
+</div>
+</div>
+<a id="a33abf546b191718b0543c553edd33450"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33abf546b191718b0543c553edd33450">&#9670;&nbsp;</a></span>last_bid</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Bibliography::last_bid {-1}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d6/dcb/txbib_8h_source.html#l00067">67</a> of file <a class="el" href="../../d6/dcb/txbib_8h_source.html">txbib.h</a>.</p>
+
+</div>
+</div>
+<a id="a0751ea7e745bfd46f8f389b47b1fad56"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0751ea7e745bfd46f8f389b47b1fad56">&#9670;&nbsp;</a></span>nocite</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Bibliography::nocite {false}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d6/dcb/txbib_8h_source.html#l00065">65</a> of file <a class="el" href="../../d6/dcb/txbib_8h_source.html">txbib.h</a>.</p>
 
 </div>
 </div>

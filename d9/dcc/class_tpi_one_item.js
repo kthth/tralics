@@ -19,5 +19,9 @@ var class_tpi_one_item =
     [ "set_p1", "d9/dcc/class_tpi_one_item.html#acdfa2cb95d0c09eaff2b3ba27911ebce", null ],
     [ "set_p2", "d9/dcc/class_tpi_one_item.html#a4369d5b754bac8710956838039e40351", null ],
     [ "set_v", "d9/dcc/class_tpi_one_item.html#a7ffa683b12c98d311d5c987b13e69c27", null ],
-    [ "set_value", "d9/dcc/class_tpi_one_item.html#a27ff0a16e1b6d617c23708fead706517", null ]
+    [ "set_value", "d9/dcc/class_tpi_one_item.html#a27ff0a16e1b6d617c23708fead706517", null ],
+    [ "p1", "d9/dcc/class_tpi_one_item.html#a7b3801fa1ebd390d3b0ff279ed5c6e98", null ],
+    [ "p2", "d9/dcc/class_tpi_one_item.html#ae160a6d28889475811d05e064bb1c1c6", null ],
+    [ "v", "d9/dcc/class_tpi_one_item.html#a5b7ef96791d6027d4dc9c4855097b837", null ],
+    [ "value", "d9/dcc/class_tpi_one_item.html#a488ab9ea547fe7c4ef6e750ceb5588ed", null ]
 ];

@@ -54,5 +54,10 @@ var class_line_ptr =
     [ "skip_env", "d0/dbb/class_line_ptr.html#af2c144cced6dc109a673a6e12c49a843", null ],
     [ "splice_end", "d0/dbb/class_line_ptr.html#a5e07fc82e82b75f8dc429375bfd7c6e5", null ],
     [ "splice_first", "d0/dbb/class_line_ptr.html#aa0fb56b05eeaf1ab3c72ca6726815715", null ],
-    [ "split_string", "d0/dbb/class_line_ptr.html#a0244b937d146da798bb06ec8229667cb", null ]
+    [ "split_string", "d0/dbb/class_line_ptr.html#a0244b937d146da798bb06ec8229667cb", null ],
+    [ "cur_encoding", "d0/dbb/class_line_ptr.html#a8558db01717e999fbf816e6bb27ff9ff", null ],
+    [ "cur_line", "d0/dbb/class_line_ptr.html#aab559d7e811078403094cda43fe33855", null ],
+    [ "file_name", "d0/dbb/class_line_ptr.html#aeec9b266654c1ba05b856503bd5ae5ba", null ],
+    [ "interactive", "d0/dbb/class_line_ptr.html#a3b6e4a15215e61fd0233532c9436f67a", null ],
+    [ "value", "d0/dbb/class_line_ptr.html#ad6b510e831e813c03bc429cb768fea50", null ]
 ];

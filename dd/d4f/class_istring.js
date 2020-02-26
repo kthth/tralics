@@ -15,5 +15,6 @@ var class_istring =
     [ "operator!=", "dd/d4f/class_istring.html#a1ea304844c888a285138a12a25991abc", null ],
     [ "operator==", "dd/d4f/class_istring.html#a14a5723f1391ce15446aaa3f997cfa3b", null ],
     [ "p_str", "dd/d4f/class_istring.html#ad4dc306929f90ee239282deaa38a8a49", null ],
-    [ "spec_empty", "dd/d4f/class_istring.html#a3add9fc9e6929a3526e35aaca8f3c6e6", null ]
+    [ "spec_empty", "dd/d4f/class_istring.html#a3add9fc9e6929a3526e35aaca8f3c6e6", null ],
+    [ "value", "dd/d4f/class_istring.html#a403f6235590016d0905c4f310e2896ae", null ]
 ];

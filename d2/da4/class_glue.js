@@ -22,5 +22,10 @@ var class_glue =
     [ "set_shrink_order", "d2/da4/class_glue.html#ace0930949699d3a24f5e0a4c9127130c", null ],
     [ "set_stretch", "d2/da4/class_glue.html#a2cd0e4682893def748e0cbaaea85906d", null ],
     [ "set_stretch_order", "d2/da4/class_glue.html#ab55bd338a4e3877f031ab7d91c113283", null ],
-    [ "set_width", "d2/da4/class_glue.html#a902242c07dee2dd625ec53cadd376731", null ]
+    [ "set_width", "d2/da4/class_glue.html#a902242c07dee2dd625ec53cadd376731", null ],
+    [ "shrink", "d2/da4/class_glue.html#a50a863d43b5ae1c8323809917c356572", null ],
+    [ "shrink_order", "d2/da4/class_glue.html#abb217616d4c8534d5d3edbcd66aaa541", null ],
+    [ "stretch", "d2/da4/class_glue.html#aa20b8e8acc9ffec0c2ab06abc9f572fa", null ],
+    [ "stretch_order", "d2/da4/class_glue.html#a6d552bc2f384880bdcbacd6ae572f908", null ],
+    [ "width", "d2/da4/class_glue.html#a6e4638f11e1bc4d8b552f3e3cb98f8a4", null ]
 ];

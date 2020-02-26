@@ -103,6 +103,7 @@ var hierarchy =
     [ "SpecialHash", "d7/d99/class_special_hash.html", null ],
     [ "Splitter", "db/d95/class_splitter.html", null ],
     [ "Stack", "d0/d14/class_stack.html", null ],
+    [ "Stack::StackSlot", "d8/dc9/class_stack_1_1_stack_slot.html", null ],
     [ "Stats", "df/d1b/class_stats.html", null ],
     [ "SthInternal", "d2/db5/class_sth_internal.html", null ],
     [ "StrHash", "de/df7/class_str_hash.html", null ],

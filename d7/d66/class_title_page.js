@@ -14,5 +14,9 @@ var class_title_page =
     [ "parse", "d7/d66/class_title_page.html#a2eda627cfd08c453fb47f8588cbad305", null ],
     [ "start_thing", "d7/d66/class_title_page.html#af0580617e28fb2b048495dd099928d68", null ],
     [ "bigtable", "d7/d66/class_title_page.html#afe27c126a350427a1a2c983973ce4f2c", null ],
-    [ "state", "d7/d66/class_title_page.html#a3f5ad0dc1d7f768f14229a3d1d27896a", null ]
+    [ "Data", "d7/d66/class_title_page.html#a16843de5911db7d80fe01db8c52b56f6", null ],
+    [ "len2", "d7/d66/class_title_page.html#a5097d97109c6a2b5a2fa1a21286d2a69", null ],
+    [ "size", "d7/d66/class_title_page.html#a647794e1df1b2b824537c67d2243078f", null ],
+    [ "state", "d7/d66/class_title_page.html#a3f5ad0dc1d7f768f14229a3d1d27896a", null ],
+    [ "valid", "d7/d66/class_title_page.html#ac2fb73384291c205f3e47ba27fe80c15", null ]
 ];

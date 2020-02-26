@@ -9,5 +9,9 @@ var class_att_list_table =
     [ "push_back", "de/d13/class_att_list_table.html#a679c59abac63ef140b638d1be1d8034c", null ],
     [ "push_back", "de/d13/class_att_list_table.html#af482c37bd3823afec4a27eb0030f5107", null ],
     [ "push_back", "de/d13/class_att_list_table.html#ac49b932116e66c2538f4f5346c66526c", null ],
-    [ "resize", "de/d13/class_att_list_table.html#abba356e6db100bc7b0b1115d0a52f002", null ]
+    [ "resize", "de/d13/class_att_list_table.html#abba356e6db100bc7b0b1115d0a52f002", null ],
+    [ "len", "de/d13/class_att_list_table.html#a9f3cd655c127b9de00dbe9781046b931", null ],
+    [ "size", "de/d13/class_att_list_table.html#a1a4c2c42c3978788536b14e9f2eb1c0e", null ],
+    [ "table", "de/d13/class_att_list_table.html#a4e4298b1af1f04912c982b932a88ef1d", null ],
+    [ "xtable", "de/d13/class_att_list_table.html#a9d2f3dc9da90f1ccfece021e78055051", null ]
 ];

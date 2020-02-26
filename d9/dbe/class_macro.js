@@ -11,5 +11,9 @@ var class_macro =
     [ "operator[]", "d9/dbe/class_macro.html#aa090ca81668f326de92e83b240c49b94", null ],
     [ "set_delimiters", "d9/dbe/class_macro.html#a56a8a11c8368e5af69a4b7186ed37a67", null ],
     [ "set_nbargs", "d9/dbe/class_macro.html#a5d4a63c43f50a6010089fd8703f584a2", null ],
-    [ "set_type", "d9/dbe/class_macro.html#a5999203363b96a72885a5266af631300", null ]
+    [ "set_type", "d9/dbe/class_macro.html#a5999203363b96a72885a5266af631300", null ],
+    [ "body", "d9/dbe/class_macro.html#ac7e24f116832582e98f5a105aec1716c", null ],
+    [ "delimiters", "d9/dbe/class_macro.html#acd00579fc82827795288602eed502dff", null ],
+    [ "nbargs", "d9/dbe/class_macro.html#a7cc185d813e3519cabbc74bc81f13e2d", null ],
+    [ "type", "d9/dbe/class_macro.html#ac59d47c2cc5fab5df4f04b0206758a46", null ]
 ];

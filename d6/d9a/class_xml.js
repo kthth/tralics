@@ -99,5 +99,8 @@ var class_xml =
     [ "unbox", "d6/d9a/class_xml.html#a8992be5d1709bce2c23e70c00f9a8c56", null ],
     [ "value_at", "d6/d9a/class_xml.html#afb550e3d76521e8a221acfc6b80cb9df", null ],
     [ "word_stats", "d6/d9a/class_xml.html#aa2704082006b92b7493fa45fbb7cc384", null ],
-    [ "word_stats_i", "d6/d9a/class_xml.html#a071f114d817cfd872b00d996e7a44c2c", null ]
+    [ "word_stats_i", "d6/d9a/class_xml.html#a071f114d817cfd872b00d996e7a44c2c", null ],
+    [ "id", "d6/d9a/class_xml.html#a934efd4a85b94b5d75dcac0a92649e87", null ],
+    [ "name", "d6/d9a/class_xml.html#a4015a9928d973dd5702d5c0588c8d6d9", null ],
+    [ "tree", "d6/d9a/class_xml.html#abfebe9679fce692a91d717c574064a21", null ]
 ];

@@ -10,5 +10,8 @@ var class_clines =
     [ "set_chars", "da/dc9/class_clines.html#ae009cd03d5797a99049d4ca8a28dc89f", null ],
     [ "starts_with", "da/dc9/class_clines.html#a79681175beb0c8deb714843be0d2bdd5", null ],
     [ "to_buffer", "da/dc9/class_clines.html#a526e19958c174d2f30526ea90486ef23", null ],
-    [ "to_string", "da/dc9/class_clines.html#a6a962ca1bbe12d05e99b118d0e6f139f", null ]
+    [ "to_string", "da/dc9/class_clines.html#a6a962ca1bbe12d05e99b118d0e6f139f", null ],
+    [ "chars", "da/dc9/class_clines.html#a9040a64976543eb67e31c11b8f53938f", null ],
+    [ "converted", "da/dc9/class_clines.html#a497ce66d023576451b40edfa52759178", null ],
+    [ "number", "da/dc9/class_clines.html#a65fcf144e06278f5158bd6cfa6a90212", null ]
 ];

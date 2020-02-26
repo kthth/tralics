@@ -1,5 +1,6 @@
 var class_stack =
 [
+    [ "StackSlot", "d8/dc9/class_stack_1_1_stack_slot.html", "d8/dc9/class_stack_1_1_stack_slot" ],
     [ "Stack", "d0/d14/class_stack.html#a14cd1cba325bead4ff0a91bc6eb0f6f5", null ],
     [ "add_anchor", "d0/d14/class_stack.html#ae39378f9844cd33001c6e4ffc083ae22", null ],
     [ "add_att_to_cur", "d0/d14/class_stack.html#a421915c0915ffee034710383ffacf143", null ],
@@ -96,5 +97,14 @@ var class_stack =
     [ "xml2_space", "d0/d14/class_stack.html#a85c71dfc87cb448ddd4141369fc2c783", null ],
     [ "xml2_space", "d0/d14/class_stack.html#a4aa7160f6236cf52ae1bc3ab06ff6448", null ],
     [ "xml2_space", "d0/d14/class_stack.html#a6e3e06fdfbc30a657503c6e269037a08", null ],
-    [ "newline_xml", "d0/d14/class_stack.html#a33eab452fb7763d2dbff292a68eaba3a", null ]
+    [ "AI", "d0/d14/class_stack.html#afdf82942aca111e7774e762ac429642f", null ],
+    [ "attributes", "d0/d14/class_stack.html#ad36b6a992078b6a1b5a8bc661ebf7426", null ],
+    [ "cur_lid", "d0/d14/class_stack.html#a298df42acb79d8ff29f3e65df1bc4035", null ],
+    [ "cur_mode", "d0/d14/class_stack.html#abf4244c62ea159f7b08c6856553ccd4d", null ],
+    [ "enames", "d0/d14/class_stack.html#ac73731e7e1a1a5a10a4b67d0b7e5a0a1", null ],
+    [ "last_xid", "d0/d14/class_stack.html#acb51605ff1a85f654f1cfb6f3f56204d", null ],
+    [ "mybuffer", "d0/d14/class_stack.html#a5a68535b572c5b9695575af9381887cc", null ],
+    [ "newline_xml", "d0/d14/class_stack.html#a33eab452fb7763d2dbff292a68eaba3a", null ],
+    [ "Table", "d0/d14/class_stack.html#a069c9089bf1c73d709a198597f6bbb09", null ],
+    [ "xid_boot", "d0/d14/class_stack.html#a6d9842aedf15ee5cc3fa5a6ea4f74266", null ]
 ];

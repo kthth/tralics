@@ -4,8 +4,12 @@ var class_buffer =
     [ "add_with_space", "d5/d2a/class_buffer.html#abbe4cc20d223c3bf53255fb296a0067a", null ],
     [ "advance", "d5/d2a/class_buffer.html#a5f5b45dfc4ee4047d35dc00c78cd8a56", null ],
     [ "advance", "d5/d2a/class_buffer.html#a6d2a7dc33899d4d0ba47f1e159ac7738", null ],
+    [ "advance_letter_dig", "d5/d2a/class_buffer.html#a21c41a626b3838022d0ddc6733f717d1", null ],
+    [ "advance_letter_dig_dot", "d5/d2a/class_buffer.html#a06970c38f01f3ef4c7b3e5c0e5de6942", null ],
+    [ "advance_letter_dig_dot_slash", "d5/d2a/class_buffer.html#aee900edb66f09814dee34983645ddbc8", null ],
     [ "after_after_uhead", "d5/d2a/class_buffer.html#a9b871f9da06a9fff82441809c672ae9f", null ],
     [ "after_head", "d5/d2a/class_buffer.html#a303387a3ed89f2fb3f5ce6bcd7f765dc", null ],
+    [ "after_slash", "d5/d2a/class_buffer.html#a0fb5bfbe632cfe7fc9f97a125dbc5b71", null ],
     [ "after_uhead", "d5/d2a/class_buffer.html#a940f84e2d2e92a6daed3378786e6fb2b", null ],
     [ "alloc", "d5/d2a/class_buffer.html#a2982a0e85801b0118b60465f67f2d373", null ],
     [ "append_checked_line", "d5/d2a/class_buffer.html#a5171d02806ae6cf21eaf0d4eb5d3a762", null ],
@@ -199,6 +203,7 @@ var class_buffer =
     [ "push_back_unless_punct", "d5/d2a/class_buffer.html#a88bc7c21a88011638820100c168da87e", null ],
     [ "push_back_xml_char", "d5/d2a/class_buffer.html#ab513f98e000b70a6bcd48f623a442af5", null ],
     [ "put_at_end", "d5/d2a/class_buffer.html#aa1320c953d2e759c4b6408299243df6d", null ],
+    [ "realloc", "d5/d2a/class_buffer.html#ab8a92034b7c589238d65470cc75cbdc8", null ],
     [ "remove_digits", "d5/d2a/class_buffer.html#a498fa410b3e2fb9cc2d887f759f9fb9f", null ],
     [ "remove_last", "d5/d2a/class_buffer.html#a2c5567912bb9ae7654f599c3476c5969", null ],
     [ "remove_last_comma", "d5/d2a/class_buffer.html#af0062532cdc8e384e6ac722b8f099b6f", null ],
@@ -265,5 +270,8 @@ var class_buffer =
     [ "utf8_error", "d5/d2a/class_buffer.html#a87765bb3ec9a55fabb9c0478a7021394", null ],
     [ "utf8_ovf", "d5/d2a/class_buffer.html#a8ec5753acbc2fa385fdc77d1fe22007c", null ],
     [ "without_end_spaces", "d5/d2a/class_buffer.html#aace21e215fe1e42399563a753ed4d224", null ],
-    [ "xml_and_attrib", "d5/d2a/class_buffer.html#aa11b7d745c4fa0d569752e2b2cf9ecb3", null ]
+    [ "xml_and_attrib", "d5/d2a/class_buffer.html#aa11b7d745c4fa0d569752e2b2cf9ecb3", null ],
+    [ "ptr", "d5/d2a/class_buffer.html#ad4e62dc552906568b81971d49c0d9dd9", null ],
+    [ "ptr1", "d5/d2a/class_buffer.html#adba609ee3a95cf733ab98c86a38e5eca", null ],
+    [ "wptr", "d5/d2a/class_buffer.html#aab9cc64532a5d5e3fc59cf38af8e3721", null ]
 ];

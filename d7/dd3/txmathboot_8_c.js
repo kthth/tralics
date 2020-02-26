@@ -7,8 +7,6 @@ var txmathboot_8_c =
     [ "mk_cmd", "d7/dd3/txmathboot_8_c.html#ad531b457b42418ba92c7381d4e25338c", null ],
     [ "mk_space", "d7/dd3/txmathboot_8_c.html#a45668825abd39c54849746900d1db9c4", null ],
     [ "set_math_char", "d7/dd3/txmathboot_8_c.html#acf869ab9e87717cf44e9e20adf5bc419", null ],
-    [ "bad_minus", "d7/dd3/txmathboot_8_c.html#af8d4f699dff2942ba82cc1630cc95f07", null ],
-    [ "compatibility", "d7/dd3/txmathboot_8_c.html#aca380c0d0dc934d00a499f8184de7286", null ],
     [ "math_chars", "d7/dd3/txmathboot_8_c.html#a66e6b958a9076c195768113af96988f4", null ],
     [ "math_data", "d7/dd3/txmathboot_8_c.html#a67b3dab46e14d856fe1c7614a0924de0", null ],
     [ "single_chars", "d7/dd3/txmathboot_8_c.html#ad40c6396497324ffd97010e7f099ffa1", null ]

@@ -13,5 +13,10 @@ var class_xml_action =
     [ "mark_found", "df/df6/class_xml_action.html#a6d819b06d602334dda9738a28be26a2f", null ],
     [ "set_int_val", "df/df6/class_xml_action.html#adb82a907b2869da0c0a2bb11df8895bb", null ],
     [ "set_string_val", "df/df6/class_xml_action.html#ab998d61ddcd7fed299429b3de716bc2a", null ],
-    [ "set_xml_val", "df/df6/class_xml_action.html#aadfe938574834d8da90d5536095a916b", null ]
+    [ "set_xml_val", "df/df6/class_xml_action.html#aadfe938574834d8da90d5536095a916b", null ],
+    [ "int_val", "df/df6/class_xml_action.html#a250deb914fe9c197a61cf1a4950229ee", null ],
+    [ "match", "df/df6/class_xml_action.html#a6f7f5039fd771d816da2f83421aabb79", null ],
+    [ "string_val", "df/df6/class_xml_action.html#ac51e3bbb847757c2a594f1de058bc4cd", null ],
+    [ "what", "df/df6/class_xml_action.html#a92f2edad70538b7ad220a4e22baa573f", null ],
+    [ "xml_val", "df/df6/class_xml_action.html#a2b3438612060674541d40d2193f42725", null ]
 ];

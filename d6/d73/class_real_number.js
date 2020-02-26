@@ -11,5 +11,8 @@ var class_real_number =
     [ "set_fpart", "d6/d73/class_real_number.html#a132838d1f0c1845662dc86c511d58784", null ],
     [ "set_ipart", "d6/d73/class_real_number.html#a988af57ada3150ebe199b0f2aeb6d864", null ],
     [ "set_neg", "d6/d73/class_real_number.html#af89887356b2c71f24ad4898fb4a789b4", null ],
-    [ "set_negative", "d6/d73/class_real_number.html#abbc43765e6e58b5968e7df62ad265d91", null ]
+    [ "set_negative", "d6/d73/class_real_number.html#abbc43765e6e58b5968e7df62ad265d91", null ],
+    [ "fpart", "d6/d73/class_real_number.html#a351725aa43985892490ba9dec871f364", null ],
+    [ "ipart", "d6/d73/class_real_number.html#a73bd4ce92b76a5b0eda1ff59c164255c", null ],
+    [ "negative", "d6/d73/class_real_number.html#aa746ef1e86b66656e2c827eb8598daa4", null ]
 ];

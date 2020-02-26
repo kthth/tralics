@@ -16,5 +16,10 @@ var class_bbl =
     [ "reset", "d2/d56/class_bbl.html#ad93be3ba1f14bc1f1f22cb142897c6d2", null ],
     [ "reset_lines", "d2/d56/class_bbl.html#ab570d902a7e6d0131378a8f2c89049ad", null ],
     [ "BblAndTty", "d2/d56/class_bbl.html#ab92ecb50b0eb79e13d1fcc6874b98bf4", null ],
-    [ "BibEntry", "d2/d56/class_bbl.html#a6fbf5a9a30039622c415b67dae42489d", null ]
+    [ "BibEntry", "d2/d56/class_bbl.html#a6fbf5a9a30039622c415b67dae42489d", null ],
+    [ "B", "d2/d56/class_bbl.html#a595b63d417fe65c1f3a5163cc28305bb", null ],
+    [ "file", "d2/d56/class_bbl.html#a38f61bcb7d3950380551bc84859373a1", null ],
+    [ "name", "d2/d56/class_bbl.html#a25d3fcb8ea6397633d1c97577a262982", null ],
+    [ "ptr", "d2/d56/class_bbl.html#a948cbbcbb533f4ab4e062b1490986947", null ],
+    [ "too_late", "d2/d56/class_bbl.html#a39aa25d2ac3375a02af3c07eccaf854e", null ]
 ];

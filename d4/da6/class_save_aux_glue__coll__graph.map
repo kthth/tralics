@@ -1,4 +1,6 @@
 <map id="SaveAuxGlue" name="SaveAuxGlue">
-<area shape="rect" id="node1" title=" " alt="" coords="5,79,108,104"/>
-<area shape="rect" id="node2" href="$da/df8/class_save_aux.html" title=" " alt="" coords="19,5,94,31"/>
+<area shape="rect" id="node1" title=" " alt="" coords="13,205,115,231"/>
+<area shape="rect" id="node2" href="$da/df8/class_save_aux.html" title=" " alt="" coords="5,119,80,144"/>
+<area shape="rect" id="node3" href="$d2/da4/class_glue.html" title=" " alt="" coords="105,119,154,144"/>
+<area shape="rect" id="node4" href="$de/d34/class_scaled_int.html" title=" " alt="" coords="91,5,168,31"/>
 </map>

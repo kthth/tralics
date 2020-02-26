@@ -69,6 +69,7 @@ $(document).ready(function(){initNavTree('de/df7/class_str_hash.html','../../');
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../df/dc5/class_str_hash-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">StrHash Class Reference</div>  </div>
@@ -116,6 +117,25 @@ Static Public Member Functions</h2></td></tr>
 <tr class="separator:ae255907828c5aad3a633b750866f6346"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3289afd795693c250a78b21acc0cf7e0"><td class="memItemLeft" align="right" valign="top">static auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a3289afd795693c250a78b21acc0cf7e0">st_bool</a> (bool x) -&gt; <a class="el" href="../../d0/d0b/enums_8h.html#a89072ae6f4333d1933b13d5270758405">name_positions</a></td></tr>
 <tr class="separator:a3289afd795693c250a78b21acc0cf7e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ad911e8c99eda90975ca045e3667d2a58"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#ad911e8c99eda90975ca045e3667d2a58">Text</a></td></tr>
+<tr class="separator:ad911e8c99eda90975ca045e3667d2a58"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a089b6fe9cec7022578813bd2acc05f3e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a089b6fe9cec7022578813bd2acc05f3e">Value</a></td></tr>
+<tr class="separator:a089b6fe9cec7022578813bd2acc05f3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a001e876be02dd019500d62fc87753594"><td class="memItemLeft" align="right" valign="top">int *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a001e876be02dd019500d62fc87753594">Next</a></td></tr>
+<tr class="separator:a001e876be02dd019500d62fc87753594"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af964801c1a59526440e1b5de545717c8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/df1/class_label_info.html">LabelInfo</a> **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#af964801c1a59526440e1b5de545717c8">Labinfo</a></td></tr>
+<tr class="separator:af964801c1a59526440e1b5de545717c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32596a2f59c0e230dc137cc5543128d7"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a32596a2f59c0e230dc137cc5543128d7">hash_len</a></td></tr>
+<tr class="separator:a32596a2f59c0e230dc137cc5543128d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f3332b70cfd84e5c95476b02cfc50d3"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a0f3332b70cfd84e5c95476b02cfc50d3">hash_used</a></td></tr>
+<tr class="separator:a0f3332b70cfd84e5c95476b02cfc50d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66256edc8fb761a8acb9049ee5a87d80"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a66256edc8fb761a8acb9049ee5a87d80">hash_last</a></td></tr>
+<tr class="separator:a66256edc8fb761a8acb9049ee5a87d80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab21931567b88ea3c5300b5519dbcc461"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#ab21931567b88ea3c5300b5519dbcc461">mybuf</a></td></tr>
+<tr class="separator:ab21931567b88ea3c5300b5519dbcc461"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
@@ -427,7 +447,7 @@ Static Public Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../db/d96/txmath_8_c_source.html#l01835">1835</a> of file <a class="el" href="../../db/d96/txmath_8_c_source.html">txmath.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../db/d96/txmath_8_c_source.html#l01834">1834</a> of file <a class="el" href="../../db/d96/txmath_8_c_source.html">txmath.C</a>.</p>
 
 </div>
 </div>
@@ -511,6 +531,199 @@ Static Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00053">53</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a66256edc8fb761a8acb9049ee5a87d80"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a66256edc8fb761a8acb9049ee5a87d80">&#9670;&nbsp;</a></span>hash_last</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int StrHash::hash_last</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00033">33</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+
+</div>
+</div>
+<a id="a32596a2f59c0e230dc137cc5543128d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32596a2f59c0e230dc137cc5543128d7">&#9670;&nbsp;</a></span>hash_len</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int StrHash::hash_len</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00031">31</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+
+</div>
+</div>
+<a id="a0f3332b70cfd84e5c95476b02cfc50d3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f3332b70cfd84e5c95476b02cfc50d3">&#9670;&nbsp;</a></span>hash_used</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int StrHash::hash_used</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00032">32</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+
+</div>
+</div>
+<a id="af964801c1a59526440e1b5de545717c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af964801c1a59526440e1b5de545717c8">&#9670;&nbsp;</a></span>Labinfo</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/df1/class_label_info.html">LabelInfo</a>** StrHash::Labinfo</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00030">30</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+
+</div>
+</div>
+<a id="ab21931567b88ea3c5300b5519dbcc461"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab21931567b88ea3c5300b5519dbcc461">&#9670;&nbsp;</a></span>mybuf</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> StrHash::mybuf</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00034">34</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+
+</div>
+</div>
+<a id="a001e876be02dd019500d62fc87753594"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a001e876be02dd019500d62fc87753594">&#9670;&nbsp;</a></span>Next</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int* StrHash::Next</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00029">29</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+
+</div>
+</div>
+<a id="ad911e8c99eda90975ca045e3667d2a58"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad911e8c99eda90975ca045e3667d2a58">&#9670;&nbsp;</a></span>Text</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>* StrHash::Text</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00027">27</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+
+</div>
+</div>
+<a id="a089b6fe9cec7022578813bd2acc05f3e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a089b6fe9cec7022578813bd2acc05f3e">&#9670;&nbsp;</a></span>Value</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>* StrHash::Value</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00028">28</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
 
 </div>
 </div>

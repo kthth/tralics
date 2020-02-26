@@ -8,5 +8,11 @@ var class_array_info =
     [ "get_size", "d8/dc7/class_array_info.html#aedf6186a5f04ca6abf437e67fd998689", null ],
     [ "get_u_or_v", "d8/dc7/class_array_info.html#a408c7581c876c471c78dfac285066200", null ],
     [ "its_me", "d8/dc7/class_array_info.html#ad3bb645627866cc29657b0230e2f542a", null ],
-    [ "set_cell_no", "d8/dc7/class_array_info.html#abf862698df8ebe078d15f9438e336022", null ]
+    [ "set_cell_no", "d8/dc7/class_array_info.html#abf862698df8ebe078d15f9438e336022", null ],
+    [ "attribs", "d8/dc7/class_array_info.html#a8c199e1c409f6191ab07480579963a38", null ],
+    [ "cell_no", "d8/dc7/class_array_info.html#aef7f0b0afe18f974e521a149cfab738e", null ],
+    [ "id", "d8/dc7/class_array_info.html#a80a294a0d238395ec23129a1cac9c2c4", null ],
+    [ "size", "d8/dc7/class_array_info.html#a9676d5487a4ee2ff5a9fcff97b379a0f", null ],
+    [ "u_table", "d8/dc7/class_array_info.html#a95bb7a2d57c27cdd32a4cec1b3c09164", null ],
+    [ "v_table", "d8/dc7/class_array_info.html#aec27e8d0428bf0eefec6dc946bd34787", null ]
 ];

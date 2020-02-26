@@ -15,5 +15,9 @@ var class_key_and_val =
     [ "mark_used", "d9/de8/class_key_and_val.html#a07981d6f5d163b0db6d64d076be4afb0", null ],
     [ "to_list", "d9/de8/class_key_and_val.html#af9aaea87bd97ea7ae213f7a9920bc5e2", null ],
     [ "use", "d9/de8/class_key_and_val.html#acc3e7428b9e362142af35d67ee78c371", null ],
-    [ "use_and_kill", "d9/de8/class_key_and_val.html#a65c941498c546e1ef711ea03592fb4c7", null ]
+    [ "use_and_kill", "d9/de8/class_key_and_val.html#a65c941498c546e1ef711ea03592fb4c7", null ],
+    [ "full_name", "d9/de8/class_key_and_val.html#ad8634658e8d27e230d22ebc37a7bac6d", null ],
+    [ "name", "d9/de8/class_key_and_val.html#a3383ed0cc5c3335690ce0a562e4c6fc3", null ],
+    [ "used", "d9/de8/class_key_and_val.html#a4164fe707ae3739857b72d78ebc3d14f", null ],
+    [ "val", "d9/de8/class_key_and_val.html#a4c026b58875487e9a6b58fc466c94756", null ]
 ];

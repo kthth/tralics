@@ -1,11 +1,13 @@
 <map id="HalfLogger" name="HalfLogger">
-<area shape="rect" id="node1" title=" " alt="" coords="102,592,189,617"/>
-<area shape="rect" id="node2" href="$d3/d42/class_logger.html" title=" " alt="" coords="114,505,177,531"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="100,419,191,444"/>
+<area shape="rect" id="node1" title=" " alt="" coords="184,592,270,617"/>
+<area shape="rect" id="node2" href="$d3/d42/class_logger.html" title=" " alt="" coords="196,505,258,531"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="127,419,218,444"/>
 <area shape="rect" id="node4" title="STL class." alt="" coords="81,331,210,369"/>
 <area shape="rect" id="node5" title="STL class." alt="" coords="78,243,214,281"/>
 <area shape="rect" id="node6" title="STL class." alt="" coords="5,155,134,193"/>
 <area shape="rect" id="node7" title="STL class." alt="" coords="69,80,223,105"/>
 <area shape="rect" id="node9" title="STL class." alt="" coords="158,155,291,193"/>
 <area shape="rect" id="node8" title="STL class." alt="" coords="96,5,196,31"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="253,419,332,444"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="235,331,360,369"/>
 </map>

@@ -21,7 +21,7 @@
 <!-- Node0 -->
 <g id="node2" class="node">
 <title>Node0</title>
-<g id="a_node2"><a xlink:href="d5/d2a/class_buffer.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="d5/d2a/class_buffer.html" target="_top" xlink:title="a big structure">
 <polygon fill="white" stroke="black" points="128.15,-37.5 128.15,-55.5 170.66,-55.5 170.66,-37.5 128.15,-37.5"/>
 <text text-anchor="middle" x="149.41" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00">Buffer</text>
 </a>

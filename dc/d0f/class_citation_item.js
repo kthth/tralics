@@ -9,5 +9,9 @@ var class_citation_item =
     [ "match", "dc/d0f/class_citation_item.html#ab33846f9dc862530a3f154ef89b04e9f", null ],
     [ "match_star", "dc/d0f/class_citation_item.html#afc5b08a9ae41eb6fca4d0859138b5bc6", null ],
     [ "set_id", "dc/d0f/class_citation_item.html#a678aabae0485d33e0520114772917395", null ],
-    [ "set_solved", "dc/d0f/class_citation_item.html#ae91703d469ec034fe7ba22d4f260ed00", null ]
+    [ "set_solved", "dc/d0f/class_citation_item.html#ae91703d469ec034fe7ba22d4f260ed00", null ],
+    [ "bid", "dc/d0f/class_citation_item.html#a8109667b9c335b05b7a3db8363ce93a4", null ],
+    [ "from", "dc/d0f/class_citation_item.html#aa4f03243352b514730a2ddd780892ed3", null ],
+    [ "key", "dc/d0f/class_citation_item.html#aad600f93f9f6f5579a9f709d72c90599", null ],
+    [ "solved", "dc/d0f/class_citation_item.html#ab4f95cd89598e0e18434ffbff7ebdeda", null ]
 ];

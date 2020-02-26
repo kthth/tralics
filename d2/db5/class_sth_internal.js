@@ -46,5 +46,9 @@ var class_sth_internal =
     [ "set_mu", "d2/db5/class_sth_internal.html#a844c2df8cd99308ec5339c2a46b33224", null ],
     [ "set_scaled_val", "d2/db5/class_sth_internal.html#a3e2acd9bb9e15b8efbf0c68f1ff1639a", null ],
     [ "set_toks", "d2/db5/class_sth_internal.html#a35c21d9a9c7687ba561a035e9d7600d4", null ],
-    [ "set_type", "d2/db5/class_sth_internal.html#a4db9def4d878e8129c39002fd7a6d632", null ]
+    [ "set_type", "d2/db5/class_sth_internal.html#a4db9def4d878e8129c39002fd7a6d632", null ],
+    [ "glue_val", "d2/db5/class_sth_internal.html#aab5e14b1b8be9da5eaa7b0f8509de639", null ],
+    [ "int_val", "d2/db5/class_sth_internal.html#a84253f60bcf49bc59599f7ae9b884557", null ],
+    [ "token_val", "d2/db5/class_sth_internal.html#ab72452888cf4a969c7de159009ced263", null ],
+    [ "type", "d2/db5/class_sth_internal.html#a067baebfc042b1ea3f5b3693a72b289f", null ]
 ];

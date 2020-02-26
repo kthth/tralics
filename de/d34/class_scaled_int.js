@@ -18,5 +18,6 @@ var class_scaled_int =
     [ "scale", "de/d34/class_scaled_int.html#a951934d77157694c27d436d164c6b46e", null ],
     [ "set_value", "de/d34/class_scaled_int.html#adb05c8011a014584476308cf9d3d8fbe", null ],
     [ "times_10_18", "de/d34/class_scaled_int.html#a397ae5b591461b6dbcf5197d5c6ed359", null ],
-    [ "times_18_10", "de/d34/class_scaled_int.html#a7c7701756fb4ee4c93bcfda661069373", null ]
+    [ "times_18_10", "de/d34/class_scaled_int.html#a7c7701756fb4ee4c93bcfda661069373", null ],
+    [ "value", "de/d34/class_scaled_int.html#a5beeccb0654b43845ab3ec781c7e7f67", null ]
 ];

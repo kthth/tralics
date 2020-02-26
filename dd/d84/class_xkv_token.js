@@ -12,5 +12,12 @@ var class_xkv_token =
     [ "key_empty", "dd/d84/class_xkv_token.html#a769cb4983f0f000add7a685a9c034a4e", null ],
     [ "prepare", "dd/d84/class_xkv_token.html#a52a55bb01ec1fdd75a5260a3ebb4325a", null ],
     [ "set_initial", "dd/d84/class_xkv_token.html#a435c8e9203dd2b6f8aad6f89904935a6", null ],
-    [ "val_empty", "dd/d84/class_xkv_token.html#af86af85d1192f0ab9653cad85a842b16", null ]
+    [ "val_empty", "dd/d84/class_xkv_token.html#af86af85d1192f0ab9653cad85a842b16", null ],
+    [ "action", "dd/d84/class_xkv_token.html#a35e6e8a9101e22f411e2afd0b470a2ba", null ],
+    [ "has_save", "dd/d84/class_xkv_token.html#a4482eab75cae346a595ed33977b7c43d", null ],
+    [ "has_val", "dd/d84/class_xkv_token.html#a22dbf69a13780c512026e2c9b747fdfd", null ],
+    [ "initial", "dd/d84/class_xkv_token.html#aa9cdd8875e21279ad95e45c6246ae835", null ],
+    [ "is_global", "dd/d84/class_xkv_token.html#a671f21c365474e5b55a744ad3c505692", null ],
+    [ "keyname", "dd/d84/class_xkv_token.html#add864cbfada8ae2fed7fe8a624d4ee6c", null ],
+    [ "value", "dd/d84/class_xkv_token.html#a1749107105c78aec81bfec26b8107e25", null ]
 ];

@@ -5,5 +5,7 @@ var class_math_p_aux =
     [ "get_pos", "d6/df8/class_math_p_aux.html#a8075bc63a494eec22377aae2ef27d01d", null ],
     [ "get_type", "d6/df8/class_math_p_aux.html#afbe434b2db39eec27000b0f579ed2456", null ],
     [ "is_small", "d6/df8/class_math_p_aux.html#a00f8043be2f63d78877a23357493c6ba", null ],
-    [ "print", "d6/df8/class_math_p_aux.html#a3dd0a4e941b6f77705a82fe99237c9ee", null ]
+    [ "print", "d6/df8/class_math_p_aux.html#a3dd0a4e941b6f77705a82fe99237c9ee", null ],
+    [ "pos", "d6/df8/class_math_p_aux.html#a8a1291e2c6b7bc538ff1092ef8179750", null ],
+    [ "type", "d6/df8/class_math_p_aux.html#a271816c0a006f67ca3ee9d6d68ea3ad1", null ]
 ];

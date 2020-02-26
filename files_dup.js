@@ -3,7 +3,7 @@ var files_dup =
     [ "tralics", "dir_59862cba00524bd398f0ca7f7ae6e06a.html", "dir_59862cba00524bd398f0ca7f7ae6e06a" ],
     [ "globals.C", "d2/dbb/globals_8_c.html", "d2/dbb/globals_8_c" ],
     [ "Istring.C", "d4/dbc/_istring_8_c.html", null ],
-    [ "MainClass.C", "de/dae/_main_class_8_c.html", "de/dae/_main_class_8_c" ],
+    [ "MainClass.C", "de/dae/_main_class_8_c.html", null ],
     [ "readline.C", "d9/db0/readline_8_c.html", "d9/db0/readline_8_c" ],
     [ "tralics.C", "dc/d29/tralics_8_c.html", "dc/d29/tralics_8_c" ],
     [ "txaccent.C", "d5/d10/txaccent_8_c.html", "d5/d10/txaccent_8_c" ],
@@ -131,7 +131,8 @@ var files_dup =
     [ "txstack.C", "d3/df2/txstack_8_c.html", "d3/df2/txstack_8_c" ],
     [ "txstack.h", "dc/d65/txstack_8h.html", [
       [ "ArrayInfo", "d8/dc7/class_array_info.html", "d8/dc7/class_array_info" ],
-      [ "Stack", "d0/d14/class_stack.html", "d0/d14/class_stack" ]
+      [ "Stack", "d0/d14/class_stack.html", "d0/d14/class_stack" ],
+      [ "StackSlot", "d8/dc9/class_stack_1_1_stack_slot.html", "d8/dc9/class_stack_1_1_stack_slot" ]
     ] ],
     [ "txstats.h", "d8/d3d/txstats_8h.html", [
       [ "Stats", "df/d1b/class_stats.html", "df/d1b/class_stats" ]

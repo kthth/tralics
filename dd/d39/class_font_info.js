@@ -29,5 +29,16 @@ var class_font_info =
     [ "size_change", "dd/d39/class_font_info.html#a141f48769d1e61ba5d36e7a723d3b1b9", null ],
     [ "size_name", "dd/d39/class_font_info.html#aca6e1313c653dec6e7b773a1e5536cea", null ],
     [ "unpack", "dd/d39/class_font_info.html#a19a4ed803315bcd54abf47ce527d3d31", null ],
-    [ "update_old", "dd/d39/class_font_info.html#a4321f6feb804206ace738cf0bbab267e", null ]
+    [ "update_old", "dd/d39/class_font_info.html#a4321f6feb804206ace738cf0bbab267e", null ],
+    [ "color", "dd/d39/class_font_info.html#a6f2ff779c77c278c7b9b39f1d64aca23", null ],
+    [ "family", "dd/d39/class_font_info.html#a5859b0fa99b0f51c7253e877226fcb09", null ],
+    [ "level", "dd/d39/class_font_info.html#a4eea4a40a3836b57b9aa84035e9afd07", null ],
+    [ "old", "dd/d39/class_font_info.html#aa4e2d702f5c1f3495f5b37956aa068a7", null ],
+    [ "old_color", "dd/d39/class_font_info.html#acfc622679e9573c4e3023a95db5f9980", null ],
+    [ "packed", "dd/d39/class_font_info.html#ab021336d30ce834999e36aef9bd57943", null ],
+    [ "series", "dd/d39/class_font_info.html#af05f95564e3b78b06d617ee65616c1e3", null ],
+    [ "shape", "dd/d39/class_font_info.html#a0a99fd69263d56c101447714122217ae", null ],
+    [ "size", "dd/d39/class_font_info.html#afdec5edcff1f1338071dd218487ad626", null ],
+    [ "stackval", "dd/d39/class_font_info.html#a3d9accdddf9819fef42fd40b31bf4e00", null ],
+    [ "tsize", "dd/d39/class_font_info.html#abe3e63634aae6758a3f0a00ab35fbab7", null ]
 ];

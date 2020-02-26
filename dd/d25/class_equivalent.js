@@ -12,5 +12,7 @@ var class_equivalent =
     [ "reset", "dd/d25/class_equivalent.html#aff3ba992f0c8863627a45598a9d0fdc3", null ],
     [ "set", "dd/d25/class_equivalent.html#a1f5d2541948344e3794f89455adf4b97", null ],
     [ "setnl", "dd/d25/class_equivalent.html#a02de4bb4e5f6fc7903bb37cea566ea59", null ],
-    [ "special_prim", "dd/d25/class_equivalent.html#a255ca742a86be9738fde147395babf11", null ]
+    [ "special_prim", "dd/d25/class_equivalent.html#a255ca742a86be9738fde147395babf11", null ],
+    [ "level", "dd/d25/class_equivalent.html#acf73ce218d5915957f57148f270ce7b0", null ],
+    [ "value", "dd/d25/class_equivalent.html#a5080145f334751e82ffaa050bce11958", null ]
 ];

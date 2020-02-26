@@ -7,5 +7,6 @@ var class_fp_stack =
     [ "push_front", "d2/d47/class_fp_stack.html#a8c9897aa61f2e04001a9c0d8795a78df", null ],
     [ "push_front", "d2/d47/class_fp_stack.html#ad3169d500b5b652d5cb9f2bde2654553", null ],
     [ "push_upn", "d2/d47/class_fp_stack.html#a057ee68fd1c9ffe3fd96253ccd7f5b93", null ],
-    [ "push_upn", "d2/d47/class_fp_stack.html#a3de9c8a9b744b03308f1b3dc1b5b17a0", null ]
+    [ "push_upn", "d2/d47/class_fp_stack.html#a3de9c8a9b744b03308f1b3dc1b5b17a0", null ],
+    [ "value", "d2/d47/class_fp_stack.html#aa5599bd874eff8f47da3461e2956a499", null ]
 ];

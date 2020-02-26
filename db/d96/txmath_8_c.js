@@ -11,6 +11,5 @@ var txmath_8_c =
     [ "operator<<", "db/d96/txmath_8_c.html#a4afc2db6417eca8ecebb196ce0658fc1", null ],
     [ "operator<<", "db/d96/txmath_8_c.html#a2828e94640bdd4b4e36ad279a4e2551e", null ],
     [ "remove_from_trace", "db/d96/txmath_8_c.html#ad14574069572d49f36d61de657d6c25f", null ],
-    [ "math_data", "db/d96/txmath_8_c.html#a67b3dab46e14d856fe1c7614a0924de0", null ],
-    [ "only_input_data", "db/d96/txmath_8_c.html#a11d564ee82c43bffe70acd5cb4224872", null ]
+    [ "math_data", "db/d96/txmath_8_c.html#a67b3dab46e14d856fe1c7614a0924de0", null ]
 ];

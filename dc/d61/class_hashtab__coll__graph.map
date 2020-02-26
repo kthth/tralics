@@ -1,8 +1,14 @@
 <map id="Hashtab" name="Hashtab">
-<area shape="rect" id="node1" title=" " alt="" coords="517,211,588,237"/>
-<area shape="rect" id="node2" title=" " alt="" coords="195,187,352,213"/>
-<area shape="rect" id="node3" href="$d9/d27/struct_token.html" title=" " alt="" coords="19,187,76,213"/>
-<area shape="rect" id="node4" title=" " alt="" coords="198,237,349,262"/>
-<area shape="rect" id="node5" title=" " alt="" coords="196,286,351,325"/>
-<area shape="rect" id="node6" href="$dd/d25/class_equivalent.html" title=" " alt="" coords="5,293,89,318"/>
+<area shape="rect" id="node1" title=" " alt="" coords="742,317,813,342"/>
+<area shape="rect" id="node2" title=" " alt="" coords="420,211,577,237"/>
+<area shape="rect" id="node3" href="$d9/d27/struct_token.html" title=" " alt="" coords="220,211,276,237"/>
+<area shape="rect" id="node6" title=" " alt="" coords="423,261,573,286"/>
+<area shape="rect" id="node4" title=" " alt="" coords="435,310,562,349"/>
+<area shape="rect" id="node5" title=" " alt="" coords="429,373,568,411"/>
+<area shape="rect" id="node7" title=" " alt="" coords="421,435,576,474"/>
+<area shape="rect" id="node8" href="$dd/d25/class_equivalent.html" title=" " alt="" coords="206,442,290,467"/>
+<area shape="rect" id="node9" href="$de/d72/class_cmd_chr.html" title=" " alt="" coords="5,442,76,467"/>
+<area shape="rect" id="node10" href="$d5/d2a/class_buffer.html" title="a big structure" alt="" coords="470,498,527,523"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="182,498,314,523"/>
+<area shape="rect" id="node12" title=" " alt="" coords="21,498,60,523"/>
 </map>

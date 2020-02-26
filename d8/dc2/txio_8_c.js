@@ -1,6 +1,5 @@
 var txio_8_c =
 [
-    [ "check_for_encoding", "d8/dc2/txio_8_c.html#a98b52a852b9de28910d4cf0046460544", null ],
     [ "find_encoding", "d8/dc2/txio_8_c.html#a60d4c4b3d316e2f234ab889687529442", null ],
     [ "get_enc_param", "d8/dc2/txio_8_c.html#a5d52c5909c4ff8dea8d951b494bcabdb", null ],
     [ "how_many_bytes", "d8/dc2/txio_8_c.html#a393dbdf90fa011f05ec3222d28aa2b72", null ],
@@ -25,6 +24,5 @@ var txio_8_c =
     [ "print_ascii", "d8/dc2/txio_8_c.html#a47c917c6e4c160c499fcb6f85dceffef", null ],
     [ "register_file", "d8/dc2/txio_8_c.html#a6997441d603834452ebd3a163808c45b", null ],
     [ "set_enc_param", "d8/dc2/txio_8_c.html#a3d8f0c936d777e2b7a71b4dc3cb97836", null ],
-    [ "show_encoding", "d8/dc2/txio_8_c.html#a6104a22170d0ff5ab30b9bdd106a38bd", null ],
     [ "use_pool", "d8/dc2/txio_8_c.html#ad018518934231f53a4a72b0008e39a77", null ]
 ];

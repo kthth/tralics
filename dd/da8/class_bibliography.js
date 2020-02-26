@@ -20,5 +20,12 @@ var class_bibliography =
     [ "set_style", "dd/da8/class_bibliography.html#ad8187bc226b1bbf3e914aeca27f535f3", null ],
     [ "stats", "dd/da8/class_bibliography.html#a5d3edb13c0bc4cf8ec5fe444976aceda", null ],
     [ "unique_bid", "dd/da8/class_bibliography.html#a47b0ff6292d9ab29d4b4175dd3bfade7", null ],
-    [ "citation_table", "dd/da8/class_bibliography.html#a730f9bb5011b2374047f510c830e11cf", null ]
+    [ "bib_cmd", "dd/da8/class_bibliography.html#a9a855582ae258893e69efe4d82a5cd57", null ],
+    [ "bib_style", "dd/da8/class_bibliography.html#ac519d5071426879d3a8fc26dc22dbd13", null ],
+    [ "biblio_loc", "dd/da8/class_bibliography.html#ac589252a20c6d698829988f3db0c51fb", null ],
+    [ "biblio_loc_force", "dd/da8/class_bibliography.html#a6a15ba2976c435b3fb215af852b04b1e", null ],
+    [ "biblio_src", "dd/da8/class_bibliography.html#ad28c7fe0e24b9ea9a90138d4a118e1a3", null ],
+    [ "citation_table", "dd/da8/class_bibliography.html#a730f9bb5011b2374047f510c830e11cf", null ],
+    [ "last_bid", "dd/da8/class_bibliography.html#a33abf546b191718b0543c553edd33450", null ],
+    [ "nocite", "dd/da8/class_bibliography.html#a0751ea7e745bfd46f8f389b47b1fad56", null ]
 ];

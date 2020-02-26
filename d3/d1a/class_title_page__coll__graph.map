@@ -1,5 +1,11 @@
 <map id="TitlePage" name="TitlePage">
-<area shape="rect" id="node1" title=" " alt="" coords="59,179,136,204"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,92,190,117"/>
-<area shape="rect" id="node3" href="$d7/d65/class_title_page_aux.html" title=" " alt="" coords="47,5,148,31"/>
+<area shape="rect" id="node1" title=" " alt="" coords="103,393,180,419"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,307,190,332"/>
+<area shape="rect" id="node3" href="$d7/d65/class_title_page_aux.html" title=" " alt="" coords="47,220,148,245"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="58,93,137,119"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="35,5,160,44"/>
+<area shape="rect" id="node6" href="$d6/d9a/class_xml.html" title=" " alt="" coords="219,307,264,332"/>
+<area shape="rect" id="node7" title=" " alt="" coords="210,393,348,419"/>
+<area shape="rect" id="node8" href="$dd/d4f/class_istring.html" title=" " alt="" coords="191,220,249,245"/>
+<area shape="rect" id="node9" href="$de/d3f/class_xid.html" title=" " alt="" coords="273,220,314,245"/>
 </map>

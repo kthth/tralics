@@ -32,5 +32,12 @@ var class_title_page_aux =
     [ "set_T1", "d7/d65/class_title_page_aux.html#a81661c8e2f304cafa547fb2208cf6a80", null ],
     [ "set_T2", "d7/d65/class_title_page_aux.html#abf319e9e790d8552efaac937ae8351a0", null ],
     [ "set_T3", "d7/d65/class_title_page_aux.html#afce33c856d41f3810010111ac82d3c15", null ],
-    [ "set_T4", "d7/d65/class_title_page_aux.html#afba106f8843a1d9d398959b4ab1eafa3", null ]
+    [ "set_T4", "d7/d65/class_title_page_aux.html#afba106f8843a1d9d398959b4ab1eafa3", null ],
+    [ "idx", "d7/d65/class_title_page_aux.html#a0d0b557b146bea9d8a2b253969443118", null ],
+    [ "T1", "d7/d65/class_title_page_aux.html#a5ab551bb79f6116e19007b100647a160", null ],
+    [ "T2", "d7/d65/class_title_page_aux.html#a14c5e3bb57dc3b263957c55477454c0d", null ],
+    [ "T3", "d7/d65/class_title_page_aux.html#acf34c0e89faa6c45af4a4b6e0ceb5a89", null ],
+    [ "T4", "d7/d65/class_title_page_aux.html#ac0661fe7e9f85e9e9fcc4941efe7bfee", null ],
+    [ "type", "d7/d65/class_title_page_aux.html#a176ec2430d3dec10619946a7db0c8973", null ],
+    [ "xflags", "d7/d65/class_title_page_aux.html#acdfd4f6f31af88f664997abb5e6d92f6", null ]
 ];

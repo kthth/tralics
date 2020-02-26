@@ -68,6 +68,7 @@ $(document).ready(function(){initNavTree('de/d4d/class_slined.html','../../'); i
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../db/d35/class_slined-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">Slined Class Reference</div>  </div>
@@ -150,6 +151,49 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a84fa78d7b4de65157f875cf4d08a2aa2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a616f80ee24b8695d21981888c076ad0c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a616f80ee24b8695d21981888c076ad0c">run</a> ()</td></tr>
 <tr class="separator:a616f80ee24b8695d21981888c076ad0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a46712b322199570faf175806bcd8ccf7"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a46712b322199570faf175806bcd8ccf7">m_inbuf</a> {nullptr}</td></tr>
+<tr class="separator:a46712b322199570faf175806bcd8ccf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8fd5173ce20affd32f44448f715ea44"><td class="memItemLeft" align="right" valign="top">std::array&lt; char, <a class="el" href="../../d9/db0/readline_8_c.html#a74377f91f7de849c22845aced5b7d3ec">buf_size</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#aa8fd5173ce20affd32f44448f715ea44">m_buffer</a></td></tr>
+<tr class="separator:aa8fd5173ce20affd32f44448f715ea44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af29d3baec1fe69283286e879fd292e5e"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#af29d3baec1fe69283286e879fd292e5e">m_killbuf</a></td></tr>
+<tr class="separator:af29d3baec1fe69283286e879fd292e5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8af1fa6436e7567a2218669e33b23f9c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a8af1fa6436e7567a2218669e33b23f9c">m_inpos</a> {0}</td></tr>
+<tr class="separator:a8af1fa6436e7567a2218669e33b23f9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55d35d7c8de193dd344976087fa9a1cf"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a55d35d7c8de193dd344976087fa9a1cf">m_inmax</a> {0}</td></tr>
+<tr class="separator:a55d35d7c8de193dd344976087fa9a1cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaff2752b7165f2b2fcbe6aa28a533f8b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#aaff2752b7165f2b2fcbe6aa28a533f8b">m_prompt</a> {&quot;&gt; &quot;}</td></tr>
+<tr class="separator:aaff2752b7165f2b2fcbe6aa28a533f8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a57d8e117264852fa23afb2dd90f3e84a"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a57d8e117264852fa23afb2dd90f3e84a">m_history</a></td></tr>
+<tr class="separator:a57d8e117264852fa23afb2dd90f3e84a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4edbfcc6bb43c393648afdb2f03aa2e4"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a4edbfcc6bb43c393648afdb2f03aa2e4">m_hpos</a> {0}</td></tr>
+<tr class="separator:a4edbfcc6bb43c393648afdb2f03aa2e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3336bba1430e3d67b063e943bae54b2d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a3336bba1430e3d67b063e943bae54b2d">m_history_size</a></td></tr>
+<tr class="separator:a3336bba1430e3d67b063e943bae54b2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e927db10fcf9c5c78e321c8c9eb6e7f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a4e927db10fcf9c5c78e321c8c9eb6e7f">m_mark</a> {0}</td></tr>
+<tr class="separator:a4e927db10fcf9c5c78e321c8c9eb6e7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18da001b4eba987cd29798ab233dc8e5"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a18da001b4eba987cd29798ab233dc8e5">m_search</a></td></tr>
+<tr class="separator:a18da001b4eba987cd29798ab233dc8e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5521cdd5142fe8f97ac115ae09c024e7"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a5521cdd5142fe8f97ac115ae09c024e7">m_left</a> {0}</td></tr>
+<tr class="separator:a5521cdd5142fe8f97ac115ae09c024e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa228e0d724f7cb76eefca67e82c80e07"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#aa228e0d724f7cb76eefca67e82c80e07">m_right</a> {0}</td></tr>
+<tr class="separator:aa228e0d724f7cb76eefca67e82c80e07"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43a6e047fa68e47112f2e80cb5afd988"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a43a6e047fa68e47112f2e80cb5afd988">m_pos</a> {0}</td></tr>
+<tr class="separator:a43a6e047fa68e47112f2e80cb5afd988"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56be3247213f1a887c1993a1432be5c0"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a56be3247213f1a887c1993a1432be5c0">m_max</a> {0}</td></tr>
+<tr class="separator:a56be3247213f1a887c1993a1432be5c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39edf4baabc266a5528de02a86ea54ad"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a39edf4baabc266a5528de02a86ea54ad">m_size</a> {0}</td></tr>
+<tr class="separator:a39edf4baabc266a5528de02a86ea54ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad4d14b9e522a3c4aacb9acd3e2d12bd7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#ad4d14b9e522a3c4aacb9acd3e2d12bd7">m_hack</a> {false}</td></tr>
+<tr class="separator:ad4d14b9e522a3c4aacb9acd3e2d12bd7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26c4853982e9190e48cb9de940c6e955"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a26c4853982e9190e48cb9de940c6e955">cur_line_modified</a> {false}</td></tr>
+<tr class="separator:a26c4853982e9190e48cb9de940c6e955"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a399246aac966aa7cef5b329d254ba7dd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a399246aac966aa7cef5b329d254ba7dd">done</a> {false}</td></tr>
+<tr class="separator:a399246aac966aa7cef5b329d254ba7dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3fbf0b8ec61c485d9e386429fcb588a0"><td class="memItemLeft" align="right" valign="top">std::array&lt; char, <a class="el" href="../../d9/db0/readline_8_c.html#a74377f91f7de849c22845aced5b7d3ec">buf_size</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4d/class_slined.html#a3fbf0b8ec61c485d9e386429fcb588a0">g_buffer</a> {}</td></tr>
+<tr class="separator:a3fbf0b8ec61c485d9e386429fcb588a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
@@ -1112,6 +1156,487 @@ Public Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00475">475</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a26c4853982e9190e48cb9de940c6e955"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26c4853982e9190e48cb9de940c6e955">&#9670;&nbsp;</a></span>cur_line_modified</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Slined::cur_line_modified {false}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00131">131</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a399246aac966aa7cef5b329d254ba7dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a399246aac966aa7cef5b329d254ba7dd">&#9670;&nbsp;</a></span>done</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Slined::done {false}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00132">132</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a3fbf0b8ec61c485d9e386429fcb588a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3fbf0b8ec61c485d9e386429fcb588a0">&#9670;&nbsp;</a></span>g_buffer</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::array&lt;char, <a class="el" href="../../d9/db0/readline_8_c.html#a74377f91f7de849c22845aced5b7d3ec">buf_size</a>&gt; Slined::g_buffer {}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00133">133</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="aa8fd5173ce20affd32f44448f715ea44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa8fd5173ce20affd32f44448f715ea44">&#9670;&nbsp;</a></span>m_buffer</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::array&lt;char, <a class="el" href="../../d9/db0/readline_8_c.html#a74377f91f7de849c22845aced5b7d3ec">buf_size</a>&gt; Slined::m_buffer</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00115">115</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="ad4d14b9e522a3c4aacb9acd3e2d12bd7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad4d14b9e522a3c4aacb9acd3e2d12bd7">&#9670;&nbsp;</a></span>m_hack</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Slined::m_hack {false}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00130">130</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a57d8e117264852fa23afb2dd90f3e84a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a57d8e117264852fa23afb2dd90f3e84a">&#9670;&nbsp;</a></span>m_history</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;std::string&gt; Slined::m_history</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00120">120</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a3336bba1430e3d67b063e943bae54b2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3336bba1430e3d67b063e943bae54b2d">&#9670;&nbsp;</a></span>m_history_size</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Slined::m_history_size</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00122">122</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a4edbfcc6bb43c393648afdb2f03aa2e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4edbfcc6bb43c393648afdb2f03aa2e4">&#9670;&nbsp;</a></span>m_hpos</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Slined::m_hpos {0}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00121">121</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a46712b322199570faf175806bcd8ccf7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a46712b322199570faf175806bcd8ccf7">&#9670;&nbsp;</a></span>m_inbuf</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">char* Slined::m_inbuf {nullptr}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00114">114</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a55d35d7c8de193dd344976087fa9a1cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55d35d7c8de193dd344976087fa9a1cf">&#9670;&nbsp;</a></span>m_inmax</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Slined::m_inmax {0}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00118">118</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a8af1fa6436e7567a2218669e33b23f9c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8af1fa6436e7567a2218669e33b23f9c">&#9670;&nbsp;</a></span>m_inpos</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Slined::m_inpos {0}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00117">117</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="af29d3baec1fe69283286e879fd292e5e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af29d3baec1fe69283286e879fd292e5e">&#9670;&nbsp;</a></span>m_killbuf</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string Slined::m_killbuf</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00116">116</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a5521cdd5142fe8f97ac115ae09c024e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5521cdd5142fe8f97ac115ae09c024e7">&#9670;&nbsp;</a></span>m_left</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Slined::m_left {0}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00125">125</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a4e927db10fcf9c5c78e321c8c9eb6e7f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e927db10fcf9c5c78e321c8c9eb6e7f">&#9670;&nbsp;</a></span>m_mark</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Slined::m_mark {0}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00123">123</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a56be3247213f1a887c1993a1432be5c0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a56be3247213f1a887c1993a1432be5c0">&#9670;&nbsp;</a></span>m_max</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Slined::m_max {0}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00128">128</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a43a6e047fa68e47112f2e80cb5afd988"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43a6e047fa68e47112f2e80cb5afd988">&#9670;&nbsp;</a></span>m_pos</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Slined::m_pos {0}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00127">127</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="aaff2752b7165f2b2fcbe6aa28a533f8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaff2752b7165f2b2fcbe6aa28a533f8b">&#9670;&nbsp;</a></span>m_prompt</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string Slined::m_prompt {&quot;&gt; &quot;}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00119">119</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="aa228e0d724f7cb76eefca67e82c80e07"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa228e0d724f7cb76eefca67e82c80e07">&#9670;&nbsp;</a></span>m_right</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Slined::m_right {0}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00126">126</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a18da001b4eba987cd29798ab233dc8e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a18da001b4eba987cd29798ab233dc8e5">&#9670;&nbsp;</a></span>m_search</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string Slined::m_search</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00124">124</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
+
+</div>
+</div>
+<a id="a39edf4baabc266a5528de02a86ea54ad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a39edf4baabc266a5528de02a86ea54ad">&#9670;&nbsp;</a></span>m_size</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Slined::m_size {0}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/db0/readline_8_c_source.html#l00129">129</a> of file <a class="el" href="../../d9/db0/readline_8_c_source.html">readline.C</a>.</p>
 
 </div>
 </div>

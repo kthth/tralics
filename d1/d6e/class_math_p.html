@@ -68,6 +68,8 @@ $(document).ready(function(){initNavTree('d1/d6e/class_math_p.html','../../'); i
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="#friends">Friends</a> &#124;
 <a href="../../d3/dd0/class_math_p-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -104,6 +106,20 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a8f3dc1119270ec3bca6c4bb50d99b875"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6e/class_math_p.html#a8f3dc1119270ec3bca6c4bb50d99b875">find_paren_matched2</a> (<a class="el" href="../../df/d79/txmath_8h.html#a87df32b345ec002dececb6a6d25cb924">MathQList</a> &amp;res) const</td></tr>
 <tr class="separator:a8f3dc1119270ec3bca6c4bb50d99b875"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a1d08477b9f9538447892502a194ce652"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6e/class_math_p.html#a1d08477b9f9538447892502a194ce652">analyse1</a> (bool) const -&gt; bool</td></tr>
+<tr class="separator:a1d08477b9f9538447892502a194ce652"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13f171bb0f05994aeac5ad73a413cc43"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6e/class_math_p.html#a13f171bb0f05994aeac5ad73a413cc43">find_relbin</a> (int &amp;) -&gt; <a class="el" href="../../d1/d6e/class_math_p.html">MathP</a></td></tr>
+<tr class="separator:a13f171bb0f05994aeac5ad73a413cc43"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af3d7da42501a90ff24dda302ca72de9b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6e/class_math_p.html#af3d7da42501a90ff24dda302ca72de9b">find_paren1</a> (int start1, int end1, <a class="el" href="../../df/d79/txmath_8h.html#a87df32b345ec002dececb6a6d25cb924">MathQList</a> &amp;res, bool)</td></tr>
+<tr class="separator:af3d7da42501a90ff24dda302ca72de9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ac94225e1cc2927d82c4e302c759ddb33"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd3/txmath1_8h.html#ae91f9c09e62771ef89b6b0190598f667">MathPList</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6e/class_math_p.html#ac94225e1cc2927d82c4e302c759ddb33">value</a></td></tr>
+<tr class="separator:ac94225e1cc2927d82c4e302c759ddb33"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
 <tr class="memitem:adc022479866240d669ecd72e19b8af7c"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6e/class_math_p.html#adc022479866240d669ecd72e19b8af7c">operator&lt;&lt;</a> (std::ostream &amp;fp, const <a class="el" href="../../d1/d6e/class_math_p.html">MathP</a> &amp;X) -&gt; std::ostream &amp;</td></tr>
@@ -113,6 +129,34 @@ Friends</h2></td></tr>
 <div class="textblock">
 <p class="definition">Definition at line <a class="el" href="../../db/dd3/txmath1_8h_source.html#l00061">61</a> of file <a class="el" href="../../db/dd3/txmath1_8h_source.html">txmath1.h</a>.</p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a1d08477b9f9538447892502a194ce652"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d08477b9f9538447892502a194ce652">&#9670;&nbsp;</a></span>analyse1()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto MathP::analyse1 </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>w</em></td><td>)</td>
+          <td> const -&gt; bool</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d8/dc6/txmath1_8_c_source.html#l00154">154</a> of file <a class="el" href="../../d8/dc6/txmath1_8_c_source.html">txmath1.C</a>.</p>
+
+</div>
+</div>
 <a id="a5b7f857a2d0a7d0f423fdb09a945c7ce"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5b7f857a2d0a7d0f423fdb09a945c7ce">&#9670;&nbsp;</a></span>clear()</h2>
 
@@ -184,6 +228,56 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d8/dc6/txmath1_8_c_source.html#l00183">183</a> of file <a class="el" href="../../d8/dc6/txmath1_8_c_source.html">txmath1.C</a>.</p>
+
+</div>
+</div>
+<a id="af3d7da42501a90ff24dda302ca72de9b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af3d7da42501a90ff24dda302ca72de9b">&#9670;&nbsp;</a></span>find_paren1()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void MathP::find_paren1 </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>start1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>end1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../df/d79/txmath_8h.html#a87df32b345ec002dececb6a6d25cb924">MathQList</a> &amp;&#160;</td>
+          <td class="paramname"><em>res</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>verbose</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d8/dc6/txmath1_8_c_source.html#l00412">412</a> of file <a class="el" href="../../d8/dc6/txmath1_8_c_source.html">txmath1.C</a>.</p>
 
 </div>
 </div>
@@ -279,6 +373,34 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d8/dc6/txmath1_8_c_source.html#l00294">294</a> of file <a class="el" href="../../d8/dc6/txmath1_8_c_source.html">txmath1.C</a>.</p>
+
+</div>
+</div>
+<a id="a13f171bb0f05994aeac5ad73a413cc43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a13f171bb0f05994aeac5ad73a413cc43">&#9670;&nbsp;</a></span>find_relbin()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto MathP::find_relbin </td>
+          <td>(</td>
+          <td class="paramtype">int &amp;&#160;</td>
+          <td class="paramname"><em>k</em></td><td>)</td>
+          <td> -&gt; <a class="el" href="../../d1/d6e/class_math_p.html">MathP</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d8/dc6/txmath1_8_c_source.html#l00373">373</a> of file <a class="el" href="../../d8/dc6/txmath1_8_c_source.html">txmath1.C</a>.</p>
 
 </div>
 </div>
@@ -444,6 +566,31 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d8/dc6/txmath1_8_c_source.html#l00045">45</a> of file <a class="el" href="../../d8/dc6/txmath1_8_c_source.html">txmath1.C</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ac94225e1cc2927d82c4e302c759ddb33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac94225e1cc2927d82c4e302c759ddb33">&#9670;&nbsp;</a></span>value</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dd3/txmath1_8h.html#ae91f9c09e62771ef89b6b0190598f667">MathPList</a> MathP::value</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../db/dd3/txmath1_8h_source.html#l00062">62</a> of file <a class="el" href="../../db/dd3/txmath1_8h_source.html">txmath1.h</a>.</p>
 
 </div>
 </div>

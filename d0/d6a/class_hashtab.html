@@ -69,6 +69,8 @@ $(document).ready(function(){initNavTree('d0/d6a/class_hashtab.html','../../'); 
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d8/d00/class_hashtab-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">Hashtab Class Reference</div>  </div>
@@ -76,11 +78,6 @@ $(document).ready(function(){initNavTree('d0/d6a/class_hashtab.html','../../'); 
 <div class="contents">
 
 <p><code>#include &lt;<a class="el" href="../../d7/d7e/txhash_8h_source.html">txhash.h</a>&gt;</code></p>
-<div class="dynheader">
-Collaboration diagram for Hashtab:</div>
-<div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../dc/d61/class_hashtab__coll__graph.svg" width="594" height="331"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-<center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -529,6 +526,28 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a2f16743f9492a01a738b8b54888e031e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aac33cc2175a9b1659bffbdba5d0c015b"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../dd/d25/class_equivalent.html">Equivalent</a>, <a class="el" href="../../d8/db5/consts_8h.html#a9ec82fcd628f714e7fd802524e87be64">eqtb_size</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6a/class_hashtab.html#aac33cc2175a9b1659bffbdba5d0c015b">eqtb</a></td></tr>
 <tr class="separator:aac33cc2175a9b1659bffbdba5d0c015b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:aafd965b37d52ba79524d03ab9fbf2c33"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6a/class_hashtab.html#aafd965b37d52ba79524d03ab9fbf2c33">find_empty</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> s) -&gt; int</td></tr>
+<tr class="separator:aafd965b37d52ba79524d03ab9fbf2c33"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11eeb34551d0d5220f42f325beb65d5b"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6a/class_hashtab.html#a11eeb34551d0d5220f42f325beb65d5b">find_aux</a> (int p, <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> name) -&gt; int</td></tr>
+<tr class="separator:a11eeb34551d0d5220f42f325beb65d5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a6924c8a650fbc0429b75c38aab22aeb2"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>, <a class="el" href="../../d8/db5/consts_8h.html#aa0772155d23737582b7704cde6c1295a">hash_size</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6a/class_hashtab.html#a6924c8a650fbc0429b75c38aab22aeb2">Text</a></td></tr>
+<tr class="separator:a6924c8a650fbc0429b75c38aab22aeb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d60aa2b71ea31521a3b63abdd62e085"><td class="memItemLeft" align="right" valign="top">std::array&lt; int, <a class="el" href="../../d8/db5/consts_8h.html#aa0772155d23737582b7704cde6c1295a">hash_size</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6a/class_hashtab.html#a5d60aa2b71ea31521a3b63abdd62e085">Next</a></td></tr>
+<tr class="separator:a5d60aa2b71ea31521a3b63abdd62e085"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc043065c449f4e76d5964208a9ede82"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6a/class_hashtab.html#acc043065c449f4e76d5964208a9ede82">B</a></td></tr>
+<tr class="separator:acc043065c449f4e76d5964208a9ede82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67b475a1c9ad1957aaf49a95938957a9"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6a/class_hashtab.html#a67b475a1c9ad1957aaf49a95938957a9">hash_used</a></td></tr>
+<tr class="separator:a67b475a1c9ad1957aaf49a95938957a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75aa3081a2620bbd9c2cecc00b087292"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6a/class_hashtab.html#a75aa3081a2620bbd9c2cecc00b087292">hash_usage</a></td></tr>
+<tr class="separator:a75aa3081a2620bbd9c2cecc00b087292"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c6e5322c7b63d16c83e35c1b40b10f0"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6a/class_hashtab.html#a1c6e5322c7b63d16c83e35c1b40b10f0">hash_bad</a></td></tr>
+<tr class="separator:a1c6e5322c7b63d16c83e35c1b40b10f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
@@ -715,6 +734,72 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d9/d1e/txtoken_8_c_source.html#l00339">339</a> of file <a class="el" href="../../d9/d1e/txtoken_8_c_source.html">txtoken.C</a>.</p>
+
+</div>
+</div>
+<a id="a11eeb34551d0d5220f42f325beb65d5b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a11eeb34551d0d5220f42f325beb65d5b">&#9670;&nbsp;</a></span>find_aux()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Hashtab::find_aux </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>p</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>&#160;</td>
+          <td class="paramname"><em>name</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> -&gt; int</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/d1e/txtoken_8_c_source.html#l00229">229</a> of file <a class="el" href="../../d9/d1e/txtoken_8_c_source.html">txtoken.C</a>.</p>
+
+</div>
+</div>
+<a id="aafd965b37d52ba79524d03ab9fbf2c33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aafd965b37d52ba79524d03ab9fbf2c33">&#9670;&nbsp;</a></span>find_empty()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Hashtab::find_empty </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>&#160;</td>
+          <td class="paramname"><em>s</em></td><td>)</td>
+          <td> -&gt; int</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/d1e/txtoken_8_c_source.html#l00172">172</a> of file <a class="el" href="../../d9/d1e/txtoken_8_c_source.html">txtoken.C</a>.</p>
 
 </div>
 </div>
@@ -1295,6 +1380,30 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d7/d7e/txhash_8h_source.html#l00037">37</a> of file <a class="el" href="../../d7/d7e/txhash_8h_source.html">txhash.h</a>.</p>
+
+</div>
+</div>
+<a id="acc043065c449f4e76d5964208a9ede82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acc043065c449f4e76d5964208a9ede82">&#9670;&nbsp;</a></span>B</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> Hashtab::B</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d7/d7e/txhash_8h_source.html#l00070">70</a> of file <a class="el" href="../../d7/d7e/txhash_8h_source.html">txhash.h</a>.</p>
 
 </div>
 </div>
@@ -2386,6 +2495,78 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a1c6e5322c7b63d16c83e35c1b40b10f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c6e5322c7b63d16c83e35c1b40b10f0">&#9670;&nbsp;</a></span>hash_bad</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Hashtab::hash_bad</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d7/d7e/txhash_8h_source.html#l00073">73</a> of file <a class="el" href="../../d7/d7e/txhash_8h_source.html">txhash.h</a>.</p>
+
+</div>
+</div>
+<a id="a75aa3081a2620bbd9c2cecc00b087292"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75aa3081a2620bbd9c2cecc00b087292">&#9670;&nbsp;</a></span>hash_usage</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Hashtab::hash_usage</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d7/d7e/txhash_8h_source.html#l00072">72</a> of file <a class="el" href="../../d7/d7e/txhash_8h_source.html">txhash.h</a>.</p>
+
+</div>
+</div>
+<a id="a67b475a1c9ad1957aaf49a95938957a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67b475a1c9ad1957aaf49a95938957a9">&#9670;&nbsp;</a></span>hash_used</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Hashtab::hash_used</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d7/d7e/txhash_8h_source.html#l00071">71</a> of file <a class="el" href="../../d7/d7e/txhash_8h_source.html">txhash.h</a>.</p>
+
+</div>
+</div>
 <a id="a16c354df4f0aff430af6b3f161613297"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a16c354df4f0aff430af6b3f161613297">&#9670;&nbsp;</a></span>hat_token</h2>
 
@@ -2975,6 +3156,30 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d7/d7e/txhash_8h_source.html#l00039">39</a> of file <a class="el" href="../../d7/d7e/txhash_8h_source.html">txhash.h</a>.</p>
+
+</div>
+</div>
+<a id="a5d60aa2b71ea31521a3b63abdd62e085"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d60aa2b71ea31521a3b63abdd62e085">&#9670;&nbsp;</a></span>Next</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::array&lt;int, <a class="el" href="../../d8/db5/consts_8h.html#aa0772155d23737582b7704cde6c1295a">hash_size</a>&gt; Hashtab::Next</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d7/d7e/txhash_8h_source.html#l00069">69</a> of file <a class="el" href="../../d7/d7e/txhash_8h_source.html">txhash.h</a>.</p>
 
 </div>
 </div>
@@ -3647,6 +3852,30 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d7/d7e/txhash_8h_source.html#l00040">40</a> of file <a class="el" href="../../d7/d7e/txhash_8h_source.html">txhash.h</a>.</p>
+
+</div>
+</div>
+<a id="a6924c8a650fbc0429b75c38aab22aeb2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6924c8a650fbc0429b75c38aab22aeb2">&#9670;&nbsp;</a></span>Text</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::array&lt;<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>, <a class="el" href="../../d8/db5/consts_8h.html#aa0772155d23737582b7704cde6c1295a">hash_size</a>&gt; Hashtab::Text</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d7/d7e/txhash_8h_source.html#l00068">68</a> of file <a class="el" href="../../d7/d7e/txhash_8h_source.html">txhash.h</a>.</p>
 
 </div>
 </div>

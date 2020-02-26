@@ -20,5 +20,7 @@ var class_logger =
     [ "out_single_char", "d3/d42/class_logger.html#a20783f82c2dd433b5b304c80901cefac", null ],
     [ "set_file_name", "d3/d42/class_logger.html#a41764252bf757528bc3a9fb9dd09d128", null ],
     [ "set_finished", "d3/d42/class_logger.html#a28c28ed4e02404616fb795e8f6c84ce1", null ],
+    [ "filename", "d3/d42/class_logger.html#a7d2eb96ffbb512b79834c8d7313c69b7", null ],
+    [ "finished", "d3/d42/class_logger.html#aae8bd1a094f3a7f41ccde0be052071ab", null ],
     [ "fp", "d3/d42/class_logger.html#a6e312fb3739aea7af14ff148745efe81", null ]
 ];
