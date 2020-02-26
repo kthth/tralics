@@ -1,0 +1,28 @@
+var class_math_data_p =
+[
+    [ "add_style", "d8/de4/class_math_data_p.html#ad22e3fcbffbd2bcd237135bf7faa79eb", null ],
+    [ "boot", "d8/de4/class_math_data_p.html#adba376ca35b7830c8c86050929986383", null ],
+    [ "find_math_location", "d8/de4/class_math_data_p.html#a3affd796c3e98df2aca75170bc0ac0d2", null ],
+    [ "find_xml_location", "d8/de4/class_math_data_p.html#af99fe1382077c31648418257dbf3e426", null ],
+    [ "find_xml_location", "d8/de4/class_math_data_p.html#a59e1d14b278f55e5d059f77867a0e9af", null ],
+    [ "finish_math_mem", "d8/de4/class_math_data_p.html#a18ecbdeaf7068b5c4d570fac94c231d7", null ],
+    [ "get_builtin", "d8/de4/class_math_data_p.html#a91b37ff5fb5fd6457493342e41f1688c", null ],
+    [ "get_builtin_alt", "d8/de4/class_math_data_p.html#ac2b256eded57ba5cf40514af0ea4700f", null ],
+    [ "get_fence", "d8/de4/class_math_data_p.html#a76fd3e26594f2eb6daaace4f9f9d6ffb", null ],
+    [ "get_list", "d8/de4/class_math_data_p.html#ac2e87b99a5e12b157e337882eeb017ef", null ],
+    [ "get_math_char_type", "d8/de4/class_math_data_p.html#aa05f4ea4bf0ba61cab12a89770a97fbc", null ],
+    [ "get_mc_table", "d8/de4/class_math_data_p.html#a216329e5d3cd11dc9e401d937c1f957e", null ],
+    [ "get_simplemath_val", "d8/de4/class_math_data_p.html#a2c087041bdf3ac465ef897a5d2633de8", null ],
+    [ "get_xml_val", "d8/de4/class_math_data_p.html#abce2436add5d0a2a83ac220584254be3", null ],
+    [ "init_builtin", "d8/de4/class_math_data_p.html#acf800e1596af854aad9f65b27defa62b", null ],
+    [ "init_builtin", "d8/de4/class_math_data_p.html#a7cd6088fc22cb5e2f10e1c7443db77b0", null ],
+    [ "init_builtin", "d8/de4/class_math_data_p.html#a78f7e1f4d823e651a690cce1f7967863", null ],
+    [ "make_mfenced", "d8/de4/class_math_data_p.html#ac0258909528f28ea144a488d4c4f1318", null ],
+    [ "mk_mo", "d8/de4/class_math_data_p.html#a6495d088a594ca7cf5115f56a5507999", null ],
+    [ "push_back", "d8/de4/class_math_data_p.html#a498815f7a87f5637143e61d11a5dbe7d", null ],
+    [ "realloc_list", "d8/de4/class_math_data_p.html#ab03487553d4b9585ae8dcfd1623ba1a5", null ],
+    [ "realloc_list0", "d8/de4/class_math_data_p.html#a46508a34c8cd4724b34c54054d63410a", null ],
+    [ "realloc_xml", "d8/de4/class_math_data_p.html#abb9c7507e4ed75cfcfa5769afa6482f7", null ],
+    [ "set_type", "d8/de4/class_math_data_p.html#acc3cdf1de69e6c8f9c38ebfc4710c870", null ],
+    [ "TM_mk", "d8/de4/class_math_data_p.html#abcf5d4cda09ff27b44bef24d936fd7d3", null ]
+];

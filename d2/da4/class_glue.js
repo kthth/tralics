@@ -1,0 +1,26 @@
+var class_glue =
+[
+    [ "Glue", "d2/da4/class_glue.html#a0a698b788cbf59ccfe93fafc409dab83", null ],
+    [ "add", "d2/da4/class_glue.html#a7f785a41b0a058157ebc6440e60ad3bc", null ],
+    [ "add_ovf", "d2/da4/class_glue.html#a140e9f28d4d65983f7930684cf846f8a", null ],
+    [ "check_overflow", "d2/da4/class_glue.html#a4fb2e9d1394c8eaa46ae0c11fc478bf7", null ],
+    [ "divide", "d2/da4/class_glue.html#a880b3dd12dc189e1ac97162c6c62d199", null ],
+    [ "expr_mul", "d2/da4/class_glue.html#aba3b52b727333c340dad050dee1eae34", null ],
+    [ "get_shrink", "d2/da4/class_glue.html#a93744969b53f407b33b10f5546dfa85b", null ],
+    [ "get_shrink_order", "d2/da4/class_glue.html#aee89a36b65cbaf2a12099404d50dda7b", null ],
+    [ "get_stretch", "d2/da4/class_glue.html#ad618a7bf721467639d44f2401e9b83f9", null ],
+    [ "get_stretch_order", "d2/da4/class_glue.html#a599ba2cc0033e038d04029a9df7d7958", null ],
+    [ "get_width", "d2/da4/class_glue.html#aa39d32c5041839c89c15fcae54868700", null ],
+    [ "incr_width", "d2/da4/class_glue.html#a2703cfba337b7516e5e08baf3814f49b", null ],
+    [ "kill", "d2/da4/class_glue.html#ab0b3c322f359d0c6311c6d44a2c9b973", null ],
+    [ "multiply", "d2/da4/class_glue.html#add630c697f8f1b116a4af3f6d829aaac", null ],
+    [ "negate", "d2/da4/class_glue.html#acf04f2c744232b4e045cdae165dd176d", null ],
+    [ "normalise", "d2/da4/class_glue.html#aac025d80c61670512af36948315f8ec7", null ],
+    [ "quotient", "d2/da4/class_glue.html#a124f8e3dfc621c22c83d96f8ca908fb5", null ],
+    [ "scale", "d2/da4/class_glue.html#a8dd2728e014b605f5bbba55e6980f1a4", null ],
+    [ "set_shrink", "d2/da4/class_glue.html#aa3686e4ae9e207da536470a1dd534997", null ],
+    [ "set_shrink_order", "d2/da4/class_glue.html#ace0930949699d3a24f5e0a4c9127130c", null ],
+    [ "set_stretch", "d2/da4/class_glue.html#a2cd0e4682893def748e0cbaaea85906d", null ],
+    [ "set_stretch_order", "d2/da4/class_glue.html#ab55bd338a4e3877f031ab7d91c113283", null ],
+    [ "set_width", "d2/da4/class_glue.html#a902242c07dee2dd625ec53cadd376731", null ]
+];
