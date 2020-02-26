@@ -1,6 +1,5 @@
 var txtitlepage_8_c =
 [
-    [ "after_conf_assign", "da/d89/txtitlepage_8_c.html#a09a12f007c5a55340678add770cb9ec7", null ],
     [ "begins_with", "da/d89/txtitlepage_8_c.html#adc916b9d777f08589837030648b29095", null ],
     [ "init_error", "da/d89/txtitlepage_8_c.html#af57972a25f3d97fbe9153c607002494c", null ],
     [ "next_item", "da/d89/txtitlepage_8_c.html#ae47572351c65080f83e1cf693a852162", null ],

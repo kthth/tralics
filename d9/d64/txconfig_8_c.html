@@ -74,12 +74,13 @@ $(document).ready(function(){initNavTree('d9/d64/txconfig_8_c.html','../../'); i
 <div class="title">txconfig.C File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../d7/d79/txinline_8h_source.html">txinline.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../d5/d87/globals_8h_source.html">tralics/globals.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../d7/d79/txinline_8h_source.html">txinline.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../d2/d1b/txparser_8h_source.html">txparser.h</a>&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for txconfig.C:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d6/d32/txconfig_8_c__incl.svg" width="802" height="916"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d6/d32/txconfig_8_c__incl.svg" width="944" height="916"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 <p><a href="../../d9/d64/txconfig_8_c_source.html">Go to the source code of this file.</a></p>
@@ -93,8 +94,6 @@ Namespaces</h2></td></tr>
 Functions</h2></td></tr>
 <tr class="memitem:a713b584769177a588361e76356184b34"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/namespaceconfig__ns.html#a713b584769177a588361e76356184b34">config_ns::interpret_section_list</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;B, bool new_syntax)</td></tr>
 <tr class="separator:a713b584769177a588361e76356184b34"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a00d1c236297f082cae7a4896320a92d5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/namespaceconfig__ns.html#a00d1c236297f082cae7a4896320a92d5">config_ns::bad_conf</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>)</td></tr>
-<tr class="separator:a00d1c236297f082cae7a4896320a92d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a300aabf20bbfbc9863f2ae8328e17136"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/namespaceconfig__ns.html#a300aabf20bbfbc9863f2ae8328e17136">config_ns::interpret_data_list</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;B, const std::string &amp;)</td></tr>
 <tr class="separator:a300aabf20bbfbc9863f2ae8328e17136"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a07df42660557043912129a05bb51954a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/namespaceconfig__ns.html#a07df42660557043912129a05bb51954a">config_ns::interpret_theme_list</a> (const <a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;B)</td></tr>
@@ -110,14 +109,10 @@ Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
+<tr class="memitem:ad272a89a4664785e31f922a9cad016ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d42/class_param_data_vector.html">ParamDataVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d64/txconfig_8_c.html#ad272a89a4664785e31f922a9cad016ea">config_data</a></td></tr>
+<tr class="separator:ad272a89a4664785e31f922a9cad016ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a30c1732319eaa0e4cb520243d65fc0fa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/namespaceconfig__ns.html#a30c1732319eaa0e4cb520243d65fc0fa">config_ns::sec_buffer</a></td></tr>
 <tr class="separator:a30c1732319eaa0e4cb520243d65fc0fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aede3feea1ddf53d917696a56dafe6d5e"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/namespaceconfig__ns.html#aede3feea1ddf53d917696a56dafe6d5e">config_ns::all_themes</a> = &quot;&quot;</td></tr>
-<tr class="separator:aede3feea1ddf53d917696a56dafe6d5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05af293b6b0927b535d32fc1a1070f9c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/namespaceconfig__ns.html#a05af293b6b0927b535d32fc1a1070f9c">config_ns::Txbuf</a></td></tr>
-<tr class="separator:a05af293b6b0927b535d32fc1a1070f9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a65fa942c516d75903e6b3a9d0fd5a5f3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d42/class_param_data_vector.html">ParamDataVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/namespaceconfig__ns.html#a65fa942c516d75903e6b3a9d0fd5a5f3">config_ns::config_data</a></td></tr>
-<tr class="separator:a65fa942c516d75903e6b3a9d0fd5a5f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6b28339cae54236876af6da8ea579d6d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/namespaceconfig__ns.html#a6b28339cae54236876af6da8ea579d6d">config_ns::have_default_ur</a> = false</td></tr>
 <tr class="separator:a6b28339cae54236876af6da8ea579d6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5714555a1dec014a67ff08d8fbf93cc0"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/namespaceconfig__ns.html#a5714555a1dec014a67ff08d8fbf93cc0">config_ns::the_default_rc</a> = &quot;&quot;</td></tr>
@@ -129,6 +124,23 @@ Variables</h2></td></tr>
 <tr class="memitem:afed55ccfa4c5a30ff1464f050852ee7f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d21/namespaceconfig__ns.html#afed55ccfa4c5a30ff1464f050852ee7f">config_ns::cur_sec_no_topic</a> = false</td></tr>
 <tr class="separator:afed55ccfa4c5a30ff1464f050852ee7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="ad272a89a4664785e31f922a9cad016ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad272a89a4664785e31f922a9cad016ea">&#9670;&nbsp;</a></span>config_data</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d42/class_param_data_vector.html">ParamDataVector</a> config_data</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/d64/txconfig_8_c_source.html#l00017">17</a> of file <a class="el" href="../../d9/d64/txconfig_8_c_source.html">txconfig.C</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

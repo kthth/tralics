@@ -1074,6 +1074,5 @@ var txvars_8h =
     [ "is_upper_case", "dc/de8/txvars_8h.html#a864f825c0eb79e80fd98447a5ede7dc3", null ],
     [ "to_lower", "dc/de8/txvars_8h.html#aa74b7af001f945c29305088c2b031612", null ],
     [ "the_main", "dc/de8/txvars_8h.html#a66f84ac3773c9845933176b95bf9ed73", null ],
-    [ "the_names", "dc/de8/txvars_8h.html#aee3fbc204590577f6e0ba293eb46614c", null ],
-    [ "the_parser", "dc/de8/txvars_8h.html#adf418282a32959c1fdaf7e8728922695", null ]
+    [ "the_names", "dc/de8/txvars_8h.html#aee3fbc204590577f6e0ba293eb46614c", null ]
 ];

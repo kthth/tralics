@@ -30,7 +30,7 @@ var class_main_class =
     [ "get_prime_hack", "d5/d5e/class_main_class.html#a3845181706f71b396f8248cac1104cf9", null ],
     [ "get_short_date", "d5/d5e/class_main_class.html#a193f3d7d2c0aeede56990057e4bb05d5", null ],
     [ "get_tpa_mode", "d5/d5e/class_main_class.html#a3395cb8fca5666d3fed9b38fb187f3d5", null ],
-    [ "get_version", "d5/d5e/class_main_class.html#af5fa0cba0642f0b15ce96343a828c678", null ],
+    [ "get_version", "d5/d5e/class_main_class.html#a0e0954b22e3216e37bffbf374ea03e0a", null ],
     [ "get_year_string", "d5/d5e/class_main_class.html#a196f518381a231e7439095c08b1ce33b", null ],
     [ "get_zws_elt", "d5/d5e/class_main_class.html#a8592b096189ac5bbd4d8cff8c31b8b36", null ],
     [ "get_zws_mode", "d5/d5e/class_main_class.html#ada8295aee50f735bb76db70e78ce57b1", null ],

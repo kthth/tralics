@@ -1,7 +1,9 @@
 var files_dup =
 [
     [ "tralics", "dir_59862cba00524bd398f0ca7f7ae6e06a.html", "dir_59862cba00524bd398f0ca7f7ae6e06a" ],
+    [ "globals.C", "d2/dbb/globals_8_c.html", "d2/dbb/globals_8_c" ],
     [ "Istring.C", "d4/dbc/_istring_8_c.html", null ],
+    [ "MainClass.C", "de/dae/_main_class_8_c.html", "de/dae/_main_class_8_c" ],
     [ "readline.C", "d9/db0/readline_8_c.html", "d9/db0/readline_8_c" ],
     [ "tralics.C", "dc/d29/tralics_8_c.html", "dc/d29/tralics_8_c" ],
     [ "txaccent.C", "d5/d10/txaccent_8_c.html", "d5/d10/txaccent_8_c" ],
@@ -101,7 +103,6 @@ var files_dup =
     [ "txio.h", "de/d29/txio_8h.html", "de/d29/txio_8h" ],
     [ "txl3.C", "dc/dcd/txl3_8_c.html", "dc/dcd/txl3_8_c" ],
     [ "txlogger.h", "d2/d06/txlogger_8h.html", "d2/d06/txlogger_8h" ],
-    [ "txmain.C", "d4/da2/txmain_8_c.html", "d4/da2/txmain_8_c" ],
     [ "txmath.C", "db/d96/txmath_8_c.html", "db/d96/txmath_8_c" ],
     [ "txmath.h", "df/d79/txmath_8h.html", "df/d79/txmath_8h" ],
     [ "txmath1.C", "d8/dc6/txmath1_8_c.html", "d8/dc6/txmath1_8_c" ],
@@ -109,23 +110,15 @@ var files_dup =
     [ "txmathboot.C", "d7/dd3/txmathboot_8_c.html", "d7/dd3/txmathboot_8_c" ],
     [ "txmlio.C", "dd/d48/txmlio_8_c.html", "dd/d48/txmlio_8_c" ],
     [ "txmlio.h", "dc/d84/txmlio_8h.html", "dc/d84/txmlio_8h" ],
-    [ "txparam.h", "d5/d08/txparam_8h.html", [
-      [ "MainClass", "d5/d5e/class_main_class.html", "d5/d5e/class_main_class" ],
-      [ "ParamDataSlot", "d1/d2a/class_param_data_slot.html", "d1/d2a/class_param_data_slot" ],
-      [ "ParamDataList", "d7/de7/class_param_data_list.html", "d7/de7/class_param_data_list" ],
-      [ "ParamDataVector", "d0/d42/class_param_data_vector.html", "d0/d42/class_param_data_vector" ]
-    ] ],
+    [ "txparam.h", "d5/d08/txparam_8h.html", "d5/d08/txparam_8h" ],
     [ "txparser.C", "d7/dc3/txparser_8_c.html", "d7/dc3/txparser_8_c" ],
-    [ "txparser.h", "d2/d1b/txparser_8h.html", [
-      [ "Parser", "dc/db7/class_parser.html", "dc/db7/class_parser" ]
-    ] ],
+    [ "txparser.h", "d2/d1b/txparser_8h.html", "d2/d1b/txparser_8h" ],
     [ "txparser2.C", "d5/d2e/txparser2_8_c.html", "d5/d2e/txparser2_8_c" ],
     [ "txparser2.h", "da/d5e/txparser2_8h.html", [
       [ "XkvToken", "dd/d84/class_xkv_token.html", "dd/d84/class_xkv_token" ],
       [ "XkvSetkeys", "d6/d9a/class_xkv_setkeys.html", "d6/d9a/class_xkv_setkeys" ]
     ] ],
     [ "txparser3.C", "d4/d5c/txparser3_8_c.html", "d4/d5c/txparser3_8_c" ],
-    [ "txpath.h", "d8/d9a/txpath_8h.html", "d8/d9a/txpath_8h" ],
     [ "txpost.C", "db/d66/txpost_8_c.html", "db/d66/txpost_8_c" ],
     [ "txpost.h", "dd/dae/txpost_8h.html", [
       [ "ModChecker", "df/d4e/class_mod_checker.html", "df/d4e/class_mod_checker" ],

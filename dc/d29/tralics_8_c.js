@@ -1,12 +1,12 @@
 var tralics_8_c =
 [
+    [ "assign", "dc/d29/tralics_8_c.html#ab6e46bf3c395e080bea30465af860707", null ],
     [ "boot_accents", "dc/d29/tralics_8_c.html#a9b01d344ff3d0cb259d9bcb0cdc43a28", null ],
     [ "main", "dc/d29/tralics_8_c.html#a808f40e2e9d6eb5463165c031dfa3eb1", null ],
     [ "mk_letter", "dc/d29/tralics_8_c.html#a5bcb594f940a02f240849ff5f952cb2a", null ],
-    [ "set_everyjob", "dc/d29/tralics_8_c.html#add154324fb41a19f12b3b86de0f7d538", null ],
     [ "twodig", "dc/d29/tralics_8_c.html#a7fbc433a962ce98d941085772d88035e", null ],
     [ "bib_allow_break", "dc/d29/tralics_8_c.html#aed7484034ccc3e8b219a8c2d2cebecfa", null ],
-    [ "log_and_tty", "dc/d29/tralics_8_c.html#a7b2a95a6b3bb33de706c560325ebb29b", null ],
+    [ "log_and_tty", "dc/d29/tralics_8_c.html#a02e2a88bea0c5fb183c36f01930256ed", null ],
     [ "log_or_tty", "dc/d29/tralics_8_c.html#a753e0ef96274c369f127187fd54cf381", null ],
     [ "nb_errs", "dc/d29/tralics_8_c.html#ad1433ef5035bf0718e716655cff058d3", null ],
     [ "no_xml_error", "dc/d29/tralics_8_c.html#a8fb58d500cbf4ba769fd035fe01e0de8", null ],

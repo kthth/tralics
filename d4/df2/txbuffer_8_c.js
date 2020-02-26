@@ -17,5 +17,8 @@ var txbuffer_8_c =
     [ "operator<<", "d4/df2/txbuffer_8_c.html#a7825ce2716794ebd6bbc8b4490f8ae88", null ],
     [ "operator<<", "d4/df2/txbuffer_8_c.html#ad3b03f2165992a65c5a9366e67027587", null ],
     [ "check_image1", "d4/df2/txbuffer_8_c.html#a4e0fd2eecb79cb908d5c5d7fb17d3c43", null ],
-    [ "check_image2", "d4/df2/txbuffer_8_c.html#aa8802f693f3a7a2c7688f62a2c2b65b4", null ]
+    [ "check_image2", "d4/df2/txbuffer_8_c.html#aa8802f693f3a7a2c7688f62a2c2b65b4", null ],
+    [ "err_buf", "d4/df2/txbuffer_8_c.html#aa95e68564af0ca7d00cdbd28f80391bd", null ],
+    [ "ssa2", "d4/df2/txbuffer_8_c.html#a67cdf582b00c08245faa066c003cc651", null ],
+    [ "Txbuf", "d4/df2/txbuffer_8_c.html#ad1b2ccd1f4b6af2403d195329430ab2f", null ]
 ];

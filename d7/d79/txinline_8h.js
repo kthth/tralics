@@ -1,6 +1,5 @@
 var txinline_8h =
 [
-    [ "assign", "d7/d79/txinline_8h.html#afe0c9dc88d54c4460b386dad2a76de24", null ],
     [ "assign_att", "d7/d79/txinline_8h.html#a4be177aead1da34086bee61edcc36c52", null ],
     [ "assign_name", "d7/d79/txinline_8h.html#ae0a9ee63b95dd0a42e882407a6ed9152", null ],
     [ "bibtex_boot", "d7/d79/txinline_8h.html#a7844519f071bb338d7e86bff4ac35b0e", null ],
@@ -43,5 +42,5 @@ var txinline_8h =
     [ "Titlepage_start", "d7/d79/txinline_8h.html#a246be1abd05ba2c06e644bb1b9d5f06a", null ],
     [ "year_length", "d7/d79/txinline_8h.html#a6fb0cc8f3f4de1bc1875f1f5b32b46db", null ],
     [ "file_ended", "d7/d79/txinline_8h.html#a5040fb473523fb96dde58ceb8fdb9ccf", null ],
-    [ "the_log", "d7/d79/txinline_8h.html#aa417c4c322ba697e9492bca5b6b50d6e", null ]
+    [ "local_buf", "d7/d79/txinline_8h.html#ab323a5d9f356f1f6ca3b89430245d91c", null ]
 ];

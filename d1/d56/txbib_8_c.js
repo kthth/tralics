@@ -13,6 +13,5 @@ var txbib_8_c =
     [ "type_to_string", "d1/d56/txbib_8_c.html#a04b71671899b8203926074776acc9470", null ],
     [ "xless", "d1/d56/txbib_8_c.html#aa4f06caf507f1ffd91df774018bbe075", null ],
     [ "bib_xml_name", "d1/d56/txbib_8_c.html#a7c4a7cc11a2f9f4bf4285a94af887861", null ],
-    [ "ra_pretable", "d1/d56/txbib_8_c.html#a1dbe145c5a11754f70c55fb400469f4d", null ],
-    [ "raw_bib", "d1/d56/txbib_8_c.html#a722d0601004d1add30bc1ffcb7f5b739", null ]
+    [ "ra_pretable", "d1/d56/txbib_8_c.html#a1dbe145c5a11754f70c55fb400469f4d", null ]
 ];
