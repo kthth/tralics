@@ -10,7 +10,9 @@ var dir_59862cba00524bd398f0ca7f7ae6e06a =
     [ "Istring.h", "d5/daf/_istring_8h.html", [
       [ "Istring", "dd/d4f/class_istring.html", "dd/d4f/class_istring" ]
     ] ],
-    [ "MainClass.h", "d4/de9/_main_class_8h.html", "d4/de9/_main_class_8h" ],
+    [ "MainClass.h", "d4/de9/_main_class_8h.html", [
+      [ "MainClass", "d5/d5e/class_main_class.html", "d5/d5e/class_main_class" ]
+    ] ],
     [ "Token.h", "dd/dcd/_token_8h.html", "dd/dcd/_token_8h" ],
     [ "types.h", "d9/d49/types_8h.html", "d9/d49/types_8h" ]
 ];

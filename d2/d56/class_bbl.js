@@ -1,6 +1,5 @@
 var class_bbl =
 [
-    [ "Bbl", "d2/d56/class_bbl.html#ab0a8da3bb2bf40300ac050b154a87560", null ],
     [ "finish", "d2/d56/class_bbl.html#ae31fd1b462f5529dfc8aba109eb32ba5", null ],
     [ "get_lines", "d2/d56/class_bbl.html#ac9280e75349b0f2a52c19e7da26dad27", null ],
     [ "install_file", "d2/d56/class_bbl.html#a433e696de0b4ef94d0746fa31ff95b09", null ],
@@ -10,7 +9,7 @@ var class_bbl =
     [ "open", "d2/d56/class_bbl.html#adc529a7312963af53ccf16b4280eeb59", null ],
     [ "push_back", "d2/d56/class_bbl.html#a80186c1b910e40be174a802e8894f8c4", null ],
     [ "push_back", "d2/d56/class_bbl.html#ab615a95a5ca289aaf944d6048f870568", null ],
-    [ "push_back_braced", "d2/d56/class_bbl.html#a623d8a3f5651f0e6949660976c52b9da", null ],
+    [ "push_back_braced", "d2/d56/class_bbl.html#a1828d715919b6a8a933817283af9fc29", null ],
     [ "push_back_braced", "d2/d56/class_bbl.html#a00b990ec23465a476d0c8ae3c4e3fdc8", null ],
     [ "push_back_cmd", "d2/d56/class_bbl.html#a259eeb429ce9b0b7c84bff2a170cd5b2", null ],
     [ "reset", "d2/d56/class_bbl.html#ad93be3ba1f14bc1f1f22cb142897c6d2", null ],

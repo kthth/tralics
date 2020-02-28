@@ -1,7 +1,7 @@
 var class_font_info =
 [
     [ "FontInfo", "dd/d39/class_font_info.html#a2887c328096a1b86cdffd37a71efe399", null ],
-    [ "change_size", "dd/d39/class_font_info.html#ae9e31e92936efc7004774069afff6fb5", null ],
+    [ "change_size", "dd/d39/class_font_info.html#ad64f8377d5d76f1c571020ba0ae2b89d", null ],
     [ "family_change", "dd/d39/class_font_info.html#a0219cb5ef1d21c5dd8174e4b2ab7a32d", null ],
     [ "family_name", "dd/d39/class_font_info.html#a058fc1c585602dfe926086ed01bfac0f", null ],
     [ "get_color", "dd/d39/class_font_info.html#a6212e982c8a6625cd988df573a07fb4d", null ],
@@ -16,7 +16,7 @@ var class_font_info =
     [ "ltfont", "dd/d39/class_font_info.html#a3ee6f104133ac681c6096536ab325256", null ],
     [ "not_on_stack", "dd/d39/class_font_info.html#a71e04572088da97cc7374685a456a529", null ],
     [ "pack", "dd/d39/class_font_info.html#aedb4099180d0863af38916f537d7f74c", null ],
-    [ "see_font_change", "dd/d39/class_font_info.html#adc7568d1d2ef8b383d56cca4d4d6bf3b", null ],
+    [ "see_font_change", "dd/d39/class_font_info.html#a3861be39aeb4ed17529c5f0dcb229284", null ],
     [ "series_change", "dd/d39/class_font_info.html#a2f8dbcd2be2537c10f446c8d77fecc11", null ],
     [ "series_name", "dd/d39/class_font_info.html#a4d6e176fb38ba57a4fe8d277a27e2eb7", null ],
     [ "set_color", "dd/d39/class_font_info.html#a89bc9171d5e78eb64e2def1e30dc6daa", null ],

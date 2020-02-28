@@ -81,14 +81,14 @@ $(document).ready(function(){initNavTree('de/dcf/class_tex_out_stream.html','../
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a4cd4b78b07ed61bd6ecc1f66d55dadcb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#a4cd4b78b07ed61bd6ecc1f66d55dadcb">TexOutStream</a> ()</td></tr>
 <tr class="separator:a4cd4b78b07ed61bd6ecc1f66d55dadcb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac7c64b99c521d9ef6eb654b837cbb4d3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#ac7c64b99c521d9ef6eb654b837cbb4d3">close</a> (int)</td></tr>
-<tr class="separator:ac7c64b99c521d9ef6eb654b837cbb4d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab0cbd1c53f3e633846d3cc79c64b226f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#ab0cbd1c53f3e633846d3cc79c64b226f">open</a> (int, std::string)</td></tr>
-<tr class="separator:ab0cbd1c53f3e633846d3cc79c64b226f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a280c49abda55c3ce1ce1a64e73d6fc52"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#a280c49abda55c3ce1ce1a64e73d6fc52">is_open</a> (int i) const -&gt; bool</td></tr>
-<tr class="separator:a280c49abda55c3ce1ce1a64e73d6fc52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5d83a41f90d2ffa9fb2182dfcdd78c15"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#a5d83a41f90d2ffa9fb2182dfcdd78c15">write</a> (int chan, const std::string &amp;s)</td></tr>
-<tr class="separator:a5d83a41f90d2ffa9fb2182dfcdd78c15"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82f61f25ee3b358a742eb6a17b1679d1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#a82f61f25ee3b358a742eb6a17b1679d1">close</a> (size_t chan)</td></tr>
+<tr class="separator:a82f61f25ee3b358a742eb6a17b1679d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad75bd3949233e269eb100f698149b71c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#ad75bd3949233e269eb100f698149b71c">open</a> (size_t chan, const std::string &amp;<a class="el" href="../../d5/d87/globals_8h.html#a6780a91e804b0bccb16fc13dec117947">file_name</a>)</td></tr>
+<tr class="separator:ad75bd3949233e269eb100f698149b71c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0b4d1ae03d38152e3916ff09b28d2622"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#a0b4d1ae03d38152e3916ff09b28d2622">is_open</a> (size_t i) const -&gt; bool</td></tr>
+<tr class="separator:a0b4d1ae03d38152e3916ff09b28d2622"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80afff1161b7252642a8f3dd009a5c34"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#a80afff1161b7252642a8f3dd009a5c34">write</a> (size_t chan, const std::string &amp;s)</td></tr>
+<tr class="separator:a80afff1161b7252642a8f3dd009a5c34"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -121,8 +121,8 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ac7c64b99c521d9ef6eb654b837cbb4d3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac7c64b99c521d9ef6eb654b837cbb4d3">&#9670;&nbsp;</a></span>close()</h2>
+<a id="a82f61f25ee3b358a742eb6a17b1679d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a82f61f25ee3b358a742eb6a17b1679d1">&#9670;&nbsp;</a></span>close()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -130,7 +130,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">void TexOutStream::close </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
+          <td class="paramtype">size_t&#160;</td>
           <td class="paramname"><em>chan</em></td><td>)</td>
           <td></td>
         </tr>
@@ -141,8 +141,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a280c49abda55c3ce1ce1a64e73d6fc52"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a280c49abda55c3ce1ce1a64e73d6fc52">&#9670;&nbsp;</a></span>is_open()</h2>
+<a id="a0b4d1ae03d38152e3916ff09b28d2622"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0b4d1ae03d38152e3916ff09b28d2622">&#9670;&nbsp;</a></span>is_open()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -153,7 +153,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">auto TexOutStream::is_open </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
+          <td class="paramtype">size_t&#160;</td>
           <td class="paramname"><em>i</em></td><td>)</td>
           <td> const -&gt; bool </td>
         </tr>
@@ -169,8 +169,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="ab0cbd1c53f3e633846d3cc79c64b226f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab0cbd1c53f3e633846d3cc79c64b226f">&#9670;&nbsp;</a></span>open()</h2>
+<a id="ad75bd3949233e269eb100f698149b71c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad75bd3949233e269eb100f698149b71c">&#9670;&nbsp;</a></span>open()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -178,13 +178,13 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">void TexOutStream::open </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
+          <td class="paramtype">size_t&#160;</td>
           <td class="paramname"><em>chan</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::string&#160;</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
           <td class="paramname"><em>file_name</em>&#160;</td>
         </tr>
         <tr>
@@ -199,8 +199,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a5d83a41f90d2ffa9fb2182dfcdd78c15"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5d83a41f90d2ffa9fb2182dfcdd78c15">&#9670;&nbsp;</a></span>write()</h2>
+<a id="a80afff1161b7252642a8f3dd009a5c34"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a80afff1161b7252642a8f3dd009a5c34">&#9670;&nbsp;</a></span>write()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -211,7 +211,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">void TexOutStream::write </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
+          <td class="paramtype">size_t&#160;</td>
           <td class="paramname"><em>chan</em>, </td>
         </tr>
         <tr>

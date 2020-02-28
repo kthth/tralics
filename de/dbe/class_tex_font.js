@@ -1,10 +1,10 @@
 var class_tex_font =
 [
     [ "TexFont", "de/dbe/class_tex_font.html#ab18f079abb1cba12c5bbc837ae7a2f1f", null ],
-    [ "its_me", "de/dbe/class_tex_font.html#ac4d2a5e00916ae7954c113914ce40307", null ],
+    [ "its_me", "de/dbe/class_tex_font.html#a84a3fb3aa3fdab16717e5ee25b2f57e9", null ],
     [ "load", "de/dbe/class_tex_font.html#a885898ae794141161874d9574475b697", null ],
     [ "make_null", "de/dbe/class_tex_font.html#a0717250f09020cfce75a86dfcc8d3b64", null ],
-    [ "realloc_param", "de/dbe/class_tex_font.html#abc82e96b212ae95ddc9dbb5338fa3b86", null ],
+    [ "realloc_param", "de/dbe/class_tex_font.html#a7e926e07fb61db2ba72bb063b67bd148", null ],
     [ "at_val", "de/dbe/class_tex_font.html#ab140a24d542c6fc413ecc533928e2266", null ],
     [ "char_table", "de/dbe/class_tex_font.html#a2a892cf1575cb5efe11ccdec44d175a0", null ],
     [ "depth_len", "de/dbe/class_tex_font.html#aed0b1b9843edf3a2aaf9eac13e3e3b79", null ],

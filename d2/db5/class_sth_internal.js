@@ -5,7 +5,7 @@ var class_sth_internal =
     [ "add_ovf", "d2/db5/class_sth_internal.html#a6feb6199824fc174b869eefb823839da", null ],
     [ "attach_fraction", "d2/db5/class_sth_internal.html#a77a3bc17ed40884e48b1ff0813393ac8", null ],
     [ "attach_sign", "d2/db5/class_sth_internal.html#a9b201557ea1fcde38839a5719feefcc2", null ],
-    [ "change_level", "d2/db5/class_sth_internal.html#a437e5dbb62d854ed8b09366341bb5641", null ],
+    [ "change_level", "d2/db5/class_sth_internal.html#a0760a6ee3f0ae1bf65bae81f4a3a43b6", null ],
     [ "check_overflow", "d2/db5/class_sth_internal.html#a8c70634a8b4742e83bc372a7b073041c", null ],
     [ "copy", "d2/db5/class_sth_internal.html#ae0bd8cc692b583ec741f7dd8b8138634", null ],
     [ "cv_dim_to_mu", "d2/db5/class_sth_internal.html#a393e5df3f56d8deb5d00f1db0091c3f7", null ],

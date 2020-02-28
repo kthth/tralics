@@ -5,7 +5,7 @@ var globals_8_c =
     [ "check_for_encoding", "d2/dbb/globals_8_c.html#a4f106601282ed868d651f218a24fc603", null ],
     [ "obsolete", "d2/dbb/globals_8_c.html#a4ee7833b403f027fe1fe99493c2785d8", null ],
     [ "set_everyjob", "d2/dbb/globals_8_c.html#add154324fb41a19f12b3b86de0f7d538", null ],
-    [ "show_encoding", "d2/dbb/globals_8_c.html#a0c3f790c381023425346fffe2cb7460a", null ],
+    [ "show_encoding", "d2/dbb/globals_8_c.html#a2401441fb58a90ec6474f7a4f15ec85e", null ],
     [ "all_themes", "d2/dbb/globals_8_c.html#a8531830449fbde76990aa97d13049720", null ],
     [ "bad_minus", "d2/dbb/globals_8_c.html#af8d4f699dff2942ba82cc1630cc95f07", null ],
     [ "compatibility", "d2/dbb/globals_8_c.html#aca380c0d0dc934d00a499f8184de7286", null ],

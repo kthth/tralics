@@ -29,6 +29,7 @@ var txlogger_8h =
     [ "operator<<", "d2/d06/txlogger_8h.html#a105e9648371dfa9299f6b4299358c30b", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#a205c9a022d4b7e6e716242d5af380c35", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#a2e261be77279ac2f835942c2aa5ff751", null ],
+    [ "operator<<", "d2/d06/txlogger_8h.html#a307e6053e5c81b6c5e3fa6a4331304a1", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#a077b6b7ffa0b121d56586d6e765ba9b0", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#ad43141b7c57b07c6dcf1335655877f6c", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#ac9d7f43323b4f038cdb06f86e9ab429b", null ],
@@ -52,9 +53,9 @@ var txlogger_8h =
     [ "operator<<", "d2/d06/txlogger_8h.html#ad29ed12fcc1d485e6d95b300f36b695f", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#a7825ce2716794ebd6bbc8b4490f8ae88", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#a76f90a95cb43f405ce57f6826e0168ab", null ],
-    [ "operator<<", "d2/d06/txlogger_8h.html#a4156b9587e037680a3cfa48b43d665eb", null ],
+    [ "operator<<", "d2/d06/txlogger_8h.html#acf7e495fb69aaff9f02fdb6118ec7735", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#ad3b03f2165992a65c5a9366e67027587", null ],
-    [ "operator<<", "d2/d06/txlogger_8h.html#a8afc6dced68f0ad697899a71ed88be9c", null ],
+    [ "operator<<", "d2/d06/txlogger_8h.html#ae0b924efb858d1e8bcc511feff564773", null ],
     [ "log_and_tty", "d2/d06/txlogger_8h.html#a02e2a88bea0c5fb183c36f01930256ed", null ],
     [ "the_log", "d2/d06/txlogger_8h.html#aa417c4c322ba697e9492bca5b6b50d6e", null ]
 ];

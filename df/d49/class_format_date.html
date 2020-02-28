@@ -69,6 +69,7 @@ $(document).ready(function(){initNavTree('df/d49/class_format_date.html','../../
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-static-methods">Static Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../da/d81/class_format_date-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -80,8 +81,8 @@ $(document).ready(function(){initNavTree('df/d49/class_format_date.html','../../
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a3d3ebcb34cedaacfb012b99dca255ac1"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a3d3ebcb34cedaacfb012b99dca255ac1">interpret</a> (const std::string &amp;, <a class="el" href="../../d9/d27/struct_token.html">Token</a> T) -&gt; bool</td></tr>
-<tr class="separator:a3d3ebcb34cedaacfb012b99dca255ac1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a215e71f9a07e033f4c446efb02ff83f6"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a215e71f9a07e033f4c446efb02ff83f6">interpret</a> (const std::string &amp;s, <a class="el" href="../../d9/d27/struct_token.html">Token</a> T) -&gt; bool</td></tr>
+<tr class="separator:a215e71f9a07e033f4c446efb02ff83f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a30db02304fdc76a9097c2a1d7af946ab"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a30db02304fdc76a9097c2a1d7af946ab">get_year</a> () const -&gt; int</td></tr>
 <tr class="separator:a30db02304fdc76a9097c2a1d7af946ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac35eb4de573c1ee72a56a21d439686ae"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#ac35eb4de573c1ee72a56a21d439686ae">get_month</a> () const -&gt; int</td></tr>
@@ -91,20 +92,23 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:a462a0f24c3e79c8648a8b891cda95b2e"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a462a0f24c3e79c8648a8b891cda95b2e">scan_a_field</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;, int &amp;) -&gt; bool</td></tr>
-<tr class="separator:a462a0f24c3e79c8648a8b891cda95b2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7315e5ad6e52deecfb5af4957028409a"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a7315e5ad6e52deecfb5af4957028409a">scan_a_month</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;, int &amp;) -&gt; bool</td></tr>
-<tr class="separator:a7315e5ad6e52deecfb5af4957028409a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a42320b3700dca36c8cd82b69e775c627"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a42320b3700dca36c8cd82b69e775c627">scan_next</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;, int &amp;) -&gt; bool</td></tr>
-<tr class="separator:a42320b3700dca36c8cd82b69e775c627"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a434f7eb4eace43ab965d80435c1cd48d"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a434f7eb4eace43ab965d80435c1cd48d">scan_a_field</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;B, int &amp;res) -&gt; bool</td></tr>
+<tr class="separator:a434f7eb4eace43ab965d80435c1cd48d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a216cd5cc17a6e860e34ea93ef4b44811"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a216cd5cc17a6e860e34ea93ef4b44811">scan_next</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;B, int &amp;res) -&gt; bool</td></tr>
+<tr class="separator:a216cd5cc17a6e860e34ea93ef4b44811"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aae6962ef6fcb7dc8efe83bf9cb6308e0"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#aae6962ef6fcb7dc8efe83bf9cb6308e0">sort</a> () -&gt; bool</td></tr>
 <tr class="separator:aae6962ef6fcb7dc8efe83bf9cb6308e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a27549caefed3b6bfed1bf69ef2b4297c"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a27549caefed3b6bfed1bf69ef2b4297c">next_format_char</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;) -&gt; int</td></tr>
-<tr class="separator:a27549caefed3b6bfed1bf69ef2b4297c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac0e12cde0a1a49e372a35e9340cf9def"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#ac0e12cde0a1a49e372a35e9340cf9def">parse_format</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;) -&gt; bool</td></tr>
-<tr class="separator:ac0e12cde0a1a49e372a35e9340cf9def"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5a91225b03079674b0f384c5955cdc7e"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a5a91225b03079674b0f384c5955cdc7e">parse</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;) -&gt; bool</td></tr>
-<tr class="separator:a5a91225b03079674b0f384c5955cdc7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a68b2765c8fa8260e9b2e0ad755680514"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a68b2765c8fa8260e9b2e0ad755680514">parse_format</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;B) -&gt; bool</td></tr>
+<tr class="separator:a68b2765c8fa8260e9b2e0ad755680514"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5892b7e9733bf2ab988b78240ca0a37"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#ab5892b7e9733bf2ab988b78240ca0a37">parse</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;B) -&gt; bool</td></tr>
+<tr class="separator:ab5892b7e9733bf2ab988b78240ca0a37"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-methods"></a>
+Static Private Member Functions</h2></td></tr>
+<tr class="memitem:ab650142e13c1e92d578782fb7f1e9a3e"><td class="memItemLeft" align="right" valign="top">static auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#ab650142e13c1e92d578782fb7f1e9a3e">scan_a_month</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;B, int &amp;res) -&gt; bool</td></tr>
+<tr class="separator:ab650142e13c1e92d578782fb7f1e9a3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f99039c2f58143548c54c9ed7dc283f"><td class="memItemLeft" align="right" valign="top">static auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d49/class_format_date.html#a6f99039c2f58143548c54c9ed7dc283f">next_format_char</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;B) -&gt; int</td></tr>
+<tr class="separator:a6f99039c2f58143548c54c9ed7dc283f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -202,8 +206,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a3d3ebcb34cedaacfb012b99dca255ac1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3d3ebcb34cedaacfb012b99dca255ac1">&#9670;&nbsp;</a></span>interpret()</h2>
+<a id="a215e71f9a07e033f4c446efb02ff83f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a215e71f9a07e033f4c446efb02ff83f6">&#9670;&nbsp;</a></span>interpret()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -228,12 +232,12 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l02103">2103</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l02102">2102</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
 
 </div>
 </div>
-<a id="a27549caefed3b6bfed1bf69ef2b4297c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a27549caefed3b6bfed1bf69ef2b4297c">&#9670;&nbsp;</a></span>next_format_char()</h2>
+<a id="a6f99039c2f58143548c54c9ed7dc283f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f99039c2f58143548c54c9ed7dc283f">&#9670;&nbsp;</a></span>next_format_char()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -251,17 +255,17 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l02032">2032</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l02031">2031</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
 
 </div>
 </div>
-<a id="a5a91225b03079674b0f384c5955cdc7e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5a91225b03079674b0f384c5955cdc7e">&#9670;&nbsp;</a></span>parse()</h2>
+<a id="ab5892b7e9733bf2ab988b78240ca0a37"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab5892b7e9733bf2ab988b78240ca0a37">&#9670;&nbsp;</a></span>parse()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -284,12 +288,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l02086">2086</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l02085">2085</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
 
 </div>
 </div>
-<a id="ac0e12cde0a1a49e372a35e9340cf9def"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac0e12cde0a1a49e372a35e9340cf9def">&#9670;&nbsp;</a></span>parse_format()</h2>
+<a id="a68b2765c8fa8260e9b2e0ad755680514"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a68b2765c8fa8260e9b2e0ad755680514">&#9670;&nbsp;</a></span>parse_format()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -312,12 +316,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l02042">2042</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l02041">2041</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
 
 </div>
 </div>
-<a id="a462a0f24c3e79c8648a8b891cda95b2e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a462a0f24c3e79c8648a8b891cda95b2e">&#9670;&nbsp;</a></span>scan_a_field()</h2>
+<a id="a434f7eb4eace43ab965d80435c1cd48d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a434f7eb4eace43ab965d80435c1cd48d">&#9670;&nbsp;</a></span>scan_a_field()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -350,12 +354,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l01814">1814</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l01813">1813</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
 
 </div>
 </div>
-<a id="a7315e5ad6e52deecfb5af4957028409a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7315e5ad6e52deecfb5af4957028409a">&#9670;&nbsp;</a></span>scan_a_month()</h2>
+<a id="ab650142e13c1e92d578782fb7f1e9a3e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab650142e13c1e92d578782fb7f1e9a3e">&#9670;&nbsp;</a></span>scan_a_month()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -383,17 +387,17 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l01843">1843</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l01842">1842</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
 
 </div>
 </div>
-<a id="a42320b3700dca36c8cd82b69e775c627"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a42320b3700dca36c8cd82b69e775c627">&#9670;&nbsp;</a></span>scan_next()</h2>
+<a id="a216cd5cc17a6e860e34ea93ef4b44811"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a216cd5cc17a6e860e34ea93ef4b44811">&#9670;&nbsp;</a></span>scan_next()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -426,7 +430,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l02008">2008</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l02007">2007</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
 
 </div>
 </div>
@@ -453,7 +457,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l01795">1795</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/txparser2_8_c_source.html#l01794">1794</a> of file <a class="el" href="../../d5/d2e/txparser2_8_c_source.html">txparser2.C</a>.</p>
 
 </div>
 </div>

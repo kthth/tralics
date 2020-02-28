@@ -1,10 +1,10 @@
 var class_str_hash =
 [
     [ "StrHash", "de/df7/class_str_hash.html#a299f471d38685ac30579e0e03e993123", null ],
-    [ "find", "de/df7/class_str_hash.html#afd24de0ba0aa1f9dbfdeaf882ada0e5a", null ],
-    [ "find", "de/df7/class_str_hash.html#a93e37b1861d9fea7cb1a4ee4f1985fb2", null ],
-    [ "find", "de/df7/class_str_hash.html#aca43ff3e8481f7659f0dab10492d2483", null ],
-    [ "find_scaled", "de/df7/class_str_hash.html#a8fb80e20ce19b7861b6fb4e5f94b4322", null ],
+    [ "find", "de/df7/class_str_hash.html#a90011a01c8217c08f4aba9af50d41264", null ],
+    [ "find", "de/df7/class_str_hash.html#a72272ac199499355f01093598c6d602c", null ],
+    [ "find", "de/df7/class_str_hash.html#a9ab54549a3ad6d8fca94c1404c9f3112", null ],
+    [ "find_scaled", "de/df7/class_str_hash.html#afd65449e55d2cb23531f893363de100d", null ],
     [ "hash_find", "de/df7/class_str_hash.html#a1799849406934b1134ea5189fb1fcadb", null ],
     [ "lab_val", "de/df7/class_str_hash.html#ab04d8a96e90ea6e1d01b85ab151eec16", null ],
     [ "lab_val_check", "de/df7/class_str_hash.html#abd31457c87cd0ffdef5851ac7dc4d62b", null ],
@@ -13,7 +13,6 @@ var class_str_hash =
     [ "operator[]", "de/df7/class_str_hash.html#a817380c22e95972b1a8dea71eae81e63", null ],
     [ "p_str", "de/df7/class_str_hash.html#a170d1903e9d493bc5b3f3cad0d732732", null ],
     [ "re_alloc", "de/df7/class_str_hash.html#ae40f0842e4b802d6f2b12ff38cf8c261", null ],
-    [ "rlc_to_string", "de/df7/class_str_hash.html#aef7e13b9efdf77e732bb7106eee26e9c", null ],
     [ "shbuf", "de/df7/class_str_hash.html#a77efdc047f6c7debd96f3e9bed241ebb", null ],
     [ "hash_last", "de/df7/class_str_hash.html#a66256edc8fb761a8acb9049ee5a87d80", null ],
     [ "hash_len", "de/df7/class_str_hash.html#a32596a2f59c0e230dc137cc5543128d7", null ],

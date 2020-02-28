@@ -78,10 +78,11 @@ $(document).ready(function(){initNavTree('d1/d56/txbib_8_c.html','../../'); init
 <code>#include &quot;<a class="el" href="../../d6/dcb/txbib_8h_source.html">txbib.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../d2/d1b/txparser_8h_source.html">txparser.h</a>&quot;</code><br />
 <code>#include &lt;algorithm&gt;</code><br />
+<code>#include &lt;fmt/format.h&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for txbib.C:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d22/txbib_8_c__incl.svg" width="858" height="990"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d22/txbib_8_c__incl.svg" width="1130" height="916"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 <p><a href="../../d1/d56/txbib_8_c_source.html">Go to the source code of this file.</a></p>
@@ -112,10 +113,10 @@ Functions</h2></td></tr>
 <tr class="separator:a50d5a25bdb1c21146638a7b4e36c5dd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a04b71671899b8203926074776acc9470"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dda/namespacebib__ns.html#a04b71671899b8203926074776acc9470">bib_ns::type_to_string</a> (<a class="el" href="../../dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9b">entry_type</a> x) -&gt; <a class="el" href="../../d0/d0b/enums_8h.html#a89072ae6f4333d1933b13d5270758405">name_positions</a></td></tr>
 <tr class="separator:a04b71671899b8203926074776acc9470"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a01ae6ee3bae60967e783c866b82ebc27"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dda/namespacebib__ns.html#a01ae6ee3bae60967e783c866b82ebc27">bib_ns::is_noopsort</a> (const std::string &amp;s, int i) -&gt; bool</td></tr>
-<tr class="separator:a01ae6ee3bae60967e783c866b82ebc27"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a393dbdf90fa011f05ec3222d28aa2b72"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/namespaceio__ns.html#a393dbdf90fa011f05ec3222d28aa2b72">io_ns::how_many_bytes</a> (<a class="el" href="../../d9/d49/types_8h.html#ae48ac2456c5ad6c956fef86e7bef3a21">uchar</a>) -&gt; int</td></tr>
-<tr class="separator:a393dbdf90fa011f05ec3222d28aa2b72"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ed6ec3c00730dca382d86e8cb53c8e2"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dda/namespacebib__ns.html#a6ed6ec3c00730dca382d86e8cb53c8e2">bib_ns::is_noopsort</a> (const std::string &amp;s, size_t i) -&gt; bool</td></tr>
+<tr class="separator:a6ed6ec3c00730dca382d86e8cb53c8e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acce035301d0022baab729fa778f9ee4c"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/namespaceio__ns.html#acce035301d0022baab729fa778f9ee4c">io_ns::how_many_bytes</a> (char) -&gt; size_t</td></tr>
+<tr class="separator:acce035301d0022baab729fa778f9ee4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa4f06caf507f1ffd91df774018bbe075"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d56/txbib_8_c.html#aa4f06caf507f1ffd91df774018bbe075">xless</a> (<a class="el" href="../../d9/dc4/class_bib_entry.html">BibEntry</a> *A, <a class="el" href="../../d9/dc4/class_bib_entry.html">BibEntry</a> *B) -&gt; bool</td></tr>
 <tr class="separator:aa4f06caf507f1ffd91df774018bbe075"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:add12689cfa5666d52e2667346e4ad865"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d56/txbib_8_c.html#add12689cfa5666d52e2667346e4ad865">operator&lt;&lt;</a> (<a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;X, const <a class="el" href="../../d6/d63/class_bchar.html">Bchar</a> &amp;Y) -&gt; <a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;</td></tr>
@@ -123,10 +124,10 @@ Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a7c4a7cc11a2f9f4bf4285a94af887861"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d56/txbib_8_c.html#a7c4a7cc11a2f9f4bf4285a94af887861">bib_xml_name</a> []</td></tr>
-<tr class="separator:a7c4a7cc11a2f9f4bf4285a94af887861"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1dbe145c5a11754f70c55fb400469f4d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d56/txbib_8_c.html#a1dbe145c5a11754f70c55fb400469f4d">ra_pretable</a> [8]</td></tr>
-<tr class="separator:a1dbe145c5a11754f70c55fb400469f4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6b0df7e30bf4e394b27326897d14e05"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>, 30 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d56/txbib_8_c.html#ac6b0df7e30bf4e394b27326897d14e05">bib_xml_name</a></td></tr>
+<tr class="separator:ac6b0df7e30bf4e394b27326897d14e05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97495449d206ba2b09248e94624806cd"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>, 8 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d56/txbib_8_c.html#a97495449d206ba2b09248e94624806cd">ra_pretable</a></td></tr>
+<tr class="separator:a97495449d206ba2b09248e94624806cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="add12689cfa5666d52e2667346e4ad865"></a>
@@ -155,7 +156,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d56/txbib_8_c_source.html#l02376">2376</a> of file <a class="el" href="../../d1/d56/txbib_8_c_source.html">txbib.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/d56/txbib_8_c_source.html#l02359">2359</a> of file <a class="el" href="../../d1/d56/txbib_8_c_source.html">txbib.C</a>.</p>
 
 </div>
 </div>
@@ -185,44 +186,44 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d56/txbib_8_c_source.html#l01596">1596</a> of file <a class="el" href="../../d1/d56/txbib_8_c_source.html">txbib.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/d56/txbib_8_c_source.html#l01585">1585</a> of file <a class="el" href="../../d1/d56/txbib_8_c_source.html">txbib.C</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a7c4a7cc11a2f9f4bf4285a94af887861"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c4a7cc11a2f9f4bf4285a94af887861">&#9670;&nbsp;</a></span>bib_xml_name</h2>
+<a id="ac6b0df7e30bf4e394b27326897d14e05"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac6b0df7e30bf4e394b27326897d14e05">&#9670;&nbsp;</a></span>bib_xml_name</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> bib_xml_name[]</td>
+          <td class="memname">std::array&lt;<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>, 30&gt; bib_xml_name</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">= {<span class="stringliteral">&quot;bcrossref&quot;</span>,     <span class="stringliteral">&quot;bkey&quot;</span>,         <span class="stringliteral">&quot;baddress&quot;</span>, <span class="stringliteral">&quot;bauthors&quot;</span>, <span class="stringliteral">&quot;bbooktitle&quot;</span>,   <span class="stringliteral">&quot;bchapter&quot;</span>, <span class="stringliteral">&quot;bedition&quot;</span>,      <span class="stringliteral">&quot;beditors&quot;</span>,</div>
-<div class="line">                         <span class="stringliteral">&quot;bhowpublished&quot;</span>, <span class="stringliteral">&quot;binstitution&quot;</span>, <span class="stringliteral">&quot;bjournal&quot;</span>, <span class="stringliteral">&quot;bmonth&quot;</span>,   <span class="stringliteral">&quot;bnote&quot;</span>,        <span class="stringliteral">&quot;bnumber&quot;</span>,  <span class="stringliteral">&quot;borganization&quot;</span>, <span class="stringliteral">&quot;bpages&quot;</span>,</div>
-<div class="line">                         <span class="stringliteral">&quot;bpublisher&quot;</span>,    <span class="stringliteral">&quot;bschool&quot;</span>,      <span class="stringliteral">&quot;bseries&quot;</span>,  <span class="stringliteral">&quot;btitle&quot;</span>,   <span class="stringliteral">&quot;btype&quot;</span>,        <span class="stringliteral">&quot;burl&quot;</span>,     <span class="stringliteral">&quot;bvolume&quot;</span>,       <span class="stringliteral">&quot;byear&quot;</span>,</div>
-<div class="line">                         <span class="stringliteral">&quot;bdoi&quot;</span>,          <span class="stringliteral">&quot;bsubtype&quot;</span>,     <span class="stringliteral">&quot;bunite&quot;</span>,   <span class="stringliteral">&quot;bequipe&quot;</span>,  <span class="stringliteral">&quot;bidentifiant&quot;</span>, <span class="stringliteral">&quot;bunknown&quot;</span>}</div>
+<b>Initial value:</b><div class="fragment"><div class="line">{</div>
+<div class="line">    <span class="stringliteral">&quot;bcrossref&quot;</span>, <span class="stringliteral">&quot;bkey&quot;</span>,   <span class="stringliteral">&quot;baddress&quot;</span>, <span class="stringliteral">&quot;bauthors&quot;</span>, <span class="stringliteral">&quot;bbooktitle&quot;</span>,    <span class="stringliteral">&quot;bchapter&quot;</span>, <span class="stringliteral">&quot;bedition&quot;</span>,   <span class="stringliteral">&quot;beditors&quot;</span>, <span class="stringliteral">&quot;bhowpublished&quot;</span>, <span class="stringliteral">&quot;binstitution&quot;</span>,</div>
+<div class="line">    <span class="stringliteral">&quot;bjournal&quot;</span>,  <span class="stringliteral">&quot;bmonth&quot;</span>, <span class="stringliteral">&quot;bnote&quot;</span>,    <span class="stringliteral">&quot;bnumber&quot;</span>,  <span class="stringliteral">&quot;borganization&quot;</span>, <span class="stringliteral">&quot;bpages&quot;</span>,   <span class="stringliteral">&quot;bpublisher&quot;</span>, <span class="stringliteral">&quot;bschool&quot;</span>,  <span class="stringliteral">&quot;bseries&quot;</span>,       <span class="stringliteral">&quot;btitle&quot;</span>,</div>
+<div class="line">    <span class="stringliteral">&quot;btype&quot;</span>,     <span class="stringliteral">&quot;burl&quot;</span>,   <span class="stringliteral">&quot;bvolume&quot;</span>,  <span class="stringliteral">&quot;byear&quot;</span>,    <span class="stringliteral">&quot;bdoi&quot;</span>,          <span class="stringliteral">&quot;bsubtype&quot;</span>, <span class="stringliteral">&quot;bunite&quot;</span>,     <span class="stringliteral">&quot;bequipe&quot;</span>,  <span class="stringliteral">&quot;bidentifiant&quot;</span>,  <span class="stringliteral">&quot;bunknown&quot;</span>}</div>
 </div><!-- fragment -->
-<p class="definition">Definition at line <a class="el" href="../../d1/d56/txbib_8_c_source.html#l00054">54</a> of file <a class="el" href="../../d1/d56/txbib_8_c_source.html">txbib.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/d56/txbib_8_c_source.html#l00055">55</a> of file <a class="el" href="../../d1/d56/txbib_8_c_source.html">txbib.C</a>.</p>
 
 </div>
 </div>
-<a id="a1dbe145c5a11754f70c55fb400469f4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1dbe145c5a11754f70c55fb400469f4d">&#9670;&nbsp;</a></span>ra_pretable</h2>
+<a id="a97495449d206ba2b09248e94624806cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97495449d206ba2b09248e94624806cd">&#9670;&nbsp;</a></span>ra_pretable</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> ra_pretable[8]</td>
+          <td class="memname">std::array&lt;<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>, 8&gt; ra_pretable</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d1/d56/txbib_8_c_source.html#l00781">781</a> of file <a class="el" href="../../d1/d56/txbib_8_c_source.html">txbib.C</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d1/d56/txbib_8_c_source.html#l00774">774</a> of file <a class="el" href="../../d1/d56/txbib_8_c_source.html">txbib.C</a>.</p>
 
 </div>
 </div>

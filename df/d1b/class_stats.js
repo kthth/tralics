@@ -2,7 +2,6 @@ var class_stats =
 [
     [ "Stats", "df/d1b/class_stats.html#a88e22fc26e9c8af13b6e0b4ce72e2f98", null ],
     [ "after_boot", "df/d1b/class_stats.html#a48c0c1bcc4c48f8eae364a735727b2b4", null ],
-    [ "io_convert_stats", "df/d1b/class_stats.html#a9da488ac712b5a6a182bedc35c6bb677", null ],
     [ "more_math_destroy", "df/d1b/class_stats.html#aa3e55a1e32cb95923ac19e85ee3db9b1", null ],
     [ "one_less_macro", "df/d1b/class_stats.html#a1a87a3d6897355be2dbaf417354486b8", null ],
     [ "one_more_alloc_list", "df/d1b/class_stats.html#a6fcb603613e53da48cec7377010b9259", null ],
@@ -26,12 +25,12 @@ var class_stats =
     [ "one_more_shorten_list", "df/d1b/class_stats.html#ad901e5279323cd254a8ad911ac5373e8", null ],
     [ "one_more_small", "df/d1b/class_stats.html#a2ac32f813f5014859f27856ee30e819b", null ],
     [ "one_more_special", "df/d1b/class_stats.html#a4159ec010298cabed19dd694796ed8fb", null ],
-    [ "one_more_string", "df/d1b/class_stats.html#a43ac0e717db19aacdf535b27b82e45e8", null ],
+    [ "one_more_string", "df/d1b/class_stats.html#a363e083bf6082eda5e9d938df022cd25", null ],
     [ "one_more_trivial", "df/d1b/class_stats.html#a237d8788f48848c372ebae5e0f4744da", null ],
     [ "one_more_up", "df/d1b/class_stats.html#a81c5223625366ee69eea8c369ac0e2a8", null ],
     [ "one_more_used_ref", "df/d1b/class_stats.html#a40ea73496c43011ecf1bcd43c16145c3", null ],
     [ "print_module_stats", "df/d1b/class_stats.html#acd63e50b38fb3c46fe73760866c7fb8e", null ],
-    [ "set_nb_xboot", "df/d1b/class_stats.html#afc9351cf943f3505a4108347fb451149", null ],
+    [ "set_nb_xboot", "df/d1b/class_stats.html#a3c6c7d7ebf061e37faf1cd5373567e50", null ],
     [ "token_stats", "df/d1b/class_stats.html#aea99dae54ffc05fac00eac1448b6f1a4", null ],
     [ "footnotes", "df/d1b/class_stats.html#add5f1356ad6116eae6f5316ae3220caf", null ],
     [ "level_down", "df/d1b/class_stats.html#a640126a3f717952483d1e2d9a5a45a96", null ],
@@ -53,7 +52,7 @@ var class_stats =
     [ "nb_macros_del", "df/d1b/class_stats.html#ad75ec009cee8412354765898da663351", null ],
     [ "nb_ref", "df/d1b/class_stats.html#a1a237a62aaf9b1403ad12842c9643f1e", null ],
     [ "nb_used_ref", "df/d1b/class_stats.html#a5ddb1fd1eca3aa4787939c2fbd944105", null ],
-    [ "nb_xboot", "df/d1b/class_stats.html#ad1468864b3e3f393e7ab6ef903ed2f0a", null ],
+    [ "nb_xboot", "df/d1b/class_stats.html#a5fb58c357408261c0a04c0bd2d24a37d", null ],
     [ "sh_boot", "df/d1b/class_stats.html#ad9daefcb168409e96b4082332d8479e7", null ],
     [ "sh_find", "df/d1b/class_stats.html#a0dca0e3353a45f40bd1d59a434461d37", null ],
     [ "sh_used", "df/d1b/class_stats.html#a45565d020781192f8b5d871dd369dba1", null ],
@@ -62,5 +61,5 @@ var class_stats =
     [ "st_nb_string", "df/d1b/class_stats.html#ab7660fc0a92914a53d98998128be2971", null ],
     [ "st_short", "df/d1b/class_stats.html#a79de8789504a4bde92a99b5697dcb879", null ],
     [ "stb_alloc", "df/d1b/class_stats.html#a830c0ad7865c20059adbe223c1c8dc28", null ],
-    [ "str_length", "df/d1b/class_stats.html#aa5cb9bc284e2af6a4491ead0f7db38a9", null ]
+    [ "str_length", "df/d1b/class_stats.html#aceaa17dbd0e2cbd7582c14c9cce03c18", null ]
 ];
