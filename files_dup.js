@@ -66,11 +66,11 @@ var files_dup =
       [ "SaveAuxEnv", "d3/d93/class_save_aux_env.html", "d3/d93/class_save_aux_env" ],
       [ "SaveAuxFont", "d5/d26/class_save_aux_font.html", "d5/d26/class_save_aux_font" ],
       [ "SaveAuxAftergroup", "d7/d9f/class_save_aux_aftergroup.html", "d7/d9f/class_save_aux_aftergroup" ],
-      [ "EqtbInt", "df/d12/class_eqtb_int.html", "df/d12/class_eqtb_int" ],
+      [ "EqtbInt", "df/d22/struct_eqtb_int.html", "df/d22/struct_eqtb_int" ],
       [ "EqtbString", "d9/d52/class_eqtb_string.html", "d9/d52/class_eqtb_string" ],
       [ "EqtbDim", "d8/d8f/class_eqtb_dim.html", "d8/d8f/class_eqtb_dim" ],
       [ "EqtbGlue", "d8/d42/class_eqtb_glue.html", "d8/d42/class_eqtb_glue" ],
-      [ "EqtbToken", "d4/d24/class_eqtb_token.html", "d4/d24/class_eqtb_token" ],
+      [ "EqtbToken", "d7/d85/struct_eqtb_token.html", "d7/d85/struct_eqtb_token" ],
       [ "EqtbBox", "d8/d71/class_eqtb_box.html", "d8/d71/class_eqtb_box" ]
     ] ],
     [ "txerr.C", "d1/d79/txerr_8_c.html", "d1/d79/txerr_8_c" ],

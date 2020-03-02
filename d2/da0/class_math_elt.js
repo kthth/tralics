@@ -56,7 +56,7 @@ var class_math_elt =
     [ "set_xmltype", "d2/da0/class_math_elt.html#ab2bad97abb820febb5f921d30765e76e", null ],
     [ "special3", "d2/da0/class_math_elt.html#a2587738427a73a675d3bac2773032fb1", null ],
     [ "try_math_op", "d2/da0/class_math_elt.html#a223b68678487d4abdafc0b485ab3d708", null ],
-    [ "val_as_digit", "d2/da0/class_math_elt.html#a20c132fcf4bfec09ce0c531d824f54c0", null ],
+    [ "val_as_digit", "d2/da0/class_math_elt.html#adbf52ae75aa30c2c1b4cadbdab7b8e62", null ],
     [ "Font", "d2/da0/class_math_elt.html#a92546770c063a742e1d5c795de2c0fad", null ],
     [ "val", "d2/da0/class_math_elt.html#a8f345c9a0e41430ad2de2e7d6a1e29ad", null ]
 ];

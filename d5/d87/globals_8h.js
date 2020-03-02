@@ -31,7 +31,7 @@ var globals_8h =
     [ "file_name", "d5/d87/globals_8h.html#a6780a91e804b0bccb16fc13dec117947", null ],
     [ "file_pool", "d5/d87/globals_8h.html#a865ab304fdaeae8e229551ef05a47e45", null ],
     [ "input_path", "d5/d87/globals_8h.html#a755d9618c26010081da25e9ae262e075", null ],
-    [ "leftquote_val", "d5/d87/globals_8h.html#af22538aba6f0b9ff7f75c9d5adf68a80", null ],
+    [ "leftquote_val", "d5/d87/globals_8h.html#a7c45fd35253d95023155073c13e68056", null ],
     [ "log_name", "d5/d87/globals_8h.html#a8779964f932c525ed6d4fc9d824838ab", null ],
     [ "no_ext", "d5/d87/globals_8h.html#a920d6a323d9a67c2bd390472e33e7de1", null ],
     [ "nofloat_hack", "d5/d87/globals_8h.html#adbf952bf60db4992c6e84f62d19c1603", null ],
@@ -41,6 +41,6 @@ var globals_8h =
     [ "out_dir", "d5/d87/globals_8h.html#a47ada5f0c4dfcac5b666ab67934eee0f", null ],
     [ "pool_position", "d5/d87/globals_8h.html#af349173badbcd8d36f524d95a03cc9e3", null ],
     [ "raw_bib", "d5/d87/globals_8h.html#a83df6c8f671d442ff41b993ffe026845", null ],
-    [ "rightquote_val", "d5/d87/globals_8h.html#a6cd3a07c4e2aadb3752ead49d0c6e8b9", null ],
+    [ "rightquote_val", "d5/d87/globals_8h.html#a39dbe4450811a62423b7b6989fb19e36", null ],
     [ "seen_enddocument", "d5/d87/globals_8h.html#a86c76a292ea3c8197d90403d0ee589ff", null ]
 ];

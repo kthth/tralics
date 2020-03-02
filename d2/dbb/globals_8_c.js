@@ -15,7 +15,7 @@ var globals_8_c =
     [ "file_name", "d2/dbb/globals_8_c.html#a6780a91e804b0bccb16fc13dec117947", null ],
     [ "file_pool", "d2/dbb/globals_8_c.html#a865ab304fdaeae8e229551ef05a47e45", null ],
     [ "input_path", "d2/dbb/globals_8_c.html#a755d9618c26010081da25e9ae262e075", null ],
-    [ "leftquote_val", "d2/dbb/globals_8_c.html#af22538aba6f0b9ff7f75c9d5adf68a80", null ],
+    [ "leftquote_val", "d2/dbb/globals_8_c.html#a7c45fd35253d95023155073c13e68056", null ],
     [ "log_name", "d2/dbb/globals_8_c.html#a8779964f932c525ed6d4fc9d824838ab", null ],
     [ "no_ext", "d2/dbb/globals_8_c.html#a920d6a323d9a67c2bd390472e33e7de1", null ],
     [ "nofloat_hack", "d2/dbb/globals_8_c.html#adbf952bf60db4992c6e84f62d19c1603", null ],
@@ -25,6 +25,6 @@ var globals_8_c =
     [ "out_dir", "d2/dbb/globals_8_c.html#a47ada5f0c4dfcac5b666ab67934eee0f", null ],
     [ "pool_position", "d2/dbb/globals_8_c.html#af349173badbcd8d36f524d95a03cc9e3", null ],
     [ "raw_bib", "d2/dbb/globals_8_c.html#a83df6c8f671d442ff41b993ffe026845", null ],
-    [ "rightquote_val", "d2/dbb/globals_8_c.html#a6cd3a07c4e2aadb3752ead49d0c6e8b9", null ],
+    [ "rightquote_val", "d2/dbb/globals_8_c.html#a39dbe4450811a62423b7b6989fb19e36", null ],
     [ "seen_enddocument", "d2/dbb/globals_8_c.html#a86c76a292ea3c8197d90403d0ee589ff", null ]
 ];

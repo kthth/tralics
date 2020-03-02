@@ -14,7 +14,7 @@ var class_math =
     [ "clear", "d4/d34/class_math.html#aeff9c0a4de099c9ccdafb6faa6371fba", null ],
     [ "concat", "d4/d34/class_math.html#ad488f090e071a409708ff2826677e7db", null ],
     [ "concat_space", "d4/d34/class_math.html#ae4968960a392ded91a55d864ac3948c9", null ],
-    [ "convert_cell", "d4/d34/class_math.html#a0b6edaef0ff3319ef79a912e3d57910e", null ],
+    [ "convert_cell", "d4/d34/class_math.html#abd6c158b9ee18ac6b197ce84b1d0c8b1", null ],
     [ "convert_char_iseq", "d4/d34/class_math.html#a7b40142d70ed776499ad3acc8e8873b3", null ],
     [ "convert_char_seq", "d4/d34/class_math.html#a8b8a7072035a7a66e1c99d9472053fc7", null ],
     [ "convert_math", "d4/d34/class_math.html#a4d28dda9fc961a504249c3eb78f7dc1e", null ],

@@ -29,6 +29,7 @@ var txlogger_8h =
     [ "operator<<", "d2/d06/txlogger_8h.html#a105e9648371dfa9299f6b4299358c30b", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#a205c9a022d4b7e6e716242d5af380c35", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#a2e261be77279ac2f835942c2aa5ff751", null ],
+    [ "operator<<", "d2/d06/txlogger_8h.html#ae5590b4cfc9d13cadddb7433345c7d89", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#a307e6053e5c81b6c5e3fa6a4331304a1", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#a077b6b7ffa0b121d56586d6e765ba9b0", null ],
     [ "operator<<", "d2/d06/txlogger_8h.html#ad43141b7c57b07c6dcf1335655877f6c", null ],

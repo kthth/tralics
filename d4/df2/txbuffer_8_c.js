@@ -1,6 +1,6 @@
 var txbuffer_8_c =
 [
-    [ "current_escape_char", "d4/df2/txbuffer_8_c.html#a9878358062f251d4ff7503329eb5641d", null ],
+    [ "current_escape_char", "d4/df2/txbuffer_8_c.html#a5378f5f6ec490c5c6bdfa9bba147c72b", null ],
     [ "dump_identification", "d4/df2/txbuffer_8_c.html#a51ec132325d866c2cbfd334223db351b", null ],
     [ "is_letter", "d4/df2/txbuffer_8_c.html#a83d2ed506dcf853759880418cb37be99", null ],
     [ "null_cs_name", "d4/df2/txbuffer_8_c.html#a8dab77a72cb2d9885960b19d42a30646", null ],

@@ -132,7 +132,7 @@ var class_cmd_chr =
     [ "token_unimp_name", "de/d72/class_cmd_chr.html#a50347e4c683192531d79ba24366bfe8d", null ],
     [ "token_xkeyval_name", "de/d72/class_cmd_chr.html#a3dfb296494a275be85b5a432b08b1701", null ],
     [ "token_xray_name", "de/d72/class_cmd_chr.html#a15dad19f31ebee431af2de4243a8389f", null ],
-    [ "val_as_digit", "de/d72/class_cmd_chr.html#adf1bcf3a5640a9581fbcd161c6ae5c57", null ],
+    [ "val_as_digit", "de/d72/class_cmd_chr.html#aafd823cab86303443082bc822e501be5", null ],
     [ "chr", "de/d72/class_cmd_chr.html#a509e54d4f7f25c6fc43182c0c37f39e4", null ],
     [ "cmd", "de/d72/class_cmd_chr.html#aac61c21c934fd70f60b2afcf58a5b9e4", null ]
 ];

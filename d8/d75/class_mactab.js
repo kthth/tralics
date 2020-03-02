@@ -7,7 +7,7 @@ var class_mactab =
     [ "new_macro", "d8/d75/class_mactab.html#a56f2be3a0b16d9ad0ca279079d774f20", null ],
     [ "rc_mac_realloc", "d8/d75/class_mactab.html#a27d0124789ef09102ff0e22b0d16ecd8", null ],
     [ "cur_rc_mac_len", "d8/d75/class_mactab.html#a5e6afaa1531775f3fd8cbf4867c29cb5", null ],
-    [ "ptr", "d8/d75/class_mactab.html#aaf52c9cf647b01065cb46317e316054b", null ],
-    [ "rc_table", "d8/d75/class_mactab.html#ac31e602fe5719ac2cfd94cea080bfa15", null ],
+    [ "ptr", "d8/d75/class_mactab.html#a1fe04f2e329e80cdaa8412008b843ff9", null ],
+    [ "rc_table", "d8/d75/class_mactab.html#a856403ac2ab60b93fefb0f24bf586158", null ],
     [ "table", "d8/d75/class_mactab.html#aa8a51effa88b4f024bcfeb1978f642eb", null ]
 ];

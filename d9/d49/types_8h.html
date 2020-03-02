@@ -68,12 +68,20 @@ $(document).ready(function(){initNavTree('d9/d49/types_8h.html','../../'); initR
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">types.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><div class="dynheader">
+<div class="textblock"><code>#include &lt;cassert&gt;</code><br />
+<code>#include &lt;type_traits&gt;</code><br />
+</div><div class="textblock"><div class="dynheader">
+Include dependency graph for types.h:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d2/d1f/types_8h__incl.svg" width="182" height="110"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+</div><div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dc/d56/types_8h__dep__incl.svg" width="2446" height="843"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
@@ -96,6 +104,15 @@ Typedefs</h2></td></tr>
 <tr class="separator:afc1fb549fe70cb348a1b6203b60b7800"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac5aa0b5103dcecdc43c57c669d432ba3"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d49/types_8h.html#ac5aa0b5103dcecdc43c57c669d432ba3">Digit</a> = unsigned int</td></tr>
 <tr class="separator:ac5aa0b5103dcecdc43c57c669d432ba3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a3434951d97966b3a8477f755d0deef5a"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a3434951d97966b3a8477f755d0deef5a"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d49/types_8h.html#a3434951d97966b3a8477f755d0deef5a">to_signed</a> (T x) -&gt; std::enable_if_t&lt; std::is_unsigned_v&lt; T &gt;, std::make_signed_t&lt; T &gt;&gt;</td></tr>
+<tr class="separator:a3434951d97966b3a8477f755d0deef5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade7d89b16d0cba97d0af8bd1017cdbac"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:ade7d89b16d0cba97d0af8bd1017cdbac"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d49/types_8h.html#ade7d89b16d0cba97d0af8bd1017cdbac">to_unsigned</a> (T x) -&gt; std::enable_if_t&lt; std::is_signed_v&lt; T &gt;, std::make_unsigned_t&lt; T &gt;&gt;</td></tr>
+<tr class="separator:ade7d89b16d0cba97d0af8bd1017cdbac"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
 <a id="ac5aa0b5103dcecdc43c57c669d432ba3"></a>
@@ -110,7 +127,7 @@ Typedefs</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d9/d49/types_8h_source.html#l00006">6</a> of file <a class="el" href="../../d9/d49/types_8h_source.html">types.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/d49/types_8h_source.html#l00008">8</a> of file <a class="el" href="../../d9/d49/types_8h_source.html">types.h</a>.</p>
 
 </div>
 </div>
@@ -126,7 +143,7 @@ Typedefs</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d9/d49/types_8h_source.html#l00005">5</a> of file <a class="el" href="../../d9/d49/types_8h_source.html">types.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/d49/types_8h_source.html#l00007">7</a> of file <a class="el" href="../../d9/d49/types_8h_source.html">types.h</a>.</p>
 
 </div>
 </div>
@@ -142,7 +159,7 @@ Typedefs</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d9/d49/types_8h_source.html#l00004">4</a> of file <a class="el" href="../../d9/d49/types_8h_source.html">types.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/d49/types_8h_source.html#l00006">6</a> of file <a class="el" href="../../d9/d49/types_8h_source.html">types.h</a>.</p>
 
 </div>
 </div>
@@ -158,7 +175,52 @@ Typedefs</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d9/d49/types_8h_source.html#l00003">3</a> of file <a class="el" href="../../d9/d49/types_8h_source.html">types.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d9/d49/types_8h_source.html#l00005">5</a> of file <a class="el" href="../../d9/d49/types_8h_source.html">types.h</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a3434951d97966b3a8477f755d0deef5a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3434951d97966b3a8477f755d0deef5a">&#9670;&nbsp;</a></span>to_signed()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">auto to_signed </td>
+          <td>(</td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>x</em></td><td>)</td>
+          <td> -&gt; std::enable_if_t&lt;std::is_unsigned_v&lt;T&gt;, std::make_signed_t&lt;T&gt;&gt; </td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/d49/types_8h_source.html#l00012">12</a> of file <a class="el" href="../../d9/d49/types_8h_source.html">types.h</a>.</p>
+
+</div>
+</div>
+<a id="ade7d89b16d0cba97d0af8bd1017cdbac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade7d89b16d0cba97d0af8bd1017cdbac">&#9670;&nbsp;</a></span>to_unsigned()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">auto to_unsigned </td>
+          <td>(</td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>x</em></td><td>)</td>
+          <td> -&gt; std::enable_if_t&lt;std::is_signed_v&lt;T&gt;, std::make_unsigned_t&lt;T&gt;&gt; </td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d9/d49/types_8h_source.html#l00016">16</a> of file <a class="el" href="../../d9/d49/types_8h_source.html">types.h</a>.</p>
 
 </div>
 </div>

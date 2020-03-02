@@ -14,6 +14,7 @@ var class_logger =
     [ "operator<<", "d3/d42/class_logger.html#a0023d31c655fb0840072718ea04fca30", null ],
     [ "operator<<", "d3/d42/class_logger.html#a9a785f5a1d89aad6a0ffba197afd7bca", null ],
     [ "operator<<", "d3/d42/class_logger.html#ad5a232ba29b216958e3ca0c48853c107", null ],
+    [ "operator<<", "d3/d42/class_logger.html#a952aa46ff01d21fd63dc73130cebcd09", null ],
     [ "operator<<", "d3/d42/class_logger.html#a3af2e8dc66d8c464054652090565e0a4", null ],
     [ "operator<<", "d3/d42/class_logger.html#ae66cb6e6506a19fa8f33160829467948", null ],
     [ "operator<<", "d3/d42/class_logger.html#a0bdeb8a156b6e46a90e1ce2108359d25", null ],

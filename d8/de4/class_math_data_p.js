@@ -45,8 +45,8 @@ var class_math_data_p =
     [ "TM_mk", "d8/de4/class_math_data_p.html#abcf5d4cda09ff27b44bef24d936fd7d3", null ],
     [ "built_in_table", "d8/de4/class_math_data_p.html#a236538aa9aad61a49754accafc298638", null ],
     [ "built_in_table_alt", "d8/de4/class_math_data_p.html#a243d87d1fb0e51b16d72e6d3196e44ff", null ],
-    [ "lmath_pos", "d8/de4/class_math_data_p.html#a4125e695bf6719217a8a5622007c9575", null ],
-    [ "lmath_size", "d8/de4/class_math_data_p.html#a64e4ef8f1c226493128af15d8c4017df", null ],
+    [ "lmath_pos", "d8/de4/class_math_data_p.html#a774b312bd88cd5dbf1b820bf13225177", null ],
+    [ "lmath_size", "d8/de4/class_math_data_p.html#a35d5294b4caf2697c467283cb8555c9e", null ],
     [ "math_char_type", "d8/de4/class_math_data_p.html#a72c71583dccf5a50e5197a3cd37b2844", null ],
     [ "math_table", "d8/de4/class_math_data_p.html#a22cf3f50b54436f13ed8fafc0762b8a4", null ],
     [ "mc_table", "d8/de4/class_math_data_p.html#abb7f6f95edf62f30d345c9ad55d3b172", null ],
@@ -54,8 +54,8 @@ var class_math_data_p =
     [ "nomathsw0", "d8/de4/class_math_data_p.html#ae349c6c6fd9acb0bbf3a54127fb0aade", null ],
     [ "nomathsw1", "d8/de4/class_math_data_p.html#a7b3d64a48bb4cc0dfd127618ce48945b", null ],
     [ "simplemath_table", "d8/de4/class_math_data_p.html#af3fcbf5b4b661a863556b7b0991a96c1", null ],
-    [ "xmath_pos", "d8/de4/class_math_data_p.html#a2e25a91aca8ad8d0538382f4b8526b33", null ],
-    [ "xmath_size", "d8/de4/class_math_data_p.html#ab16c0da387416d472c4096c626b4ef88", null ],
+    [ "xmath_pos", "d8/de4/class_math_data_p.html#ab9ab509f674fd30e382c20e27b95c4fc", null ],
+    [ "xmath_size", "d8/de4/class_math_data_p.html#a00b128ac86f69b1e4bcaa017e9b2ec30", null ],
     [ "xml_lr_ptable", "d8/de4/class_math_data_p.html#a05be9a84aeae0b38a202642b1eac847c", null ],
     [ "xml_math_table", "d8/de4/class_math_data_p.html#a14cd3a83c86279b40c78442f097a0992", null ]
 ];
