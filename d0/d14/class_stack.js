@@ -71,7 +71,7 @@ var class_stack =
     [ "push1", "d0/d14/class_stack.html#aaab2f6f6884c8d777606b41798b1e20c", null ],
     [ "push1", "d0/d14/class_stack.html#a373bf8d426bfee9b27bd66f48fc51ab1", null ],
     [ "push_hbox", "d0/d14/class_stack.html#afe69facdf2457da97f975dafe9d2ab33", null ],
-    [ "push_par", "d0/d14/class_stack.html#a5eb2813fb165df687ac91104f6ae62b6", null ],
+    [ "push_par", "d0/d14/class_stack.html#a9ceef5ce19cfb579d398792af0788be4", null ],
     [ "push_pop_cell", "d0/d14/class_stack.html#a94cddb659f87a7a5f75b169f24903bae", null ],
     [ "push_trace", "d0/d14/class_stack.html#a2182884c2f78a8dea2df142d99419198", null ],
     [ "remove_last", "d0/d14/class_stack.html#a9e45908d5ac9b0970ed73272ad4a42a2", null ],
@@ -99,9 +99,9 @@ var class_stack =
     [ "cur_lid", "d0/d14/class_stack.html#a298df42acb79d8ff29f3e65df1bc4035", null ],
     [ "cur_mode", "d0/d14/class_stack.html#abf4244c62ea159f7b08c6856553ccd4d", null ],
     [ "enames", "d0/d14/class_stack.html#ac73731e7e1a1a5a10a4b67d0b7e5a0a1", null ],
-    [ "last_xid", "d0/d14/class_stack.html#a8e5d484b2f33449f9cdb4e99f5caa58a", null ],
+    [ "last_xid", "d0/d14/class_stack.html#a6f525d21eb933acca49413cf33bad3e7", null ],
     [ "mybuffer", "d0/d14/class_stack.html#a5a68535b572c5b9695575af9381887cc", null ],
     [ "newline_xml", "d0/d14/class_stack.html#a33eab452fb7763d2dbff292a68eaba3a", null ],
     [ "Table", "d0/d14/class_stack.html#a069c9089bf1c73d709a198597f6bbb09", null ],
-    [ "xid_boot", "d0/d14/class_stack.html#a7f30e73606d8bf62ab4a146e9cd1f9a8", null ]
+    [ "xid_boot", "d0/d14/class_stack.html#ae027fed8d11b1441c16103af5db73daf", null ]
 ];

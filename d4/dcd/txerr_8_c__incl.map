@@ -1,7 +1,8 @@
 <map id="txerr.C" name="txerr.C">
-<area shape="rect" id="node1" title=" " alt="" coords="297,5,358,31"/>
+<area shape="rect" id="node1" title=" " alt="" coords="525,5,586,31"/>
 <area shape="rect" id="node2" href="$d7/d79/txinline_8h.html" title=" " alt="" coords="177,79,251,104"/>
 <area shape="rect" id="node30" href="$d2/d1b/txparser_8h.html" title=" " alt="" coords="516,79,596,104"/>
+<area shape="rect" id="node40" title=" " alt="" coords="620,79,712,104"/>
 <area shape="rect" id="node3" href="$d4/de9/_main_class_8h.html" title=" " alt="" coords="213,152,346,177"/>
 <area shape="rect" id="node27" href="$d2/d06/txlogger_8h.html" title=" " alt="" coords="5,152,84,177"/>
 <area shape="rect" id="node29" href="$d5/d08/txparam_8h.html" title=" " alt="" coords="109,152,189,177"/>

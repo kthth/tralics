@@ -23,7 +23,7 @@ var txinline_8h =
     [ "get_short_jobname", "d7/d79/txinline_8h.html#afcac1bc36924ecc73e72afa53929e632", null ],
     [ "interpret_list", "d7/d79/txinline_8h.html#ab9b849544c55a80af5fa4b9270bc4501", null ],
     [ "is_accent_char", "d7/d79/txinline_8h.html#a075c83a542ce14c9c204752a42d94c75", null ],
-    [ "is_leap_year", "d7/d79/txinline_8h.html#a188ce4d5eb3fc3a1194455060fb9d7dc", null ],
+    [ "is_leap_year", "d7/d79/txinline_8h.html#a49f42303de051f60a0a6b92e9b61fd3f", null ],
     [ "is_tp_delim", "d7/d79/txinline_8h.html#ae392d60437794ba7452e69e9543bf779", null ],
     [ "is_vowel", "d7/d79/txinline_8h.html#a98b8b406f6494d7951e12479dfa550c0", null ],
     [ "make_names", "d7/d79/txinline_8h.html#a44037e2af840d0bb0fd7c2d898037118", null ],
@@ -40,7 +40,6 @@ var txinline_8h =
     [ "Titlepage_create", "d7/d79/txinline_8h.html#a20ef3179063c6395dec01488ac231e99", null ],
     [ "titlepage_is_valid", "d7/d79/txinline_8h.html#a227fbeab42cfd1fca544c0adf743d9fb", null ],
     [ "Titlepage_start", "d7/d79/txinline_8h.html#a98c2264a34414115f2b0b80be83d360d", null ],
-    [ "year_length", "d7/d79/txinline_8h.html#a6fb0cc8f3f4de1bc1875f1f5b32b46db", null ],
     [ "file_ended", "d7/d79/txinline_8h.html#a5040fb473523fb96dde58ceb8fdb9ccf", null ],
     [ "local_buf", "d7/d79/txinline_8h.html#ab323a5d9f356f1f6ca3b89430245d91c", null ]
 ];

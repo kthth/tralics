@@ -18,7 +18,7 @@ var class_xkv_setkeys =
     [ "run_key", "d6/d9a/class_xkv_setkeys.html#a3a46ef50aabcb41951ac88eb0002ed2d", null ],
     [ "save_key", "d6/d9a/class_xkv_setkeys.html#ab0715568214ab75d4274eeb4429c8787", null ],
     [ "set_aux", "d6/d9a/class_xkv_setkeys.html#ab0afc13f4bb8fa046de7e5b5aca2b93d", null ],
-    [ "set_aux", "d6/d9a/class_xkv_setkeys.html#a0cef343fcaddd38d41cc5edc41a1c974", null ],
+    [ "set_aux", "d6/d9a/class_xkv_setkeys.html#a28b0d3d55f02742e0ca0143233c8cb80", null ],
     [ "set_inpox", "d6/d9a/class_xkv_setkeys.html#a912195e972ef03c0403ef3ed1c379d29", null ],
     [ "special_fams", "d6/d9a/class_xkv_setkeys.html#a5da7a839e7be1f545826fb3495739e13", null ],
     [ "action", "d6/d9a/class_xkv_setkeys.html#a8664c2e76ec5a656bc6a91922433203b", null ],

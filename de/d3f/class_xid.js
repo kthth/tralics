@@ -1,6 +1,6 @@
 var class_xid =
 [
-    [ "Xid", "de/d3f/class_xid.html#a83c0138af2eddd7d2a3e5f8b1f4c3ee9", null ],
+    [ "Xid", "de/d3f/class_xid.html#a900432e8ce397aa311e18eeb7f20a828", null ],
     [ "add_attribute", "de/d3f/class_xid.html#a4bb93f61274ac33944096ef796baeec5", null ],
     [ "add_attribute", "de/d3f/class_xid.html#a45c8f452ce5d602139e062bf58b2c1d8", null ],
     [ "add_attribute", "de/d3f/class_xid.html#adbba521c29df02111c065e6b5a9fc9d3", null ],
@@ -18,5 +18,5 @@ var class_xid =
     [ "has_attribute", "de/d3f/class_xid.html#aff11eef67796351574e1e8d50709be28", null ],
     [ "is_font_change", "de/d3f/class_xid.html#a71a1020f0200c132b50eebf83a520cab", null ],
     [ "operator==", "de/d3f/class_xid.html#af0cf99299ef083b02db4311c110cd7f9", null ],
-    [ "value", "de/d3f/class_xid.html#a5823075e6c9dd47f1da2da284902c9e1", null ]
+    [ "value", "de/d3f/class_xid.html#a6f2fda5182d101b8831abe3c8f80b737", null ]
 ];

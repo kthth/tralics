@@ -6,7 +6,7 @@ var class_latex_package =
     [ "check_all_options", "d5/dc4/class_latex_package.html#ae48ba71d2ed94bf8e66d0a16786ec4e2", null ],
     [ "check_global_options", "d5/dc4/class_latex_package.html#a873da855007335c1482c7a778f9a612a", null ],
     [ "check_local_options", "d5/dc4/class_latex_package.html#ac36de06660b1eacfad0271fdd89167da", null ],
-    [ "find_option", "d5/dc4/class_latex_package.html#a35f1afd19dc961eacdf84c731f18a0d4", null ],
+    [ "find_option", "d5/dc4/class_latex_package.html#a35b373b86a25a5ee199d48a2a3257884", null ],
     [ "full_name", "d5/dc4/class_latex_package.html#a77a482d4e22fe3b37fa472a7392870c0", null ],
     [ "has_name", "d5/dc4/class_latex_package.html#a0bcada39cb6b11d60aae13a950febfd7", null ],
     [ "is_class", "d5/dc4/class_latex_package.html#a95528d75ecdfc0e41a154af0063fc09e", null ],

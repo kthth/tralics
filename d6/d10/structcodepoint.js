@@ -1,6 +1,7 @@
 var structcodepoint =
 [
     [ "codepoint", "d6/d10/structcodepoint.html#a7c12bf1c35bd31337c2d515462dbc815", null ],
+    [ "codepoint", "d6/d10/structcodepoint.html#a5ceed6f8a1895fcdc0be1d2f5e357f19", null ],
     [ "codepoint", "d6/d10/structcodepoint.html#a05018117a709f449752ed0881043550c", null ],
     [ "codepoint", "d6/d10/structcodepoint.html#a046feebfcd18e9e52a8cdff12cd6fca4", null ],
     [ "hex_val", "d6/d10/structcodepoint.html#ab6634e4f848ed5c70895bb7ada1344b8", null ],

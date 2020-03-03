@@ -93,7 +93,7 @@ var class_math =
     [ "special2", "d4/d34/class_math.html#a9e83ca62969e63d993baed3260931faf", null ],
     [ "split_as_array", "d4/d34/class_math.html#a78e4ce84d90d25e505bdd2476b7b9427", null ],
     [ "third_element", "d4/d34/class_math.html#a063edf296d49522435519ca3d3bfdf18", null ],
-    [ "trivial_math", "d4/d34/class_math.html#a7e5c17b21c34b05b27938bbb17171b16", null ],
+    [ "trivial_math", "d4/d34/class_math.html#a31bbb9c45289727aa29b0f2393dfa6bf", null ],
     [ "trivial_math_index", "d4/d34/class_math.html#aa2afd48b9d88ce7b065b47674076ab3a", null ],
     [ "MathDataP", "d4/d34/class_math.html#af2d301efe4b39a34ebdcdcf12f9a37b6", null ],
     [ "MathElt", "d4/d34/class_math.html#a2a969b2dfc1a542e9b12471d3b19ee62", null ],
