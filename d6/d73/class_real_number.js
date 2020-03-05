@@ -4,7 +4,7 @@ var class_real_number =
     [ "change_sign", "d6/d73/class_real_number.html#ae488ec45987873a721c0d4a46c0a5880", null ],
     [ "change_sign_i", "d6/d73/class_real_number.html#af8a4a9fcd348042d7f14c150fde97bf3", null ],
     [ "convert_decimal_part", "d6/d73/class_real_number.html#aa8a908e2bdcd74313b01f03cc0c939dc", null ],
-    [ "from_int", "d6/d73/class_real_number.html#a497e295490421872d39bc012c4cd9aaf", null ],
+    [ "from_int", "d6/d73/class_real_number.html#a4f72c04b0f8aed30e44c98d769123feb", null ],
     [ "get_fpart", "d6/d73/class_real_number.html#ac40450021314ed78f3f3bd41c2359df2", null ],
     [ "get_ipart", "d6/d73/class_real_number.html#ac3239c697d39eedf99261aac9a40ec68", null ],
     [ "get_negative", "d6/d73/class_real_number.html#a1eb4b7d64747b99a8a43cd659da834ef", null ],

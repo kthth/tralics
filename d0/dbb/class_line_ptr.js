@@ -6,7 +6,7 @@ var class_line_ptr =
     [ "add_buffer", "d0/dbb/class_line_ptr.html#a8ec7279743d8539ff6c09b7caa27c9f3", null ],
     [ "after_open", "d0/dbb/class_line_ptr.html#ac8d3a9f82239c164ac2f0d65bb786161", null ],
     [ "before_close", "d0/dbb/class_line_ptr.html#a85eb70c4510e0416ff803c870aebcbbc", null ],
-    [ "change_encoding", "d0/dbb/class_line_ptr.html#a8beaac11ff99547f5efdbc3e0a817b01", null ],
+    [ "change_encoding", "d0/dbb/class_line_ptr.html#a0b9e15e465cf18597f52148296fec7f8", null ],
     [ "clear", "d0/dbb/class_line_ptr.html#a0e093e04db62668dc0a5ac0438b275c1", null ],
     [ "clear_and_copy", "d0/dbb/class_line_ptr.html#a5d5bc1959811a62c9d0a47960868b31a", null ],
     [ "dump_name", "d0/dbb/class_line_ptr.html#af3323073d5c1dc18fb1a6de8e9e6ef42", null ],

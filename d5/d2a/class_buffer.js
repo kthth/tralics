@@ -151,7 +151,7 @@ var class_buffer =
     [ "out_four_hats", "d5/d2a/class_buffer.html#aa313d92f77c416bca7788e5e4b2416e9", null ],
     [ "out_log", "d5/d2a/class_buffer.html#a141cef52f95296830b08a2f2c5e23467", null ],
     [ "pack_or_class", "d5/d2a/class_buffer.html#a10c4cde6b6077a226fbdcd3c4d92042a", null ],
-    [ "process_big_char", "d5/d2a/class_buffer.html#ae3d321f0e6a7ced6d5de7bbfee486977", null ],
+    [ "process_big_char", "d5/d2a/class_buffer.html#a5886d10458a902887e21b56488742467", null ],
     [ "pt_to_mu", "d5/d2a/class_buffer.html#a0610a724f5391d412fca64a2120e8f2c", null ],
     [ "purify", "d5/d2a/class_buffer.html#aabc1362cb9b27ad7f8a875022b9fe9bf", null ],
     [ "purify", "d5/d2a/class_buffer.html#a64e80e46084a6a6ae8ca92554045fe4d", null ],

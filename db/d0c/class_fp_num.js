@@ -43,7 +43,7 @@ var class_fp_num =
     [ "pow", "db/d0c/class_fp_num.html#ab9558d3e7346c19b4f287e46c191cd86", null ],
     [ "random", "db/d0c/class_fp_num.html#ad0e7a78a26e9bff0b964063e5a5a7bc3", null ],
     [ "reset", "db/d0c/class_fp_num.html#aaf30a877be9390fd1d188ea997028a3c", null ],
-    [ "round", "db/d0c/class_fp_num.html#a8d597dfad13e83b86225645d02655cb2", null ],
+    [ "round", "db/d0c/class_fp_num.html#ae2ea72daaca4791c06bc1f6f86146bd1", null ],
     [ "round0", "db/d0c/class_fp_num.html#a1f7e84d93725560da5b09f045cd34113", null ],
     [ "sgn", "db/d0c/class_fp_num.html#a77b5d351a5fcf57b2cd138871c6a4b6e", null ],
     [ "sin0", "db/d0c/class_fp_num.html#a6986991a6720cd5a5c3e43c969bc22a9", null ],
@@ -58,7 +58,7 @@ var class_fp_num =
     [ "trigo_inv", "db/d0c/class_fp_num.html#a34cb439cd014640c2562882eb66bb8ba", null ],
     [ "trigo_sqrt", "db/d0c/class_fp_num.html#aa6b3cee7aafaae3805618e13fa387a41", null ],
     [ "trigo_xy", "db/d0c/class_fp_num.html#a6409ba7f3c8c1a9b1690132592a04604", null ],
-    [ "truncate", "db/d0c/class_fp_num.html#a42aa5bb6aa5d0ca96f13dd4116a7bd9a", null ],
+    [ "truncate", "db/d0c/class_fp_num.html#a600759b0da7ca99b07380f1af6b3bb56", null ],
     [ "unsplit_mul4", "db/d0c/class_fp_num.html#a796d41a79354e97cff06ed5d3c03c123", null ],
     [ "data", "db/d0c/class_fp_num.html#a648ffcd448c46c36cf0f801ec2c18935", null ],
     [ "sign", "db/d0c/class_fp_num.html#ac405a690f55a05849a5b4be10f39428a", null ]

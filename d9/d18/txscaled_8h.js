@@ -8,9 +8,9 @@ var txscaled_8h =
     [ "TexRule", "dd/db9/class_tex_rule.html", "dd/db9/class_tex_rule" ],
     [ "add_ovf", "d9/d18/txscaled_8h.html#a379cc3bc9a9bf4ae732302f2899f4143", null ],
     [ "n_times_x", "d9/d18/txscaled_8h.html#ace75f3aec8f560d450210ae39ece43c9", null ],
-    [ "nx_plus_y", "d9/d18/txscaled_8h.html#a0daef4dd15fa85e55308533e2c52334e", null ],
+    [ "nx_plus_y", "d9/d18/txscaled_8h.html#a6ef9160a64dbdd3e88f85aa4def6d941", null ],
     [ "operator==", "d9/d18/txscaled_8h.html#ae51b23582f1187fb23fe45ff55491f98", null ],
     [ "quotient", "d9/d18/txscaled_8h.html#ac2438016a44755ff8590e97e263373c6", null ],
     [ "scaled_div", "d9/d18/txscaled_8h.html#aea744e629d25fbfca70b96fb8c5fc81f", null ],
-    [ "xn_over_d", "d9/d18/txscaled_8h.html#a7cd391cef36a8a40a8c5fd218b8cf12e", null ]
+    [ "xn_over_d", "d9/d18/txscaled_8h.html#af16931f22f32871e576d464d8536cdb4", null ]
 ];

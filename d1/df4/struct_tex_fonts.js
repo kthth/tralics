@@ -4,7 +4,7 @@ var struct_tex_fonts =
     [ "define_a_new_font", "d1/df4/struct_tex_fonts.html#af4f79b7e57f021c266fb0fed82b368a7", null ],
     [ "find_font", "d1/df4/struct_tex_fonts.html#afa68224e4e6774a5254b897f6f809cef", null ],
     [ "full_name", "d1/df4/struct_tex_fonts.html#a785017c4d18a1ed95146bfb24604bbfa", null ],
-    [ "get_dimen_param", "d1/df4/struct_tex_fonts.html#a0ccc858ead59a98a726adea993c23931", null ],
+    [ "get_dimen_param", "d1/df4/struct_tex_fonts.html#a4628d32756b378a659e2346a4b94b65b", null ],
     [ "get_int_param", "d1/df4/struct_tex_fonts.html#a2123fd6b720697e2099267b180aba91b", null ],
     [ "is_valid", "d1/df4/struct_tex_fonts.html#a78fc8f59d43450d6578acc48fa97a505", null ],
     [ "name", "d1/df4/struct_tex_fonts.html#adc8e4d51dda164d20e2671d9760fff92", null ],

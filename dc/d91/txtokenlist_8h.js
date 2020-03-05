@@ -35,7 +35,7 @@ var txtokenlist_8h =
     [ "replace", "dc/d91/txtokenlist_8h.html#a647134dba2e44d0dcb7140acf0d87d09", null ],
     [ "replace_space", "dc/d91/txtokenlist_8h.html#ace9cff0c951dfd802381423bbc439ceb", null ],
     [ "sanitize_one", "dc/d91/txtokenlist_8h.html#af7dc3fac7e2488ebb1532e1cd4aaf77a", null ],
-    [ "sanitize_one", "dc/d91/txtokenlist_8h.html#a8dfc89913369ece2333115501a571a3f", null ],
+    [ "sanitize_one", "dc/d91/txtokenlist_8h.html#aaa9e72a052ef2bb858a245ef8545425d", null ],
     [ "sanitize_one", "dc/d91/txtokenlist_8h.html#a6e6c4fd4e4cee3d4da1f2cc6d0b1a352", null ],
     [ "show", "dc/d91/txtokenlist_8h.html#afebd514bcf1797226edb3fe97dd38af3", null ],
     [ "split_at", "dc/d91/txtokenlist_8h.html#a8f35f170b229c506e62e04c7e336c40a", null ],

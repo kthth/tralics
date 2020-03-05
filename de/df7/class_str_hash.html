@@ -82,6 +82,8 @@ $(document).ready(function(){initNavTree('de/df7/class_str_hash.html','../../');
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a299f471d38685ac30579e0e03e993123"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a299f471d38685ac30579e0e03e993123">StrHash</a> ()</td></tr>
 <tr class="separator:a299f471d38685ac30579e0e03e993123"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adaf0ec91ce8ba42a7020ca1927dde173"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#adaf0ec91ce8ba42a7020ca1927dde173">p_str</a> (long k) const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
+<tr class="separator:adaf0ec91ce8ba42a7020ca1927dde173"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae40f0842e4b802d6f2b12ff38cf8c261"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#ae40f0842e4b802d6f2b12ff38cf8c261">re_alloc</a> ()</td></tr>
 <tr class="separator:ae40f0842e4b802d6f2b12ff38cf8c261"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1799849406934b1134ea5189fb1fcadb"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a1799849406934b1134ea5189fb1fcadb">hash_find</a> () -&gt; int</td></tr>
@@ -92,10 +94,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a90011a01c8217c08f4aba9af50d41264"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a72272ac199499355f01093598c6d602c"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a72272ac199499355f01093598c6d602c">find</a> (int s) -&gt; int</td></tr>
 <tr class="separator:a72272ac199499355f01093598c6d602c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a817380c22e95972b1a8dea71eae81e63"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a817380c22e95972b1a8dea71eae81e63">operator[]</a> (int k) const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
-<tr class="separator:a817380c22e95972b1a8dea71eae81e63"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a170d1903e9d493bc5b3f3cad0d732732"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a170d1903e9d493bc5b3f3cad0d732732">p_str</a> (int k) const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
-<tr class="separator:a170d1903e9d493bc5b3f3cad0d732732"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe5511979ceef4d8d093a893260b89f9"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#abe5511979ceef4d8d093a893260b89f9">operator[]</a> (size_t k) const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
+<tr class="separator:abe5511979ceef4d8d093a893260b89f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a77efdc047f6c7debd96f3e9bed241ebb"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#a77efdc047f6c7debd96f3e9bed241ebb">shbuf</a> () -&gt; <a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;</td></tr>
 <tr class="separator:a77efdc047f6c7debd96f3e9bed241ebb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab04d8a96e90ea6e1d01b85ab151eec16"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df7/class_str_hash.html#ab04d8a96e90ea6e1d01b85ab151eec16">lab_val</a> (<a class="el" href="../../dd/d4f/class_istring.html">Istring</a> k) -&gt; <a class="el" href="../../dc/df1/class_label_info.html">LabelInfo</a> *</td></tr>
@@ -284,7 +284,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00056">56</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00058">58</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
 
 </div>
 </div>
@@ -346,8 +346,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a817380c22e95972b1a8dea71eae81e63"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a817380c22e95972b1a8dea71eae81e63">&#9670;&nbsp;</a></span>operator[]()</h2>
+<a id="abe5511979ceef4d8d093a893260b89f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe5511979ceef4d8d093a893260b89f9">&#9670;&nbsp;</a></span>operator[]()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -358,7 +358,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">auto StrHash::operator[] </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
+          <td class="paramtype">size_t&#160;</td>
           <td class="paramname"><em>k</em></td><td>)</td>
           <td> const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> </td>
         </tr>
@@ -370,12 +370,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00042">42</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00045">45</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
 
 </div>
 </div>
-<a id="a170d1903e9d493bc5b3f3cad0d732732"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a170d1903e9d493bc5b3f3cad0d732732">&#9670;&nbsp;</a></span>p_str()</h2>
+<a id="adaf0ec91ce8ba42a7020ca1927dde173"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adaf0ec91ce8ba42a7020ca1927dde173">&#9670;&nbsp;</a></span>p_str()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -386,7 +386,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">auto StrHash::p_str </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
+          <td class="paramtype">long&#160;</td>
           <td class="paramname"><em>k</em></td><td>)</td>
           <td> const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> </td>
         </tr>
@@ -398,7 +398,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00043">43</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00038">38</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
 
 </div>
 </div>
@@ -482,7 +482,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00044">44</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00046">46</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
 
 </div>
 </div>
@@ -510,7 +510,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00052">52</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00054">54</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
 
 </div>
 </div>
@@ -538,7 +538,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00053">53</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../dc/def/txstring_8h_source.html#l00055">55</a> of file <a class="el" href="../../dc/def/txstring_8h_source.html">txstring.h</a>.</p>
 
 </div>
 </div>

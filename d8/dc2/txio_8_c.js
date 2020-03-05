@@ -1,7 +1,7 @@
 var txio_8_c =
 [
     [ "find_encoding", "d8/dc2/txio_8_c.html#a60d4c4b3d316e2f234ab889687529442", null ],
-    [ "get_enc_param", "d8/dc2/txio_8_c.html#a5d52c5909c4ff8dea8d951b494bcabdb", null ],
+    [ "get_enc_param", "d8/dc2/txio_8_c.html#a2a21d6f1577e34273a64930a04ef45fa", null ],
     [ "how_many_bytes", "d8/dc2/txio_8_c.html#acce035301d0022baab729fa778f9ee4c", null ],
     [ "make_utf8char", "d8/dc2/txio_8_c.html#a6c17675b8dcc8c0e433707f213a44660", null ],
     [ "operator<<", "d8/dc2/txio_8_c.html#ab50342304a10d2316f3272c64c66cc65", null ],

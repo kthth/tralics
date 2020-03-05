@@ -11,7 +11,7 @@ var class_xid =
     [ "add_attribute_but_rend", "de/d3f/class_xid.html#a81287d700871daaba16e1b8b96878305", null ],
     [ "add_bottom_rule", "de/d3f/class_xid.html#aa9d4e04d7e456de324dc24e156bcdf32", null ],
     [ "add_ref", "de/d3f/class_xid.html#ad449e1f9fc0d4b093f343b81550cc188", null ],
-    [ "add_span", "de/d3f/class_xid.html#adc34cec1f745c153bcf002d78c070d01", null ],
+    [ "add_span", "de/d3f/class_xid.html#af6ae7ef4f399ae3cd38e1cd663c0d3de", null ],
     [ "add_special_att", "de/d3f/class_xid.html#a19f02b8213b3b5859e1655b73106c4d2", null ],
     [ "add_top_rule", "de/d3f/class_xid.html#ac0c48d56ae68530e28c5f8acc449e6e8", null ],
     [ "get_att", "de/d3f/class_xid.html#ab5be1e21efc4719c092ecce02eb45eb0", null ],
