@@ -3,7 +3,6 @@ var hierarchy =
     [ "AllIndex", "d7/d39/class_all_index.html", null ],
     [ "ArrayInfo", "d8/dc7/class_array_info.html", null ],
     [ "AttList", "d5/d61/class_att_list.html", null ],
-    [ "AttListTable", "de/d13/class_att_list_table.html", null ],
     [ "AttPair", "d6/d34/struct_att_pair.html", null ],
     [ "Bbl", "d2/d56/class_bbl.html", null ],
     [ "BblAndTty", "d8/dbe/class_bbl_and_tty.html", null ],
@@ -49,7 +48,7 @@ var hierarchy =
     [ "InLoadHandler", "dc/d7e/class_in_load_handler.html", null ],
     [ "InputStack", "dc/dae/class_input_stack.html", null ],
     [ "InUrlHandler", "d5/deb/class_in_url_handler.html", null ],
-    [ "Istring", "dd/d4f/class_istring.html", null ],
+    [ "Istring", "d9/d20/struct_istring.html", null ],
     [ "KeyAndVal", "d9/de8/class_key_and_val.html", null ],
     [ "LabelInfo", "dc/df1/class_label_info.html", null ],
     [ "LatexPackage", "d5/dc4/class_latex_package.html", null ],
@@ -116,13 +115,6 @@ var hierarchy =
     [ "TitlePageFullLine", "d0/d08/class_title_page_full_line.html", null ],
     [ "Token", "d9/d27/struct_token.html", null ],
     [ "TpiOneItem", "d9/dcc/class_tpi_one_item.html", null ],
-    [ "unary_function", null, [
-      [ "MathIsDollar", "d7/d77/class_math_is_dollar.html", null ],
-      [ "MathIsOver", "de/d2a/class_math_is_over.html", null ],
-      [ "MathIsSpace", "d2/d71/class_math_is_space.html", null ],
-      [ "MathPAuxSmall", "d4/d33/class_math_p_aux_small.html", null ],
-      [ "MathPAuxType", "d0/db1/class_math_p_aux_type.html", null ]
-    ] ],
     [ "std::vector< T >", null, [
       [ "Buffer", "d5/d2a/class_buffer.html", null ],
       [ "TexFonts", "d1/df4/struct_tex_fonts.html", null ]

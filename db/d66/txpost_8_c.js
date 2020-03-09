@@ -1,6 +1,6 @@
 var txpost_8_c =
 [
-    [ "add_a_word", "db/d66/txpost_8_c.html#afd72a55e9047ce085c150f77861fdea3", null ],
+    [ "add_a_word", "db/d66/txpost_8_c.html#abb5886b9ed28f0ac8aa362090c4165a1", null ],
     [ "dig_char", "db/d66/txpost_8_c.html#a7a50f51062fba824e767b196e5b8931c", null ],
     [ "dump_and_list", "db/d66/txpost_8_c.html#a582a3c82973b10283d5b04ad6a3a263e", null ],
     [ "dump_words", "db/d66/txpost_8_c.html#a67f0379fedd1c0af51eaa293c4d9f4f8", null ],

@@ -8,7 +8,7 @@ var dir_59862cba00524bd398f0ca7f7ae6e06a =
     [ "enums.h", "d0/d0b/enums_8h.html", "d0/d0b/enums_8h" ],
     [ "globals.h", "d5/d87/globals_8h.html", "d5/d87/globals_8h" ],
     [ "Istring.h", "d5/daf/_istring_8h.html", [
-      [ "Istring", "dd/d4f/class_istring.html", "dd/d4f/class_istring" ]
+      [ "Istring", "d9/d20/struct_istring.html", "d9/d20/struct_istring" ]
     ] ],
     [ "MainClass.h", "d4/de9/_main_class_8h.html", [
       [ "MainClass", "d5/d5e/class_main_class.html", "d5/d5e/class_main_class" ]

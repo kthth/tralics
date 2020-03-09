@@ -13,7 +13,6 @@ var struct_token =
     [ "cmd_val", "d9/d27/struct_token.html#a7a25aff554fc43b68353f78291ec170d", null ],
     [ "eqtb_loc", "d9/d27/struct_token.html#a1bb1574439f917b1c735fc50e086de1f", null ],
     [ "from_cmd_chr", "d9/d27/struct_token.html#a1d2622f020a760741b33a6fa9c4d97da", null ],
-    [ "get_val", "d9/d27/struct_token.html#a4c5cdf4334fa20b83ba1d165068261b2", null ],
     [ "hash_loc", "d9/d27/struct_token.html#a405036fe8500eb64b10555c1f62e1f70", null ],
     [ "is_a_brace", "d9/d27/struct_token.html#aa76748af546ff53d472c513239544da1", null ],
     [ "is_a_char", "d9/d27/struct_token.html#aa1e62e8e407d78ecbab5067032b43672", null ],

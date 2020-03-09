@@ -1,9 +1,6 @@
 var txmath_8h =
 [
     [ "MathElt", "d2/da0/class_math_elt.html", "d2/da0/class_math_elt" ],
-    [ "MathIsSpace", "d2/d71/class_math_is_space.html", "d2/d71/class_math_is_space" ],
-    [ "MathIsDollar", "d7/d77/class_math_is_dollar.html", "d7/d77/class_math_is_dollar" ],
-    [ "MathIsOver", "de/d2a/class_math_is_over.html", "de/d2a/class_math_is_over" ],
     [ "Math", "d4/d34/class_math.html", "d4/d34/class_math" ],
     [ "MathHelper", "d7/dfb/class_math_helper.html", "d7/dfb/class_math_helper" ],
     [ "MathDataP", "d8/de4/class_math_data_p.html", "d8/de4/class_math_data_p" ],

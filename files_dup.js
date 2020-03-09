@@ -14,8 +14,7 @@ var files_dup =
     [ "txatt.C", "db/df0/txatt_8_c.html", null ],
     [ "txatt.h", "d4/da4/txatt_8h.html", [
       [ "AttPair", "d6/d34/struct_att_pair.html", "d6/d34/struct_att_pair" ],
-      [ "AttList", "d5/d61/class_att_list.html", "d5/d61/class_att_list" ],
-      [ "AttListTable", "de/d13/class_att_list_table.html", "de/d13/class_att_list_table" ]
+      [ "AttList", "d5/d61/class_att_list.html", "d5/d61/class_att_list" ]
     ] ],
     [ "txaux.C", "dd/dce/txaux_8_c.html", "dd/dce/txaux_8_c" ],
     [ "txbib.C", "d1/d56/txbib_8_c.html", "d1/d56/txbib_8_c" ],

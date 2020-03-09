@@ -1028,10 +1028,6 @@ var txvars_8h =
       [ "st_hp", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba32dcdc9ffae37cb01f617eae0509797b", null ],
       [ "st_unknown", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba342ad0068d5725e805f739c30780e84d", null ]
     ] ],
-    [ "tex_level", "dc/de8/txvars_8h.html#ae1ad66ea38f0c54606b9c023cb6f5adc", [
-      [ "level_zero", "dc/de8/txvars_8h.html#ae1ad66ea38f0c54606b9c023cb6f5adca647b3364c51ddc0430d0f344460ece73", null ],
-      [ "level_one", "dc/de8/txvars_8h.html#ae1ad66ea38f0c54606b9c023cb6f5adcafada70ffdb54a9e9c81b2535a7c3c627", null ]
-    ] ],
     [ "tpa_line", "dc/de8/txvars_8h.html#a89ddb5a46b4de154ea00369e9fd432e8", [
       [ "tl_normal", "dc/de8/txvars_8h.html#a89ddb5a46b4de154ea00369e9fd432e8a2c0a59398fcf99bf1bd576e7a067833c", null ],
       [ "tl_end", "dc/de8/txvars_8h.html#a89ddb5a46b4de154ea00369e9fd432e8a452c5f23ca25dec500cae86eaa6127a1", null ],

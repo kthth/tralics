@@ -16,7 +16,6 @@ var class_bib_entry =
     [ "from_to_string", "d9/dc4/class_bib_entry.html#a1ba51e55896f24ff55026e07636b7953", null ],
     [ "get_from", "d9/dc4/class_bib_entry.html#aedee2a67bb8420997b85b62207fcd45e", null ],
     [ "get_name", "d9/dc4/class_bib_entry.html#aca7a230d5b96ffcc860fca6c6c49f110", null ],
-    [ "get_unique_id", "d9/dc4/class_bib_entry.html#a41ff594b45389ca217a61cd3e0660e06", null ],
     [ "is_empty", "d9/dc4/class_bib_entry.html#a79e5d3c9200cff0d397bb4961aab1b90", null ],
     [ "move_to_year", "d9/dc4/class_bib_entry.html#ae2a77a5ab5747692dd531d11b0abca0e", null ],
     [ "normalise", "d9/dc4/class_bib_entry.html#a5421f9d947f68cc0fa2a93a9a67c708c", null ],

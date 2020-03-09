@@ -1,13 +1,13 @@
 var struct_tex_fonts =
 [
     [ "TexFonts", "d1/df4/struct_tex_fonts.html#a39437a86edb1e3bce6775af0499b49dd", null ],
-    [ "define_a_new_font", "d1/df4/struct_tex_fonts.html#af4f79b7e57f021c266fb0fed82b368a7", null ],
-    [ "find_font", "d1/df4/struct_tex_fonts.html#afa68224e4e6774a5254b897f6f809cef", null ],
-    [ "full_name", "d1/df4/struct_tex_fonts.html#a785017c4d18a1ed95146bfb24604bbfa", null ],
-    [ "get_dimen_param", "d1/df4/struct_tex_fonts.html#a4628d32756b378a659e2346a4b94b65b", null ],
-    [ "get_int_param", "d1/df4/struct_tex_fonts.html#a2123fd6b720697e2099267b180aba91b", null ],
-    [ "is_valid", "d1/df4/struct_tex_fonts.html#a78fc8f59d43450d6578acc48fa97a505", null ],
-    [ "name", "d1/df4/struct_tex_fonts.html#adc8e4d51dda164d20e2671d9760fff92", null ],
-    [ "set_dimen_param", "d1/df4/struct_tex_fonts.html#a7c00ba3e501b1fed63404fd3aa77c76d", null ],
-    [ "set_int_param", "d1/df4/struct_tex_fonts.html#ada0c6d787c8d2613033a00cffc7443ce", null ]
+    [ "define_a_new_font", "d1/df4/struct_tex_fonts.html#a886324ef1bc64f33b25ce6a952f9c38a", null ],
+    [ "find_font", "d1/df4/struct_tex_fonts.html#a15cfb86b916e5405098163554fc7753a", null ],
+    [ "full_name", "d1/df4/struct_tex_fonts.html#a8c23060f8f6b83fe8cc64e9d05bd7473", null ],
+    [ "get_dimen_param", "d1/df4/struct_tex_fonts.html#a5ea7ad9416dedbf432527ef8c85b066c", null ],
+    [ "get_int_param", "d1/df4/struct_tex_fonts.html#a78f7fcb8ab7e6e64eadbb54a36b2035a", null ],
+    [ "is_valid", "d1/df4/struct_tex_fonts.html#a75a53880b04fecf4649dcd7fd568f746", null ],
+    [ "name", "d1/df4/struct_tex_fonts.html#a2be37fc988d5a337226450ec0e8bb77d", null ],
+    [ "set_dimen_param", "d1/df4/struct_tex_fonts.html#a1da604fbe383133c07e7da7e1bbed27e", null ],
+    [ "set_int_param", "d1/df4/struct_tex_fonts.html#a8060e05417414086fbe634c422bb2324", null ]
 ];

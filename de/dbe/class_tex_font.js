@@ -1,10 +1,10 @@
 var class_tex_font =
 [
     [ "TexFont", "de/dbe/class_tex_font.html#ab18f079abb1cba12c5bbc837ae7a2f1f", null ],
-    [ "its_me", "de/dbe/class_tex_font.html#a84a3fb3aa3fdab16717e5ee25b2f57e9", null ],
+    [ "its_me", "de/dbe/class_tex_font.html#ab8b78fba6bf9c2eb583d0e4fa81f4e1a", null ],
     [ "load", "de/dbe/class_tex_font.html#a885898ae794141161874d9574475b697", null ],
     [ "make_null", "de/dbe/class_tex_font.html#a0717250f09020cfce75a86dfcc8d3b64", null ],
-    [ "realloc_param", "de/dbe/class_tex_font.html#a7e926e07fb61db2ba72bb063b67bd148", null ],
+    [ "realloc_param", "de/dbe/class_tex_font.html#a9dd5f36c21c39108179f18ac7ff79664", null ],
     [ "at_val", "de/dbe/class_tex_font.html#ab140a24d542c6fc413ecc533928e2266", null ],
     [ "char_table", "de/dbe/class_tex_font.html#a2a892cf1575cb5efe11ccdec44d175a0", null ],
     [ "depth_len", "de/dbe/class_tex_font.html#aed0b1b9843edf3a2aaf9eac13e3e3b79", null ],
@@ -13,7 +13,7 @@ var class_tex_font =
     [ "exten_table", "de/dbe/class_tex_font.html#a5641e910740074377031c9574e23c2e2", null ],
     [ "height_len", "de/dbe/class_tex_font.html#a31628966cabaaa7bf4d9e3964f731e83", null ],
     [ "height_table", "de/dbe/class_tex_font.html#a6f30df9abc07b10b54da93435f881758", null ],
-    [ "hyphen_char", "de/dbe/class_tex_font.html#ae10259bb3b6a75d3737c50a23709ca3b", null ],
+    [ "hyphen_char", "de/dbe/class_tex_font.html#a304cc99a603b89fba6e909300b66ad63", null ],
     [ "italic_len", "de/dbe/class_tex_font.html#ad29152d83bb00bbf50d1d7c4bb443e9e", null ],
     [ "italic_table", "de/dbe/class_tex_font.html#a7e836b525be42f5d55d8fcfcc18d0165", null ],
     [ "kern_len", "de/dbe/class_tex_font.html#aa2542681cbbb3f3d50a9ddf59f64f33f", null ],
@@ -25,7 +25,7 @@ var class_tex_font =
     [ "param_len", "de/dbe/class_tex_font.html#a5d30b6860a62e3401c6e7a2518300f3f", null ],
     [ "param_table", "de/dbe/class_tex_font.html#ab507056c9c3c0a17c74a400ec351a13c", null ],
     [ "scaled_val", "de/dbe/class_tex_font.html#a1bcb3d59c4378179d6d6ab2de8e66b60", null ],
-    [ "skew_char", "de/dbe/class_tex_font.html#ae5f01f00742fe488ec14f3da9bf9ae48", null ],
+    [ "skew_char", "de/dbe/class_tex_font.html#ae41b9f927be7229d4aaed09633ade0ea", null ],
     [ "smallest_char", "de/dbe/class_tex_font.html#a0ab3cc171e7c8cf4f052fbd7847b78ac", null ],
     [ "width_len", "de/dbe/class_tex_font.html#a7afba1505502ea231e498ece49bb58c8", null ],
     [ "width_table", "de/dbe/class_tex_font.html#aa06df63b2e4f600c2879be21c4e9f11d", null ]

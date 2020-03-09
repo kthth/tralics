@@ -24,5 +24,5 @@ var txio_8_c =
     [ "operator<<", "d8/dc2/txio_8_c.html#ae0b924efb858d1e8bcc511feff564773", null ],
     [ "plural", "d8/dc2/txio_8_c.html#abd0126c954d0cdcc1453377836652f98", null ],
     [ "print_ascii", "d8/dc2/txio_8_c.html#a78c1e3fdf8d1fd516e93a6d7a2ad7347", null ],
-    [ "set_enc_param", "d8/dc2/txio_8_c.html#a3d8f0c936d777e2b7a71b4dc3cb97836", null ]
+    [ "set_enc_param", "d8/dc2/txio_8_c.html#a5879b2fec749ee82dc6c7fd057a94e8d", null ]
 ];
