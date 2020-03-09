@@ -1,12 +1,13 @@
 <map id="txhash.h" name="txhash.h">
-<area shape="rect" id="node1" title=" " alt="" coords="230,5,302,31"/>
-<area shape="rect" id="node2" href="$d3/d01/txeqtb_8h.html" title=" " alt="" coords="231,79,300,104"/>
-<area shape="rect" id="node3" href="$dc/def/txstring_8h.html" title=" " alt="" coords="228,152,304,177"/>
-<area shape="rect" id="node4" href="$dd/d74/txbuffer_8h.html" title=" " alt="" coords="228,225,304,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="278,5,350,31"/>
+<area shape="rect" id="node2" href="$d3/d01/txeqtb_8h.html" title=" " alt="" coords="279,79,348,104"/>
+<area shape="rect" id="node3" href="$dc/def/txstring_8h.html" title=" " alt="" coords="276,152,352,177"/>
+<area shape="rect" id="node4" href="$dd/d74/txbuffer_8h.html" title=" " alt="" coords="276,225,352,251"/>
 <area shape="rect" id="node5" href="$d1/d9e/txid_8h.html" title=" " alt="" coords="102,372,155,397"/>
 <area shape="rect" id="node14" href="$d9/d18/txscaled_8h.html" title=" " alt="" coords="179,299,260,324"/>
 <area shape="rect" id="node22" title=" " alt="" coords="284,299,344,324"/>
-<area shape="rect" id="node23" title=" " alt="" coords="368,299,425,324"/>
+<area shape="rect" id="node23" title=" " alt="" coords="368,299,436,324"/>
+<area shape="rect" id="node24" title=" " alt="" coords="460,299,517,324"/>
 <area shape="rect" id="node6" href="$dc/de8/txvars_8h.html" title=" " alt="" coords="25,445,93,471"/>
 <area shape="rect" id="node13" title=" " alt="" coords="131,519,185,544"/>
 <area shape="rect" id="node7" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="185,592,296,617"/>

@@ -1,9 +1,10 @@
 <map id="txbuffer.h" name="txbuffer.h">
-<area shape="rect" id="node1" title=" " alt="" coords="228,5,304,31"/>
+<area shape="rect" id="node1" title=" " alt="" coords="276,5,352,31"/>
 <area shape="rect" id="node2" href="$d1/d9e/txid_8h.html" title=" " alt="" coords="102,152,155,177"/>
 <area shape="rect" id="node11" href="$d9/d18/txscaled_8h.html" title=" " alt="" coords="179,79,260,104"/>
 <area shape="rect" id="node19" title=" " alt="" coords="284,79,344,104"/>
-<area shape="rect" id="node20" title=" " alt="" coords="368,79,425,104"/>
+<area shape="rect" id="node20" title=" " alt="" coords="368,79,436,104"/>
+<area shape="rect" id="node21" title=" " alt="" coords="460,79,517,104"/>
 <area shape="rect" id="node3" href="$dc/de8/txvars_8h.html" title=" " alt="" coords="25,225,93,251"/>
 <area shape="rect" id="node10" title=" " alt="" coords="131,299,185,324"/>
 <area shape="rect" id="node4" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="185,372,296,397"/>

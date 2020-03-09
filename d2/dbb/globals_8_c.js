@@ -23,7 +23,7 @@ var globals_8_c =
     [ "opt_doctype", "d2/dbb/globals_8_c.html#afd5a1ac49729e4a78a8aa8715f2e76a2", null ],
     [ "other_options", "d2/dbb/globals_8_c.html#aeecb68cc402315935fafe151e4e35eb2", null ],
     [ "out_dir", "d2/dbb/globals_8_c.html#a47ada5f0c4dfcac5b666ab67934eee0f", null ],
-    [ "pool_position", "d2/dbb/globals_8_c.html#af349173badbcd8d36f524d95a03cc9e3", null ],
+    [ "pool_position", "d2/dbb/globals_8_c.html#af43b4693183ac6477f9893915088f7eb", null ],
     [ "raw_bib", "d2/dbb/globals_8_c.html#a83df6c8f671d442ff41b993ffe026845", null ],
     [ "rightquote_val", "d2/dbb/globals_8_c.html#a39dbe4450811a62423b7b6989fb19e36", null ],
     [ "seen_enddocument", "d2/dbb/globals_8_c.html#a86c76a292ea3c8197d90403d0ee589ff", null ]

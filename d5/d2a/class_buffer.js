@@ -108,7 +108,7 @@ var class_buffer =
     [ "kill_at", "d5/d2a/class_buffer.html#a553c695d34a4b59002800d74167c693e", null ],
     [ "l3_fabricate_cond", "d5/d2a/class_buffer.html#a6dd022b9afc63a5d7be0229e608c2d7a", null ],
     [ "last_char", "d5/d2a/class_buffer.html#a2f951a4038663150c88ee72435577739", null ],
-    [ "last_slash", "d5/d2a/class_buffer.html#adfc61781ccd1a87a97c3d1d65c94359e", null ],
+    [ "last_slash", "d5/d2a/class_buffer.html#a496ca8cc4baa8c899d5a8de87026f8cd", null ],
     [ "look_at_space", "d5/d2a/class_buffer.html#ac1cdde4a67b93a1d6847b2522c76a6cb", null ],
     [ "lowercase", "d5/d2a/class_buffer.html#acffe2760f7faf52fcf8a4e06e70b0bcd", null ],
     [ "make_character", "d5/d2a/class_buffer.html#ada6b7f38740b236c4cf047c3b4ab4e5c", null ],

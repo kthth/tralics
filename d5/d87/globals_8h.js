@@ -39,7 +39,7 @@ var globals_8h =
     [ "opt_doctype", "d5/d87/globals_8h.html#afd5a1ac49729e4a78a8aa8715f2e76a2", null ],
     [ "other_options", "d5/d87/globals_8h.html#aeecb68cc402315935fafe151e4e35eb2", null ],
     [ "out_dir", "d5/d87/globals_8h.html#a47ada5f0c4dfcac5b666ab67934eee0f", null ],
-    [ "pool_position", "d5/d87/globals_8h.html#af349173badbcd8d36f524d95a03cc9e3", null ],
+    [ "pool_position", "d5/d87/globals_8h.html#af43b4693183ac6477f9893915088f7eb", null ],
     [ "raw_bib", "d5/d87/globals_8h.html#a83df6c8f671d442ff41b993ffe026845", null ],
     [ "rightquote_val", "d5/d87/globals_8h.html#a39dbe4450811a62423b7b6989fb19e36", null ],
     [ "seen_enddocument", "d5/d87/globals_8h.html#a86c76a292ea3c8197d90403d0ee589ff", null ]

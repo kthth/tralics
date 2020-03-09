@@ -1,13 +1,14 @@
 <map id="txtoken2.C" name="txtoken2.C">
-<area shape="rect" id="node1" title=" " alt="" coords="223,5,308,31"/>
-<area shape="rect" id="node2" href="$d7/d7e/txhash_8h.html" title=" " alt="" coords="230,79,302,104"/>
-<area shape="rect" id="node3" href="$d3/d01/txeqtb_8h.html" title=" " alt="" coords="231,152,300,177"/>
-<area shape="rect" id="node4" href="$dc/def/txstring_8h.html" title=" " alt="" coords="228,225,304,251"/>
-<area shape="rect" id="node5" href="$dd/d74/txbuffer_8h.html" title=" " alt="" coords="228,299,304,324"/>
+<area shape="rect" id="node1" title=" " alt="" coords="271,5,356,31"/>
+<area shape="rect" id="node2" href="$d7/d7e/txhash_8h.html" title=" " alt="" coords="278,79,350,104"/>
+<area shape="rect" id="node3" href="$d3/d01/txeqtb_8h.html" title=" " alt="" coords="279,152,348,177"/>
+<area shape="rect" id="node4" href="$dc/def/txstring_8h.html" title=" " alt="" coords="276,225,352,251"/>
+<area shape="rect" id="node5" href="$dd/d74/txbuffer_8h.html" title=" " alt="" coords="276,299,352,324"/>
 <area shape="rect" id="node6" href="$d1/d9e/txid_8h.html" title=" " alt="" coords="102,445,155,471"/>
 <area shape="rect" id="node15" href="$d9/d18/txscaled_8h.html" title=" " alt="" coords="179,372,260,397"/>
 <area shape="rect" id="node23" title=" " alt="" coords="284,372,344,397"/>
-<area shape="rect" id="node24" title=" " alt="" coords="368,372,425,397"/>
+<area shape="rect" id="node24" title=" " alt="" coords="368,372,436,397"/>
+<area shape="rect" id="node25" title=" " alt="" coords="460,372,517,397"/>
 <area shape="rect" id="node7" href="$dc/de8/txvars_8h.html" title=" " alt="" coords="25,519,93,544"/>
 <area shape="rect" id="node14" title=" " alt="" coords="131,592,185,617"/>
 <area shape="rect" id="node8" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="185,665,296,691"/>

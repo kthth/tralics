@@ -54,7 +54,7 @@ var class_bib_entry =
     [ "extra_num", "d9/dc4/class_bib_entry.html#ade91a3b20855457adfa2426af0954600", null ],
     [ "first_line", "d9/dc4/class_bib_entry.html#a92821d61fb6cea2671449851143bc693", null ],
     [ "id", "d9/dc4/class_bib_entry.html#a3435163b60ceefbff087664d4b61bfd9", null ],
-    [ "is_extension", "d9/dc4/class_bib_entry.html#ad4d2ee4b09b3601fdf3f689ff7d1683a", null ],
+    [ "is_extension", "d9/dc4/class_bib_entry.html#ab0b97530f7c466e2d7175781467c4141", null ],
     [ "lab1", "d9/dc4/class_bib_entry.html#a7e0450f74150378a850067b8b1fd1bc4", null ],
     [ "lab2", "d9/dc4/class_bib_entry.html#a789afcfcabb468626669be6c91a7291e", null ],
     [ "lab3", "d9/dc4/class_bib_entry.html#a93e914d80dc7a5fd249a294b7ae023d1", null ],
