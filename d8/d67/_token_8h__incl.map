@@ -1,11 +1,13 @@
 <map id="tralics/Token.h" name="tralics/Token.h">
-<area shape="rect" id="node1" title=" " alt="" coords="91,5,197,31"/>
-<area shape="rect" id="node2" href="$d2/d68/_cmd_chr_8h.html" title=" " alt="" coords="62,79,143,104"/>
-<area shape="rect" id="node9" title=" " alt="" coords="167,79,206,104"/>
-<area shape="rect" id="node3" href="$d8/d47/codepoint_8h.html" title=" " alt="" coords="5,225,96,251"/>
-<area shape="rect" id="node7" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="110,152,183,177"/>
-<area shape="rect" id="node4" href="$d9/d49/types_8h.html" title=" " alt="" coords="70,299,135,324"/>
-<area shape="rect" id="node5" title=" " alt="" coords="22,372,87,397"/>
-<area shape="rect" id="node6" title=" " alt="" coords="110,372,193,397"/>
-<area shape="rect" id="node8" href="$d8/db5/consts_8h.html" title=" " alt="" coords="119,225,190,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="146,5,252,31"/>
+<area shape="rect" id="node2" href="$d2/d68/_cmd_chr_8h.html" title=" " alt="" coords="117,79,198,104"/>
+<area shape="rect" id="node11" title=" " alt="" coords="222,79,261,104"/>
+<area shape="rect" id="node3" href="$d8/d47/codepoint_8h.html" title=" " alt="" coords="60,152,151,177"/>
+<area shape="rect" id="node9" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="175,152,247,177"/>
+<area shape="rect" id="node4" href="$d9/d49/types_8h.html" title=" " alt="" coords="96,299,160,324"/>
+<area shape="rect" id="node8" title=" " alt="" coords="83,225,152,251"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,372,70,397"/>
+<area shape="rect" id="node6" title=" " alt="" coords="94,372,163,397"/>
+<area shape="rect" id="node7" title=" " alt="" coords="187,372,270,397"/>
+<area shape="rect" id="node10" href="$d8/db5/consts_8h.html" title=" " alt="" coords="175,225,246,251"/>
 </map>

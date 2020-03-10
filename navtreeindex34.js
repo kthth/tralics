@@ -1,6 +1,5 @@
 var NAVTREEINDEX34 =
 {
-"df/d79/txmath_8h.html#a43dc2f99f3b0312ff146420d71bd519e":[4,0,36,19],
 "df/d79/txmath_8h.html#a4982aa07c81221fbb9b6657d67db0e24":[4,0,36,6],
 "df/d79/txmath_8h.html#a50d2b5ae1ffddbad1db03c3ac6ecf183":[4,0,36,34],
 "df/d79/txmath_8h.html#a51645078cd879cc076a5bf8d98694a6d":[4,0,36,36],
@@ -102,15 +101,15 @@ var NAVTREEINDEX34 =
 "df/df6/class_xml_action.html#af193fbe322778cf7eb108d2f85db501a":[3,0,120,9],
 "dir_59862cba00524bd398f0ca7f7ae6e06a.html":[4,0,0],
 "files.html":[4,0],
-"functions.html":[3,3,0,0],
 "functions.html":[3,3,0],
+"functions.html":[3,3,0,0],
 "functions_b.html":[3,3,0,1],
 "functions_c.html":[3,3,0,2],
 "functions_d.html":[3,3,0,3],
 "functions_e.html":[3,3,0,4],
 "functions_f.html":[3,3,0,5],
-"functions_func.html":[3,3,1,0],
 "functions_func.html":[3,3,1],
+"functions_func.html":[3,3,1,0],
 "functions_func_b.html":[3,3,1,1],
 "functions_func_c.html":[3,3,1,2],
 "functions_func_d.html":[3,3,1,3],
@@ -152,8 +151,8 @@ var NAVTREEINDEX34 =
 "functions_t.html":[3,3,0,19],
 "functions_u.html":[3,3,0,20],
 "functions_v.html":[3,3,0,21],
-"functions_vars.html":[3,3,2],
 "functions_vars.html":[3,3,2,0],
+"functions_vars.html":[3,3,2],
 "functions_vars_b.html":[3,3,2,1],
 "functions_vars_c.html":[3,3,2,2],
 "functions_vars_d.html":[3,3,2,3],
@@ -245,9 +244,10 @@ var NAVTREEINDEX34 =
 "globals_z.html":[4,1,0,25],
 "hierarchy.html":[3,2],
 "index.html":[],
-"namespacemembers.html":[2,1,0],
 "namespacemembers.html":[2,1,0,0],
+"namespacemembers.html":[2,1,0],
 "namespacemembers_b.html":[2,1,0,1],
 "namespacemembers_c.html":[2,1,0,2],
-"namespacemembers_d.html":[2,1,0,3]
+"namespacemembers_d.html":[2,1,0,3],
+"namespacemembers_e.html":[2,1,0,4]
 };

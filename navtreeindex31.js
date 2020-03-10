@@ -1,6 +1,5 @@
 var NAVTREEINDEX31 =
 {
-"dc/de8/txvars_8h.html#abc6126af1d45847bc59afa0aa3216b04a647aa6031e64ae3cad3a670583e180f7":[4,0,66,25],
 "dc/de8/txvars_8h.html#abc6126af1d45847bc59afa0aa3216b04a72e58af8266aa2a7431dedeb6965bac3":[4,0,66,27],
 "dc/de8/txvars_8h.html#abc6126af1d45847bc59afa0aa3216b04a8899b613f2ff2b65652db4c68fabf4ff":[4,0,66,28],
 "dc/de8/txvars_8h.html#abc6126af1d45847bc59afa0aa3216b04add31ba243cfc0827cc7212e65c4fb0d3":[4,0,66,29],
@@ -249,5 +248,6 @@ var NAVTREEINDEX31 =
 "dd/da8/class_bibliography.html#a0751ea7e745bfd46f8f389b47b1fad56":[3,0,9,24],
 "dd/da8/class_bibliography.html#a0c255511b3cab9e2c4833699d028d09a":[3,0,9,9],
 "dd/da8/class_bibliography.html#a0f0f1ee85186c80bea45f836a973c8e9":[3,0,9,12],
-"dd/da8/class_bibliography.html#a3298e2f89c461b9ee8245d4bf16ca780":[3,0,9,5]
+"dd/da8/class_bibliography.html#a3298e2f89c461b9ee8245d4bf16ca780":[3,0,9,5],
+"dd/da8/class_bibliography.html#a33abf546b191718b0543c553edd33450":[3,0,9,22]
 };

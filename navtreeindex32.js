@@ -1,6 +1,5 @@
 var NAVTREEINDEX32 =
 {
-"dd/da8/class_bibliography.html#a33abf546b191718b0543c553edd33450":[3,0,9,22],
 "dd/da8/class_bibliography.html#a39e711de088c472e243091f323ccdf8c":[3,0,9,8],
 "dd/da8/class_bibliography.html#a4322a3d2484a1959b8057106ba9e88ba":[3,0,9,4],
 "dd/da8/class_bibliography.html#a47b0ff6292d9ab29d4b4175dd3bfade7":[3,0,9,16],
@@ -249,5 +248,6 @@ var NAVTREEINDEX32 =
 "de/d72/class_cmd_chr.html#a9f91fecc32b1b3e5f3f30818e4997cbb":[3,0,18,63],
 "de/d72/class_cmd_chr.html#a9fe12d60a2e8b150d6da761469ee3163":[3,0,18,23],
 "de/d72/class_cmd_chr.html#aa64b37b96d64527e9e3e250e3e01f068":[3,0,18,35],
-"de/d72/class_cmd_chr.html#aa78b1e6f159da7d2ff88dc1b567719b0":[3,0,18,111]
+"de/d72/class_cmd_chr.html#aa78b1e6f159da7d2ff88dc1b567719b0":[3,0,18,111],
+"de/d72/class_cmd_chr.html#aaa1e5f3660b3356bcd31f6bfd67eba37":[3,0,18,101]
 };

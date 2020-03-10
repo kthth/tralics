@@ -9,7 +9,7 @@ var txaccent_8_c =
     [ "double_u_accent", "d5/d10/txaccent_8_c.html#adbd7a4475f839bd02683ebe9be8bd5d6", null ],
     [ "fetch_accent", "d5/d10/txaccent_8_c.html#a9bf2356a3ee3fd804c2d5541720bb721", null ],
     [ "fetch_double_accent", "d5/d10/txaccent_8_c.html#a8a5e7faba6c568aa5dcde37ef66c95b0", null ],
-    [ "mk_acc", "d5/d10/txaccent_8_c.html#a8fcc3decd6e16d7b4c8f6c1a259151fa", null ],
+    [ "mk_acc", "d5/d10/txaccent_8_c.html#a78d58925720b46b707b4418549b3d12b", null ],
     [ "special_acc_hack", "d5/d10/txaccent_8_c.html#a41bbc37df9848b8ec44d25001a6d1581", null ],
     [ "special_double_acc", "d5/d10/txaccent_8_c.html#ac050db19110cce1695549e7ae71fe760", null ],
     [ "accent_acute", "d5/d10/txaccent_8_c.html#ad861dddab1a3c919dae06ac4981a02da", null ],

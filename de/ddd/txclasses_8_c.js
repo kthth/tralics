@@ -8,7 +8,7 @@ var txclasses_8_c =
     [ "dump_options", "de/ddd/txclasses_8_c.html#a9fb04f96dfde7cf3e244662e9b7ef750", null ],
     [ "get_option_list", "de/ddd/txclasses_8_c.html#a2a8b38a694bdf31e80c73d8bd6aadd3b", null ],
     [ "is_in_option", "de/ddd/txclasses_8_c.html#a85e778bd04ea697feb6690ab62625b2d", null ],
-    [ "is_in_vector", "de/ddd/txclasses_8_c.html#aa12083291467a0222e7ff0e4970f3941", null ],
+    [ "is_in_vector", "de/ddd/txclasses_8_c.html#a583db809d4108109fa380fa1e5767474", null ],
     [ "is_raw_option", "de/ddd/txclasses_8_c.html#acdc1abea91be258e33baf26405bf25e8", null ],
     [ "make_keyval", "de/ddd/txclasses_8_c.html#a472a3d0ecd7b096c09198bae2d0d6d72", null ],
     [ "make_options", "de/ddd/txclasses_8_c.html#a7e81cfb141cdecca85eddebcd9782cb5", null ],

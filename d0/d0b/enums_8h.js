@@ -2423,6 +2423,6 @@ var enums_8h =
       [ "userlpo_cmd", "d0/d0b/enums_8h.html#ad9fa722fa2849c703424c4eea93f2ee7ac4be5a1f0292a3433bf72a94666cd508", null ],
       [ "eof_marker_cmd", "d0/d0b/enums_8h.html#ad9fa722fa2849c703424c4eea93f2ee7a0493ba4dc0bffa51e7c8ed76bb80f6fc", null ]
     ] ],
-    [ "newline_token_val", "d0/d0b/enums_8h.html#ad87dd5dc45ae7bd23a9efe805360453c", null ],
-    [ "space_token_val", "d0/d0b/enums_8h.html#adb71967a5c233c451e9e3fd449b2fd78", null ]
+    [ "newline_token_val", "d0/d0b/enums_8h.html#a5a1852d6c771a20970546f892fd126a0", null ],
+    [ "space_token_val", "d0/d0b/enums_8h.html#a85060a9cd5562c72cd7619f2921b7153", null ]
 ];

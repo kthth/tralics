@@ -4,7 +4,7 @@ var structcodepoint =
     [ "codepoint", "d6/d10/structcodepoint.html#a5ceed6f8a1895fcdc0be1d2f5e357f19", null ],
     [ "codepoint", "d6/d10/structcodepoint.html#a05018117a709f449752ed0881043550c", null ],
     [ "codepoint", "d6/d10/structcodepoint.html#a046feebfcd18e9e52a8cdff12cd6fca4", null ],
-    [ "hex_val", "d6/d10/structcodepoint.html#ab6634e4f848ed5c70895bb7ada1344b8", null ],
+    [ "hex_val", "d6/d10/structcodepoint.html#a7334e7042234a0a140fe441214cb036c", null ],
     [ "is_ascii", "d6/d10/structcodepoint.html#ae4a551e48b6a00077cf1c9a6f2559b3a", null ],
     [ "is_big", "d6/d10/structcodepoint.html#ab2cf571063de96fdb0bb04d2282ada06", null ],
     [ "is_control", "d6/d10/structcodepoint.html#aacf7a5835e142e71130efb6d4b9b8594", null ],
@@ -22,8 +22,8 @@ var structcodepoint =
     [ "is_verybig", "d6/d10/structcodepoint.html#a1e9c99d5ce690dfce0987f4cebf160e6", null ],
     [ "non_null", "d6/d10/structcodepoint.html#a2957e332bec4645bf3b2d2586858372c", null ],
     [ "to_lower", "d6/d10/structcodepoint.html#a0046005f260b105b8d8046f56f6f0a07", null ],
-    [ "val_as_digit", "d6/d10/structcodepoint.html#a272eedff496cc105b838cdda90a5d1f5", null ],
-    [ "val_as_Hex", "d6/d10/structcodepoint.html#acef72fa0ea09725e307cd8ca7878f086", null ],
-    [ "val_as_hex", "d6/d10/structcodepoint.html#a15681c8a19119ae3a93f55def1cc8a2a", null ],
+    [ "val_as_digit", "d6/d10/structcodepoint.html#af26bb089c71a93ed74c92356bd7f2132", null ],
+    [ "val_as_Hex", "d6/d10/structcodepoint.html#a046d64c09432fd1fd16db715286415f3", null ],
+    [ "val_as_hex", "d6/d10/structcodepoint.html#a0e9168de75355540d7e640f4ea4c08d0", null ],
     [ "value", "d6/d10/structcodepoint.html#a8372c57f24ddb4f473dd2c6de9f4a143", null ]
 ];
