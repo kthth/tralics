@@ -28,7 +28,7 @@ var class_stack =
     [ "dump_xml_table", "d0/d14/class_stack.html#a09868e269061fe6c97808cfc53907b30", null ],
     [ "elt_from_id", "d0/d14/class_stack.html#a309797ab0de16b3860f839346a0b41b8", null ],
     [ "end_module", "d0/d14/class_stack.html#a7d6419800f656ce0919dc19b111dff33", null ],
-    [ "fetch_by_id", "d0/d14/class_stack.html#adf0be870c39932d0f6ec9711c4154680", null ],
+    [ "fetch_by_id", "d0/d14/class_stack.html#aac9eb7fb31f2533d33ac9c91eaae43b9", null ],
     [ "find_cell_props", "d0/d14/class_stack.html#a8141cb7f9e7a5b49d31842d12dfb7d3d", null ],
     [ "find_cid_rid_tid", "d0/d14/class_stack.html#ad05ce5eb8e6a269570b53b80aebbf8ad", null ],
     [ "find_ctrid", "d0/d14/class_stack.html#a5ebafb0b83d6923a816a42ad18628e7c", null ],

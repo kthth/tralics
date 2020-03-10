@@ -1,23 +1,24 @@
 var files_dup =
 [
-    [ "tralics", "dir_59862cba00524bd398f0ca7f7ae6e06a.html", "dir_59862cba00524bd398f0ca7f7ae6e06a" ],
-    [ "globals.C", "d2/dbb/globals_8_c.html", "d2/dbb/globals_8_c" ],
-    [ "Istring.C", "d4/dbc/_istring_8_c.html", null ],
-    [ "MainClass.C", "de/dae/_main_class_8_c.html", null ],
-    [ "readline.C", "d9/db0/readline_8_c.html", "d9/db0/readline_8_c" ],
-    [ "tralics.C", "dc/d29/tralics_8_c.html", "dc/d29/tralics_8_c" ],
-    [ "txaccent.C", "d5/d10/txaccent_8_c.html", "d5/d10/txaccent_8_c" ],
-    [ "txarray.C", "df/de6/txarray_8_c.html", null ],
+    [ "build", "dir_4fef79e7177ba769987a8da36c892c5f.html", "dir_4fef79e7177ba769987a8da36c892c5f" ],
+    [ "tralics", "dir_34757b718924119af78d27f1d70115f6.html", "dir_34757b718924119af78d27f1d70115f6" ],
+    [ "globals.cpp", "da/d77/globals_8cpp.html", "da/d77/globals_8cpp" ],
+    [ "Istring.cpp", "d0/d4b/_istring_8cpp.html", null ],
+    [ "MainClass.cpp", "df/d37/_main_class_8cpp.html", null ],
+    [ "readline.cpp", "d7/d53/readline_8cpp.html", "d7/d53/readline_8cpp" ],
+    [ "tralics.cpp", "d5/ddd/tralics_8cpp.html", "d5/ddd/tralics_8cpp" ],
+    [ "txaccent.cpp", "dd/dce/txaccent_8cpp.html", "dd/dce/txaccent_8cpp" ],
+    [ "txarray.cpp", "d7/de8/txarray_8cpp.html", null ],
     [ "txarray.h", "d8/d6d/txarray_8h.html", [
       [ "NewArray", "da/d78/class_new_array.html", "da/d78/class_new_array" ]
     ] ],
-    [ "txatt.C", "db/df0/txatt_8_c.html", null ],
+    [ "txatt.cpp", "d5/d6d/txatt_8cpp.html", null ],
     [ "txatt.h", "d4/da4/txatt_8h.html", [
       [ "AttPair", "d6/d34/struct_att_pair.html", "d6/d34/struct_att_pair" ],
       [ "AttList", "d5/d61/class_att_list.html", "d5/d61/class_att_list" ]
     ] ],
-    [ "txaux.C", "dd/dce/txaux_8_c.html", "dd/dce/txaux_8_c" ],
-    [ "txbib.C", "d1/d56/txbib_8_c.html", "d1/d56/txbib_8_c" ],
+    [ "txaux.cpp", "d1/daa/txaux_8cpp.html", "d1/daa/txaux_8cpp" ],
+    [ "txbib.cpp", "d1/ddd/txbib_8cpp.html", "d1/ddd/txbib_8cpp" ],
     [ "txbib.h", "d6/dcb/txbib_8h.html", [
       [ "CitationKey", "d1/d59/class_citation_key.html", "d1/d59/class_citation_key" ],
       [ "CitationItem", "dc/d0f/class_citation_item.html", "dc/d0f/class_citation_item" ],
@@ -32,16 +33,16 @@ var files_dup =
       [ "Bbl", "d2/d56/class_bbl.html", "d2/d56/class_bbl" ],
       [ "BblAndTty", "d8/dbe/class_bbl_and_tty.html", "d8/dbe/class_bbl_and_tty" ]
     ] ],
-    [ "txbuffer.C", "d4/df2/txbuffer_8_c.html", "d4/df2/txbuffer_8_c" ],
+    [ "txbuffer.cpp", "de/d74/txbuffer_8cpp.html", "de/d74/txbuffer_8cpp" ],
     [ "txbuffer.h", "dd/d74/txbuffer_8h.html", "dd/d74/txbuffer_8h" ],
-    [ "txclasses.C", "de/ddd/txclasses_8_c.html", "de/ddd/txclasses_8_c" ],
+    [ "txclasses.cpp", "d4/dee/txclasses_8cpp.html", "d4/dee/txclasses_8cpp" ],
     [ "txclasses.h", "dc/dd7/txclasses_8h.html", "dc/dd7/txclasses_8h" ],
-    [ "txcommands.C", "d4/d1e/txcommands_8_c.html", "d4/d1e/txcommands_8_c" ],
+    [ "txcommands.cpp", "df/d9e/txcommands_8cpp.html", "df/d9e/txcommands_8cpp" ],
     [ "txcond.h", "d3/d6b/txcond_8h.html", [
       [ "CondAux", "d4/d00/struct_cond_aux.html", "d4/d00/struct_cond_aux" ],
       [ "Condition", "da/df9/class_condition.html", "da/df9/class_condition" ]
     ] ],
-    [ "txconfig.C", "d9/d64/txconfig_8_c.html", "d9/d64/txconfig_8_c" ],
+    [ "txconfig.cpp", "df/d98/txconfig_8cpp.html", "df/d98/txconfig_8cpp" ],
     [ "txeqtb.h", "d3/d01/txeqtb_8h.html", [
       [ "Equivalent", "dd/d25/class_equivalent.html", "dd/d25/class_equivalent" ],
       [ "RestoreVbSpace", "d9/dd7/class_restore_vb_space.html", "d9/dd7/class_restore_vb_space" ],
@@ -72,15 +73,15 @@ var files_dup =
       [ "EqtbToken", "d7/d85/struct_eqtb_token.html", "d7/d85/struct_eqtb_token" ],
       [ "EqtbBox", "d8/d71/class_eqtb_box.html", "d8/d71/class_eqtb_box" ]
     ] ],
-    [ "txerr.C", "d1/d79/txerr_8_c.html", "d1/d79/txerr_8_c" ],
-    [ "txfonts.C", "d7/d0d/txfonts_8_c.html", "d7/d0d/txfonts_8_c" ],
+    [ "txerr.cpp", "d8/d02/txerr_8cpp.html", "d8/d02/txerr_8cpp" ],
+    [ "txfonts.cpp", "d6/dc0/txfonts_8cpp.html", "d6/dc0/txfonts_8cpp" ],
     [ "txfonts.h", "d7/d4d/txfonts_8h.html", [
       [ "FontInfo", "dd/d39/class_font_info.html", "dd/d39/class_font_info" ],
       [ "TeXChar", "dc/dea/class_te_x_char.html", "dc/dea/class_te_x_char" ],
       [ "TexFont", "de/dbe/class_tex_font.html", "de/dbe/class_tex_font" ],
       [ "TexFonts", "d1/df4/struct_tex_fonts.html", "d1/df4/struct_tex_fonts" ]
     ] ],
-    [ "txfp.C", "d1/dcd/txfp_8_c.html", "d1/dcd/txfp_8_c" ],
+    [ "txfp.cpp", "d7/d80/txfp_8cpp.html", "d7/d80/txfp_8cpp" ],
     [ "txfp.h", "d0/de6/txfp_8h.html", [
       [ "FpNum", "db/d0c/class_fp_num.html", "db/d0c/class_fp_num" ]
     ] ],
@@ -98,36 +99,36 @@ var files_dup =
       [ "Image", "de/d73/class_image.html", "de/d73/class_image" ]
     ] ],
     [ "txinline.h", "d7/d79/txinline_8h.html", "d7/d79/txinline_8h" ],
-    [ "txio.C", "d8/dc2/txio_8_c.html", "d8/dc2/txio_8_c" ],
+    [ "txio.cpp", "d0/d1f/txio_8cpp.html", "d0/d1f/txio_8cpp" ],
     [ "txio.h", "de/d29/txio_8h.html", "de/d29/txio_8h" ],
-    [ "txl3.C", "dc/dcd/txl3_8_c.html", "dc/dcd/txl3_8_c" ],
+    [ "txl3.cpp", "d0/dc3/txl3_8cpp.html", "d0/dc3/txl3_8cpp" ],
     [ "txlogger.h", "d2/d06/txlogger_8h.html", "d2/d06/txlogger_8h" ],
-    [ "txmath.C", "db/d96/txmath_8_c.html", "db/d96/txmath_8_c" ],
+    [ "txmath.cpp", "d4/dd9/txmath_8cpp.html", "d4/dd9/txmath_8cpp" ],
     [ "txmath.h", "df/d79/txmath_8h.html", "df/d79/txmath_8h" ],
-    [ "txmath1.C", "d8/dc6/txmath1_8_c.html", "d8/dc6/txmath1_8_c" ],
+    [ "txmath1.cpp", "dc/d78/txmath1_8cpp.html", "dc/d78/txmath1_8cpp" ],
     [ "txmath1.h", "db/dd3/txmath1_8h.html", "db/dd3/txmath1_8h" ],
-    [ "txmathboot.C", "d7/dd3/txmathboot_8_c.html", "d7/dd3/txmathboot_8_c" ],
-    [ "txmlio.C", "dd/d48/txmlio_8_c.html", "dd/d48/txmlio_8_c" ],
+    [ "txmathboot.cpp", "d9/d59/txmathboot_8cpp.html", "d9/d59/txmathboot_8cpp" ],
+    [ "txmlio.cpp", "de/de4/txmlio_8cpp.html", "de/de4/txmlio_8cpp" ],
     [ "txmlio.h", "dc/d84/txmlio_8h.html", "dc/d84/txmlio_8h" ],
     [ "txparam.h", "d5/d08/txparam_8h.html", "d5/d08/txparam_8h" ],
-    [ "txparser.C", "d7/dc3/txparser_8_c.html", "d7/dc3/txparser_8_c" ],
+    [ "txparser.cpp", "df/da9/txparser_8cpp.html", "df/da9/txparser_8cpp" ],
     [ "txparser.h", "d2/d1b/txparser_8h.html", "d2/d1b/txparser_8h" ],
-    [ "txparser2.C", "d5/d2e/txparser2_8_c.html", "d5/d2e/txparser2_8_c" ],
+    [ "txparser2.cpp", "d0/d24/txparser2_8cpp.html", "d0/d24/txparser2_8cpp" ],
     [ "txparser2.h", "da/d5e/txparser2_8h.html", [
       [ "XkvToken", "dd/d84/class_xkv_token.html", "dd/d84/class_xkv_token" ],
       [ "XkvSetkeys", "d6/d9a/class_xkv_setkeys.html", "d6/d9a/class_xkv_setkeys" ]
     ] ],
-    [ "txparser3.C", "d4/d5c/txparser3_8_c.html", "d4/d5c/txparser3_8_c" ],
-    [ "txpost.C", "db/d66/txpost_8_c.html", "db/d66/txpost_8_c" ],
+    [ "txparser3.cpp", "de/da4/txparser3_8cpp.html", "de/da4/txparser3_8cpp" ],
+    [ "txpost.cpp", "d6/d4a/txpost_8cpp.html", "d6/d4a/txpost_8cpp" ],
     [ "txpost.h", "dd/dae/txpost_8h.html", [
       [ "ModChecker", "df/d4e/class_mod_checker.html", "df/d4e/class_mod_checker" ],
       [ "XmlAction", "df/df6/class_xml_action.html", "df/df6/class_xml_action" ],
       [ "WordList", "d5/d8c/class_word_list.html", "d5/d8c/class_word_list" ]
     ] ],
-    [ "txra.C", "dc/d4c/txra_8_c.html", "dc/d4c/txra_8_c" ],
+    [ "txra.cpp", "d3/dd3/txra_8cpp.html", "d3/dd3/txra_8cpp" ],
     [ "txscaled.h", "d9/d18/txscaled_8h.html", "d9/d18/txscaled_8h" ],
-    [ "txscan.C", "d2/dee/txscan_8_c.html", "d2/dee/txscan_8_c" ],
-    [ "txstack.C", "d3/df2/txstack_8_c.html", "d3/df2/txstack_8_c" ],
+    [ "txscan.cpp", "df/d8f/txscan_8cpp.html", "df/d8f/txscan_8cpp" ],
+    [ "txstack.cpp", "d5/dbc/txstack_8cpp.html", "d5/dbc/txstack_8cpp" ],
     [ "txstack.h", "dc/d65/txstack_8h.html", [
       [ "ArrayInfo", "d8/dc7/class_array_info.html", "d8/dc7/class_array_info" ],
       [ "Stack", "d0/d14/class_stack.html", "d0/d14/class_stack" ],
@@ -139,14 +140,14 @@ var files_dup =
     [ "txstring.h", "dc/def/txstring_8h.html", [
       [ "StrHash", "de/df7/class_str_hash.html", "de/df7/class_str_hash" ]
     ] ],
-    [ "txtitlepage.C", "da/d89/txtitlepage_8_c.html", "da/d89/txtitlepage_8_c" ],
+    [ "txtitlepage.cpp", "d1/dc8/txtitlepage_8cpp.html", "d1/dc8/txtitlepage_8cpp" ],
     [ "txtitlepage.h", "d5/d7f/txtitlepage_8h.html", "d5/d7f/txtitlepage_8h" ],
-    [ "txtoken.C", "d9/d1e/txtoken_8_c.html", "d9/d1e/txtoken_8_c" ],
-    [ "txtoken1.C", "d0/d63/txtoken1_8_c.html", "d0/d63/txtoken1_8_c" ],
-    [ "txtoken2.C", "de/da5/txtoken2_8_c.html", null ],
+    [ "txtoken.cpp", "d7/d6c/txtoken_8cpp.html", "d7/d6c/txtoken_8cpp" ],
+    [ "txtoken1.cpp", "dd/d02/txtoken1_8cpp.html", "dd/d02/txtoken1_8cpp" ],
+    [ "txtoken2.cpp", "d9/d80/txtoken2_8cpp.html", null ],
     [ "txtokenlist.h", "dc/d91/txtokenlist_8h.html", "dc/d91/txtokenlist_8h" ],
-    [ "txtranslate.C", "d5/dda/txtranslate_8_c.html", "d5/dda/txtranslate_8_c" ],
-    [ "txtrees.C", "da/d9e/txtrees_8_c.html", "da/d9e/txtrees_8_c" ],
+    [ "txtranslate.cpp", "dd/da4/txtranslate_8cpp.html", "dd/da4/txtranslate_8cpp" ],
+    [ "txtrees.cpp", "d0/d93/txtrees_8cpp.html", "d0/d93/txtrees_8cpp" ],
     [ "txtrees.h", "d0/dd4/txtrees_8h.html", "d0/dd4/txtrees_8h" ],
     [ "txvars.h", "dc/de8/txvars_8h.html", "dc/de8/txvars_8h" ],
     [ "txxml.h", "d1/d43/txxml_8h.html", "d1/d43/txxml_8h" ]

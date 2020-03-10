@@ -292,7 +292,7 @@ var class_parser =
     [ "implicit_par", "dc/db7/class_parser.html#adf2275ff80f66c6b313b4e535e77bca1", null ],
     [ "improper_alpha", "dc/db7/class_parser.html#a1c8ce2962c2ce06425d0ad0316ded644", null ],
     [ "includegraphics", "dc/db7/class_parser.html#ada793e89e4047e28c34272eda2c1c6c8", null ],
-    [ "index_aux", "dc/db7/class_parser.html#a58ab4c575c6b9ee36a53fc2aa8eb80bc", null ],
+    [ "index_aux", "dc/db7/class_parser.html#a3584548b6ce413a96a352a943ac6aaeb", null ],
     [ "init", "dc/db7/class_parser.html#ab1deaa60ffcaf59b57df1922b1eacca7", null ],
     [ "init_all", "dc/db7/class_parser.html#a6f663afc6e9055bf7775c69ad4d72b46", null ],
     [ "initialise_font", "dc/db7/class_parser.html#aa4d1430caca82371daad784bc955e7d0", null ],

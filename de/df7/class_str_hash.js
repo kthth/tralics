@@ -16,7 +16,6 @@ var class_str_hash =
     [ "shbuf", "de/df7/class_str_hash.html#a77efdc047f6c7debd96f3e9bed241ebb", null ],
     [ "hash_last", "de/df7/class_str_hash.html#a8cd35311914cb02c608391eca6d200f3", null ],
     [ "hash_len", "de/df7/class_str_hash.html#ac11241b7a9cac4a80b57110986b36562", null ],
-    [ "hash_used", "de/df7/class_str_hash.html#a0f3332b70cfd84e5c95476b02cfc50d3", null ],
     [ "Labinfo", "de/df7/class_str_hash.html#af964801c1a59526440e1b5de545717c8", null ],
     [ "mybuf", "de/df7/class_str_hash.html#ab21931567b88ea3c5300b5519dbcc461", null ],
     [ "Next", "de/df7/class_str_hash.html#ae5322b4ed042622c7ff50f80c58e28ce", null ],
