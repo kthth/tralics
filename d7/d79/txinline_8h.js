@@ -1,7 +1,6 @@
 var txinline_8h =
 [
     [ "is_leap_year", "d7/d79/txinline_8h.html#a49f42303de051f60a0a6b92e9b61fd3f", null ],
-    [ "make_names", "d7/d79/txinline_8h.html#a44037e2af840d0bb0fd7c2d898037118", null ],
     [ "boot_math", "d7/d79/txinline_8h.html#a614cb00d9bfda2baad688ea82908c967", null ],
     [ "find_in_confdir", "d7/d79/txinline_8h.html#ad57f2f218fcf5540a414d22c7da91ad2", null ],
     [ "find_in_path", "d7/d79/txinline_8h.html#a8c471d27975f479acfeae9b703ac1303", null ],

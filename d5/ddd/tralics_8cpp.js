@@ -1,5 +1,6 @@
 var tralics_8cpp =
 [
+    [ "make_names", "d5/ddd/tralics_8cpp.html#afecfb6dcbb109a6d2cd77b5869fbf7f5", null ],
     [ "boot_accents", "d5/ddd/tralics_8cpp.html#a9b01d344ff3d0cb259d9bcb0cdc43a28", null ],
     [ "twodig", "d5/ddd/tralics_8cpp.html#a7fbc433a962ce98d941085772d88035e", null ],
     [ "main", "d5/ddd/tralics_8cpp.html#a808f40e2e9d6eb5463165c031dfa3eb1", null ],

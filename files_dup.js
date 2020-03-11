@@ -4,7 +4,7 @@ var files_dup =
     [ "tralics", "dir_34757b718924119af78d27f1d70115f6.html", "dir_34757b718924119af78d27f1d70115f6" ],
     [ "globals.cpp", "da/d77/globals_8cpp.html", "da/d77/globals_8cpp" ],
     [ "Istring.cpp", "d0/d4b/_istring_8cpp.html", null ],
-    [ "MainClass.cpp", "df/d37/_main_class_8cpp.html", null ],
+    [ "MainClass.cpp", "df/d37/_main_class_8cpp.html", "df/d37/_main_class_8cpp" ],
     [ "readline.cpp", "d7/d53/readline_8cpp.html", "d7/d53/readline_8cpp" ],
     [ "tralics.cpp", "d5/ddd/tralics_8cpp.html", "d5/ddd/tralics_8cpp" ],
     [ "txaccent.cpp", "dd/dce/txaccent_8cpp.html", "dd/dce/txaccent_8cpp" ],

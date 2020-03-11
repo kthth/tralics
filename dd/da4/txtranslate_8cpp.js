@@ -2,6 +2,7 @@ var txtranslate_8cpp =
 [
     [ "ColSpec", "d8/d2e/class_col_spec.html", "d8/d2e/class_col_spec" ],
     [ "readline_newprompt", "dd/da4/txtranslate_8cpp.html#add080e421924b920441349026f873196", null ],
+    [ "txsleep", "dd/da4/txtranslate_8cpp.html#a48ec20e0fcc030f10c79d7cbd33caf5a", null ],
     [ "find_color", "dd/da4/txtranslate_8cpp.html#a2e3c529dc450ee13d1ced9b019d3eb8e", null ],
     [ "xml_to_string", "dd/da4/txtranslate_8cpp.html#a011c6e9aa0ab446a623860819bd1ebf1", null ],
     [ "current_head", "dd/da4/txtranslate_8cpp.html#a4447e5f142aeb6feef188c46e9d72561", null ],

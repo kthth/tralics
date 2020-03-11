@@ -1,11 +1,6 @@
 var globals_8cpp =
 [
-    [ "bad_conf", "da/d77/globals_8cpp.html#af26560f14487bcbe0b9d5862958389d1", null ],
-    [ "set_everyjob", "da/d77/globals_8cpp.html#add154324fb41a19f12b3b86de0f7d538", null ],
-    [ "after_conf_assign", "da/d77/globals_8cpp.html#a2fe32683f47553634f38095c823d3124", null ],
-    [ "obsolete", "da/d77/globals_8cpp.html#a4ee7833b403f027fe1fe99493c2785d8", null ],
-    [ "check_for_encoding", "da/d77/globals_8cpp.html#a4f106601282ed868d651f218a24fc603", null ],
-    [ "show_encoding", "da/d77/globals_8cpp.html#a2401441fb58a90ec6474f7a4f15ec85e", null ],
+    [ "search_in_pool", "da/d77/globals_8cpp.html#a2bdc33ee4d6d952c4c0d1811bed9b800", null ],
     [ "conf_path", "da/d77/globals_8cpp.html#ad4f01cac1d43b59fe696f127443bbc2c", null ],
     [ "input_path", "da/d77/globals_8cpp.html#a755d9618c26010081da25e9ae262e075", null ],
     [ "other_options", "da/d77/globals_8cpp.html#aeecb68cc402315935fafe151e4e35eb2", null ],

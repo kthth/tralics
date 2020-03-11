@@ -1,5 +1,6 @@
 var txio_8cpp =
 [
+    [ "use_pool", "d0/d1f/txio_8cpp.html#a3e055f11f7cf74ecd6a5d29d2e2693ab", null ],
     [ "print_ascii", "d0/d1f/txio_8cpp.html#a78c1e3fdf8d1fd516e93a6d7a2ad7347", null ],
     [ "how_many_bytes", "d0/d1f/txio_8cpp.html#acce035301d0022baab729fa778f9ee4c", null ],
     [ "make_utf8char", "d0/d1f/txio_8cpp.html#a6c17675b8dcc8c0e433707f213a44660", null ],
