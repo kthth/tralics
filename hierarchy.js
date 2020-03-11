@@ -33,6 +33,7 @@ var hierarchy =
     [ "EqtbString", "d9/d52/class_eqtb_string.html", null ],
     [ "EqtbToken", "d7/d85/struct_eqtb_token.html", null ],
     [ "Equivalent", "dd/d25/class_equivalent.html", null ],
+    [ "anonymous_namespace{txbib.cpp}::Error", "d8/df2/classanonymous__namespace_02txbib_8cpp_03_1_1_error.html", null ],
     [ "FileForInput", "dd/d5a/class_file_for_input.html", null ],
     [ "FontInfo", "dd/d39/class_font_info.html", null ],
     [ "FormatDate", "df/d49/class_format_date.html", null ],

@@ -1,8 +1,9 @@
 <map id="BibEntry" name="BibEntry">
-<area shape="rect" id="node1" title=" " alt="" coords="165,415,237,441"/>
-<area shape="rect" id="node2" title="STL class." alt="" coords="101,93,181,119"/>
-<area shape="rect" id="node4" href="$d1/d59/class_citation_key.html" title=" " alt="" coords="99,274,188,299"/>
-<area shape="rect" id="node6" href="$de/d3a/class_bibtex_name.html" title=" " alt="" coords="213,274,307,299"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="78,5,204,44"/>
-<area shape="rect" id="node5" href="$dd/d4f/class_istring.html" title=" " alt="" coords="331,274,388,299"/>
+<area shape="rect" id="node1" title=" " alt="" coords="282,402,354,427"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="185,93,264,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="99,261,249,299"/>
+<area shape="rect" id="node5" href="$d1/d59/class_citation_key.html" title=" " alt="" coords="273,267,362,293"/>
+<area shape="rect" id="node7" href="$de/d3a/class_bibtex_name.html" title=" " alt="" coords="387,267,481,293"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="162,5,287,44"/>
+<area shape="rect" id="node6" href="$d9/d20/struct_istring.html" title=" " alt="" coords="505,267,562,293"/>
 </map>

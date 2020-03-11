@@ -6,9 +6,9 @@ var class_bbl_and_tty =
     [ "out_field", "d8/dbe/class_bbl_and_tty.html#ad2da9ed7bbc35d7e281403401b26217c", null ],
     [ "out_field", "d8/dbe/class_bbl_and_tty.html#ae48f63f8cfd533f275e01fff11a15b4a", null ],
     [ "out_nl", "d8/dbe/class_bbl_and_tty.html#aa55634bb58fd6fd789e122023ae96e35", null ],
-    [ "out_string", "d8/dbe/class_bbl_and_tty.html#a366d703a06fc883bf12a1de6c475774c", null ],
     [ "out_string", "d8/dbe/class_bbl_and_tty.html#ab03b4453c56c18200cbe6a9ff674f384", null ],
     [ "out_string", "d8/dbe/class_bbl_and_tty.html#a5977fe0dea48c570a003f6932debaa0e", null ],
-    [ "lb", "d8/dbe/class_bbl_and_tty.html#a3b9b31d189416188c5a114edfb557004", null ],
-    [ "X", "d8/dbe/class_bbl_and_tty.html#aacb35d1947b42c383e9a3847f2af5ccd", null ]
+    [ "out_string", "d8/dbe/class_bbl_and_tty.html#a366d703a06fc883bf12a1de6c475774c", null ],
+    [ "X", "d8/dbe/class_bbl_and_tty.html#aacb35d1947b42c383e9a3847f2af5ccd", null ],
+    [ "lb", "d8/dbe/class_bbl_and_tty.html#a3b9b31d189416188c5a114edfb557004", null ]
 ];

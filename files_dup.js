@@ -1,6 +1,6 @@
 var files_dup =
 [
-    [ "build", "dir_4fef79e7177ba769987a8da36c892c5f.html", "dir_4fef79e7177ba769987a8da36c892c5f" ],
+    [ "doc", "dir_e68e8157741866f444e17edd764ebbae.html", null ],
     [ "tralics", "dir_34757b718924119af78d27f1d70115f6.html", "dir_34757b718924119af78d27f1d70115f6" ],
     [ "globals.cpp", "da/d77/globals_8cpp.html", "da/d77/globals_8cpp" ],
     [ "Istring.cpp", "d0/d4b/_istring_8cpp.html", null ],
@@ -8,7 +8,7 @@ var files_dup =
     [ "readline.cpp", "d7/d53/readline_8cpp.html", "d7/d53/readline_8cpp" ],
     [ "tralics.cpp", "d5/ddd/tralics_8cpp.html", "d5/ddd/tralics_8cpp" ],
     [ "txaccent.cpp", "dd/dce/txaccent_8cpp.html", "dd/dce/txaccent_8cpp" ],
-    [ "txarray.cpp", "d7/de8/txarray_8cpp.html", null ],
+    [ "txarray.cpp", "d7/de8/txarray_8cpp.html", "d7/de8/txarray_8cpp" ],
     [ "txarray.h", "d8/d6d/txarray_8h.html", [
       [ "NewArray", "da/d78/class_new_array.html", "da/d78/class_new_array" ]
     ] ],

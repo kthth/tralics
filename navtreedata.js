@@ -23,15 +23,11 @@ for the JavaScript code in this file
 var NAVTREE =
 [
   [ "Tralics", "index.html", [
-    [ "ChangeLog for the Tralics software", "d6/d5a/md___users_vincent__prog_tralics__c_h_a_n_g_e_l_o_g.html", null ],
     [ "Todo List", "dd/da0/todo.html", null ],
-    [ "Namespaces", "namespaces.html", [
-      [ "Namespace List", "namespaces.html", "namespaces_dup" ],
-      [ "Namespace Members", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", "namespacemembers_dup" ],
-        [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
-        [ "Variables", "namespacemembers_vars.html", null ]
-      ] ]
+    [ "Namespace Members", "namespacemembers.html", [
+      [ "All", "namespacemembers.html", "namespacemembers_dup" ],
+      [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
+      [ "Variables", "namespacemembers_vars.html", "namespacemembers_vars" ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
@@ -71,32 +67,33 @@ var NAVTREEINDEX =
 "d0/d0b/enums_8h.html#a89072ae6f4333d1933b13d5270758405a87f97a33bbf82241e5dde0bffd92bea2",
 "d0/d0b/enums_8h.html#a89072ae6f4333d1933b13d5270758405af96a9308f864d7872036ae8fd749bb40",
 "d0/d0b/enums_8h.html#ad9fa722fa2849c703424c4eea93f2ee7a8d248a6c8e78a41820ebc1c807fde7a6",
-"d0/d14/class_stack.html#a9a4c10813103b01b8ea5a2ab1817f1b1",
-"d0/d6a/class_hashtab.html#ac024de2637117efe90dc954f68b21314",
-"d0/de2/class_bibtex.html#abdffa07181309940283bef7160691bd5",
-"d2/da0/class_math_elt.html#a162b7f6f7f1384abe447d77d4ec9e08e",
-"d3/dda/class_xml_i_o.html#abb8a75e082d0fc6c1a694b7c983e845a",
-"d5/d2a/class_buffer.html#a2f951a4038663150c88ee72435577739",
-"d5/d5e/class_main_class.html#a28995a6bfbcf7cc0b46d39e70d00330f",
-"d5/d87/globals_8h.html#aebbb50a91cc90889030169aa8162987c",
-"d6/d9a/class_xml.html#a5c47c59fbd28270bba8f0539d331dca9",
-"d7/d79/txinline_8h.html#ac80c60f66ddb8726eb5e42d91859e515",
-"d8/dbe/class_bbl_and_tty.html#ab03b4453c56c18200cbe6a9ff674f384",
-"d9/dc4/class_bib_entry.html#a30849a47a8627246693a2d6625145984",
-"db/d0c/class_fp_num.html#a6986991a6720cd5a5c3e43c969bc22a9",
-"dc/db7/class_parser.html#a02d8838d20dbc88c58ebc8d36c24b4cc",
-"dc/db7/class_parser.html#a43a0d413c90a1e12e2681ffc6e19d66c",
-"dc/db7/class_parser.html#a85c0dac125938237acf0d40f4b76e195",
-"dc/db7/class_parser.html#ac7b5f852a86fa3ccf170bb57f5aaf92b",
-"dc/dc9/class_save_aux_token.html#ad8f172f8b9f3f64cceaeec6a40402c93",
-"dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a801c5fe637947a40f3e13ecc9a511ba5",
-"dc/de8/txvars_8h.html#a97d61fb99458ad2412ba6e5f032e3ddaa4b99f58868c5528b11d7d795036aad27",
-"dc/de8/txvars_8h.html#a97d61fb99458ad2412ba6e5f032e3ddaabbba6b05bc5e9373038cfd55e904e5e9",
-"dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a8ac8b4cbc6d61cf8df43b91b998ea0e3",
-"dd/dce/txaccent_8cpp.html#ac0c311fbd7bcad43016f9a907851369c",
-"de/d72/class_cmd_chr.html#add5da7a1daf6fc044e1a9b5bdb2b11ef",
-"df/d79/txmath_8h.html#aab2648d149a933b4ca9a818223218429",
-"globals_type.html"
+"d0/d14/class_stack.html#a94cddb659f87a7a5f75b169f24903bae",
+"d0/d6a/class_hashtab.html#aa8b11e3281c8e42d61cfc522c1755823",
+"d0/de2/class_bibtex.html#a1247a1a6a0124e560cc99d412dfb9f6c",
+"d2/d06/txlogger_8h.html#a8f3d5139063ee1256105a4a0105bea68",
+"d3/d42/class_logger.html#ac68ef8390d67063ecbd04e6bd65d043e",
+"d4/dd9/txmath_8cpp.html#a96e062cfe4a150936805be639bc14c8e",
+"d5/d2a/class_buffer.html#ac4699909f6e33d67f9123cfbf66445e5",
+"d5/d5e/class_main_class.html#ae0270dbe3b27fac739be7b24c7a65bc1",
+"d6/d63/class_bchar.html#a7c3e370e4c93848c3238841c3250e1f9",
+"d7/d61/class_save_aux_cmd.html#a101633d7885c3aebbad34a8ad3542148",
+"d7/dfb/class_math_helper.html#a7150625a8752fa318851e2051b28247e",
+"d9/d20/struct_istring.html#a4fd6e0082713114333d2fcab88bd959c",
+"d9/de8/class_key_and_val.html#af3f67ca912017affe71b1acc6c93615f",
+"dc/d61/class_bib_macro.html",
+"dc/db7/class_parser.html#a1fb27d6f5585d3ae380312c21fbfc78d",
+"dc/db7/class_parser.html#a5e4bbea6e874eddb4df2ae5d1b56a77e",
+"dc/db7/class_parser.html#a9f39346b6d1197c3bdc21d418305d5c9",
+"dc/db7/class_parser.html#ade29adaade367b05d93c0da2cc2ef0c9",
+"dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a0a4de6c3becde0384acfc1b9c51e0388",
+"dc/de8/txvars_8h.html#a97703dcaf4230f497033452aca66f530ace906fe277101296f7129a54d8db8083",
+"dc/de8/txvars_8h.html#a97d61fb99458ad2412ba6e5f032e3ddaa76d8a41872a6f9c64e2e1a2e14d47f44",
+"dc/de8/txvars_8h.html#a97d61fb99458ad2412ba6e5f032e3ddaae49582debbaf3d91dedb828cdded13c8",
+"dd/d25/class_equivalent.html#a36c2990275fe1482983dd704ab53ab15",
+"de/d3f/class_xid.html#af0cf99299ef083b02db4311c110cd7f9",
+"de/dbe/class_tex_font.html#a1bcb3d59c4378179d6d6ab2de8e66b60",
+"df/da9/txparser_8cpp.html",
+"namespacemembers_k.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

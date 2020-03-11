@@ -8,7 +8,6 @@
  viewBox="0.00 0.00 2766.75 192.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 188)">
 <title>txlogger.h</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-188 2762.75,-188 2762.75,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
@@ -22,7 +21,7 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d7/d79/txinline_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1324.56,-110.5 1324.56,-128.5 1380.03,-128.5 1380.03,-110.5 1324.56,-110.5"/>
+<polygon fill="none" stroke="black" points="1324.56,-110.5 1324.56,-128.5 1380.03,-128.5 1380.03,-110.5 1324.56,-110.5"/>
 <text text-anchor="middle" x="1352.3" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">txinline.h</text>
 </a>
 </g>
@@ -37,7 +36,7 @@
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../da/d77/globals_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="0,-55.5 0,-73.5 66.59,-73.5 66.59,-55.5 0,-55.5"/>
+<polygon fill="none" stroke="black" points="0,-55.5 0,-73.5 66.59,-73.5 66.59,-55.5 0,-55.5"/>
 <text text-anchor="middle" x="33.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">globals.cpp</text>
 </a>
 </g>
@@ -52,7 +51,7 @@
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:href="../../d0/d4b/_istring_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="84.23,-55.5 84.23,-73.5 146.36,-73.5 146.36,-55.5 84.23,-55.5"/>
+<polygon fill="none" stroke="black" points="84.23,-55.5 84.23,-73.5 146.36,-73.5 146.36,-55.5 84.23,-55.5"/>
 <text text-anchor="middle" x="115.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">Istring.cpp</text>
 </a>
 </g>
@@ -67,7 +66,7 @@
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="../../df/d37/_main_class_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="164.5,-55.5 164.5,-73.5 246.09,-73.5 246.09,-55.5 164.5,-55.5"/>
+<polygon fill="none" stroke="black" points="164.5,-55.5 164.5,-73.5 246.09,-73.5 246.09,-55.5 164.5,-55.5"/>
 <text text-anchor="middle" x="205.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">MainClass.cpp</text>
 </a>
 </g>
@@ -82,7 +81,7 @@
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:href="../../d5/ddd/tralics_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="263.79,-55.5 263.79,-73.5 324.8,-73.5 324.8,-55.5 263.79,-55.5"/>
+<polygon fill="none" stroke="black" points="263.79,-55.5 263.79,-73.5 324.8,-73.5 324.8,-55.5 263.79,-55.5"/>
 <text text-anchor="middle" x="294.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">tralics.cpp</text>
 </a>
 </g>
@@ -97,7 +96,7 @@
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="../../dd/dce/txaccent_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="343.22,-55.5 343.22,-73.5 415.37,-73.5 415.37,-55.5 343.22,-55.5"/>
+<polygon fill="none" stroke="black" points="343.22,-55.5 343.22,-73.5 415.37,-73.5 415.37,-55.5 343.22,-55.5"/>
 <text text-anchor="middle" x="379.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txaccent.cpp</text>
 </a>
 </g>
@@ -112,7 +111,7 @@
 <g id="node8" class="node">
 <title>Node8</title>
 <g id="a_node8"><a xlink:href="../../d7/de8/txarray_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="432.93,-55.5 432.93,-73.5 497.66,-73.5 497.66,-55.5 432.93,-55.5"/>
+<polygon fill="none" stroke="black" points="432.93,-55.5 432.93,-73.5 497.66,-73.5 497.66,-55.5 432.93,-55.5"/>
 <text text-anchor="middle" x="465.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txarray.cpp</text>
 </a>
 </g>
@@ -127,7 +126,7 @@
 <g id="node9" class="node">
 <title>Node9</title>
 <g id="a_node9"><a xlink:href="../../d5/d6d/txatt_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="515.4,-55.5 515.4,-73.5 569.19,-73.5 569.19,-55.5 515.4,-55.5"/>
+<polygon fill="none" stroke="black" points="515.4,-55.5 515.4,-73.5 569.19,-73.5 569.19,-55.5 515.4,-55.5"/>
 <text text-anchor="middle" x="542.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txatt.cpp</text>
 </a>
 </g>
@@ -142,7 +141,7 @@
 <g id="node10" class="node">
 <title>Node10</title>
 <g id="a_node10"><a xlink:href="../../d1/daa/txaux_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="586.89,-55.5 586.89,-73.5 645.7,-73.5 645.7,-55.5 586.89,-55.5"/>
+<polygon fill="none" stroke="black" points="586.89,-55.5 586.89,-73.5 645.7,-73.5 645.7,-55.5 586.89,-55.5"/>
 <text text-anchor="middle" x="616.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txaux.cpp</text>
 </a>
 </g>
@@ -157,7 +156,7 @@
 <g id="node11" class="node">
 <title>Node11</title>
 <g id="a_node11"><a xlink:href="../../d6/dcb/txbib_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="663.56,-55.5 663.56,-73.5 709.03,-73.5 709.03,-55.5 663.56,-55.5"/>
+<polygon fill="none" stroke="black" points="663.56,-55.5 663.56,-73.5 709.03,-73.5 709.03,-55.5 663.56,-55.5"/>
 <text text-anchor="middle" x="686.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txbib.h</text>
 </a>
 </g>
@@ -172,7 +171,7 @@
 <g id="node13" class="node">
 <title>Node13</title>
 <g id="a_node13"><a xlink:href="../../de/d74/txbuffer_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="726.53,-55.5 726.53,-73.5 794.06,-73.5 794.06,-55.5 726.53,-55.5"/>
+<polygon fill="none" stroke="black" points="726.53,-55.5 726.53,-73.5 794.06,-73.5 794.06,-55.5 726.53,-55.5"/>
 <text text-anchor="middle" x="760.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txbuffer.cpp</text>
 </a>
 </g>
@@ -187,7 +186,7 @@
 <g id="node14" class="node">
 <title>Node14</title>
 <g id="a_node14"><a xlink:href="../../d4/dee/txclasses_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="812.28,-55.5 812.28,-73.5 888.31,-73.5 888.31,-55.5 812.28,-55.5"/>
+<polygon fill="none" stroke="black" points="812.28,-55.5 812.28,-73.5 888.31,-73.5 888.31,-55.5 812.28,-55.5"/>
 <text text-anchor="middle" x="850.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txclasses.cpp</text>
 </a>
 </g>
@@ -202,7 +201,7 @@
 <g id="node15" class="node">
 <title>Node15</title>
 <g id="a_node15"><a xlink:href="../../df/d9e/txcommands_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="906.5,-55.5 906.5,-73.5 998.09,-73.5 998.09,-55.5 906.5,-55.5"/>
+<polygon fill="none" stroke="black" points="906.5,-55.5 906.5,-73.5 998.09,-73.5 998.09,-55.5 906.5,-55.5"/>
 <text text-anchor="middle" x="952.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txcommands.cpp</text>
 </a>
 </g>
@@ -217,7 +216,7 @@
 <g id="node16" class="node">
 <title>Node16</title>
 <g id="a_node16"><a xlink:href="../../df/d98/txconfig_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1015.61,-55.5 1015.61,-73.5 1084.98,-73.5 1084.98,-55.5 1015.61,-55.5"/>
+<polygon fill="none" stroke="black" points="1015.61,-55.5 1015.61,-73.5 1084.98,-73.5 1084.98,-55.5 1015.61,-55.5"/>
 <text text-anchor="middle" x="1050.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txconfig.cpp</text>
 </a>
 </g>
@@ -232,7 +231,7 @@
 <g id="node17" class="node">
 <title>Node17</title>
 <g id="a_node17"><a xlink:href="../../d8/d02/txerr_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1103.12,-55.5 1103.12,-73.5 1157.47,-73.5 1157.47,-55.5 1103.12,-55.5"/>
+<polygon fill="none" stroke="black" points="1103.12,-55.5 1103.12,-73.5 1157.47,-73.5 1157.47,-55.5 1103.12,-55.5"/>
 <text text-anchor="middle" x="1130.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txerr.cpp</text>
 </a>
 </g>
@@ -247,7 +246,7 @@
 <g id="node18" class="node">
 <title>Node18</title>
 <g id="a_node18"><a xlink:href="../../d6/dc0/txfonts_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1175.12,-55.5 1175.12,-73.5 1239.48,-73.5 1239.48,-55.5 1175.12,-55.5"/>
+<polygon fill="none" stroke="black" points="1175.12,-55.5 1175.12,-73.5 1239.48,-73.5 1239.48,-55.5 1175.12,-55.5"/>
 <text text-anchor="middle" x="1207.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txfonts.cpp</text>
 </a>
 </g>
@@ -262,7 +261,7 @@
 <g id="node19" class="node">
 <title>Node19</title>
 <g id="a_node19"><a xlink:href="../../d7/d80/txfp_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1257.79,-55.5 1257.79,-73.5 1308.81,-73.5 1308.81,-55.5 1257.79,-55.5"/>
+<polygon fill="none" stroke="black" points="1257.79,-55.5 1257.79,-73.5 1308.81,-73.5 1308.81,-55.5 1257.79,-55.5"/>
 <text text-anchor="middle" x="1283.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txfp.cpp</text>
 </a>
 </g>
@@ -277,7 +276,7 @@
 <g id="node20" class="node">
 <title>Node20</title>
 <g id="a_node20"><a xlink:href="../../d0/d1f/txio_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1327.06,-55.5 1327.06,-73.5 1377.53,-73.5 1377.53,-55.5 1327.06,-55.5"/>
+<polygon fill="none" stroke="black" points="1327.06,-55.5 1327.06,-73.5 1377.53,-73.5 1377.53,-55.5 1327.06,-55.5"/>
 <text text-anchor="middle" x="1352.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txio.cpp</text>
 </a>
 </g>
@@ -292,7 +291,7 @@
 <g id="node21" class="node">
 <title>Node21</title>
 <g id="a_node21"><a xlink:href="../../d0/dc3/txl3_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1395.06,-55.5 1395.06,-73.5 1445.53,-73.5 1445.53,-55.5 1395.06,-55.5"/>
+<polygon fill="none" stroke="black" points="1395.06,-55.5 1395.06,-73.5 1445.53,-73.5 1445.53,-55.5 1395.06,-55.5"/>
 <text text-anchor="middle" x="1420.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txl3.cpp</text>
 </a>
 </g>
@@ -307,7 +306,7 @@
 <g id="node22" class="node">
 <title>Node22</title>
 <g id="a_node22"><a xlink:href="../../d4/dd9/txmath_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1463.84,-55.5 1463.84,-73.5 1528.75,-73.5 1528.75,-55.5 1463.84,-55.5"/>
+<polygon fill="none" stroke="black" points="1463.84,-55.5 1463.84,-73.5 1528.75,-73.5 1528.75,-55.5 1463.84,-55.5"/>
 <text text-anchor="middle" x="1496.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txmath.cpp</text>
 </a>
 </g>
@@ -322,7 +321,7 @@
 <g id="node23" class="node">
 <title>Node23</title>
 <g id="a_node23"><a xlink:href="../../dc/d78/txmath1_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1547.06,-55.5 1547.06,-73.5 1617.53,-73.5 1617.53,-55.5 1547.06,-55.5"/>
+<polygon fill="none" stroke="black" points="1547.06,-55.5 1547.06,-73.5 1617.53,-73.5 1617.53,-55.5 1547.06,-55.5"/>
 <text text-anchor="middle" x="1582.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txmath1.cpp</text>
 </a>
 </g>
@@ -337,7 +336,7 @@
 <g id="node24" class="node">
 <title>Node24</title>
 <g id="a_node24"><a xlink:href="../../d9/d59/txmathboot_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1635.11,-55.5 1635.11,-73.5 1719.48,-73.5 1719.48,-55.5 1635.11,-55.5"/>
+<polygon fill="none" stroke="black" points="1635.11,-55.5 1635.11,-73.5 1719.48,-73.5 1719.48,-55.5 1635.11,-55.5"/>
 <text text-anchor="middle" x="1677.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txmathboot.cpp</text>
 </a>
 </g>
@@ -352,7 +351,7 @@
 <g id="node25" class="node">
 <title>Node25</title>
 <g id="a_node25"><a xlink:href="../../de/de4/txmlio_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1737.79,-55.5 1737.79,-73.5 1798.8,-73.5 1798.8,-55.5 1737.79,-55.5"/>
+<polygon fill="none" stroke="black" points="1737.79,-55.5 1737.79,-73.5 1798.8,-73.5 1798.8,-55.5 1737.79,-55.5"/>
 <text text-anchor="middle" x="1768.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txmlio.cpp</text>
 </a>
 </g>
@@ -367,7 +366,7 @@
 <g id="node26" class="node">
 <title>Node26</title>
 <g id="a_node26"><a xlink:href="../../df/da9/txparser_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1817.06,-55.5 1817.06,-73.5 1887.53,-73.5 1887.53,-55.5 1817.06,-55.5"/>
+<polygon fill="none" stroke="black" points="1817.06,-55.5 1817.06,-73.5 1887.53,-73.5 1887.53,-55.5 1817.06,-55.5"/>
 <text text-anchor="middle" x="1852.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txparser.cpp</text>
 </a>
 </g>
@@ -382,7 +381,7 @@
 <g id="node27" class="node">
 <title>Node27</title>
 <g id="a_node27"><a xlink:href="../../d0/d24/txparser2_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1906,-55.5 1906,-73.5 1982.59,-73.5 1982.59,-55.5 1906,-55.5"/>
+<polygon fill="none" stroke="black" points="1906,-55.5 1906,-73.5 1982.59,-73.5 1982.59,-55.5 1906,-55.5"/>
 <text text-anchor="middle" x="1944.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txparser2.cpp</text>
 </a>
 </g>
@@ -397,7 +396,7 @@
 <g id="node28" class="node">
 <title>Node28</title>
 <g id="a_node28"><a xlink:href="../../de/da4/txparser3_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2001,-55.5 2001,-73.5 2077.59,-73.5 2077.59,-55.5 2001,-55.5"/>
+<polygon fill="none" stroke="black" points="2001,-55.5 2001,-73.5 2077.59,-73.5 2077.59,-55.5 2001,-55.5"/>
 <text text-anchor="middle" x="2039.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txparser3.cpp</text>
 </a>
 </g>
@@ -412,7 +411,7 @@
 <g id="node29" class="node">
 <title>Node29</title>
 <g id="a_node29"><a xlink:href="../../d6/d4a/txpost_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2095.5,-55.5 2095.5,-73.5 2157.09,-73.5 2157.09,-55.5 2095.5,-55.5"/>
+<polygon fill="none" stroke="black" points="2095.5,-55.5 2095.5,-73.5 2157.09,-73.5 2157.09,-55.5 2095.5,-55.5"/>
 <text text-anchor="middle" x="2126.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txpost.cpp</text>
 </a>
 </g>
@@ -427,7 +426,7 @@
 <g id="node30" class="node">
 <title>Node30</title>
 <g id="a_node30"><a xlink:href="../../d3/dd3/txra_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2175.51,-55.5 2175.51,-73.5 2227.08,-73.5 2227.08,-55.5 2175.51,-55.5"/>
+<polygon fill="none" stroke="black" points="2175.51,-55.5 2175.51,-73.5 2227.08,-73.5 2227.08,-55.5 2175.51,-55.5"/>
 <text text-anchor="middle" x="2201.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txra.cpp</text>
 </a>
 </g>
@@ -442,7 +441,7 @@
 <g id="node31" class="node">
 <title>Node31</title>
 <g id="a_node31"><a xlink:href="../../df/d8f/txscan_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2245.39,-55.5 2245.39,-73.5 2309.2,-73.5 2309.2,-55.5 2245.39,-55.5"/>
+<polygon fill="none" stroke="black" points="2245.39,-55.5 2245.39,-73.5 2309.2,-73.5 2309.2,-55.5 2245.39,-55.5"/>
 <text text-anchor="middle" x="2277.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txscan.cpp</text>
 </a>
 </g>
@@ -457,7 +456,7 @@
 <g id="node32" class="node">
 <title>Node32</title>
 <g id="a_node32"><a xlink:href="../../d5/dbc/txstack_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2327.29,-55.5 2327.29,-73.5 2393.31,-73.5 2393.31,-55.5 2327.29,-55.5"/>
+<polygon fill="none" stroke="black" points="2327.29,-55.5 2327.29,-73.5 2393.31,-73.5 2393.31,-55.5 2327.29,-55.5"/>
 <text text-anchor="middle" x="2360.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txstack.cpp</text>
 </a>
 </g>
@@ -472,7 +471,7 @@
 <g id="node33" class="node">
 <title>Node33</title>
 <g id="a_node33"><a xlink:href="../../d1/dc8/txtitlepage_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2411.05,-55.5 2411.05,-73.5 2491.54,-73.5 2491.54,-55.5 2411.05,-55.5"/>
+<polygon fill="none" stroke="black" points="2411.05,-55.5 2411.05,-73.5 2491.54,-73.5 2491.54,-55.5 2411.05,-55.5"/>
 <text text-anchor="middle" x="2451.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txtitlepage.cpp</text>
 </a>
 </g>
@@ -487,7 +486,7 @@
 <g id="node34" class="node">
 <title>Node34</title>
 <g id="a_node34"><a xlink:href="../../d7/d6c/txtoken_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2509.72,-55.5 2509.72,-73.5 2576.87,-73.5 2576.87,-55.5 2509.72,-55.5"/>
+<polygon fill="none" stroke="black" points="2509.72,-55.5 2509.72,-73.5 2576.87,-73.5 2576.87,-55.5 2509.72,-55.5"/>
 <text text-anchor="middle" x="2543.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txtoken.cpp</text>
 </a>
 </g>
@@ -502,7 +501,7 @@
 <g id="node35" class="node">
 <title>Node35</title>
 <g id="a_node35"><a xlink:href="../../dd/da4/txtranslate_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2594.78,-55.5 2594.78,-73.5 2675.81,-73.5 2675.81,-55.5 2594.78,-55.5"/>
+<polygon fill="none" stroke="black" points="2594.78,-55.5 2594.78,-73.5 2675.81,-73.5 2675.81,-55.5 2594.78,-55.5"/>
 <text text-anchor="middle" x="2635.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txtranslate.cpp</text>
 </a>
 </g>
@@ -517,7 +516,7 @@
 <g id="node36" class="node">
 <title>Node36</title>
 <g id="a_node36"><a xlink:href="../../d0/d93/txtrees_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="2693.84,-55.5 2693.84,-73.5 2758.75,-73.5 2758.75,-55.5 2693.84,-55.5"/>
+<polygon fill="none" stroke="black" points="2693.84,-55.5 2693.84,-73.5 2758.75,-73.5 2758.75,-55.5 2693.84,-55.5"/>
 <text text-anchor="middle" x="2726.3" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">txtrees.cpp</text>
 </a>
 </g>
@@ -532,7 +531,7 @@
 <g id="node12" class="node">
 <title>Node12</title>
 <g id="a_node12"><a xlink:href="../../d1/ddd/txbib_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="658.28,-0.5 658.28,-18.5 714.31,-18.5 714.31,-0.5 658.28,-0.5"/>
+<polygon fill="none" stroke="black" points="658.28,-0.5 658.28,-18.5 714.31,-18.5 714.31,-0.5 658.28,-0.5"/>
 <text text-anchor="middle" x="686.3" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">txbib.cpp</text>
 </a>
 </g>

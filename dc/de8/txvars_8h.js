@@ -1,5 +1,15 @@
 var txvars_8h =
 [
+    [ "system_type", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bb", [
+      [ "st_windows", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba6037874987e745c0437ba5a96224762f", null ],
+      [ "st_decalpha", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba6b068305b39cf9cb1d62c00167003f93", null ],
+      [ "st_solaris", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bbadaf312673e54ef91f2cb5ab38bd64c07", null ],
+      [ "st_sgi", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba4f44076864dc589cf0101b7e79c12bba", null ],
+      [ "st_linux", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba0ab373a42338a6f9731448ec445558cd", null ],
+      [ "st_apple", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba45a34e302c8d9234415540f846c81615", null ],
+      [ "st_hp", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba32dcdc9ffae37cb01f617eae0509797b", null ],
+      [ "st_unknown", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba342ad0068d5725e805f739c30780e84d", null ]
+    ] ],
     [ "last_register", "dc/de8/txvars_8h.html#adf764cbdea00d65edcd07bb9953ad2b7ade146a7c000a26e052c84d9a718783f4", null ],
     [ "setbox_offset", "dc/de8/txvars_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a9d60109bef0506842c78e383e859a6a2", null ],
     [ "setbox_last", "dc/de8/txvars_8h.html#adf764cbdea00d65edcd07bb9953ad2b7aa001ff851c013d95544316d2b11f7c11", null ],
@@ -21,6 +31,19 @@ var txvars_8h =
     [ "negative_out_slot", "dc/de8/txvars_8h.html#a99fb83031ce9923c84392b4e92f956b5ac993f00982a3766e780118eb7803a1d4", null ],
     [ "write18_slot", "dc/de8/txvars_8h.html#a99fb83031ce9923c84392b4e92f956b5adc0ee32f4a1519f960cf15809a754b4c", null ],
     [ "nb_output_channels", "dc/de8/txvars_8h.html#a99fb83031ce9923c84392b4e92f956b5a474d3a8ff70bb789561d86a1caaabb2e", null ],
+    [ "output_encoding_type", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9", [
+      [ "en_boot", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9a090d11bd15f28ec54bddbc7be5ba9ee6", null ],
+      [ "en_utf8", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9a40b21657027a4d393d19c1e53c35f72c", null ],
+      [ "en_ascii7", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9a0dd0e102c6b4b1ec469b1dc9264ba9f1", null ],
+      [ "en_ascii8", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9a7bbd3ed483af2c97df6ab40af5ca30c2", null ],
+      [ "en_latin", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9a603b26cfdb09386843130ecbc191f5ba", null ]
+    ] ],
+    [ "math_style", "dc/de8/txvars_8h.html#ad7f021be0df930dca8050195b391f8a6", [
+      [ "ms_D", "dc/de8/txvars_8h.html#ad7f021be0df930dca8050195b391f8a6ac266bf1e8f4e2c7f06e4c7b95f02bd8b", null ],
+      [ "ms_T", "dc/de8/txvars_8h.html#ad7f021be0df930dca8050195b391f8a6a8a808e1f26c028fd6a0ed0a0b5a68970", null ],
+      [ "ms_S", "dc/de8/txvars_8h.html#ad7f021be0df930dca8050195b391f8a6a04bfea32212e744d797546ead1a54647", null ],
+      [ "ms_SS", "dc/de8/txvars_8h.html#ad7f021be0df930dca8050195b391f8a6a90e951d30af778bf692346263253c384", null ]
+    ] ],
     [ "unit_pt", "dc/de8/txvars_8h.html#abc6126af1d45847bc59afa0aa3216b04a2e3f4ef6a6934989a1d813e6070950ea", null ],
     [ "unit_in", "dc/de8/txvars_8h.html#abc6126af1d45847bc59afa0aa3216b04a305ee0802e1bb7cb23756f0806e6d546", null ],
     [ "unit_pc", "dc/de8/txvars_8h.html#abc6126af1d45847bc59afa0aa3216b04ae07157d48f54cd701f2bb87a6626064d", null ],
@@ -30,48 +53,37 @@ var txvars_8h =
     [ "unit_dd", "dc/de8/txvars_8h.html#abc6126af1d45847bc59afa0aa3216b04a72e58af8266aa2a7431dedeb6965bac3", null ],
     [ "unit_cc", "dc/de8/txvars_8h.html#abc6126af1d45847bc59afa0aa3216b04a8899b613f2ff2b65652db4c68fabf4ff", null ],
     [ "unit_sp", "dc/de8/txvars_8h.html#abc6126af1d45847bc59afa0aa3216b04add31ba243cfc0827cc7212e65c4fb0d3", null ],
-    [ "push_only", "dc/de8/txvars_8h.html#adc29c2ff13d900c2f185ee95427fb06ca7e6a20afe093b6100e102137ae650751", null ],
-    [ "pop_only", "dc/de8/txvars_8h.html#adc29c2ff13d900c2f185ee95427fb06caaa7177497ee89c68c568b7ab5af5d38c", null ],
-    [ "push_and_pop", "dc/de8/txvars_8h.html#adc29c2ff13d900c2f185ee95427fb06ca072a53ca78440635ff96b50e14923939", null ],
-    [ "array_class_number", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cf", [
-      [ "chn_c", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cfacb2db013589e19505c4eb9793b1f2d0e", null ],
-      [ "chn_l", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cfa33ee06fd01a3efa3d21c772e8e4fbb14", null ],
-      [ "chn_r", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cfae9a58832129905bec504bd7b5d3ddd0d", null ],
-      [ "chn_m", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cface0a529e3020e2e416e8f9de5a797f66", null ],
-      [ "chn_p", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cfa87b4d2839ad4c14e06dd76b83b307936", null ],
-      [ "chn_b", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cfae0fce6ef2a5ba393adde3fa1d4dd8813", null ]
+    [ "def_type", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422", [
+      [ "dt_normal", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422ab2442bea8b4bc49168a3f0893cd8c034", null ],
+      [ "dt_optional", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422aadc723cbada6f345046d70dbd61ea641", null ],
+      [ "dt_delim", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422acde6b04099d87e6b18e0fa5cd484c69f", null ],
+      [ "dt_brace", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422ab840bd9b773a524658f2a2fc9869b2b6", null ],
+      [ "dt_empty", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422aa7ecd3fbb9b7852bb6b168423dd187b3", null ],
+      [ "dt_spec_opt", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422ae2d9faaa6be6d915f5abb277c411437a", null ]
     ] ],
-    [ "array_class_type", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7", [
-      [ "chc_cell", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a1087dcc3707c047a841877d81e890875", null ],
-      [ "chc_bar", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a5dd530f06698a39ba5ddfc558f12589d", null ],
-      [ "chc_v", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a721c03ba608c650c8656b5820a36bad4", null ],
-      [ "chc_u", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a4eb186347c1d18affe2c7f875be6121f", null ],
-      [ "chc_start", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a594812276797d42b48bd3e15c2325b1f", null ],
-      [ "chc_inter", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a59eb1d898228e611b07d4628a8be6f84", null ],
-      [ "chc_pre_bar", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7abca430034624e3d175717e7562240172", null ],
-      [ "chc_pre_inter", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a29bfdc4fe8f866efed13ba84ae15a233", null ],
-      [ "chc_pre_v", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a3897c540bfd8f89bbafa9d6f843271e0", null ],
-      [ "chc_pre_u", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a77feb131f3457af40b45600aa689827f", null ],
-      [ "chc_pre_cell", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a380fd1791fe6507cc0e15ab4c0ad82c6", null ]
+    [ "tpa_line", "dc/de8/txvars_8h.html#a89ddb5a46b4de154ea00369e9fd432e8", [
+      [ "tl_normal", "dc/de8/txvars_8h.html#a89ddb5a46b4de154ea00369e9fd432e8a2c0a59398fcf99bf1bd576e7a067833c", null ],
+      [ "tl_end", "dc/de8/txvars_8h.html#a89ddb5a46b4de154ea00369e9fd432e8a452c5f23ca25dec500cae86eaa6127a1", null ],
+      [ "tl_empty", "dc/de8/txvars_8h.html#a89ddb5a46b4de154ea00369e9fd432e8aadb3bbd1a32e0ff2a289d6a3128a5ec8", null ]
     ] ],
-    [ "bchar_type", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3", [
-      [ "bct_normal", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a041c227d7739986bb1ab7ac0304cb318", null ],
-      [ "bct_space", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a0b22521f0dc3f4ab1962683a558b229c", null ],
-      [ "bct_tilde", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3ae7d915f162f18a4224531872a935ebef", null ],
-      [ "bct_dash", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3ad160e0c631be873a3ec3341ecd276a0b", null ],
-      [ "bct_comma", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a1e3a4ceddaae87b742971669501aa148", null ],
-      [ "bct_cmd", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a72465621ef7f97b5cd05501d1da6b1f5", null ],
-      [ "bct_brace", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a4076453436e5a1b1da105ffa8e2366a9", null ],
-      [ "bct_dot", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a8dcd733bd211037361f3cb190dcb986c", null ],
-      [ "bct_continuation", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3ac26ff3aeb29442412af18348c777535b", null ],
-      [ "bct_extended", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a534b1a6ec2f15f978a3b49779fad75d0", null ],
-      [ "bct_end", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a87f7fa88f3eb5567c0b74c3a64ed65b5", null ],
-      [ "bct_bad", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a872f2daea0981a31da12e3e42969da2b", null ]
+    [ "nl_to_tok", "dc/de8/txvars_8h.html#a7e939883bf52de1dc9a40ca99e01ee5f", [
+      [ "nlt_space", "dc/de8/txvars_8h.html#a7e939883bf52de1dc9a40ca99e01ee5fa3bc66c50dd0455fd4b175fa1fc434356", null ],
+      [ "nlt_cr", "dc/de8/txvars_8h.html#a7e939883bf52de1dc9a40ca99e01ee5fa6eead7d4182b2e1fbdfda816b804c502", null ],
+      [ "nlt_nl", "dc/de8/txvars_8h.html#a7e939883bf52de1dc9a40ca99e01ee5fa3625895d0588fff53153fec04a40349f", null ]
     ] ],
-    [ "bib_creator", "dc/de8/txvars_8h.html#a2a549a3fd50d6b1bea4a06283d2d7c5f", [
-      [ "because_all", "dc/de8/txvars_8h.html#a2a549a3fd50d6b1bea4a06283d2d7c5fa95a72c9d6afb2a0f24d6f79a68c69afd", null ],
-      [ "because_cite", "dc/de8/txvars_8h.html#a2a549a3fd50d6b1bea4a06283d2d7c5fad4084de9726362b1b521e500214d205a", null ],
-      [ "because_crossref", "dc/de8/txvars_8h.html#a2a549a3fd50d6b1bea4a06283d2d7c5fa4c4f6f14ce459aefd3e49b4e37b1d02d", null ]
+    [ "lex_type", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395", [
+      [ "lex_illegal", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395a6f4d923f16a4f57ed23b2d4bbf61b5ef", null ],
+      [ "lex_white_space", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395aa90a42c8b94db0f1262f1757e514aa22", null ],
+      [ "lex_alpha", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395aeb6350a0a7e14d036d72bb90dd9129cb", null ],
+      [ "lex_numeric", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395a9ac67aa777ca7acafc4f0cbb3675ea35", null ],
+      [ "lex_sep_char", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395abe8c3c226bc292d4f39fd455e67a0f26", null ],
+      [ "lex_open_bra", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395ac3445953558402a40667b81403386a6c", null ],
+      [ "lex_close_bra", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395a75b27264db6831a090016746cba607b3", null ],
+      [ "lex_other", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395ad4b346dded05ae69d9c9a315bcfa1f1b", null ]
+    ] ],
+    [ "id_type", "dc/de8/txvars_8h.html#a97703dcaf4230f497033452aca66f530", [
+      [ "illegal_id_char", "dc/de8/txvars_8h.html#a97703dcaf4230f497033452aca66f530abb2d7d461ee42da77afd440a3223ee9c", null ],
+      [ "legal_id_char", "dc/de8/txvars_8h.html#a97703dcaf4230f497033452aca66f530ace906fe277101296f7129a54d8db8083", null ]
     ] ],
     [ "bib_from", "dc/de8/txvars_8h.html#a83fd0cdb55f61e09911a72a07f105761", [
       [ "from_foot", "dc/de8/txvars_8h.html#a83fd0cdb55f61e09911a72a07f105761ae368a7de36d3e4bc31136a8b711fd7e9", null ],
@@ -79,16 +91,27 @@ var txvars_8h =
       [ "from_year", "dc/de8/txvars_8h.html#a83fd0cdb55f61e09911a72a07f105761a20cb6c514367d67f2143b0ec91ad1ec1", null ],
       [ "from_any", "dc/de8/txvars_8h.html#a83fd0cdb55f61e09911a72a07f105761af9cfe145ac65d52712ae25e8286daa05", null ]
     ] ],
-    [ "boundary_type", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251", [
-      [ "bt_brace", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a034c3519450935ef4512ac54ef047f95", null ],
-      [ "bt_cell", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a7f61e94b0d218738d2b6e0482f717564", null ],
-      [ "bt_local", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a95d1119482148c53e44f6ad086522636", null ],
-      [ "bt_semisimple", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a8ac8b4cbc6d61cf8df43b91b998ea0e3", null ],
-      [ "bt_esemisimple", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a3b25e98d51bc9c440a4337ea6c6401af", null ],
-      [ "bt_env", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251aa75a7ed19dfc7a8a062bac87e5414e08", null ],
-      [ "bt_tpa", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a184f1899c1382683bc2125568c98a175", null ],
-      [ "bt_math", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251aab11c1857eb52fc39dc13ada9f0ec731", null ],
-      [ "bt_impossible", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a398858680016c309d3cc7e79432b7a04", null ]
+    [ "entry_type", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9b", [
+      [ "type_article", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9baaa7f0fba3e6563e2b03c1dc5afc0868e", null ],
+      [ "type_book", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba3cec17c8e1f4e9f9b3406f41f5b32893", null ],
+      [ "type_booklet", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba75031855cc0490af63591ffa8d9fe1d3", null ],
+      [ "type_inbook", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba7eaabfd23a46a72ef58a51459b9bc5a0", null ],
+      [ "type_incollection", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba8746286e9f42464668a58d6e40120c11", null ],
+      [ "type_inproceedings", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9bacb7d10194b52190ecfd85b35eaf9311b", null ],
+      [ "type_conference", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba62d55214494b4b25fc30235c46ecd956", null ],
+      [ "type_manual", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba683e770558d3e63936fba24d164d41b0", null ],
+      [ "type_masterthesis", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9bad655e39b88d999bcd6a5a9c94e1e2129", null ],
+      [ "type_misc", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba7766b1a28d6667dd846efabe96b3ade3", null ],
+      [ "type_phdthesis", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba7a559ebbf0c025786544c31ea639d8f2", null ],
+      [ "type_coursenotes", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba39aaa353dbed70cf9927664eed8d0705", null ],
+      [ "type_proceedings", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba2a0620c2b9662b1529ce650e89f1c4c2", null ],
+      [ "type_techreport", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba2993cd1d12eec1fbd30ee0a4335fb63c", null ],
+      [ "type_unpublished", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba689644c9b06e14459cc9521c7f168486", null ],
+      [ "type_unknown", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9babed9b51ce03d45a43d4d1a562a18400d", null ],
+      [ "type_comment", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9baf56b24ca6d01d1d1f51076549d1e82bb", null ],
+      [ "type_preamble", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba5343ac4a29f7a08dce4d3ada4e0cb34f", null ],
+      [ "type_string", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9baf55550c71e6ad80102109b458076aa71", null ],
+      [ "type_extension", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba736be3c66bffa4cea5abd93daa40746b", null ]
     ] ],
     [ "c_primaire", "dc/de8/txvars_8h.html#afe5a4ed54a53c2adf009e92cf06ad711", [
       [ "cp_art", "dc/de8/txvars_8h.html#afe5a4ed54a53c2adf009e92cf06ad711a2dc153be1c89f58c78f4295b2ede6265", null ],
@@ -133,13 +156,171 @@ var txvars_8h =
       [ "cs_none_bre", "dc/de8/txvars_8h.html#a0ba07a3af997764dda0c8e2a8b373cd1aa06a9956cf0319a65b097a40526c3f76", null ],
       [ "cs_last", "dc/de8/txvars_8h.html#a0ba07a3af997764dda0c8e2a8b373cd1a452e70d6edaf55d2573153c18675630e", null ]
     ] ],
-    [ "def_type", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422", [
-      [ "dt_normal", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422ab2442bea8b4bc49168a3f0893cd8c034", null ],
-      [ "dt_optional", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422aadc723cbada6f345046d70dbd61ea641", null ],
-      [ "dt_delim", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422acde6b04099d87e6b18e0fa5cd484c69f", null ],
-      [ "dt_brace", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422ab840bd9b773a524658f2a2fc9869b2b6", null ],
-      [ "dt_empty", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422aa7ecd3fbb9b7852bb6b168423dd187b3", null ],
-      [ "dt_spec_opt", "dc/de8/txvars_8h.html#a814710f0ca60340ee5d04297efff6422ae2d9faaa6be6d915f5abb277c411437a", null ]
+    [ "bib_creator", "dc/de8/txvars_8h.html#a2a549a3fd50d6b1bea4a06283d2d7c5f", [
+      [ "because_all", "dc/de8/txvars_8h.html#a2a549a3fd50d6b1bea4a06283d2d7c5fa95a72c9d6afb2a0f24d6f79a68c69afd", null ],
+      [ "because_cite", "dc/de8/txvars_8h.html#a2a549a3fd50d6b1bea4a06283d2d7c5fad4084de9726362b1b521e500214d205a", null ],
+      [ "because_crossref", "dc/de8/txvars_8h.html#a2a549a3fd50d6b1bea4a06283d2d7c5fa4c4f6f14ce459aefd3e49b4e37b1d02d", null ]
+    ] ],
+    [ "field_pos", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8", [
+      [ "fp_crossref", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ae670b045fd8c93ad2cc166b6988d33b0", null ],
+      [ "fp_key", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a199077dd1a7d1439082c806cc86937c5", null ],
+      [ "fp_address", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a06810e432b73babc009b14e92c2fd8cd", null ],
+      [ "fp_author", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ad4d31bbd668972338b9d212e3b5448fa", null ],
+      [ "fp_booktitle", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ad59fdfed110065ef9df7bf49ba105abc", null ],
+      [ "fp_chapter", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a9f5ff39148a5e4f00d41e7bd000485d0", null ],
+      [ "fp_edition", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a992988a777de58649017517fbe0c91f1", null ],
+      [ "fp_editor", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a5235491dffa7e122290bb34996675da6", null ],
+      [ "fp_howpublished", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a01466be59bc8b92f9897d9a92771d2cb", null ],
+      [ "fp_institution", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a38c9e662cb0491ed6d3f1e3caf6ba2fd", null ],
+      [ "fp_journal", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a39e3a99e96330d10dae8a570a0430c49", null ],
+      [ "fp_month", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a10f802f6a03bba6424d2afcdd4175777", null ],
+      [ "fp_note", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8aef4936919fcfb7a618bc3f87faaf690d", null ],
+      [ "fp_number", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ae48f884b7f033a494ea82f4f0a6c11f8", null ],
+      [ "fp_organization", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ac1012cb9fdbb3e9c3f4b6bd957765c32", null ],
+      [ "fp_pages", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a531f6570033e0885f7d266ea380e8772", null ],
+      [ "fp_publisher", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ad04a6aca59d2f6ad39c49530c1434ea9", null ],
+      [ "fp_school", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a46e625c4efb4d2a4d7dd45c6ff42242a", null ],
+      [ "fp_series", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8aa593c466c7eb9869c79a7b25d629a52d", null ],
+      [ "fp_title", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ad7a3d5cebbcca2daca20b687c5586d15", null ],
+      [ "fp_type", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ae632f59e9eec6ea7f7e79743c18221ff", null ],
+      [ "fp_url", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a38521a1a713727c92fcada21c64a591e", null ],
+      [ "fp_volume", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8abf8af0cfe5b75a8385d88082a9b151cf", null ],
+      [ "fp_year", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a1999103e9edd844e3304fbf17a8acea5", null ],
+      [ "fp_doi", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8af4c1cf10b75c1a1e858558c941f18a7b", null ],
+      [ "fp_langue", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a38459b8d8111d1ffa3a4ca1b0c87a680", null ],
+      [ "fp_isbn", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a0a2cbdc182d804262990c7a62a326776", null ],
+      [ "fp_issn", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a476f4429b8edb64c75731ef8a0925d6f", null ],
+      [ "fp_isrn", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8aeed7c31f3a4432b0a948c06093cc9925", null ],
+      [ "fp_unknown", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a181c86bbd9fa18d961ece2516717887c", null ]
+    ] ],
+    [ "bchar_type", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3", [
+      [ "bct_normal", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a041c227d7739986bb1ab7ac0304cb318", null ],
+      [ "bct_space", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a0b22521f0dc3f4ab1962683a558b229c", null ],
+      [ "bct_tilde", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3ae7d915f162f18a4224531872a935ebef", null ],
+      [ "bct_dash", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3ad160e0c631be873a3ec3341ecd276a0b", null ],
+      [ "bct_comma", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a1e3a4ceddaae87b742971669501aa148", null ],
+      [ "bct_cmd", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a72465621ef7f97b5cd05501d1da6b1f5", null ],
+      [ "bct_brace", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a4076453436e5a1b1da105ffa8e2366a9", null ],
+      [ "bct_dot", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a8dcd733bd211037361f3cb190dcb986c", null ],
+      [ "bct_continuation", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3ac26ff3aeb29442412af18348c777535b", null ],
+      [ "bct_extended", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a534b1a6ec2f15f978a3b49779fad75d0", null ],
+      [ "bct_end", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a87f7fa88f3eb5567c0b74c3a64ed65b5", null ],
+      [ "bct_bad", "dc/de8/txvars_8h.html#a90061b7f5494ceef7e9aff37777196e3a872f2daea0981a31da12e3e42969da2b", null ]
+    ] ],
+    [ "boundary_type", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251", [
+      [ "bt_brace", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a034c3519450935ef4512ac54ef047f95", null ],
+      [ "bt_cell", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a7f61e94b0d218738d2b6e0482f717564", null ],
+      [ "bt_local", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a95d1119482148c53e44f6ad086522636", null ],
+      [ "bt_semisimple", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a8ac8b4cbc6d61cf8df43b91b998ea0e3", null ],
+      [ "bt_esemisimple", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a3b25e98d51bc9c440a4337ea6c6401af", null ],
+      [ "bt_env", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251aa75a7ed19dfc7a8a062bac87e5414e08", null ],
+      [ "bt_tpa", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a184f1899c1382683bc2125568c98a175", null ],
+      [ "bt_math", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251aab11c1857eb52fc39dc13ada9f0ec731", null ],
+      [ "bt_impossible", "dc/de8/txvars_8h.html#ae0d8daf8a627696641e9a9c4484a5251a398858680016c309d3cc7e79432b7a04", null ]
+    ] ],
+    [ "l_state", "dc/de8/txvars_8h.html#a41b7bb21caabce9ec7acd41775100980", [
+      [ "ls_normal", "dc/de8/txvars_8h.html#a41b7bb21caabce9ec7acd41775100980a9270b3ba6945dc647150e49e927e76fa", null ],
+      [ "ls_long", "dc/de8/txvars_8h.html#a41b7bb21caabce9ec7acd41775100980a25919742f0ecaab80484e0462f1749a8", null ],
+      [ "ls_bad", "dc/de8/txvars_8h.html#a41b7bb21caabce9ec7acd41775100980aa879d750fc620a1cf802b9ece7793336", null ]
+    ] ],
+    [ "scan_stat", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35ba", [
+      [ "ss_normal", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baac2d10e558c635cb3ea6ab0eccdd63877", null ],
+      [ "ss_skipping", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baabb5009613aaa20130bd013f6342328ff", null ],
+      [ "ss_defining", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baaf2b2d30e491103e9f4182da2e8dc4069", null ],
+      [ "ss_matching", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baaa65a4f12d9ac49d8eaa7188688bed692", null ],
+      [ "ss_aligning", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baa8c5bff92c0ed6bb70d4c279a3056bace", null ],
+      [ "ss_absorbing", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baa36a94f4d7d032df5cf0a72f62b61592c", null ],
+      [ "ss_macro", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baa790306f8300f9ae8761a02240ee58129", null ]
+    ] ],
+    [ "states", "dc/de8/txvars_8h.html#aa19be6305a5a4485e1e70de70ed7d677", [
+      [ "state_N", "dc/de8/txvars_8h.html#aa19be6305a5a4485e1e70de70ed7d677ab2119310c217f859811308db91b004bb", null ],
+      [ "state_S", "dc/de8/txvars_8h.html#aa19be6305a5a4485e1e70de70ed7d677afa20a34a735dbb0a804d244bf662fddc", null ],
+      [ "state_M", "dc/de8/txvars_8h.html#aa19be6305a5a4485e1e70de70ed7d677a1517b84a4c2de9063d89a3b4307bb4a8", null ]
+    ] ],
+    [ "rd_flag", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526", [
+      [ "rd_always", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526a8e99d40653c7841d2220352f697c493f", null ],
+      [ "rd_if_defined", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526a35e725d7d75515dd282bc7a3e6a014f6", null ],
+      [ "rd_if_undef", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526a4042723bd2e884ebd466939a991f6d06", null ],
+      [ "rd_skip", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526a00f3e85051e474a81de0ae81929dd6e8", null ],
+      [ "rd_never", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526a9237dc60a3e7cc0fdeb3df1964d4a67d", null ]
+    ] ],
+    [ "msg_type", "dc/de8/txvars_8h.html#a35822c953540e9ad193309b6d4f65011", [
+      [ "mt_error", "dc/de8/txvars_8h.html#a35822c953540e9ad193309b6d4f65011abb01ab29b01e1349cbdd10592bbb807a", null ],
+      [ "mt_warning", "dc/de8/txvars_8h.html#a35822c953540e9ad193309b6d4f65011aaf09c0edde618bbc8842801e263b5ccb", null ],
+      [ "mt_info", "dc/de8/txvars_8h.html#a35822c953540e9ad193309b6d4f65011a6f25e8b9e86bbcf937f798d5be50efc3", null ],
+      [ "mt_none", "dc/de8/txvars_8h.html#a35822c953540e9ad193309b6d4f65011a1d5486a76c773a3a6aedecddbc2e9c61", null ]
+    ] ],
+    [ "glue_spec", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738", [
+      [ "glue_spec_pt", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738a96b3aef2786101983b9d5e5d859eab79", null ],
+      [ "glue_spec_fil", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738a3889a17a301c163087697c2ba1000982", null ],
+      [ "glue_spec_fill", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738aa8bac06904579319c06473f9dd19d81f", null ],
+      [ "glue_spec_filll", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738a629294a18851345e3cba5a162c9d7270", null ],
+      [ "glue_spec_empty", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738aadb436367964802147c5df926ca33fee", null ],
+      [ "glue_spec_mu", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738a5d4c69e13b07d3a967d13a78ce5ada5d", null ]
+    ] ],
+    [ "tpi_vals", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841", [
+      [ "tpi_zero", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a020670608de24ed0ceb43da8110ea4f7", null ],
+      [ "tpi_noval", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a8589f00a11c1770d5680795b437e1660", null ],
+      [ "tpi_elt", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841acb7d5e23547855b4089d4febfac75513", null ],
+      [ "tpi_cmd", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a4e8f28488d85e1d91432898ed92715c6", null ],
+      [ "tpi_str", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a08644ecd25ee814e60ed71e9e794960f", null ],
+      [ "tpi_alias", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aed4b93bde550321cb460e2c4a1a7c24f", null ],
+      [ "tpi_execute", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aea835065b5f1be595957e6001226ac7f", null ],
+      [ "tpi_err", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a1a3136fffe4b6d921eec43a5e49c608f", null ],
+      [ "tpi_CESS", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841ad161bc56ac9f252b2cd29783eea83ba5", null ],
+      [ "tpi_ACSS", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a0a4de6c3becde0384acfc1b9c51e0388", null ],
+      [ "tpi_CES", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841ac7b0d07cca87cc029200698bc47220ed", null ],
+      [ "tpi_CEES", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aa3ebc9e034b81f28fd88e4eb0e177fed", null ],
+      [ "tpi_E", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a5286b21411c37eb7c46d0d67d9a9938e", null ],
+      [ "tpi_CE", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a56135ad00be28f02bd818b6f1afd4837", null ],
+      [ "tpi_CEE", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aac9b304830170170b09ebd5c14a54a5b", null ],
+      [ "tpi_CCS", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841ab840833ab928bf60b92bf700671d353f", null ],
+      [ "tpi_AC", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841ab4caa75df55b290ef7fa2543f2b8e063", null ],
+      [ "tpi_S", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aba2513a912641934ad74de12ac877fc7", null ],
+      [ "tpi_EC", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a9e05135d85c821c81db1994632421d10", null ],
+      [ "tpi_rt_tp", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a12fa22daacf17b01e18a87285dd4aac3", null ],
+      [ "tpi_rt_normal", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841adc2632d73bb72ee39065d4201c57379a", null ],
+      [ "tpi_rt_list", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aba42a34299d014c9cae4671d0794d0cd", null ],
+      [ "tpi_rt_ur", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a210e6927aa091984851d6097554cd702", null ],
+      [ "tpi_rt_normal_def", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a847443c9afc0635778585ef88cd48219", null ],
+      [ "tpi_rt_list_def", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a32298c5fc0b6b4498988d8d1f051f839", null ],
+      [ "tpi_rt_constant", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841ad7e42ebeb2e6e1a2d967f8905fe32518", null ],
+      [ "tpi_rt_exec", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aa83e025d1d5f7bb54f43bd249956ffa5", null ],
+      [ "tpi_rt_urlist", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841acbbe96ab8d4cff1458f1fcc21340d5cd", null ],
+      [ "tpi_rt_alias", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a2769dd801a906eb46146f37e9db1076d", null ]
+    ] ],
+    [ "push_only", "dc/de8/txvars_8h.html#adc29c2ff13d900c2f185ee95427fb06ca7e6a20afe093b6100e102137ae650751", null ],
+    [ "pop_only", "dc/de8/txvars_8h.html#adc29c2ff13d900c2f185ee95427fb06caaa7177497ee89c68c568b7ab5af5d38c", null ],
+    [ "push_and_pop", "dc/de8/txvars_8h.html#adc29c2ff13d900c2f185ee95427fb06ca072a53ca78440635ff96b50e14923939", null ],
+    [ "internal_type", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9c", [
+      [ "it_int", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9cad37020f860f8288901f7c789ac94b7cb", null ],
+      [ "it_dimen", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9cac57803a2492bb8c149b3cb40f0a78957", null ],
+      [ "it_glue", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9cad5db87f3bb2e5583d9043644f2d94516", null ],
+      [ "it_mu", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9ca87eb912ee054eeaeb9fb42c9f74bc2aa", null ],
+      [ "it_ident", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9caa564d7743e0feba42762b579015e319c", null ],
+      [ "it_tok", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9ca447b55591daac1f3cf10509dc6125222", null ]
+    ] ],
+    [ "scan_expr_t", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1b", [
+      [ "se_none", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1baf8299098842ab3ced534ff0648f15a30", null ],
+      [ "se_add", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1bae341b00288ed5f0fae48f014cea3acea", null ],
+      [ "se_sub", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1baea5ec771feec6f370fef89d3f57d5916", null ],
+      [ "se_mult", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1bac49c0fc4b4ea69f474709ab37724af89", null ],
+      [ "se_div", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1bae82849c53911fe8815a140ae7750acfa", null ],
+      [ "se_scale", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1ba27588c519e2818c3e7697a3180b420d3", null ]
+    ] ],
+    [ "save_type", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6", [
+      [ "st_boundary", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a66fccf9818980f10d86faa601cac853b", null ],
+      [ "st_cmd", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a1f35bdca33530c3d549221793755d0d9", null ],
+      [ "st_int", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6aa245f4d57038ed9309969aacdb74b103", null ],
+      [ "st_dim", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a4120036f7dab25a754a8b159d289ef11", null ],
+      [ "st_glue", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6ab37295b5cc4aca5a7f286c28b7bc6546", null ],
+      [ "st_token", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6ad1989d5e18488e2f67fbdf0b46181868", null ],
+      [ "st_save", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a9d54a4cd0218411d4a78c320f7c6c3da", null ],
+      [ "st_env", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a1e8465659ba77bbd1df2ba25a28d6fa9", null ],
+      [ "st_font", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a7a0a6ce1f5de1a85afb01a2623757f06", null ],
+      [ "st_box", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a685e470251283d94784e92a379e06899", null ],
+      [ "st_box_end", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a7a9292776ffda4b74fab5d7ae6b55f92", null ],
+      [ "st_string", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a7d2caee3eaa37e0293967188e32f9bb8", null ]
     ] ],
     [ "del_pos", "dc/de8/txvars_8h.html#a15f7a8d287b1bb90cefe664b3545c3a8", [
       [ "del_Vert", "dc/de8/txvars_8h.html#a15f7a8d287b1bb90cefe664b3545c3a8a023c311300d888a16327b61ea0bdf804", null ],
@@ -180,70 +361,6 @@ var txvars_8h =
       [ "del_invalid", "dc/de8/txvars_8h.html#a15f7a8d287b1bb90cefe664b3545c3a8a9d05d034f471e19a240213decfec7958", null ],
       [ "del_tablesize", "dc/de8/txvars_8h.html#a15f7a8d287b1bb90cefe664b3545c3a8a985900f3b468ca7507f95569920017cc", null ]
     ] ],
-    [ "entry_type", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9b", [
-      [ "type_article", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9baaa7f0fba3e6563e2b03c1dc5afc0868e", null ],
-      [ "type_book", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba3cec17c8e1f4e9f9b3406f41f5b32893", null ],
-      [ "type_booklet", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba75031855cc0490af63591ffa8d9fe1d3", null ],
-      [ "type_inbook", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba7eaabfd23a46a72ef58a51459b9bc5a0", null ],
-      [ "type_incollection", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba8746286e9f42464668a58d6e40120c11", null ],
-      [ "type_inproceedings", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9bacb7d10194b52190ecfd85b35eaf9311b", null ],
-      [ "type_conference", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba62d55214494b4b25fc30235c46ecd956", null ],
-      [ "type_manual", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba683e770558d3e63936fba24d164d41b0", null ],
-      [ "type_masterthesis", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9bad655e39b88d999bcd6a5a9c94e1e2129", null ],
-      [ "type_misc", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba7766b1a28d6667dd846efabe96b3ade3", null ],
-      [ "type_phdthesis", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba7a559ebbf0c025786544c31ea639d8f2", null ],
-      [ "type_coursenotes", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba39aaa353dbed70cf9927664eed8d0705", null ],
-      [ "type_proceedings", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba2a0620c2b9662b1529ce650e89f1c4c2", null ],
-      [ "type_techreport", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba2993cd1d12eec1fbd30ee0a4335fb63c", null ],
-      [ "type_unpublished", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba689644c9b06e14459cc9521c7f168486", null ],
-      [ "type_unknown", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9babed9b51ce03d45a43d4d1a562a18400d", null ],
-      [ "type_comment", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9baf56b24ca6d01d1d1f51076549d1e82bb", null ],
-      [ "type_preamble", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba5343ac4a29f7a08dce4d3ada4e0cb34f", null ],
-      [ "type_string", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9baf55550c71e6ad80102109b458076aa71", null ],
-      [ "type_extension", "dc/de8/txvars_8h.html#a2598f82fbde0efcbaa60ce32fa2d3a9ba736be3c66bffa4cea5abd93daa40746b", null ]
-    ] ],
-    [ "extern_call", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0d", [
-      [ "ecall_xml_fo", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0da3f9fd0c62267a2c0905246147595ac0f", null ],
-      [ "ecall_xml_html", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0daa99250ff396292a7601e6096c35a16ad", null ],
-      [ "ecall_xml_lint", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0daf7577fa6e5b8b67ad5e523d137bfd026", null ],
-      [ "ecall_xml_tex", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0dae8b8b806d6206395760a9f3a1e66b5d3", null ],
-      [ "ecall_xml_tex1", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0da1aadc06c130388732e21b0cb190594d6", null ],
-      [ "ecall_xml_tex2", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0da0a3102582c6f8ceb3134c9f7c0526edc", null ],
-      [ "ecall_latex", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0da11ff04bd59f38daa29d12f0fff10de6b", null ],
-      [ "ecall_dvips", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0da1b05cd8fbf660152e970bf0cb077c332", null ]
-    ] ],
-    [ "field_pos", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8", [
-      [ "fp_crossref", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ae670b045fd8c93ad2cc166b6988d33b0", null ],
-      [ "fp_key", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a199077dd1a7d1439082c806cc86937c5", null ],
-      [ "fp_address", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a06810e432b73babc009b14e92c2fd8cd", null ],
-      [ "fp_author", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ad4d31bbd668972338b9d212e3b5448fa", null ],
-      [ "fp_booktitle", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ad59fdfed110065ef9df7bf49ba105abc", null ],
-      [ "fp_chapter", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a9f5ff39148a5e4f00d41e7bd000485d0", null ],
-      [ "fp_edition", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a992988a777de58649017517fbe0c91f1", null ],
-      [ "fp_editor", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a5235491dffa7e122290bb34996675da6", null ],
-      [ "fp_howpublished", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a01466be59bc8b92f9897d9a92771d2cb", null ],
-      [ "fp_institution", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a38c9e662cb0491ed6d3f1e3caf6ba2fd", null ],
-      [ "fp_journal", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a39e3a99e96330d10dae8a570a0430c49", null ],
-      [ "fp_month", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a10f802f6a03bba6424d2afcdd4175777", null ],
-      [ "fp_note", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8aef4936919fcfb7a618bc3f87faaf690d", null ],
-      [ "fp_number", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ae48f884b7f033a494ea82f4f0a6c11f8", null ],
-      [ "fp_organization", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ac1012cb9fdbb3e9c3f4b6bd957765c32", null ],
-      [ "fp_pages", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a531f6570033e0885f7d266ea380e8772", null ],
-      [ "fp_publisher", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ad04a6aca59d2f6ad39c49530c1434ea9", null ],
-      [ "fp_school", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a46e625c4efb4d2a4d7dd45c6ff42242a", null ],
-      [ "fp_series", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8aa593c466c7eb9869c79a7b25d629a52d", null ],
-      [ "fp_title", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ad7a3d5cebbcca2daca20b687c5586d15", null ],
-      [ "fp_type", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8ae632f59e9eec6ea7f7e79743c18221ff", null ],
-      [ "fp_url", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a38521a1a713727c92fcada21c64a591e", null ],
-      [ "fp_volume", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8abf8af0cfe5b75a8385d88082a9b151cf", null ],
-      [ "fp_year", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a1999103e9edd844e3304fbf17a8acea5", null ],
-      [ "fp_doi", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8af4c1cf10b75c1a1e858558c941f18a7b", null ],
-      [ "fp_langue", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a38459b8d8111d1ffa3a4ca1b0c87a680", null ],
-      [ "fp_isbn", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a0a2cbdc182d804262990c7a62a326776", null ],
-      [ "fp_issn", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a476f4429b8edb64c75731ef8a0925d6f", null ],
-      [ "fp_isrn", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8aeed7c31f3a4432b0a948c06093cc9925", null ],
-      [ "fp_unknown", "dc/de8/txvars_8h.html#a4b084a6c418767fc1a653291d0c84ef8a181c86bbd9fa18d961ece2516717887c", null ]
-    ] ],
     [ "font_info", "dc/de8/txvars_8h.html#abd3c9c32bbd58ff4a8cedc7f50b5589e", [
       [ "fi_normal_size", "dc/de8/txvars_8h.html#abd3c9c32bbd58ff4a8cedc7f50b5589ea60b3635ab462bf6a2103e44da104d5b1", null ],
       [ "fi_small_size", "dc/de8/txvars_8h.html#abd3c9c32bbd58ff4a8cedc7f50b5589ea846b43b52bed6a682a6ba879744937e7", null ],
@@ -279,40 +396,32 @@ var txvars_8h =
       [ "fi_data_mask", "dc/de8/txvars_8h.html#abd3c9c32bbd58ff4a8cedc7f50b5589eabb704df685721d56612f1ada45ef7e27", null ],
       [ "fi_size_mask", "dc/de8/txvars_8h.html#abd3c9c32bbd58ff4a8cedc7f50b5589eafb815c2f9ccad6d46d789f94080de5a3", null ]
     ] ],
-    [ "glue_spec", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738", [
-      [ "glue_spec_pt", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738a96b3aef2786101983b9d5e5d859eab79", null ],
-      [ "glue_spec_fil", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738a3889a17a301c163087697c2ba1000982", null ],
-      [ "glue_spec_fill", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738aa8bac06904579319c06473f9dd19d81f", null ],
-      [ "glue_spec_filll", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738a629294a18851345e3cba5a162c9d7270", null ],
-      [ "glue_spec_empty", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738aadb436367964802147c5df926ca33fee", null ],
-      [ "glue_spec_mu", "dc/de8/txvars_8h.html#a5821191f71eb3dd82fd1baf6bdd51738a5d4c69e13b07d3a967d13a78ce5ada5d", null ]
+    [ "mode", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167", [
+      [ "mode_argument", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167a81301ece2f4512da0cae16b21462c30f", null ],
+      [ "mode_h", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167ad25ac694b8d907ce59620ed0769033ef", null ],
+      [ "mode_v", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167ab8dc0c52e5b2eb30265b3da49b1c2407", null ],
+      [ "mode_none", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167a2cfc51a894acf402c028c34a43c25ea7", null ],
+      [ "mode_bib", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167a3ee5706f7a0ba22e556b09f75160feb4", null ],
+      [ "mode_array", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167ac066e9dab00574a3212de1a5dea96071", null ],
+      [ "mode_math", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167a3aff929e5edefa01c88e9303994e7c61", null ]
     ] ],
-    [ "id_type", "dc/de8/txvars_8h.html#a97703dcaf4230f497033452aca66f530", [
-      [ "illegal_id_char", "dc/de8/txvars_8h.html#a97703dcaf4230f497033452aca66f530abb2d7d461ee42da77afd440a3223ee9c", null ],
-      [ "legal_id_char", "dc/de8/txvars_8h.html#a97703dcaf4230f497033452aca66f530ace906fe277101296f7129a54d8db8083", null ]
-    ] ],
-    [ "internal_type", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9c", [
-      [ "it_int", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9cad37020f860f8288901f7c789ac94b7cb", null ],
-      [ "it_dimen", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9cac57803a2492bb8c149b3cb40f0a78957", null ],
-      [ "it_glue", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9cad5db87f3bb2e5583d9043644f2d94516", null ],
-      [ "it_mu", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9ca87eb912ee054eeaeb9fb42c9f74bc2aa", null ],
-      [ "it_ident", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9caa564d7743e0feba42762b579015e319c", null ],
-      [ "it_tok", "dc/de8/txvars_8h.html#a972b8ec268ff453b47e245acd2999a9ca447b55591daac1f3cf10509dc6125222", null ]
-    ] ],
-    [ "l_state", "dc/de8/txvars_8h.html#a41b7bb21caabce9ec7acd41775100980", [
-      [ "ls_normal", "dc/de8/txvars_8h.html#a41b7bb21caabce9ec7acd41775100980a9270b3ba6945dc647150e49e927e76fa", null ],
-      [ "ls_long", "dc/de8/txvars_8h.html#a41b7bb21caabce9ec7acd41775100980a25919742f0ecaab80484e0462f1749a8", null ],
-      [ "ls_bad", "dc/de8/txvars_8h.html#a41b7bb21caabce9ec7acd41775100980aa879d750fc620a1cf802b9ece7793336", null ]
-    ] ],
-    [ "lex_type", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395", [
-      [ "lex_illegal", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395a6f4d923f16a4f57ed23b2d4bbf61b5ef", null ],
-      [ "lex_white_space", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395aa90a42c8b94db0f1262f1757e514aa22", null ],
-      [ "lex_alpha", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395aeb6350a0a7e14d036d72bb90dd9129cb", null ],
-      [ "lex_numeric", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395a9ac67aa777ca7acafc4f0cbb3675ea35", null ],
-      [ "lex_sep_char", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395abe8c3c226bc292d4f39fd455e67a0f26", null ],
-      [ "lex_open_bra", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395ac3445953558402a40667b81403386a6c", null ],
-      [ "lex_close_bra", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395a75b27264db6831a090016746cba607b3", null ],
-      [ "lex_other", "dc/de8/txvars_8h.html#a46872eca98dfa4d3faeb45b918f65395ad4b346dded05ae69d9c9a315bcfa1f1b", null ]
+    [ "math_types", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12", [
+      [ "mt_flag_zero", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12ac43b4ac1e18ad8166687105ba7f172bb", null ],
+      [ "mt_flag_space", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a213b247ed42ccf6c8aac6edf9ff259ce", null ],
+      [ "mt_flag_small", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12ac1f0141bcb94e496ff4828d0db46bf37", null ],
+      [ "mt_flag_small_l", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a6f9bb4e7fd57d80d7e5fa3e9570b7896", null ],
+      [ "mt_flag_small_r", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a73f49f63722396f74be50d19a1b13920", null ],
+      [ "mt_flag_small_m", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a8511c032abc2635839e1f7c3bc9e1375", null ],
+      [ "mt_flag_bin", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a85b281d2178cb2309d60990ab2e89496", null ],
+      [ "mt_flag_rel", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a68c76c7891ebe0c13e3f764fc07d3742", null ],
+      [ "mt_flag_big", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12aa57bfeedac680cb4323ab9f01aa2ad16", null ],
+      [ "mt_flag_opL", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a961d2e9cd6f75a77c2a3206d48b767b3", null ],
+      [ "mt_flag_opN", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a14beb653e010149179b68936531464c4", null ],
+      [ "mt_flag_opD", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12ae2ae5d557a2e7274ff6f3384293b1301", null ],
+      [ "mt_flag_large_l", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a62b753ed3d2b8c38c082baa1175df628", null ],
+      [ "mt_flag_large_r", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12ae84bd75ad7033e9e80c5cbae1045b19d", null ],
+      [ "mt_flag_large_m", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a801c5fe637947a40f3e13ecc9a511ba5", null ],
+      [ "mt_flag_dummy", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12afee94a0c7b9dbd8bb353ef2bcdfbf12a", null ]
     ] ],
     [ "math_list_type", "dc/de8/txvars_8h.html#a05017ad339a520c7c85ee366317e013a", [
       [ "invalid_cd", "dc/de8/txvars_8h.html#a05017ad339a520c7c85ee366317e013aacef44fc83d35627772e1bab2f0f28994", null ],
@@ -324,6 +433,30 @@ var txvars_8h =
       [ "math_hbox_cd", "dc/de8/txvars_8h.html#a05017ad339a520c7c85ee366317e013aa02761dea70b19a14d78c5f93afcf7f34", null ],
       [ "math_argument_cd", "dc/de8/txvars_8h.html#a05017ad339a520c7c85ee366317e013aa056583261194f308b05c00dc89be1501", null ],
       [ "fml_offset", "dc/de8/txvars_8h.html#a05017ad339a520c7c85ee366317e013aaaaa862b76555dc3ff8c136b35a9206c7", null ]
+    ] ],
+    [ "extern_call", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0d", [
+      [ "ecall_xml_fo", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0da3f9fd0c62267a2c0905246147595ac0f", null ],
+      [ "ecall_xml_html", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0daa99250ff396292a7601e6096c35a16ad", null ],
+      [ "ecall_xml_lint", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0daf7577fa6e5b8b67ad5e523d137bfd026", null ],
+      [ "ecall_xml_tex", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0dae8b8b806d6206395760a9f3a1e66b5d3", null ],
+      [ "ecall_xml_tex1", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0da1aadc06c130388732e21b0cb190594d6", null ],
+      [ "ecall_xml_tex2", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0da0a3102582c6f8ceb3134c9f7c0526edc", null ],
+      [ "ecall_latex", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0da11ff04bd59f38daa29d12f0fff10de6b", null ],
+      [ "ecall_dvips", "dc/de8/txvars_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0da1b05cd8fbf660152e970bf0cb077c332", null ]
+    ] ],
+    [ "recur_type", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608", [
+      [ "rc_contains", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a1c3d2eddf0e14b952b19a49fbd9fa3e0", null ],
+      [ "rc_delete_first", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608aa7666ce938f879c9224ead590ee0d2c7", null ],
+      [ "rc_return_first", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a92cb7c0590e43c674eb52797ce3d4f7d", null ],
+      [ "rc_return_first_and_kill", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a2410370e52b4fd0a40f5865391dc1fb2", null ],
+      [ "rc_delete", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a2eaf7e77778749e36fef2f771c274003", null ],
+      [ "rc_delete_empty", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a028f2da65a0c8e93236ddbfc6e17ad52", null ],
+      [ "rc_empty_par", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a4ba5c3faf92bcd8df0323ce8fc0f1b31", null ],
+      [ "rc_how_many", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608aae26a85d5d67fe3df78d184d234d61b5", null ],
+      [ "rc_subst", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a34c1d098c949f70cc648657f77ff8204", null ],
+      [ "rc_move", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a9bf4bac33b235ca367454c9657069e58", null ],
+      [ "rc_composition", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a97968338211250aa828d55978ff449c4", null ],
+      [ "rc_rename", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a3c7e961f11ce869b0f170bd6bcafe203", null ]
     ] ],
     [ "math_loc", "dc/de8/txvars_8h.html#a97d61fb99458ad2412ba6e5f032e3dda", [
       [ "math_dig_loc", "dc/de8/txvars_8h.html#a97d61fb99458ad2412ba6e5f032e3ddaaac718d41cbcf7e235d2a6ce2d8703208", null ],
@@ -886,56 +1019,26 @@ var txvars_8h =
       [ "mml_prescripts_code", "dc/de8/txvars_8h.html#a97d61fb99458ad2412ba6e5f032e3ddaab2ce5544f4f3b993bac8e2414f1e57b4", null ],
       [ "last_math_loc", "dc/de8/txvars_8h.html#a97d61fb99458ad2412ba6e5f032e3ddaa68d6dabe1c79e5057b703e5ab94597f0", null ]
     ] ],
-    [ "math_style", "dc/de8/txvars_8h.html#ad7f021be0df930dca8050195b391f8a6", [
-      [ "ms_D", "dc/de8/txvars_8h.html#ad7f021be0df930dca8050195b391f8a6ac266bf1e8f4e2c7f06e4c7b95f02bd8b", null ],
-      [ "ms_T", "dc/de8/txvars_8h.html#ad7f021be0df930dca8050195b391f8a6a8a808e1f26c028fd6a0ed0a0b5a68970", null ],
-      [ "ms_S", "dc/de8/txvars_8h.html#ad7f021be0df930dca8050195b391f8a6a04bfea32212e744d797546ead1a54647", null ],
-      [ "ms_SS", "dc/de8/txvars_8h.html#ad7f021be0df930dca8050195b391f8a6a90e951d30af778bf692346263253c384", null ]
+    [ "array_class_number", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cf", [
+      [ "chn_c", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cfacb2db013589e19505c4eb9793b1f2d0e", null ],
+      [ "chn_l", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cfa33ee06fd01a3efa3d21c772e8e4fbb14", null ],
+      [ "chn_r", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cfae9a58832129905bec504bd7b5d3ddd0d", null ],
+      [ "chn_m", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cface0a529e3020e2e416e8f9de5a797f66", null ],
+      [ "chn_p", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cfa87b4d2839ad4c14e06dd76b83b307936", null ],
+      [ "chn_b", "dc/de8/txvars_8h.html#ac5f101d73a7943cc9253e6441e7464cfae0fce6ef2a5ba393adde3fa1d4dd8813", null ]
     ] ],
-    [ "math_types", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12", [
-      [ "mt_flag_zero", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12ac43b4ac1e18ad8166687105ba7f172bb", null ],
-      [ "mt_flag_space", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a213b247ed42ccf6c8aac6edf9ff259ce", null ],
-      [ "mt_flag_small", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12ac1f0141bcb94e496ff4828d0db46bf37", null ],
-      [ "mt_flag_small_l", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a6f9bb4e7fd57d80d7e5fa3e9570b7896", null ],
-      [ "mt_flag_small_r", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a73f49f63722396f74be50d19a1b13920", null ],
-      [ "mt_flag_small_m", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a8511c032abc2635839e1f7c3bc9e1375", null ],
-      [ "mt_flag_bin", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a85b281d2178cb2309d60990ab2e89496", null ],
-      [ "mt_flag_rel", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a68c76c7891ebe0c13e3f764fc07d3742", null ],
-      [ "mt_flag_big", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12aa57bfeedac680cb4323ab9f01aa2ad16", null ],
-      [ "mt_flag_opL", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a961d2e9cd6f75a77c2a3206d48b767b3", null ],
-      [ "mt_flag_opN", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a14beb653e010149179b68936531464c4", null ],
-      [ "mt_flag_opD", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12ae2ae5d557a2e7274ff6f3384293b1301", null ],
-      [ "mt_flag_large_l", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a62b753ed3d2b8c38c082baa1175df628", null ],
-      [ "mt_flag_large_r", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12ae84bd75ad7033e9e80c5cbae1045b19d", null ],
-      [ "mt_flag_large_m", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12a801c5fe637947a40f3e13ecc9a511ba5", null ],
-      [ "mt_flag_dummy", "dc/de8/txvars_8h.html#a690fc3b1ec374c37ec5e55e3170fba12afee94a0c7b9dbd8bb353ef2bcdfbf12a", null ]
-    ] ],
-    [ "mode", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167", [
-      [ "mode_argument", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167a81301ece2f4512da0cae16b21462c30f", null ],
-      [ "mode_h", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167ad25ac694b8d907ce59620ed0769033ef", null ],
-      [ "mode_v", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167ab8dc0c52e5b2eb30265b3da49b1c2407", null ],
-      [ "mode_none", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167a2cfc51a894acf402c028c34a43c25ea7", null ],
-      [ "mode_bib", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167a3ee5706f7a0ba22e556b09f75160feb4", null ],
-      [ "mode_array", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167ac066e9dab00574a3212de1a5dea96071", null ],
-      [ "mode_math", "dc/de8/txvars_8h.html#a1a6b6fb557d8d37d59700faf4e4c9167a3aff929e5edefa01c88e9303994e7c61", null ]
-    ] ],
-    [ "msg_type", "dc/de8/txvars_8h.html#a35822c953540e9ad193309b6d4f65011", [
-      [ "mt_error", "dc/de8/txvars_8h.html#a35822c953540e9ad193309b6d4f65011abb01ab29b01e1349cbdd10592bbb807a", null ],
-      [ "mt_warning", "dc/de8/txvars_8h.html#a35822c953540e9ad193309b6d4f65011aaf09c0edde618bbc8842801e263b5ccb", null ],
-      [ "mt_info", "dc/de8/txvars_8h.html#a35822c953540e9ad193309b6d4f65011a6f25e8b9e86bbcf937f798d5be50efc3", null ],
-      [ "mt_none", "dc/de8/txvars_8h.html#a35822c953540e9ad193309b6d4f65011a1d5486a76c773a3a6aedecddbc2e9c61", null ]
-    ] ],
-    [ "nl_to_tok", "dc/de8/txvars_8h.html#a7e939883bf52de1dc9a40ca99e01ee5f", [
-      [ "nlt_space", "dc/de8/txvars_8h.html#a7e939883bf52de1dc9a40ca99e01ee5fa3bc66c50dd0455fd4b175fa1fc434356", null ],
-      [ "nlt_cr", "dc/de8/txvars_8h.html#a7e939883bf52de1dc9a40ca99e01ee5fa6eead7d4182b2e1fbdfda816b804c502", null ],
-      [ "nlt_nl", "dc/de8/txvars_8h.html#a7e939883bf52de1dc9a40ca99e01ee5fa3625895d0588fff53153fec04a40349f", null ]
-    ] ],
-    [ "output_encoding_type", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9", [
-      [ "en_boot", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9a090d11bd15f28ec54bddbc7be5ba9ee6", null ],
-      [ "en_utf8", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9a40b21657027a4d393d19c1e53c35f72c", null ],
-      [ "en_ascii7", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9a0dd0e102c6b4b1ec469b1dc9264ba9f1", null ],
-      [ "en_ascii8", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9a7bbd3ed483af2c97df6ab40af5ca30c2", null ],
-      [ "en_latin", "dc/de8/txvars_8h.html#ae1e7a6ac3cdd419cb465b50d92a46dc9a603b26cfdb09386843130ecbc191f5ba", null ]
+    [ "array_class_type", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7", [
+      [ "chc_cell", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a1087dcc3707c047a841877d81e890875", null ],
+      [ "chc_bar", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a5dd530f06698a39ba5ddfc558f12589d", null ],
+      [ "chc_v", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a721c03ba608c650c8656b5820a36bad4", null ],
+      [ "chc_u", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a4eb186347c1d18affe2c7f875be6121f", null ],
+      [ "chc_start", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a594812276797d42b48bd3e15c2325b1f", null ],
+      [ "chc_inter", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a59eb1d898228e611b07d4628a8be6f84", null ],
+      [ "chc_pre_bar", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7abca430034624e3d175717e7562240172", null ],
+      [ "chc_pre_inter", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a29bfdc4fe8f866efed13ba84ae15a233", null ],
+      [ "chc_pre_v", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a3897c540bfd8f89bbafa9d6f843271e0", null ],
+      [ "chc_pre_u", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a77feb131f3457af40b45600aa689827f", null ],
+      [ "chc_pre_cell", "dc/de8/txvars_8h.html#afeb33766a97036efe858c27b329185d7a380fd1791fe6507cc0e15ab4c0ad82c6", null ]
     ] ],
     [ "param_args", "dc/de8/txvars_8h.html#a7d1fd041353da3d984551053e53f1558", [
       [ "pa_none", "dc/de8/txvars_8h.html#a7d1fd041353da3d984551053e53f1558a862fb8f14c97b3ccc25029164383ca59", null ],
@@ -961,114 +1064,15 @@ var txvars_8h =
       [ "pa_param", "dc/de8/txvars_8h.html#a7d1fd041353da3d984551053e53f1558a0bde05cf622cd1db2cde21143eb5f573", null ],
       [ "pa_indata", "dc/de8/txvars_8h.html#a7d1fd041353da3d984551053e53f1558a714b7fc643bc263b0599d0fbb50e9efd", null ]
     ] ],
-    [ "rd_flag", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526", [
-      [ "rd_always", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526a8e99d40653c7841d2220352f697c493f", null ],
-      [ "rd_if_defined", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526a35e725d7d75515dd282bc7a3e6a014f6", null ],
-      [ "rd_if_undef", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526a4042723bd2e884ebd466939a991f6d06", null ],
-      [ "rd_skip", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526a00f3e85051e474a81de0ae81929dd6e8", null ],
-      [ "rd_never", "dc/de8/txvars_8h.html#a5f73d11d172da781ee587004bbc9c526a9237dc60a3e7cc0fdeb3df1964d4a67d", null ]
-    ] ],
-    [ "recur_type", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608", [
-      [ "rc_contains", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a1c3d2eddf0e14b952b19a49fbd9fa3e0", null ],
-      [ "rc_delete_first", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608aa7666ce938f879c9224ead590ee0d2c7", null ],
-      [ "rc_return_first", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a92cb7c0590e43c674eb52797ce3d4f7d", null ],
-      [ "rc_return_first_and_kill", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a2410370e52b4fd0a40f5865391dc1fb2", null ],
-      [ "rc_delete", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a2eaf7e77778749e36fef2f771c274003", null ],
-      [ "rc_delete_empty", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a028f2da65a0c8e93236ddbfc6e17ad52", null ],
-      [ "rc_empty_par", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a4ba5c3faf92bcd8df0323ce8fc0f1b31", null ],
-      [ "rc_how_many", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608aae26a85d5d67fe3df78d184d234d61b5", null ],
-      [ "rc_subst", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a34c1d098c949f70cc648657f77ff8204", null ],
-      [ "rc_move", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a9bf4bac33b235ca367454c9657069e58", null ],
-      [ "rc_composition", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a97968338211250aa828d55978ff449c4", null ],
-      [ "rc_rename", "dc/de8/txvars_8h.html#a4880ba4215bbf028e2b60a98f9994608a3c7e961f11ce869b0f170bd6bcafe203", null ]
-    ] ],
-    [ "save_type", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6", [
-      [ "st_boundary", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a66fccf9818980f10d86faa601cac853b", null ],
-      [ "st_cmd", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a1f35bdca33530c3d549221793755d0d9", null ],
-      [ "st_int", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6aa245f4d57038ed9309969aacdb74b103", null ],
-      [ "st_dim", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a4120036f7dab25a754a8b159d289ef11", null ],
-      [ "st_glue", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6ab37295b5cc4aca5a7f286c28b7bc6546", null ],
-      [ "st_token", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6ad1989d5e18488e2f67fbdf0b46181868", null ],
-      [ "st_save", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a9d54a4cd0218411d4a78c320f7c6c3da", null ],
-      [ "st_env", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a1e8465659ba77bbd1df2ba25a28d6fa9", null ],
-      [ "st_font", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a7a0a6ce1f5de1a85afb01a2623757f06", null ],
-      [ "st_box", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a685e470251283d94784e92a379e06899", null ],
-      [ "st_box_end", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a7a9292776ffda4b74fab5d7ae6b55f92", null ],
-      [ "st_string", "dc/de8/txvars_8h.html#a747112ae24ac7d263aacca7298fbfeb6a7d2caee3eaa37e0293967188e32f9bb8", null ]
-    ] ],
-    [ "scan_expr_t", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1b", [
-      [ "se_none", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1baf8299098842ab3ced534ff0648f15a30", null ],
-      [ "se_add", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1bae341b00288ed5f0fae48f014cea3acea", null ],
-      [ "se_sub", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1baea5ec771feec6f370fef89d3f57d5916", null ],
-      [ "se_mult", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1bac49c0fc4b4ea69f474709ab37724af89", null ],
-      [ "se_div", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1bae82849c53911fe8815a140ae7750acfa", null ],
-      [ "se_scale", "dc/de8/txvars_8h.html#a3a4dfd0b32c0188d19be0b1148033f1ba27588c519e2818c3e7697a3180b420d3", null ]
-    ] ],
-    [ "scan_stat", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35ba", [
-      [ "ss_normal", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baac2d10e558c635cb3ea6ab0eccdd63877", null ],
-      [ "ss_skipping", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baabb5009613aaa20130bd013f6342328ff", null ],
-      [ "ss_defining", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baaf2b2d30e491103e9f4182da2e8dc4069", null ],
-      [ "ss_matching", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baaa65a4f12d9ac49d8eaa7188688bed692", null ],
-      [ "ss_aligning", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baa8c5bff92c0ed6bb70d4c279a3056bace", null ],
-      [ "ss_absorbing", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baa36a94f4d7d032df5cf0a72f62b61592c", null ],
-      [ "ss_macro", "dc/de8/txvars_8h.html#af6a2129f9ace7169bfc8585fc42e35baa790306f8300f9ae8761a02240ee58129", null ]
-    ] ],
-    [ "states", "dc/de8/txvars_8h.html#aa19be6305a5a4485e1e70de70ed7d677", [
-      [ "state_N", "dc/de8/txvars_8h.html#aa19be6305a5a4485e1e70de70ed7d677ab2119310c217f859811308db91b004bb", null ],
-      [ "state_S", "dc/de8/txvars_8h.html#aa19be6305a5a4485e1e70de70ed7d677afa20a34a735dbb0a804d244bf662fddc", null ],
-      [ "state_M", "dc/de8/txvars_8h.html#aa19be6305a5a4485e1e70de70ed7d677a1517b84a4c2de9063d89a3b4307bb4a8", null ]
-    ] ],
-    [ "system_type", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bb", [
-      [ "st_windows", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba6037874987e745c0437ba5a96224762f", null ],
-      [ "st_decalpha", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba6b068305b39cf9cb1d62c00167003f93", null ],
-      [ "st_solaris", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bbadaf312673e54ef91f2cb5ab38bd64c07", null ],
-      [ "st_sgi", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba4f44076864dc589cf0101b7e79c12bba", null ],
-      [ "st_linux", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba0ab373a42338a6f9731448ec445558cd", null ],
-      [ "st_apple", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba45a34e302c8d9234415540f846c81615", null ],
-      [ "st_hp", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba32dcdc9ffae37cb01f617eae0509797b", null ],
-      [ "st_unknown", "dc/de8/txvars_8h.html#aacdda6e9ef910c6762dd50aefd8ee5bba342ad0068d5725e805f739c30780e84d", null ]
-    ] ],
-    [ "tpa_line", "dc/de8/txvars_8h.html#a89ddb5a46b4de154ea00369e9fd432e8", [
-      [ "tl_normal", "dc/de8/txvars_8h.html#a89ddb5a46b4de154ea00369e9fd432e8a2c0a59398fcf99bf1bd576e7a067833c", null ],
-      [ "tl_end", "dc/de8/txvars_8h.html#a89ddb5a46b4de154ea00369e9fd432e8a452c5f23ca25dec500cae86eaa6127a1", null ],
-      [ "tl_empty", "dc/de8/txvars_8h.html#a89ddb5a46b4de154ea00369e9fd432e8aadb3bbd1a32e0ff2a289d6a3128a5ec8", null ]
-    ] ],
-    [ "tpi_vals", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841", [
-      [ "tpi_zero", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a020670608de24ed0ceb43da8110ea4f7", null ],
-      [ "tpi_noval", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a8589f00a11c1770d5680795b437e1660", null ],
-      [ "tpi_elt", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841acb7d5e23547855b4089d4febfac75513", null ],
-      [ "tpi_cmd", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a4e8f28488d85e1d91432898ed92715c6", null ],
-      [ "tpi_str", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a08644ecd25ee814e60ed71e9e794960f", null ],
-      [ "tpi_alias", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aed4b93bde550321cb460e2c4a1a7c24f", null ],
-      [ "tpi_execute", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aea835065b5f1be595957e6001226ac7f", null ],
-      [ "tpi_err", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a1a3136fffe4b6d921eec43a5e49c608f", null ],
-      [ "tpi_CESS", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841ad161bc56ac9f252b2cd29783eea83ba5", null ],
-      [ "tpi_ACSS", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a0a4de6c3becde0384acfc1b9c51e0388", null ],
-      [ "tpi_CES", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841ac7b0d07cca87cc029200698bc47220ed", null ],
-      [ "tpi_CEES", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aa3ebc9e034b81f28fd88e4eb0e177fed", null ],
-      [ "tpi_E", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a5286b21411c37eb7c46d0d67d9a9938e", null ],
-      [ "tpi_CE", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a56135ad00be28f02bd818b6f1afd4837", null ],
-      [ "tpi_CEE", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aac9b304830170170b09ebd5c14a54a5b", null ],
-      [ "tpi_CCS", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841ab840833ab928bf60b92bf700671d353f", null ],
-      [ "tpi_AC", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841ab4caa75df55b290ef7fa2543f2b8e063", null ],
-      [ "tpi_S", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aba2513a912641934ad74de12ac877fc7", null ],
-      [ "tpi_EC", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a9e05135d85c821c81db1994632421d10", null ],
-      [ "tpi_rt_tp", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a12fa22daacf17b01e18a87285dd4aac3", null ],
-      [ "tpi_rt_normal", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841adc2632d73bb72ee39065d4201c57379a", null ],
-      [ "tpi_rt_list", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aba42a34299d014c9cae4671d0794d0cd", null ],
-      [ "tpi_rt_ur", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a210e6927aa091984851d6097554cd702", null ],
-      [ "tpi_rt_normal_def", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a847443c9afc0635778585ef88cd48219", null ],
-      [ "tpi_rt_list_def", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a32298c5fc0b6b4498988d8d1f051f839", null ],
-      [ "tpi_rt_constant", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841ad7e42ebeb2e6e1a2d967f8905fe32518", null ],
-      [ "tpi_rt_exec", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841aa83e025d1d5f7bb54f43bd249956ffa5", null ],
-      [ "tpi_rt_urlist", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841acbbe96ab8d4cff1458f1fcc21340d5cd", null ],
-      [ "tpi_rt_alias", "dc/de8/txvars_8h.html#a19c8e031918746852ff417a6fab6c841a2769dd801a906eb46146f37e9db1076d", null ]
-    ] ],
-    [ "is_digit", "dc/de8/txvars_8h.html#af81b5b1644d8389ed58956fa4e2d9d01", null ],
-    [ "is_lower_case", "dc/de8/txvars_8h.html#a14a7b44663e50024ada97efb12b40521", null ],
     [ "is_space", "dc/de8/txvars_8h.html#a7b2024846293125e4bb47569b3e8dd1a", null ],
+    [ "is_lower_case", "dc/de8/txvars_8h.html#a14a7b44663e50024ada97efb12b40521", null ],
     [ "is_upper_case", "dc/de8/txvars_8h.html#a864f825c0eb79e80fd98447a5ede7dc3", null ],
+    [ "is_digit", "dc/de8/txvars_8h.html#af81b5b1644d8389ed58956fa4e2d9d01", null ],
     [ "to_lower", "dc/de8/txvars_8h.html#aa74b7af001f945c29305088c2b031612", null ],
+    [ "fi_shape_mul", "dc/de8/txvars_8h.html#a31f498f3ba26a8e3e2181111d6d6561b", null ],
+    [ "fi_family_mul", "dc/de8/txvars_8h.html#ae7458b8906d2e5c32e10100074068aba", null ],
+    [ "fi_series_mul", "dc/de8/txvars_8h.html#ae1d077d77f6a1e39d7c371965eac9cf0", null ],
+    [ "fi_size_mul", "dc/de8/txvars_8h.html#add1e5b12e8da24194064cfeab93c2229", null ],
     [ "the_main", "dc/de8/txvars_8h.html#a66f84ac3773c9845933176b95bf9ed73", null ],
     [ "the_names", "dc/de8/txvars_8h.html#aee3fbc204590577f6e0ba293eb46614c", null ]
 ];

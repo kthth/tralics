@@ -8,7 +8,6 @@
  viewBox="0.00 0.00 206.18 192.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 188)">
 <title>tralics/enums.h</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-188 202.18,-188 202.18,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
@@ -22,7 +21,7 @@
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="../../d8/db5/consts_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="65.5,-110.5 65.5,-128.5 118.74,-128.5 118.74,-110.5 65.5,-110.5"/>
+<polygon fill="none" stroke="black" points="65.5,-110.5 65.5,-128.5 118.74,-128.5 118.74,-110.5 65.5,-110.5"/>
 <text text-anchor="middle" x="92.12" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">consts.h</text>
 </a>
 </g>
@@ -37,7 +36,7 @@
 <g id="node3" class="node">
 <title>Node3</title>
 <g id="a_node3"><a xlink:href="../../d9/d49/types_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="68,-55.5 68,-73.5 116.24,-73.5 116.24,-55.5 68,-55.5"/>
+<polygon fill="none" stroke="black" points="68,-55.5 68,-73.5 116.24,-73.5 116.24,-55.5 68,-55.5"/>
 <text text-anchor="middle" x="92.12" y="-61.5" font-family="Helvetica,sans-Serif" font-size="10.00">types.h</text>
 </a>
 </g>
@@ -52,7 +51,7 @@
 <g id="node4" class="node">
 <title>Node4</title>
 <g id="a_node4"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="0,-0.5 0,-18.5 48.23,-18.5 48.23,-0.5 0,-0.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="0,-0.5 0,-18.5 48.23,-18.5 48.23,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="24.12" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">cassert</text>
 </a>
 </g>
@@ -67,7 +66,7 @@
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="66.33,-0.5 66.33,-18.5 117.91,-18.5 117.91,-0.5 66.33,-0.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="66.33,-0.5 66.33,-18.5 117.91,-18.5 117.91,-0.5 66.33,-0.5"/>
 <text text-anchor="middle" x="92.12" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">stddef.h</text>
 </a>
 </g>
@@ -82,7 +81,7 @@
 <g id="node6" class="node">
 <title>Node6</title>
 <g id="a_node6"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="136.05,-0.5 136.05,-18.5 198.18,-18.5 198.18,-0.5 136.05,-0.5"/>
+<polygon fill="none" stroke="#bfbfbf" points="136.05,-0.5 136.05,-18.5 198.18,-18.5 198.18,-0.5 136.05,-0.5"/>
 <text text-anchor="middle" x="167.12" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">type_traits</text>
 </a>
 </g>

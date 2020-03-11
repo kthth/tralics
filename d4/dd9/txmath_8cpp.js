@@ -1,15 +1,28 @@
 var txmath_8cpp =
 [
+    [ "add_to_trace", "d4/dd9/txmath_8cpp.html#a9da6c96f47906edab5ee5f8b071d62a6", null ],
     [ "add_to_trace", "d4/dd9/txmath_8cpp.html#a25c4965702b5936a8efd14f1c3847ed8", null ],
     [ "add_to_trace", "d4/dd9/txmath_8cpp.html#a10fc458afaa8d75423c9157bf02b0bc4", null ],
-    [ "add_to_trace", "d4/dd9/txmath_8cpp.html#a9da6c96f47906edab5ee5f8b071d62a6", null ],
+    [ "remove_from_trace", "d4/dd9/txmath_8cpp.html#ad14574069572d49f36d61de657d6c25f", null ],
     [ "bad_math_warn", "d4/dd9/txmath_8cpp.html#a70d2c4e0ddeaa28933ac1eb79074b738", null ],
     [ "finish_cv_special", "d4/dd9/txmath_8cpp.html#a6f7cfaf193cb17a9b8da86953b9642dc", null ],
     [ "math_env_name", "d4/dd9/txmath_8cpp.html#a96e062cfe4a150936805be639bc14c8e", null ],
     [ "math_env_props", "d4/dd9/txmath_8cpp.html#a2d8b8c4b9e8761036bad1363c15175fa", null ],
-    [ "operator<<", "d4/dd9/txmath_8cpp.html#a4986905734e7d21b5d689b283a894b81", null ],
-    [ "operator<<", "d4/dd9/txmath_8cpp.html#a4afc2db6417eca8ecebb196ce0658fc1", null ],
     [ "operator<<", "d4/dd9/txmath_8cpp.html#a2828e94640bdd4b4e36ad279a4e2551e", null ],
-    [ "remove_from_trace", "d4/dd9/txmath_8cpp.html#ad14574069572d49f36d61de657d6c25f", null ],
-    [ "math_data", "d4/dd9/txmath_8cpp.html#a67b3dab46e14d856fe1c7614a0924de0", null ]
+    [ "operator<<", "d4/dd9/txmath_8cpp.html#a4afc2db6417eca8ecebb196ce0658fc1", null ],
+    [ "operator<<", "d4/dd9/txmath_8cpp.html#a4986905734e7d21b5d689b283a894b81", null ],
+    [ "math_buffer", "d4/dd9/txmath_8cpp.html#a6d1deb6234f13e7b79916949b554f525", null ],
+    [ "special_buffer", "d4/dd9/txmath_8cpp.html#aa428b36f900ab36bb2cf4c8e8a6fe324", null ],
+    [ "math_buffer1", "d4/dd9/txmath_8cpp.html#ab4a7d9dc7c8dcde0b5f734635b800d8e", null ],
+    [ "Trace", "d4/dd9/txmath_8cpp.html#a1f82f06ae2b8aa33823efa13a291fec9", null ],
+    [ "old_pos", "d4/dd9/txmath_8cpp.html#a46918574430e86f9695067a07321b20e", null ],
+    [ "cmi", "d4/dd9/txmath_8cpp.html#ae5cc8c11e1bc4471f0d3b6a612d8e596", null ],
+    [ "trace_needs_space", "d4/dd9/txmath_8cpp.html#a39def30c71f4d16e0097df6b54a47720", null ],
+    [ "old_need", "d4/dd9/txmath_8cpp.html#a7ca1f92f804a6bcd6a0936645bc6d1b7", null ],
+    [ "xmlspace", "d4/dd9/txmath_8cpp.html#a4c767069fc1b4669b399987e980c8d01", null ],
+    [ "fct_caller", "d4/dd9/txmath_8cpp.html#ad0b3bd7a5fe849d26f82748192cc0b22", null ],
+    [ "the_tag", "d4/dd9/txmath_8cpp.html#aa84c439bfba93ead76e93bc466f05484", null ],
+    [ "all_maths", "d4/dd9/txmath_8cpp.html#a7aa49d25a2b38b2c1bdd61af9d000108", null ],
+    [ "math_data", "d4/dd9/txmath_8cpp.html#a67b3dab46e14d856fe1c7614a0924de0", null ],
+    [ "cur_math_space", "d4/dd9/txmath_8cpp.html#a507f4281cb3c2ba04efaaacb0c900d12", null ]
 ];

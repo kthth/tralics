@@ -1,5 +1,6 @@
 var annotated_dup =
 [
+    [ "anonymous_namespace{txbib.cpp}", "df/d8b/namespaceanonymous__namespace_02txbib_8cpp_03.html", "df/d8b/namespaceanonymous__namespace_02txbib_8cpp_03" ],
     [ "AllIndex", "d7/d39/class_all_index.html", "d7/d39/class_all_index" ],
     [ "ArrayInfo", "d8/dc7/class_array_info.html", "d8/dc7/class_array_info" ],
     [ "AttList", "d5/d61/class_att_list.html", "d5/d61/class_att_list" ],

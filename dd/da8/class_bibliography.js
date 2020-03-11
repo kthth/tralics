@@ -3,9 +3,9 @@ var class_bibliography =
     [ "dump", "dd/da8/class_bibliography.html#a9d5c2dfa3e8a1c721e421ca7650daa52", null ],
     [ "dump_bibtex", "dd/da8/class_bibliography.html#aa88abf75cf376eb12f8492fdaf156468", null ],
     [ "dump_data", "dd/da8/class_bibliography.html#a4a6a738c8b05d2b3c3f7db701e2b8baf", null ],
+    [ "get_bid", "dd/da8/class_bibliography.html#a3298e2f89c461b9ee8245d4bf16ca780", null ],
     [ "find_citation_item", "dd/da8/class_bibliography.html#a55ab5ecfd864b04dd7c3318816a73f6a", null ],
     [ "find_citation_star", "dd/da8/class_bibliography.html#a4322a3d2484a1959b8057106ba9e88ba", null ],
-    [ "get_bid", "dd/da8/class_bibliography.html#a3298e2f89c461b9ee8245d4bf16ca780", null ],
     [ "has_cmd", "dd/da8/class_bibliography.html#ad2c58b658a697807f854739efa9c2e3e", null ],
     [ "location_exists", "dd/da8/class_bibliography.html#a7341ee2628e656d4bb086c0c4a7d117d", null ],
     [ "number_of_data_bases", "dd/da8/class_bibliography.html#a39e711de088c472e243091f323ccdf8c", null ],
@@ -18,11 +18,11 @@ var class_bibliography =
     [ "stats", "dd/da8/class_bibliography.html#a5d3edb13c0bc4cf8ec5fe444976aceda", null ],
     [ "unique_bid", "dd/da8/class_bibliography.html#a47b0ff6292d9ab29d4b4175dd3bfade7", null ],
     [ "bib_style", "dd/da8/class_bibliography.html#ac519d5071426879d3a8fc26dc22dbd13", null ],
-    [ "biblio_loc_force", "dd/da8/class_bibliography.html#a6a15ba2976c435b3fb215af852b04b1e", null ],
-    [ "biblio_src", "dd/da8/class_bibliography.html#ad28c7fe0e24b9ea9a90138d4a118e1a3", null ],
-    [ "citation_table", "dd/da8/class_bibliography.html#a730f9bb5011b2374047f510c830e11cf", null ],
     [ "cmd", "dd/da8/class_bibliography.html#a78ae0dcc1e401bef34eb7aa4d59ba5f0", null ],
-    [ "last_bid", "dd/da8/class_bibliography.html#a33abf546b191718b0543c553edd33450", null ],
+    [ "citation_table", "dd/da8/class_bibliography.html#a730f9bb5011b2374047f510c830e11cf", null ],
     [ "location", "dd/da8/class_bibliography.html#a05a46d66d6aadd58ae6d119ee2e81c4d", null ],
-    [ "nocite", "dd/da8/class_bibliography.html#a0751ea7e745bfd46f8f389b47b1fad56", null ]
+    [ "biblio_src", "dd/da8/class_bibliography.html#ad28c7fe0e24b9ea9a90138d4a118e1a3", null ],
+    [ "nocite", "dd/da8/class_bibliography.html#a0751ea7e745bfd46f8f389b47b1fad56", null ],
+    [ "biblio_loc_force", "dd/da8/class_bibliography.html#a6a15ba2976c435b3fb215af852b04b1e", null ],
+    [ "last_bid", "dd/da8/class_bibliography.html#a33abf546b191718b0543c553edd33450", null ]
 ];
