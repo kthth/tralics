@@ -590,7 +590,7 @@
 <!-- Node55 -->
 <g id="node55" class="node">
 <title>Node55</title>
-<g id="a_node55"><a xlink:href="../../dd/d25/class_equivalent.html" target="_top" xlink:title=" ">
+<g id="a_node55"><a xlink:href="../../d9/dd2/struct_equivalent.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="700.97,-577.86 700.97,-595.86 763.67,-595.86 763.67,-577.86 700.97,-577.86"/>
 <text text-anchor="middle" x="732.32" y="-583.86" font-family="Helvetica,sans-Serif" font-size="10.00">Equivalent</text>
 </a>
@@ -599,9 +599,8 @@
 <!-- Node13&#45;&gt;Node55 -->
 <g id="edge83" class="edge">
 <title>Node13&#45;&gt;Node55</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M526.29,-539.99C573.57,-550.8 656.33,-569.72 700.88,-579.9"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="527.02,-536.56 516.49,-537.75 525.46,-543.39 527.02,-536.56"/>
-<text text-anchor="middle" x="604.2" y="-570.86" font-family="Helvetica,sans-Serif" font-size="10.00"> value</text>
+<path fill="none" stroke="midnightblue" d="M526.29,-539.99C573.57,-550.8 656.33,-569.72 700.88,-579.9"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="527.02,-536.56 516.49,-537.75 525.46,-543.39 527.02,-536.56"/>
 </g>
 <!-- Node14 -->
 <g id="node14" class="node">
@@ -686,9 +685,9 @@
 <!-- Node20&#45;&gt;Node19 -->
 <g id="edge27" class="edge">
 <title>Node20&#45;&gt;Node19</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M529.17,-555.38C531.82,-553.98 534.39,-552.48 536.79,-550.86 546.44,-544.37 546.15,-539.65 554.79,-531.86 595.93,-494.75 612.91,-493.46 653.61,-455.86 681.69,-429.92 710.9,-395.11 724.09,-378.89"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="527.54,-552.27 519.97,-559.68 530.51,-558.61 527.54,-552.27"/>
-<text text-anchor="middle" x="604.2" y="-533.86" font-family="Helvetica,sans-Serif" font-size="10.00"> elements</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M527.38,-555.76C530.62,-554.24 533.81,-552.6 536.79,-550.86 622.08,-501.15 700.71,-408.07 724.22,-378.86"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="525.96,-552.56 518.18,-559.75 528.75,-558.98 525.96,-552.56"/>
+<text text-anchor="middle" x="604.2" y="-540.86" font-family="Helvetica,sans-Serif" font-size="10.00"> elements</text>
 </g>
 <!-- Node32 -->
 <g id="node32" class="node">

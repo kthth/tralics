@@ -106,7 +106,7 @@ Include dependency graph for codepoint.h:</div>
 </div><div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d1/dd6/codepoint_8h__dep__incl.svg" width="3790" height="843"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d1/dd6/codepoint_8h__dep__incl.svg" width="3748" height="843"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </div>
@@ -119,8 +119,18 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:af81b5b1644d8389ed58956fa4e2d9d01"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d47/codepoint_8h.html#af81b5b1644d8389ed58956fa4e2d9d01">is_digit</a> (char c) -&gt; bool</td></tr>
+<tr class="separator:af81b5b1644d8389ed58956fa4e2d9d01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b2024846293125e4bb47569b3e8dd1a"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d47/codepoint_8h.html#a7b2024846293125e4bb47569b3e8dd1a">is_space</a> (char c) -&gt; bool</td></tr>
+<tr class="separator:a7b2024846293125e4bb47569b3e8dd1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a14a7b44663e50024ada97efb12b40521"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d47/codepoint_8h.html#a14a7b44663e50024ada97efb12b40521">is_lower_case</a> (char c) -&gt; bool</td></tr>
+<tr class="separator:a14a7b44663e50024ada97efb12b40521"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a864f825c0eb79e80fd98447a5ede7dc3"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d47/codepoint_8h.html#a864f825c0eb79e80fd98447a5ede7dc3">is_upper_case</a> (char c) -&gt; bool</td></tr>
+<tr class="separator:a864f825c0eb79e80fd98447a5ede7dc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a83d2ed506dcf853759880418cb37be99"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d47/codepoint_8h.html#a83d2ed506dcf853759880418cb37be99">is_letter</a> (char c) -&gt; bool</td></tr>
 <tr class="separator:a83d2ed506dcf853759880418cb37be99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa74b7af001f945c29305088c2b031612"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d47/codepoint_8h.html#aa74b7af001f945c29305088c2b031612">to_lower</a> (<a class="el" href="../../d9/d49/types_8h.html#ae48ac2456c5ad6c956fef86e7bef3a21">uchar</a> c) -&gt; <a class="el" href="../../d9/d49/types_8h.html#ae48ac2456c5ad6c956fef86e7bef3a21">uchar</a></td></tr>
+<tr class="separator:aa74b7af001f945c29305088c2b031612"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a577f37232f2078ba867f65354afcb372"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d47/codepoint_8h.html#a577f37232f2078ba867f65354afcb372">operator==</a> (const <a class="el" href="../../d6/d10/structcodepoint.html">codepoint</a> &amp;a, const <a class="el" href="../../d6/d10/structcodepoint.html">codepoint</a> &amp;b) -&gt; bool</td></tr>
 <tr class="separator:a577f37232f2078ba867f65354afcb372"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a64e149c7fe571756236fcd7524ca3b5e"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d47/codepoint_8h.html#a64e149c7fe571756236fcd7524ca3b5e">operator!=</a> (const <a class="el" href="../../d6/d10/structcodepoint.html">codepoint</a> &amp;a, const <a class="el" href="../../d6/d10/structcodepoint.html">codepoint</a> &amp;b) -&gt; bool</td></tr>
@@ -131,23 +141,171 @@ Functions</h2></td></tr>
 <tr class="separator:a7b2d10cb466f2c6752d95aacac73b00e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
+<a id="af81b5b1644d8389ed58956fa4e2d9d01"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af81b5b1644d8389ed58956fa4e2d9d01">&#9670;&nbsp;</a></span>is_digit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto is_digit </td>
+          <td>(</td>
+          <td class="paramtype">char&#160;</td>
+          <td class="paramname"><em>c</em></td><td>)</td>
+          <td> -&gt; bool </td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00005">5</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
+
+</div>
+</div>
+<a id="a7b2024846293125e4bb47569b3e8dd1a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b2024846293125e4bb47569b3e8dd1a">&#9670;&nbsp;</a></span>is_space()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto is_space </td>
+          <td>(</td>
+          <td class="paramtype">char&#160;</td>
+          <td class="paramname"><em>c</em></td><td>)</td>
+          <td> -&gt; bool </td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00006">6</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
+
+</div>
+</div>
+<a id="a14a7b44663e50024ada97efb12b40521"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a14a7b44663e50024ada97efb12b40521">&#9670;&nbsp;</a></span>is_lower_case()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto is_lower_case </td>
+          <td>(</td>
+          <td class="paramtype">char&#160;</td>
+          <td class="paramname"><em>c</em></td><td>)</td>
+          <td> -&gt; bool </td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00007">7</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
+
+</div>
+</div>
+<a id="a864f825c0eb79e80fd98447a5ede7dc3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a864f825c0eb79e80fd98447a5ede7dc3">&#9670;&nbsp;</a></span>is_upper_case()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto is_upper_case </td>
+          <td>(</td>
+          <td class="paramtype">char&#160;</td>
+          <td class="paramname"><em>c</em></td><td>)</td>
+          <td> -&gt; bool </td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00008">8</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
+
+</div>
+</div>
 <a id="a83d2ed506dcf853759880418cb37be99"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a83d2ed506dcf853759880418cb37be99">&#9670;&nbsp;</a></span>is_letter()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">auto is_letter </td>
           <td>(</td>
           <td class="paramtype">char&#160;</td>
           <td class="paramname"><em>c</em></td><td>)</td>
-          <td> -&gt;  bool</td>
+          <td> -&gt; bool </td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../de/d74/txbuffer_8cpp_source.html#l00034">34</a> of file <a class="el" href="../../de/d74/txbuffer_8cpp_source.html">txbuffer.cpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00009">9</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
+
+</div>
+</div>
+<a id="aa74b7af001f945c29305088c2b031612"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa74b7af001f945c29305088c2b031612">&#9670;&nbsp;</a></span>to_lower()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto to_lower </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d49/types_8h.html#ae48ac2456c5ad6c956fef86e7bef3a21">uchar</a>&#160;</td>
+          <td class="paramname"><em>c</em></td><td>)</td>
+          <td> -&gt; <a class="el" href="../../d9/d49/types_8h.html#ae48ac2456c5ad6c956fef86e7bef3a21">uchar</a> </td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00010">10</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
 
 </div>
 </div>
@@ -185,7 +343,7 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00051">51</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00059">59</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
 
 </div>
 </div>
@@ -223,7 +381,7 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00052">52</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00060">60</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
 
 </div>
 </div>
@@ -261,7 +419,7 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00053">53</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00061">61</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
 
 </div>
 </div>
@@ -299,7 +457,7 @@ Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00054">54</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
+<p class="definition">Definition at line <a class="el" href="../../d8/d47/codepoint_8h_source.html#l00062">62</a> of file <a class="el" href="../../d8/d47/codepoint_8h_source.html">codepoint.h</a>.</p>
 
 </div>
 </div>
@@ -309,7 +467,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_34757b718924119af78d27f1d70115f6.html">tralics</a></li><li class="navelem"><a class="el" href="../../d8/d47/codepoint_8h.html">codepoint.h</a></li>
-    <li class="footer">Generated on Wed Mar 11 2020 23:15:00 for Tralics by
+    <li class="footer">Generated on Thu Mar 12 2020 15:42:45 for Tralics by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -8,5 +8,6 @@ var txcommands_8cpp =
     [ "open_paren_xml", "df/d9e/txcommands_8cpp.html#a92566457afc4b2519ee8ca59f7412b33", null ],
     [ "close_paren_xml", "df/d9e/txcommands_8cpp.html#a63d9ddeac45670cc368dbf49be2cbdcf", null ],
     [ "the_page_xml", "df/d9e/txcommands_8cpp.html#a00427b1147d6c8c83aeae32fb22b72de", null ],
-    [ "glo_xml", "df/d9e/txcommands_8cpp.html#a2907d33d93046e921287db77fb245b59", null ]
+    [ "glo_xml", "df/d9e/txcommands_8cpp.html#a2907d33d93046e921287db77fb245b59", null ],
+    [ "the_bibtex", "df/d9e/txcommands_8cpp.html#abf2cc457e4a7310a192b1c4f14a1d8d2", null ]
 ];

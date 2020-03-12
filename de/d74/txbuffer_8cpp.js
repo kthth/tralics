@@ -3,7 +3,6 @@ var txbuffer_8cpp =
     [ "current_escape_char", "de/d74/txbuffer_8cpp.html#a5378f5f6ec490c5c6bdfa9bba147c72b", null ],
     [ "null_cs_name", "de/d74/txbuffer_8cpp.html#a8dab77a72cb2d9885960b19d42a30646", null ],
     [ "dump_identification", "de/d74/txbuffer_8cpp.html#a51ec132325d866c2cbfd334223db351b", null ],
-    [ "is_letter", "de/d74/txbuffer_8cpp.html#a83d2ed506dcf853759880418cb37be99", null ],
     [ "operator<<", "de/d74/txbuffer_8cpp.html#a833e2f7dec4d0fdad9f2a347f8b713e4", null ],
     [ "operator<<", "de/d74/txbuffer_8cpp.html#ad3b03f2165992a65c5a9366e67027587", null ],
     [ "operator<<", "de/d74/txbuffer_8cpp.html#ad29ed12fcc1d485e6d95b300f36b695f", null ],

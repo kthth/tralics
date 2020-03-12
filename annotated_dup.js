@@ -34,7 +34,7 @@ var annotated_dup =
     [ "EqtbInt", "df/d22/struct_eqtb_int.html", "df/d22/struct_eqtb_int" ],
     [ "EqtbString", "d9/d52/class_eqtb_string.html", "d9/d52/class_eqtb_string" ],
     [ "EqtbToken", "d7/d85/struct_eqtb_token.html", "d7/d85/struct_eqtb_token" ],
-    [ "Equivalent", "dd/d25/class_equivalent.html", "dd/d25/class_equivalent" ],
+    [ "Equivalent", "d9/dd2/struct_equivalent.html", "d9/dd2/struct_equivalent" ],
     [ "FileForInput", "dd/d5a/class_file_for_input.html", "dd/d5a/class_file_for_input" ],
     [ "FontInfo", "dd/d39/class_font_info.html", "dd/d39/class_font_info" ],
     [ "FormatDate", "df/d49/class_format_date.html", "df/d49/class_format_date" ],

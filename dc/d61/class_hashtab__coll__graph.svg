@@ -144,7 +144,7 @@
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="../../dd/d25/class_equivalent.html" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="../../d9/dd2/struct_equivalent.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="150.64,-42.5 150.64,-60.5 213.34,-60.5 213.34,-42.5 150.64,-42.5"/>
 <text text-anchor="middle" x="181.99" y="-48.5" font-family="Helvetica,sans-Serif" font-size="10.00">Equivalent</text>
 </a>
@@ -169,9 +169,8 @@
 <!-- Node9&#45;&gt;Node8 -->
 <g id="edge10" class="edge">
 <title>Node9&#45;&gt;Node8</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M63.63,-51.5C90.03,-51.5 125.47,-51.5 150.48,-51.5"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="63.29,-48 53.29,-51.5 63.29,-55 63.29,-48"/>
-<text text-anchor="middle" x="92.9" y="-53.5" font-family="Helvetica,sans-Serif" font-size="10.00"> value</text>
+<path fill="none" stroke="midnightblue" d="M63.63,-51.5C90.03,-51.5 125.47,-51.5 150.48,-51.5"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="63.29,-48 53.29,-51.5 63.29,-55 63.29,-48"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">

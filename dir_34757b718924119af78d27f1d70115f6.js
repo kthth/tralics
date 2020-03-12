@@ -7,12 +7,8 @@ var dir_34757b718924119af78d27f1d70115f6 =
     [ "consts.h", "d8/db5/consts_8h.html", "d8/db5/consts_8h" ],
     [ "enums.h", "d0/d0b/enums_8h.html", "d0/d0b/enums_8h" ],
     [ "globals.h", "d5/d87/globals_8h.html", "d5/d87/globals_8h" ],
-    [ "Istring.h", "d5/daf/_istring_8h.html", [
-      [ "Istring", "d9/d20/struct_istring.html", "d9/d20/struct_istring" ]
-    ] ],
-    [ "MainClass.h", "d4/de9/_main_class_8h.html", [
-      [ "MainClass", "d5/d5e/class_main_class.html", "d5/d5e/class_main_class" ]
-    ] ],
+    [ "Istring.h", "d5/daf/_istring_8h.html", "d5/daf/_istring_8h" ],
+    [ "MainClass.h", "d4/de9/_main_class_8h.html", "d4/de9/_main_class_8h" ],
     [ "Token.h", "dd/dcd/_token_8h.html", "dd/dcd/_token_8h" ],
     [ "types.h", "d9/d49/types_8h.html", "d9/d49/types_8h" ]
 ];

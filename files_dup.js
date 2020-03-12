@@ -44,7 +44,7 @@ var files_dup =
     ] ],
     [ "txconfig.cpp", "df/d98/txconfig_8cpp.html", "df/d98/txconfig_8cpp" ],
     [ "txeqtb.h", "d3/d01/txeqtb_8h.html", [
-      [ "Equivalent", "dd/d25/class_equivalent.html", "dd/d25/class_equivalent" ],
+      [ "Equivalent", "d9/dd2/struct_equivalent.html", "d9/dd2/struct_equivalent" ],
       [ "RestoreVbSpace", "d9/dd7/class_restore_vb_space.html", "d9/dd7/class_restore_vb_space" ],
       [ "SaveCatcode", "dc/d8e/class_save_catcode.html", "dc/d8e/class_save_catcode" ],
       [ "SaveScannerStatus", "d3/dba/class_save_scanner_status.html", "d3/dba/class_save_scanner_status" ],
@@ -149,6 +149,5 @@ var files_dup =
     [ "txtranslate.cpp", "dd/da4/txtranslate_8cpp.html", "dd/da4/txtranslate_8cpp" ],
     [ "txtrees.cpp", "d0/d93/txtrees_8cpp.html", "d0/d93/txtrees_8cpp" ],
     [ "txtrees.h", "d0/dd4/txtrees_8h.html", "d0/dd4/txtrees_8h" ],
-    [ "txvars.h", "dc/de8/txvars_8h.html", "dc/de8/txvars_8h" ],
     [ "txxml.h", "d1/d43/txxml_8h.html", "d1/d43/txxml_8h" ]
 ];

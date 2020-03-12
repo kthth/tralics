@@ -17,7 +17,9 @@ var hierarchy =
     [ "CitationKey", "d1/d59/class_citation_key.html", null ],
     [ "ClassesData", "d4/dc0/class_classes_data.html", null ],
     [ "Clines", "da/dc9/class_clines.html", null ],
-    [ "CmdChr", "de/d72/class_cmd_chr.html", null ],
+    [ "CmdChr", "de/d72/class_cmd_chr.html", [
+      [ "Equivalent", "d9/dd2/struct_equivalent.html", null ]
+    ] ],
     [ "codepoint", "d6/d10/structcodepoint.html", null ],
     [ "ColSpec", "d8/d2e/class_col_spec.html", null ],
     [ "CondAux", "d4/d00/struct_cond_aux.html", null ],
@@ -32,7 +34,6 @@ var hierarchy =
     [ "EqtbInt", "df/d22/struct_eqtb_int.html", null ],
     [ "EqtbString", "d9/d52/class_eqtb_string.html", null ],
     [ "EqtbToken", "d7/d85/struct_eqtb_token.html", null ],
-    [ "Equivalent", "dd/d25/class_equivalent.html", null ],
     [ "anonymous_namespace{txbib.cpp}::Error", "d8/df2/classanonymous__namespace_02txbib_8cpp_03_1_1_error.html", null ],
     [ "FileForInput", "dd/d5a/class_file_for_input.html", null ],
     [ "FontInfo", "dd/d39/class_font_info.html", null ],

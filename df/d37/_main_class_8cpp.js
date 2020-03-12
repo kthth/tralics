@@ -13,6 +13,10 @@ var _main_class_8cpp =
     [ "new_in_dir", "df/d37/_main_class_8cpp.html#abbea7de9d9b886daa509135d5af30adb", null ],
     [ "obsolete", "df/d37/_main_class_8cpp.html#a212ec60e6a786c2b00fb021af5976fa2", null ],
     [ "param_hack", "df/d37/_main_class_8cpp.html#a84da0d4253aef947292a9d27f0d26354", null ],
-    [ "set_everyjob", "df/d37/_main_class_8cpp.html#ab2def395155aec189ef74751b9e84183", null ],
-    [ "show_encoding", "df/d37/_main_class_8cpp.html#aa6718f12c0ae0c70c6ba3b53f831ae9e", null ]
+    [ "show_encoding", "df/d37/_main_class_8cpp.html#aa6718f12c0ae0c70c6ba3b53f831ae9e", null ],
+    [ "log_name", "df/d37/_main_class_8cpp.html#a4aa1ee712937520a9901c55587e3c73b", null ],
+    [ "no_ext", "df/d37/_main_class_8cpp.html#a443669b7dd4a1bf28deba4fba62d90a2", null ],
+    [ "opt_doctype", "df/d37/_main_class_8cpp.html#a69e6245adb68ad5125f1403f8d7ca5d0", null ],
+    [ "out_dir", "df/d37/_main_class_8cpp.html#ab10423ab199f330a464b59a69a84b4ee", null ],
+    [ "other_options", "df/d37/_main_class_8cpp.html#ab79969d5244cc2bb2994487b244afcdf", null ]
 ];

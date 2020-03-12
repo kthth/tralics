@@ -1,9 +1,9 @@
 <map id="txid.h" name="txid.h">
-<area shape="rect" id="node1" title=" " alt="" coords="196,5,249,31"/>
-<area shape="rect" id="node2" href="$dc/de8/txvars_8h.html" title=" " alt="" coords="146,79,214,104"/>
-<area shape="rect" id="node10" title=" " alt="" coords="239,79,292,104"/>
-<area shape="rect" id="node3" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="73,152,184,177"/>
-<area shape="rect" id="node9" title=" " alt="" coords="208,152,259,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="230,5,283,31"/>
+<area shape="rect" id="node2" href="$d5/daf/_istring_8h.html" title=" " alt="" coords="157,79,264,104"/>
+<area shape="rect" id="node10" title=" " alt="" coords="272,152,326,177"/>
+<area shape="rect" id="node3" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="92,152,164,177"/>
+<area shape="rect" id="node9" title=" " alt="" coords="189,152,241,177"/>
 <area shape="rect" id="node4" href="$d8/db5/consts_8h.html" title=" " alt="" coords="93,225,164,251"/>
 <area shape="rect" id="node5" href="$d9/d49/types_8h.html" title=" " alt="" coords="96,299,160,324"/>
 <area shape="rect" id="node6" title=" " alt="" coords="5,372,70,397"/>
