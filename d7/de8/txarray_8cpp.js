@@ -1,7 +1,7 @@
 var txarray_8cpp =
 [
-    [ "new_array_object", "d7/de8/txarray_8cpp.html#ab55d748a0b19b377a1837be61992af4d", null ],
-    [ "char_for_error", "d7/de8/txarray_8cpp.html#a05ace9fe53796ed982a44a6a44cecda2", null ],
+    [ "new_array_object", "d7/de8/txarray_8cpp.html#a71cce9a5adbf64a1f6390eae429cf83d", null ],
+    [ "char_for_error", "d7/de8/txarray_8cpp.html#a771337f021c7c3d58caeb6dffa4ae127", null ],
     [ "in_hlinee", "d7/de8/txarray_8cpp.html#a902a651c0c625f41601e0d3bed1bec8b", null ],
     [ "have_above", "d7/de8/txarray_8cpp.html#a2e5e201b56c73da2a4589c3f7967b890", null ],
     [ "have_below", "d7/de8/txarray_8cpp.html#a14a1d06656050a74a27714ac8f225af7", null ],

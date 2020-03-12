@@ -2,8 +2,6 @@ var txmathboot_8cpp =
 [
     [ "LANGLE", "d9/d59/txmathboot_8cpp.html#a53b43876c3ae98736597a40c9fee1fba", null ],
     [ "RANGLE", "d9/d59/txmathboot_8cpp.html#adef1792d04af2bd746f384728cf4b5aa", null ],
-    [ "get_math_char", "d9/d59/txmathboot_8cpp.html#a6e639bcad731e33c88492b26544c7e06", null ],
-    [ "set_math_char", "d9/d59/txmathboot_8cpp.html#a72c4f4a3d58cc8acf4c265b9ba8c083c", null ],
     [ "eval_let", "d9/d59/txmathboot_8cpp.html#a32eea622833a86d07d7ccbcdfe7da093", null ],
     [ "mk_cmd", "d9/d59/txmathboot_8cpp.html#ad531b457b42418ba92c7381d4e25338c", null ],
     [ "mk_space", "d9/d59/txmathboot_8cpp.html#a45668825abd39c54849746900d1db9c4", null ],

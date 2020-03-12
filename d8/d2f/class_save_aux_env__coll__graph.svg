@@ -62,7 +62,7 @@
 <title>Node4&#45;&gt;Node1</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M159.2,-66.22C152.45,-51.28 142.98,-30.34 137.79,-18.85"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="156.05,-67.74 163.35,-75.41 162.42,-64.85 156.05,-67.74"/>
-<text text-anchor="middle" x="158.37" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00"> T</text>
+<text text-anchor="middle" x="167.63" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00"> token</text>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -76,10 +76,10 @@
 <!-- Node5&#45;&gt;Node1 -->
 <g id="edge4" class="edge">
 <title>Node5&#45;&gt;Node1</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M216.47,-69.52C195.4,-54.43 162.55,-30.93 145.37,-18.63"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="214.54,-72.44 224.71,-75.41 218.61,-66.74 214.54,-72.44"/>
-<text text-anchor="middle" x="218.69" y="-49" font-family="Helvetica,sans-Serif" font-size="10.00"> oldname</text>
-<text text-anchor="middle" x="218.69" y="-39" font-family="Helvetica,sans-Serif" font-size="10.00">newname</text>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M221.02,-67.89C211.3,-58.28 198.06,-46.11 185.01,-37 174.87,-29.92 162.58,-23.48 152.61,-18.72"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="218.75,-70.57 228.27,-75.23 223.73,-65.66 218.75,-70.57"/>
+<text text-anchor="middle" x="228.58" y="-49" font-family="Helvetica,sans-Serif" font-size="10.00"> oldname</text>
+<text text-anchor="middle" x="228.58" y="-39" font-family="Helvetica,sans-Serif" font-size="10.00">name</text>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">

@@ -10,10 +10,7 @@ var txmath_8h =
     [ "const_math_iterator", "df/d79/txmath_8h.html#aab7b088254f5012b8ac287c644a6333b", null ],
     [ "math_iterator", "df/d79/txmath_8h.html#a4982aa07c81221fbb9b6657d67db0e24", null ],
     [ "get_math_char", "df/d79/txmath_8h.html#a6e639bcad731e33c88492b26544c7e06", null ],
-    [ "set_math_char", "df/d79/txmath_8h.html#a72c4f4a3d58cc8acf4c265b9ba8c083c", null ],
     [ "math_to_sub", "df/d79/txmath_8h.html#a1a86040e1517e5c914d6a0940299f4cd", null ],
-    [ "sub_to_math", "df/d79/txmath_8h.html#aab2648d149a933b4ca9a818223218429", null ],
-    [ "is_m_font", "df/d79/txmath_8h.html#ae1ef22101117fafd3f39e6d16d8fec63", null ],
     [ "add_attribute_spec", "df/d79/txmath_8h.html#a89c0e7fd4d92822980011c8c2255c0f6", null ],
     [ "cv_special_string", "df/d79/txmath_8h.html#a86e8b7436655e9f87f419a05f1a034f1", null ],
     [ "get_builtin", "df/d79/txmath_8h.html#a998fbfb07ad395ccb24a44c8e1edf2e0", null ],
@@ -40,5 +37,6 @@ var txmath_8h =
     [ "special_fence", "df/d79/txmath_8h.html#ad46fb5e59eb44cab45346a7bcfd018a9", null ],
     [ "style_level", "df/d79/txmath_8h.html#a0b8b81b5bf032a6c18b08b57f646a24e", null ],
     [ "make_math_char", "df/d79/txmath_8h.html#aae5256cdb83967ca72091fb89ab1afaf", null ],
-    [ "xml2sons", "df/d79/txmath_8h.html#ad671ec49644062b2355e8da5627672ae", null ]
+    [ "xml2sons", "df/d79/txmath_8h.html#ad671ec49644062b2355e8da5627672ae", null ],
+    [ "math_chars", "df/d79/txmath_8h.html#a66e6b958a9076c195768113af96988f4", null ]
 ];

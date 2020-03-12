@@ -1,5 +1,7 @@
 var txmath_8cpp =
 [
+    [ "is_m_font", "d4/dd9/txmath_8cpp.html#a809034ff188048b4ef8cac26e8c571aa", null ],
+    [ "sub_to_math", "d4/dd9/txmath_8cpp.html#a3eb0361a9a3be8d305d9e26f031cb6c8", null ],
     [ "add_to_trace", "d4/dd9/txmath_8cpp.html#a9da6c96f47906edab5ee5f8b071d62a6", null ],
     [ "add_to_trace", "d4/dd9/txmath_8cpp.html#a25c4965702b5936a8efd14f1c3847ed8", null ],
     [ "add_to_trace", "d4/dd9/txmath_8cpp.html#a10fc458afaa8d75423c9157bf02b0bc4", null ],
