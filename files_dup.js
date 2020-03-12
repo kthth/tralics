@@ -65,13 +65,7 @@ var files_dup =
       [ "SaveAuxString", "d7/d47/class_save_aux_string.html", "d7/d47/class_save_aux_string" ],
       [ "SaveAuxEnv", "d3/d93/class_save_aux_env.html", "d3/d93/class_save_aux_env" ],
       [ "SaveAuxFont", "d5/d26/class_save_aux_font.html", "d5/d26/class_save_aux_font" ],
-      [ "SaveAuxAftergroup", "d7/d9f/class_save_aux_aftergroup.html", "d7/d9f/class_save_aux_aftergroup" ],
-      [ "EqtbInt", "df/d22/struct_eqtb_int.html", "df/d22/struct_eqtb_int" ],
-      [ "EqtbString", "d9/d52/class_eqtb_string.html", "d9/d52/class_eqtb_string" ],
-      [ "EqtbDim", "d8/d8f/class_eqtb_dim.html", "d8/d8f/class_eqtb_dim" ],
-      [ "EqtbGlue", "d8/d42/class_eqtb_glue.html", "d8/d42/class_eqtb_glue" ],
-      [ "EqtbToken", "d7/d85/struct_eqtb_token.html", "d7/d85/struct_eqtb_token" ],
-      [ "EqtbBox", "d8/d71/class_eqtb_box.html", "d8/d71/class_eqtb_box" ]
+      [ "SaveAuxAftergroup", "d7/d9f/class_save_aux_aftergroup.html", "d7/d9f/class_save_aux_aftergroup" ]
     ] ],
     [ "txerr.cpp", "d8/d02/txerr_8cpp.html", "d8/d02/txerr_8cpp" ],
     [ "txfonts.cpp", "d6/dc0/txfonts_8cpp.html", "d6/dc0/txfonts_8cpp" ],

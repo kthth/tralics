@@ -6,6 +6,7 @@ var dir_34757b718924119af78d27f1d70115f6 =
     [ "codepoint.h", "d8/d47/codepoint_8h.html", "d8/d47/codepoint_8h" ],
     [ "consts.h", "d8/db5/consts_8h.html", "d8/db5/consts_8h" ],
     [ "enums.h", "d0/d0b/enums_8h.html", "d0/d0b/enums_8h" ],
+    [ "EQTB.h", "d8/dd6/_e_q_t_b_8h.html", "d8/dd6/_e_q_t_b_8h" ],
     [ "globals.h", "d5/d87/globals_8h.html", "d5/d87/globals_8h" ],
     [ "Istring.h", "d5/daf/_istring_8h.html", "d5/daf/_istring_8h" ],
     [ "MainClass.h", "d4/de9/_main_class_8h.html", "d4/de9/_main_class_8h" ],

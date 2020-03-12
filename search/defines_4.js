@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['rangle_15068',['RANGLE',['../d9/d59/txmathboot_8cpp.html#adef1792d04af2bd746f384728cf4b5aa',1,'txmathboot.cpp']]]
+  ['rangle_15067',['RANGLE',['../d9/d59/txmathboot_8cpp.html#adef1792d04af2bd746f384728cf4b5aa',1,'txmathboot.cpp']]]
 ];
