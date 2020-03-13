@@ -1,7 +1,5 @@
 var NAVTREEINDEX22 =
 {
-"d6/d5a/md___users_vincent__prog_tralics__c_h_a_n_g_e_l_o_g.html":[0],
-"d6/d63/class_bchar.html":[3,0,7],
 "d6/d63/class_bchar.html#a075cc7d5d3bdbafc4d55fda31657badf":[3,0,7,20],
 "d6/d63/class_bchar.html#a13d3eafe312213840b6adc4a9ac7c994":[3,0,7,0],
 "d6/d63/class_bchar.html#a2e597e94fff37593f4fd664668e5f020":[3,0,7,16],
@@ -249,5 +247,7 @@ var NAVTREEINDEX22 =
 "d7/d53/readline_8cpp.html#a98ff5dd0564dbcf6741d350db4363485":[4,0,5,1],
 "d7/d53/readline_8cpp.html#aa9b6bfc01a82dcbd72d0df2b2cd1854c":[4,0,5,13],
 "d7/d53/readline_8cpp.html#ab0a8bad766a385eb7f4dc225a0cda0b8":[4,0,5,12],
-"d7/d53/readline_8cpp.html#ab17ecb2bc534f3e81dff913f06f5d562":[4,0,5,26]
+"d7/d53/readline_8cpp.html#ab17ecb2bc534f3e81dff913f06f5d562":[4,0,5,26],
+"d7/d53/readline_8cpp.html#ac06c71706bf7208807184877262408b6":[4,0,5,28],
+"d7/d53/readline_8cpp.html#ac5cf8052adbb3482a865dcab8eae7e32":[4,0,5,19]
 };

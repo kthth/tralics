@@ -1,7 +1,5 @@
 var NAVTREEINDEX16 =
 {
-"d0/dc3/txl3_8cpp.html#ab0f9d3c40df0eed62e83ffdd9bc4012c":[4,0,34,41],
-"d0/dc3/txl3_8cpp.html#abd0b407a31ff9e9fcd591736539b527d":[4,0,34,16],
 "d0/dc3/txl3_8cpp.html#abd6f8ed8f76cd33ae007900bfd09555a":[4,0,34,20],
 "d0/dc3/txl3_8cpp.html#ac85994dc81f095e4f8fa35a6535c8fe4":[4,0,34,5],
 "d0/dc3/txl3_8cpp.html#ac87727afe471afb383c952d7acccc670":[4,0,34,37],
@@ -249,5 +247,7 @@ var NAVTREEINDEX16 =
 "d1/df4/struct_tex_fonts.html#a78f7fcb8ab7e6e64eadbb54a36b2035a":[3,0,103,4],
 "d1/df4/struct_tex_fonts.html#a8060e05417414086fbe634c422bb2324":[3,0,103,6],
 "d1/df4/struct_tex_fonts.html#a886324ef1bc64f33b25ce6a952f9c38a":[3,0,103,9],
-"d1/df4/struct_tex_fonts.html#a8c23060f8f6b83fe8cc64e9d05bd7473":[3,0,103,3]
+"d1/df4/struct_tex_fonts.html#a8c23060f8f6b83fe8cc64e9d05bd7473":[3,0,103,3],
+"d2/d06/txlogger_8h.html":[4,0,35],
+"d2/d06/txlogger_8h.html#a02d3c4f864f4a25d58542fb2076effa3":[4,0,35,31]
 };

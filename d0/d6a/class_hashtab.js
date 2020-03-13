@@ -1,14 +1,10 @@
 var class_hashtab =
 [
     [ "Hashtab", "d0/d6a/class_hashtab.html#a880d29d2bd0ed0d8d2eeb06a36225ed3", null ],
-    [ "find_empty", "d0/d6a/class_hashtab.html#a6f2180117dcf9380356ed190e6c94076", null ],
-    [ "find_aux", "d0/d6a/class_hashtab.html#aeab1f6fc991cba5b5928d17626bbe925", null ],
     [ "my_buffer", "d0/d6a/class_hashtab.html#a1e655ea476b0353130d3fec01671f7ec", null ],
     [ "locate", "d0/d6a/class_hashtab.html#adb2bb4f72086065fe99b23cabfe5a9c9", null ],
     [ "locate", "d0/d6a/class_hashtab.html#a69d4dc5257b88994b4cc83a778ce6cf1", null ],
     [ "locate", "d0/d6a/class_hashtab.html#aca691549bd1c1ecf36b2570b76ffc6ec", null ],
-    [ "get_hash_usage", "d0/d6a/class_hashtab.html#ad1b5874dc79ff2d234eee76ce591e9a4", null ],
-    [ "get_hash_bad", "d0/d6a/class_hashtab.html#a1f4e871cab3da59b852e4325d4386169", null ],
     [ "hash_find", "d0/d6a/class_hashtab.html#aed08e870d4abe5d5596473c7c2528fae", null ],
     [ "hash_find", "d0/d6a/class_hashtab.html#ae03e9e8e81ec12a4f519bc0fcbcdf60b", null ],
     [ "primitive", "d0/d6a/class_hashtab.html#a774bf9f0083990a050786b96397448ad", null ],
@@ -16,6 +12,8 @@ var class_hashtab =
     [ "eval_let", "d0/d6a/class_hashtab.html#a674e5c901d703a810601486a6ad31f8c", null ],
     [ "eval_letv", "d0/d6a/class_hashtab.html#a3b2f2214a9f847c2d3c4af60df4cf2a5", null ],
     [ "eval_let_local", "d0/d6a/class_hashtab.html#af20cb3a3891056dadde2aaab4dcf2b3d", null ],
+    [ "find_empty", "d0/d6a/class_hashtab.html#a6f2180117dcf9380356ed190e6c94076", null ],
+    [ "find_aux", "d0/d6a/class_hashtab.html#aeab1f6fc991cba5b5928d17626bbe925", null ],
     [ "operator[]", "d0/d6a/class_hashtab.html#ac89880105d309b377cc1ba3745132547", null ],
     [ "dump", "d0/d6a/class_hashtab.html#a56de8d65f5c3540104635c8c034fa26a", null ],
     [ "boot_fancyhdr", "d0/d6a/class_hashtab.html#ac901f70be3a5db85a78d36958b6de311", null ],
@@ -227,6 +225,6 @@ var class_hashtab =
     [ "Next", "d0/d6a/class_hashtab.html#a9c463fa7401029272ae0121228730c13", null ],
     [ "B", "d0/d6a/class_hashtab.html#acc043065c449f4e76d5964208a9ede82", null ],
     [ "hash_used", "d0/d6a/class_hashtab.html#a99c85c202f6097abd5762c42bae43a37", null ],
-    [ "hash_usage", "d0/d6a/class_hashtab.html#a75aa3081a2620bbd9c2cecc00b087292", null ],
-    [ "hash_bad", "d0/d6a/class_hashtab.html#a1c6e5322c7b63d16c83e35c1b40b10f0", null ]
+    [ "hash_bad", "d0/d6a/class_hashtab.html#a1c6e5322c7b63d16c83e35c1b40b10f0", null ],
+    [ "hash_usage", "d0/d6a/class_hashtab.html#a75aa3081a2620bbd9c2cecc00b087292", null ]
 ];
