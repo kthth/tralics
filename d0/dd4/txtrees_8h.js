@@ -1,6 +1,5 @@
 var txtrees_8h =
 [
-    [ "RefIndexElt", "d1/daa/class_ref_index_elt.html", "d1/daa/class_ref_index_elt" ],
     [ "Indexer", "d6/d1f/class_indexer.html", "d6/d1f/class_indexer" ],
     [ "OneIndex", "dc/d37/class_one_index.html", "dc/d37/class_one_index" ],
     [ "AllIndex", "d7/d39/class_all_index.html", "d7/d39/class_all_index" ],

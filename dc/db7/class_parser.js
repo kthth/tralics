@@ -877,8 +877,6 @@ var class_parser =
     [ "wrong_pop", "dc/db7/class_parser.html#a53184b5b6e0331d38867b1e976a867d6", null ],
     [ "E_input", "dc/db7/class_parser.html#a3755c9fddffa1c2467091ca25692b8c9", null ],
     [ "xgetfontsize", "dc/db7/class_parser.html#a1bd3f94248361cbb4cafd27cbeeb4fca", null ],
-    [ "xkv_checksanitize", "dc/db7/class_parser.html#a286607d46512653878a7cef8b31dd4f9", null ],
-    [ "xkv_checksanitize", "dc/db7/class_parser.html#a02108d2df3ca215870429dcbb377d50e", null ],
     [ "xkv_fetch_prefix_family", "dc/db7/class_parser.html#a25aa66403c4219547c487e3f1a9dbc07", null ],
     [ "T_xkv_for", "dc/db7/class_parser.html#a2cd60c3f764e7c6678100fca24690dd7", null ],
     [ "xkv_makehd", "dc/db7/class_parser.html#a84ef84289f05d62cba7ba4a8dff0cff8", null ],

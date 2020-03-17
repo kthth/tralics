@@ -13,6 +13,7 @@ var _main_class_8cpp =
     [ "new_in_dir", "df/d37/_main_class_8cpp.html#abbea7de9d9b886daa509135d5af30adb", null ],
     [ "obsolete", "df/d37/_main_class_8cpp.html#a212ec60e6a786c2b00fb021af5976fa2", null ],
     [ "param_hack", "df/d37/_main_class_8cpp.html#a84da0d4253aef947292a9d27f0d26354", null ],
+    [ "print_os", "df/d37/_main_class_8cpp.html#acbe2d0114604302d8e0b6dcd533b1e14", null ],
     [ "show_encoding", "df/d37/_main_class_8cpp.html#aa6718f12c0ae0c70c6ba3b53f831ae9e", null ],
     [ "log_name", "df/d37/_main_class_8cpp.html#a4aa1ee712937520a9901c55587e3c73b", null ],
     [ "no_ext", "df/d37/_main_class_8cpp.html#a443669b7dd4a1bf28deba4fba62d90a2", null ],

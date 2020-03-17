@@ -14,7 +14,6 @@ var class_math_data_p =
     [ "mk_ocb", "d8/de4/class_math_data_p.html#a1e5f609d35353d78131878b4b3ce2858", null ],
     [ "mk_ocr", "d8/de4/class_math_data_p.html#a65204ef597af7251fdc8869541c842bd", null ],
     [ "mk_oc", "d8/de4/class_math_data_p.html#a585bf95cfb0e51517e5869deab213d9e", null ],
-    [ "mk_moc", "d8/de4/class_math_data_p.html#a0047cf6c83c1de7219051445ec0acc63", null ],
     [ "mk_moo", "d8/de4/class_math_data_p.html#a5b3e18666db6302eb89dcdfc963472c3", null ],
     [ "mk_accent", "d8/de4/class_math_data_p.html#a0fb6411ca339818b54281fc938280722", null ],
     [ "fill_lr", "d8/de4/class_math_data_p.html#a5d942ed1dca1f4d38368b4b5cc5e3a3b", null ],

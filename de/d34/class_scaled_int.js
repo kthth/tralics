@@ -17,7 +17,6 @@ var class_scaled_int =
     [ "mult_scaled", "de/d34/class_scaled_int.html#a1b3f5480f796402bfdb757e215780301", null ],
     [ "mult_integer", "de/d34/class_scaled_int.html#a730d264f0c9bd2687678bf4e5e7ce1ac", null ],
     [ "times_10_18", "de/d34/class_scaled_int.html#a397ae5b591461b6dbcf5197d5c6ed359", null ],
-    [ "times_18_10", "de/d34/class_scaled_int.html#a7c7701756fb4ee4c93bcfda661069373", null ],
     [ "ovf30", "de/d34/class_scaled_int.html#ad1057b341b4752aed4435aaa7500a0d8", null ],
     [ "ovf31", "de/d34/class_scaled_int.html#aa5c308f369d9dd02f0339bad7a8b5b14", null ],
     [ "value", "de/d34/class_scaled_int.html#ab2151c975c3bd097651a738a4f6193f4", null ]

@@ -83,8 +83,7 @@ var files_dup =
       [ "Hashtab", "d0/d6a/class_hashtab.html", "d0/d6a/class_hashtab" ],
       [ "SpecialHash", "d7/d99/class_special_hash.html", "d7/d99/class_special_hash" ],
       [ "LabelInfo", "dc/df1/class_label_info.html", "dc/df1/class_label_info" ],
-      [ "Splitter", "db/d95/class_splitter.html", "db/d95/class_splitter" ],
-      [ "PackMatcher", "df/db1/class_pack_matcher.html", "df/db1/class_pack_matcher" ]
+      [ "Splitter", "db/d95/class_splitter.html", "db/d95/class_splitter" ]
     ] ],
     [ "txid.h", "d1/d9e/txid_8h.html", [
       [ "Xid", "de/d3f/class_xid.html", "de/d3f/class_xid" ]

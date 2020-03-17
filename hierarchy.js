@@ -66,13 +66,11 @@ var hierarchy =
     [ "NameSplitter", "d2/d48/class_name_splitter.html", null ],
     [ "NewArray", "da/d78/class_new_array.html", null ],
     [ "OneIndex", "dc/d37/class_one_index.html", null ],
-    [ "PackMatcher", "df/db1/class_pack_matcher.html", null ],
     [ "ParamDataList", "d7/de7/class_param_data_list.html", null ],
     [ "ParamDataSlot", "d1/d2a/class_param_data_slot.html", null ],
     [ "ParamDataVector", "d0/d42/class_param_data_vector.html", null ],
     [ "Parser", "dc/db7/class_parser.html", null ],
     [ "RealNumber", "d6/d73/class_real_number.html", null ],
-    [ "RefIndexElt", "d1/daa/class_ref_index_elt.html", null ],
     [ "RestoreVbSpace", "d9/dd7/class_restore_vb_space.html", null ],
     [ "SaveAux", "da/df8/class_save_aux.html", [
       [ "SaveAuxAftergroup", "d7/d9f/class_save_aux_aftergroup.html", null ],
