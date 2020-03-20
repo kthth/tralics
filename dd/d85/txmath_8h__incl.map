@@ -1,12 +1,12 @@
 <map id="txmath.h" name="txmath.h">
-<area shape="rect" id="node1" title=" " alt="" coords="293,5,365,31"/>
-<area shape="rect" id="node2" href="$d1/d43/txxml_8h.html" title=" " alt="" coords="297,79,361,104"/>
-<area shape="rect" id="node3" href="$dc/def/txstring_8h.html" title=" " alt="" coords="254,152,329,177"/>
-<area shape="rect" id="node24" title=" " alt="" coords="342,299,399,324"/>
-<area shape="rect" id="node4" href="$dd/d74/txbuffer_8h.html" title=" " alt="" coords="250,225,326,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="203,5,276,31"/>
+<area shape="rect" id="node2" href="$d9/d1c/_xml_8h.html" title=" " alt="" coords="193,79,287,104"/>
+<area shape="rect" id="node3" href="$dc/def/txstring_8h.html" title=" " alt="" coords="196,152,283,177"/>
+<area shape="rect" id="node4" href="$dd/d74/txbuffer_8h.html" title=" " alt="" coords="202,225,278,251"/>
 <area shape="rect" id="node5" href="$d1/d9e/txid_8h.html" title=" " alt="" coords="76,372,129,397"/>
 <area shape="rect" id="node15" href="$d9/d18/txscaled_8h.html" title=" " alt="" coords="152,299,234,324"/>
 <area shape="rect" id="node23" title=" " alt="" coords="257,299,318,324"/>
+<area shape="rect" id="node24" title=" " alt="" coords="342,299,399,324"/>
 <area shape="rect" id="node6" href="$d5/daf/_istring_8h.html" title=" " alt="" coords="31,445,139,471"/>
 <area shape="rect" id="node7" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="54,592,127,617"/>
 <area shape="rect" id="node13" title=" " alt="" coords="20,519,72,544"/>

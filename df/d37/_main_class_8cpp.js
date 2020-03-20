@@ -8,6 +8,8 @@ var _main_class_8cpp =
     [ "extract_year", "df/d37/_main_class_8cpp.html#acffa6bd7c265228235688820ed5bba95", null ],
     [ "find_param_type", "df/d37/_main_class_8cpp.html#a46c1acc584dacef3a7afe8e22761559a", null ],
     [ "hack_for_input", "df/d37/_main_class_8cpp.html#afb716aadfd609bb30f9698265207e29c", null ],
+    [ "mk_empty", "df/d37/_main_class_8cpp.html#a1e1447fb3c626513ea8b3666df98533b", null ],
+    [ "usage_and_quit", "df/d37/_main_class_8cpp.html#a6f6bd518a59f20af3936f428c7b1a72c", null ],
     [ "try_conf", "df/d37/_main_class_8cpp.html#a43017869f312c4fa24022d91c54a0c3d", null ],
     [ "find_conf_path", "df/d37/_main_class_8cpp.html#a886c3f52e637f6d71dc5dd776c79da42", null ],
     [ "new_in_dir", "df/d37/_main_class_8cpp.html#abbea7de9d9b886daa509135d5af30adb", null ],
@@ -15,9 +17,12 @@ var _main_class_8cpp =
     [ "param_hack", "df/d37/_main_class_8cpp.html#a84da0d4253aef947292a9d27f0d26354", null ],
     [ "print_os", "df/d37/_main_class_8cpp.html#acbe2d0114604302d8e0b6dcd533b1e14", null ],
     [ "show_encoding", "df/d37/_main_class_8cpp.html#aa6718f12c0ae0c70c6ba3b53f831ae9e", null ],
+    [ "b_after", "df/d37/_main_class_8cpp.html#a78e5a98701a4cdd7a8e6f9c436405fa9", null ],
     [ "log_name", "df/d37/_main_class_8cpp.html#a4aa1ee712937520a9901c55587e3c73b", null ],
+    [ "machine", "df/d37/_main_class_8cpp.html#ad73bc5d88178997db4e3955082e5534c", null ],
     [ "no_ext", "df/d37/_main_class_8cpp.html#a443669b7dd4a1bf28deba4fba62d90a2", null ],
     [ "opt_doctype", "df/d37/_main_class_8cpp.html#a69e6245adb68ad5125f1403f8d7ca5d0", null ],
     [ "out_dir", "df/d37/_main_class_8cpp.html#ab10423ab199f330a464b59a69a84b4ee", null ],
+    [ "user_config_file", "df/d37/_main_class_8cpp.html#a3ae9a43db0e3ebf9e80c11799180bbe0", null ],
     [ "other_options", "df/d37/_main_class_8cpp.html#ab79969d5244cc2bb2994487b244afcdf", null ]
 ];

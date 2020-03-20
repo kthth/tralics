@@ -78,7 +78,7 @@ var class_buffer =
     [ "finish_xml_print", "d5/d2a/class_buffer.html#a3ce533bd9e2f0e78df2506707366fc23", null ],
     [ "full_bracket_match", "d5/d2a/class_buffer.html#ad777835fa21a71b6d8c4be5b9647a586", null ],
     [ "full_brace_match", "d5/d2a/class_buffer.html#a7ffa27adcef46ff238c613ac106bbe19", null ],
-    [ "get_int_val", "d5/d2a/class_buffer.html#ac4699909f6e33d67f9123cfbf66445e5", null ],
+    [ "int_val", "d5/d2a/class_buffer.html#aa4d04c772299f0c35bce03dbbf94acc2", null ],
     [ "get_machine_name", "d5/d2a/class_buffer.html#a7968ebe52bc84161330cc8949d8d1dca", null ],
     [ "hashcode", "d5/d2a/class_buffer.html#aea2651ce2fafc718e760724d0714ad8c", null ],
     [ "head", "d5/d2a/class_buffer.html#a00b02cdc757de2a1c12038a6d87d66c7", null ],

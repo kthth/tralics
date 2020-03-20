@@ -1,8 +1,8 @@
 var txio_8h =
 [
     [ "Converter", "db/d92/class_converter.html", "db/d92/class_converter" ],
-    [ "Clines", "da/dc9/class_clines.html", "da/dc9/class_clines" ],
-    [ "LinePtr", "d0/dbb/class_line_ptr.html", "d0/dbb/class_line_ptr" ],
+    [ "Clines", "dd/d7d/struct_clines.html", "dd/d7d/struct_clines" ],
+    [ "LinePtr", "d6/d5a/struct_line_ptr.html", "d6/d5a/struct_line_ptr" ],
     [ "InputStack", "dc/dae/class_input_stack.html", "dc/dae/class_input_stack" ],
     [ "FileForInput", "dd/d5a/class_file_for_input.html", "dd/d5a/class_file_for_input" ],
     [ "TexOutStream", "de/dcf/class_tex_out_stream.html", "de/dcf/class_tex_out_stream" ],

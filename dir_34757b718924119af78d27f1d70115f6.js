@@ -11,5 +11,6 @@ var dir_34757b718924119af78d27f1d70115f6 =
     [ "Istring.h", "d5/daf/_istring_8h.html", "d5/daf/_istring_8h" ],
     [ "MainClass.h", "d4/de9/_main_class_8h.html", "d4/de9/_main_class_8h" ],
     [ "Token.h", "dd/dcd/_token_8h.html", "dd/dcd/_token_8h" ],
-    [ "types.h", "d9/d49/types_8h.html", "d9/d49/types_8h" ]
+    [ "types.h", "d9/d49/types_8h.html", "d9/d49/types_8h" ],
+    [ "Xml.h", "d9/d1c/_xml_8h.html", "d9/d1c/_xml_8h" ]
 ];

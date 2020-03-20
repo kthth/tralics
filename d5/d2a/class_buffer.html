@@ -163,7 +163,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a940f84e2d2e92a6daed3378786e6fb2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9b871f9da06a9fff82441809c672ae9f"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a9b871f9da06a9fff82441809c672ae9f">after_after_uhead</a> () const -&gt; char</td></tr>
 <tr class="separator:a9b871f9da06a9fff82441809c672ae9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5171d02806ae6cf21eaf0d4eb5d3a762"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a5171d02806ae6cf21eaf0d4eb5d3a762">append_checked_line</a> (<a class="el" href="../../d0/dbb/class_line_ptr.html">LinePtr</a> &amp;) -&gt; int</td></tr>
+<tr class="memitem:a5171d02806ae6cf21eaf0d4eb5d3a762"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a5171d02806ae6cf21eaf0d4eb5d3a762">append_checked_line</a> (<a class="el" href="../../d6/d5a/struct_line_ptr.html">LinePtr</a> &amp;) -&gt; int</td></tr>
 <tr class="separator:a5171d02806ae6cf21eaf0d4eb5d3a762"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4351ca100b0b159e72057725cb00c8bb"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a4351ca100b0b159e72057725cb00c8bb">at_eol</a> () const -&gt; bool</td></tr>
 <tr class="separator:a4351ca100b0b159e72057725cb00c8bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -273,8 +273,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ad777835fa21a71b6d8c4be5b9647a586"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7ffa27adcef46ff238c613ac106bbe19"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a7ffa27adcef46ff238c613ac106bbe19">full_brace_match</a> () -&gt; bool</td></tr>
 <tr class="separator:a7ffa27adcef46ff238c613ac106bbe19"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac4699909f6e33d67f9123cfbf66445e5"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ac4699909f6e33d67f9123cfbf66445e5">get_int_val</a> () const -&gt; int</td></tr>
-<tr class="separator:ac4699909f6e33d67f9123cfbf66445e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4d04c772299f0c35bce03dbbf94acc2"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#aa4d04c772299f0c35bce03dbbf94acc2">int_val</a> () const -&gt; int</td></tr>
+<tr class="separator:aa4d04c772299f0c35bce03dbbf94acc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7968ebe52bc84161330cc8949d8d1dca"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a7968ebe52bc84161330cc8949d8d1dca">get_machine_name</a> () -&gt; std::string</td></tr>
 <tr class="separator:a7968ebe52bc84161330cc8949d8d1dca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aea2651ce2fafc718e760724d0714ad8c"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#aea2651ce2fafc718e760724d0714ad8c">hashcode</a> (size_t prime) const -&gt; size_t</td></tr>
@@ -664,7 +664,7 @@ Private Member Functions</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>a big structure </p>
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000012">Todo:</a></b></dt><dd>This is kind of a messy class, would be better off using <code>std::string</code> as much as possible but we can't because of all the zero-char manipulations.</dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000018">Todo:</a></b></dt><dd>This is kind of a messy class, would be better off using <code>std::string</code> as much as possible but we can't because of all the zero-char manipulations.</dd></dl>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="ae7ef2cd201190fde551dcb902627112b"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae7ef2cd201190fde551dcb902627112b">&#9670;&nbsp;</a></span>Buffer()</h2>
@@ -1237,7 +1237,7 @@ Private Member Functions</h2></td></tr>
         <tr>
           <td class="memname">auto Buffer::append_checked_line </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dbb/class_line_ptr.html">LinePtr</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d6/d5a/struct_line_ptr.html">LinePtr</a> &amp;&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td> -&gt;  int</td>
         </tr>
@@ -2413,14 +2413,14 @@ Private Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="ac4699909f6e33d67f9123cfbf66445e5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac4699909f6e33d67f9123cfbf66445e5">&#9670;&nbsp;</a></span>get_int_val()</h2>
+<a id="aa4d04c772299f0c35bce03dbbf94acc2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4d04c772299f0c35bce03dbbf94acc2">&#9670;&nbsp;</a></span>int_val()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">auto Buffer::get_int_val </td>
+          <td class="memname">auto Buffer::int_val </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const -&gt; int</td>

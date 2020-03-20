@@ -16,7 +16,7 @@ var hierarchy =
     [ "CitationItem", "dc/d0f/class_citation_item.html", null ],
     [ "CitationKey", "d1/d59/class_citation_key.html", null ],
     [ "ClassesData", "d4/dc0/class_classes_data.html", null ],
-    [ "Clines", "da/dc9/class_clines.html", null ],
+    [ "Clines", "dd/d7d/struct_clines.html", null ],
     [ "CmdChr", "de/d72/class_cmd_chr.html", [
       [ "Equivalent", "d9/dd2/struct_equivalent.html", null ]
     ] ],
@@ -49,7 +49,9 @@ var hierarchy =
     [ "KeyAndVal", "d9/de8/class_key_and_val.html", null ],
     [ "LabelInfo", "dc/df1/class_label_info.html", null ],
     [ "LatexPackage", "d5/dc4/class_latex_package.html", null ],
-    [ "LinePtr", "d0/dbb/class_line_ptr.html", null ],
+    [ "std::list< T >", null, [
+      [ "LinePtr", "d6/d5a/struct_line_ptr.html", null ]
+    ] ],
     [ "Logger", "d3/d42/class_logger.html", null ],
     [ "Macro", "d9/dbe/class_macro.html", null ],
     [ "Mactab", "d8/d75/class_mactab.html", null ],
@@ -120,6 +122,6 @@ var hierarchy =
     [ "XkvToken", "dd/d84/class_xkv_token.html", null ],
     [ "Xml", "d6/d9a/class_xml.html", null ],
     [ "XmlAction", "df/df6/class_xml_action.html", null ],
-    [ "XmlAndType", "d2/d24/class_xml_and_type.html", null ],
+    [ "XmlAndType", "d1/dec/struct_xml_and_type.html", null ],
     [ "XmlIO", "d3/dda/class_xml_i_o.html", null ]
 ];

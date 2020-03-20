@@ -18,7 +18,7 @@ var annotated_dup =
     [ "CitationItem", "dc/d0f/class_citation_item.html", "dc/d0f/class_citation_item" ],
     [ "CitationKey", "d1/d59/class_citation_key.html", "d1/d59/class_citation_key" ],
     [ "ClassesData", "d4/dc0/class_classes_data.html", "d4/dc0/class_classes_data" ],
-    [ "Clines", "da/dc9/class_clines.html", "da/dc9/class_clines" ],
+    [ "Clines", "dd/d7d/struct_clines.html", "dd/d7d/struct_clines" ],
     [ "CmdChr", "de/d72/class_cmd_chr.html", "de/d72/class_cmd_chr" ],
     [ "codepoint", "d6/d10/structcodepoint.html", "d6/d10/structcodepoint" ],
     [ "ColSpec", "d8/d2e/class_col_spec.html", "d8/d2e/class_col_spec" ],
@@ -49,7 +49,7 @@ var annotated_dup =
     [ "KeyAndVal", "d9/de8/class_key_and_val.html", "d9/de8/class_key_and_val" ],
     [ "LabelInfo", "dc/df1/class_label_info.html", "dc/df1/class_label_info" ],
     [ "LatexPackage", "d5/dc4/class_latex_package.html", "d5/dc4/class_latex_package" ],
-    [ "LinePtr", "d0/dbb/class_line_ptr.html", "d0/dbb/class_line_ptr" ],
+    [ "LinePtr", "d6/d5a/struct_line_ptr.html", "d6/d5a/struct_line_ptr" ],
     [ "Logger", "d3/d42/class_logger.html", "d3/d42/class_logger" ],
     [ "Macro", "d9/dbe/class_macro.html", "d9/dbe/class_macro" ],
     [ "Mactab", "d8/d75/class_mactab.html", "d8/d75/class_mactab" ],
@@ -115,6 +115,6 @@ var annotated_dup =
     [ "XkvToken", "dd/d84/class_xkv_token.html", "dd/d84/class_xkv_token" ],
     [ "Xml", "d6/d9a/class_xml.html", "d6/d9a/class_xml" ],
     [ "XmlAction", "df/df6/class_xml_action.html", "df/df6/class_xml_action" ],
-    [ "XmlAndType", "d2/d24/class_xml_and_type.html", "d2/d24/class_xml_and_type" ],
+    [ "XmlAndType", "d1/dec/struct_xml_and_type.html", "d1/dec/struct_xml_and_type" ],
     [ "XmlIO", "d3/dda/class_xml_i_o.html", "d3/dda/class_xml_i_o" ]
 ];

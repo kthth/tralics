@@ -141,6 +141,5 @@ var files_dup =
     [ "txtokenlist.h", "dc/d91/txtokenlist_8h.html", "dc/d91/txtokenlist_8h" ],
     [ "txtranslate.cpp", "dd/da4/txtranslate_8cpp.html", "dd/da4/txtranslate_8cpp" ],
     [ "txtrees.cpp", "d0/d93/txtrees_8cpp.html", "d0/d93/txtrees_8cpp" ],
-    [ "txtrees.h", "d0/dd4/txtrees_8h.html", "d0/dd4/txtrees_8h" ],
-    [ "txxml.h", "d1/d43/txxml_8h.html", "d1/d43/txxml_8h" ]
+    [ "txtrees.h", "d0/dd4/txtrees_8h.html", "d0/dd4/txtrees_8h" ]
 ];

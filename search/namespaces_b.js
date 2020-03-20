@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['stack_5fns_7563',['stack_ns',['../db/dfb/namespacestack__ns.html',1,'']]]
+  ['stack_5fns_7538',['stack_ns',['../db/dfb/namespacestack__ns.html',1,'']]]
 ];

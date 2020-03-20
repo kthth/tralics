@@ -95,33 +95,45 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../'); initResiz
 <div class="contents">
 <div class="textblock"><dl class="reflist">
 <dt>Namespace <a class="el" href="../../d8/d61/namespaceaccent__ns.html">accent_ns</a>  </dt>
-<dd><a class="anchor" id="_todo000011"></a>The first 256 characters of Unicode are identical to Latin-1. </dd>
+<dd><a class="anchor" id="_todo000017"></a>The first 256 characters of Unicode are identical to Latin-1. </dd>
 <dt>Member <a class="el" href="../../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#a43017869f312c4fa24022d91c54a0c3d">anonymous_namespace{MainClass.cpp}::try_conf</a>  (const std::string &amp;prefix) -&gt; bool</dt>
-<dd><a class="anchor" id="_todo000001"></a>std::filesystem  </dd>
+<dd><a class="anchor" id="_todo000002"></a>std::filesystem  </dd>
+<dt>Member <a class="el" href="../../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#a6f6bd518a59f20af3936f428c7b1a72c">anonymous_namespace{MainClass.cpp}::usage_and_quit</a>  (int v)</dt>
+<dd><a class="anchor" id="_todo000001"></a>Manage this centrally  </dd>
 <dt>Class <a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a>  </dt>
-<dd><a class="anchor" id="_todo000012"></a>This is kind of a messy class, would be better off using <code>std::string</code> as much as possible but we can't because of all the zero-char manipulations. </dd>
+<dd><a class="anchor" id="_todo000018"></a>This is kind of a messy class, would be better off using <code>std::string</code> as much as possible but we can't because of all the zero-char manipulations. </dd>
 <dt>Class <a class="el" href="../../d6/d10/structcodepoint.html">codepoint</a>  </dt>
-<dd><a class="anchor" id="_todo000002"></a>This might better just vanish (and we would use <code>char32_t</code> everywhere in the code) if there is a reasonable path to do that while keeping all the helper functions. </dd>
+<dd><a class="anchor" id="_todo000003"></a>This might better just vanish (and we would use <code>char32_t</code> everywhere in the code) if there is a reasonable path to do that while keeping all the helper functions. </dd>
+<dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#a48f2248313b1c23471ea9dc8517aa5f3">MainClass::bad_year</a>  ()</dt>
+<dd><a class="anchor" id="_todo000014"></a>this seems to be RA specific  </dd>
+<dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#a53a559b55a8d68ea49d8dd5a0633777c">MainClass::check_theme</a>  (const std::string &amp;s) -&gt; std::string</dt>
+<dd><a class="anchor" id="_todo000016"></a>RA specific?  </dd>
 <dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#a7641b18b9c2fadffddc2526df880fa4c">MainClass::distinguish_refer</a>  </dt>
-<dd><a class="anchor" id="_todo000007"></a>remove  </dd>
+<dd><a class="anchor" id="_todo000010"></a>remove  </dd>
 <dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#ae6e82f35ec2899b2eb87a48da2e08d75">MainClass::handling_ra</a>  </dt>
-<dd><a class="anchor" id="_todo000008"></a>remove all references to the RA  </dd>
+<dd><a class="anchor" id="_todo000011"></a>remove all references to the RA  </dd>
 <dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#a4918112542b4cf231c49c71f1687c82f">MainClass::input_encoding</a>  </dt>
-<dd><a class="anchor" id="_todo000004"></a>one type to rule all encodings  </dd>
+<dd><a class="anchor" id="_todo000007"></a>one type to rule all encodings  </dd>
 <dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#aaf894a5f6dc2e6fffd765b36f8e8e83c">MainClass::interactive_math</a>  </dt>
-<dd><a class="anchor" id="_todo000009"></a>get rid of interactive mode  </dd>
+<dd><a class="anchor" id="_todo000012"></a>get rid of interactive mode  </dd>
 <dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#a93ab7c1c93fa2423c1e5622ee7df9fc3">MainClass::log_encoding</a>  </dt>
-<dd><a class="anchor" id="_todo000005"></a>this should always be UTF-8  </dd>
+<dd><a class="anchor" id="_todo000008"></a>this should always be UTF-8  </dd>
 <dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#a897414976d22bd836294f3e4b8e44269">MainClass::MainClass</a>  ()</dt>
-<dd><a class="anchor" id="_todo000010"></a>should disappear  </dd>
+<dd><a class="anchor" id="_todo000013"></a>should disappear  </dd>
 <dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#a9595f48ecd866eb54455a4d884160b2e">MainClass::output_encoding</a>  </dt>
-<dd><a class="anchor" id="_todo000006"></a>this should always be UTF-8  </dd>
+<dd><a class="anchor" id="_todo000009"></a>this should always be UTF-8  </dd>
+<dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#ad5dc169489da8a0387b26cac4952ada1">MainClass::set_input_encoding</a>  (size_t wc)</dt>
+<dd><a class="anchor" id="_todo000015"></a>remove?  </dd>
+<dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#a0a85a7619c7d0e7235f50128a3d75c0a">MainClass::short_date</a>  </dt>
+<dd><a class="anchor" id="_todo000005"></a>short_date and start_date seem to be identical  </dd>
+<dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#af5775ff7aac0e49546cd0ecb3c291ced">MainClass::tcf_file</a>  </dt>
+<dd><a class="anchor" id="_todo000004"></a>std::optional&lt;std::string&gt; instead of use_tcf?  </dd>
 <dt>Member <a class="el" href="../../d5/d5e/class_main_class.html#a6efda486353678962145cf20c7a410a2">MainClass::version</a>  </dt>
-<dd><a class="anchor" id="_todo000003"></a>set at a more reasonable place  </dd>
+<dd><a class="anchor" id="_todo000006"></a>set at a more reasonable place  </dd>
 <dt>Member <a class="el" href="../../d1/df4/struct_tex_fonts.html#a886324ef1bc64f33b25ce6a952f9c38a">TexFonts::define_a_new_font</a>  (const std::string &amp;n, long a, long s) -&gt; size_t</dt>
-<dd><a class="anchor" id="_todo000013"></a>Perhaps remove this artificial limitation  </dd>
+<dd><a class="anchor" id="_todo000019"></a>Perhaps remove this artificial limitation  </dd>
 <dt>Member <a class="el" href="../../d1/df4/struct_tex_fonts.html#a75a53880b04fecf4649dcd7fd568f746">TexFonts::is_valid</a>  (long k) -&gt; bool</dt>
-<dd><a class="anchor" id="_todo000014"></a>Replace that with size_t or std::optional&lt;size_t&gt; </dd>
+<dd><a class="anchor" id="_todo000020"></a>Replace that with size_t or std::optional&lt;size_t&gt; </dd>
 </dl>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->

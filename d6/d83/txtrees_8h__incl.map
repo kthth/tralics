@@ -1,5 +1,7 @@
 <map id="txtrees.h" name="txtrees.h">
-<area shape="rect" id="node1" title=" " alt="" coords="51,5,124,31"/>
+<area shape="rect" id="node1" title=" " alt="" coords="135,5,208,31"/>
 <area shape="rect" id="node2" title=" " alt="" coords="5,79,82,104"/>
-<area shape="rect" id="node3" title=" " alt="" coords="106,79,157,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="106,79,160,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="184,79,236,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="260,79,318,104"/>
 </map>
