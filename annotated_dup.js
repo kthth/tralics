@@ -1,7 +1,7 @@
 var annotated_dup =
 [
     [ "anonymous_namespace{txbib.cpp}", "df/d8b/namespaceanonymous__namespace_02txbib_8cpp_03.html", "df/d8b/namespaceanonymous__namespace_02txbib_8cpp_03" ],
-    [ "AllIndex", "d7/d39/class_all_index.html", "d7/d39/class_all_index" ],
+    [ "AllIndex", "d5/dc6/struct_all_index.html", "d5/dc6/struct_all_index" ],
     [ "ArrayInfo", "d8/dc7/class_array_info.html", "d8/dc7/class_array_info" ],
     [ "AttList", "d5/d61/class_att_list.html", "d5/d61/class_att_list" ],
     [ "AttPair", "d6/d34/struct_att_pair.html", "d6/d34/struct_att_pair" ],
@@ -16,7 +16,7 @@ var annotated_dup =
     [ "BibtexName", "de/d3a/class_bibtex_name.html", "de/d3a/class_bibtex_name" ],
     [ "Buffer", "d5/d2a/class_buffer.html", "d5/d2a/class_buffer" ],
     [ "CitationItem", "dc/d0f/class_citation_item.html", "dc/d0f/class_citation_item" ],
-    [ "CitationKey", "d1/d59/class_citation_key.html", "d1/d59/class_citation_key" ],
+    [ "CitationKey", "d0/dfc/struct_citation_key.html", "d0/dfc/struct_citation_key" ],
     [ "ClassesData", "d4/dc0/class_classes_data.html", "d4/dc0/class_classes_data" ],
     [ "Clines", "dd/d7d/struct_clines.html", "dd/d7d/struct_clines" ],
     [ "CmdChr", "de/d72/class_cmd_chr.html", "de/d72/class_cmd_chr" ],
@@ -43,7 +43,7 @@ var annotated_dup =
     [ "Image", "de/d73/class_image.html", "de/d73/class_image" ],
     [ "Indexer", "d6/d1f/class_indexer.html", "d6/d1f/class_indexer" ],
     [ "InLoadHandler", "dc/d7e/class_in_load_handler.html", "dc/d7e/class_in_load_handler" ],
-    [ "InputStack", "dc/dae/class_input_stack.html", "dc/dae/class_input_stack" ],
+    [ "InputStack", "d0/d3a/struct_input_stack.html", "d0/d3a/struct_input_stack" ],
     [ "InUrlHandler", "d5/deb/class_in_url_handler.html", "d5/deb/class_in_url_handler" ],
     [ "Istring", "d9/d20/struct_istring.html", "d9/d20/struct_istring" ],
     [ "KeyAndVal", "d9/de8/class_key_and_val.html", "d9/de8/class_key_and_val" ],

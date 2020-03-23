@@ -3,7 +3,7 @@ var txio_8h =
     [ "Converter", "db/d92/class_converter.html", "db/d92/class_converter" ],
     [ "Clines", "dd/d7d/struct_clines.html", "dd/d7d/struct_clines" ],
     [ "LinePtr", "d6/d5a/struct_line_ptr.html", "d6/d5a/struct_line_ptr" ],
-    [ "InputStack", "dc/dae/class_input_stack.html", "dc/dae/class_input_stack" ],
+    [ "InputStack", "d0/d3a/struct_input_stack.html", "d0/d3a/struct_input_stack" ],
     [ "FileForInput", "dd/d5a/class_file_for_input.html", "dd/d5a/class_file_for_input" ],
     [ "TexOutStream", "de/dcf/class_tex_out_stream.html", "de/dcf/class_tex_out_stream" ],
     [ "line_iterator_const", "de/d29/txio_8h.html#aa0cf4e1b9fb919693d7c45feb5748739", null ],

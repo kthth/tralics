@@ -1,6 +1,5 @@
 var hierarchy =
 [
-    [ "AllIndex", "d7/d39/class_all_index.html", null ],
     [ "ArrayInfo", "d8/dc7/class_array_info.html", null ],
     [ "AttList", "d5/d61/class_att_list.html", null ],
     [ "AttPair", "d6/d34/struct_att_pair.html", null ],
@@ -14,7 +13,7 @@ var hierarchy =
     [ "Bibtex", "d0/de2/class_bibtex.html", null ],
     [ "BibtexName", "de/d3a/class_bibtex_name.html", null ],
     [ "CitationItem", "dc/d0f/class_citation_item.html", null ],
-    [ "CitationKey", "d1/d59/class_citation_key.html", null ],
+    [ "CitationKey", "d0/dfc/struct_citation_key.html", null ],
     [ "ClassesData", "d4/dc0/class_classes_data.html", null ],
     [ "Clines", "dd/d7d/struct_clines.html", null ],
     [ "CmdChr", "de/d72/class_cmd_chr.html", [
@@ -43,7 +42,7 @@ var hierarchy =
     [ "Image", "de/d73/class_image.html", null ],
     [ "Indexer", "d6/d1f/class_indexer.html", null ],
     [ "InLoadHandler", "dc/d7e/class_in_load_handler.html", null ],
-    [ "InputStack", "dc/dae/class_input_stack.html", null ],
+    [ "InputStack", "d0/d3a/struct_input_stack.html", null ],
     [ "InUrlHandler", "d5/deb/class_in_url_handler.html", null ],
     [ "Istring", "d9/d20/struct_istring.html", null ],
     [ "KeyAndVal", "d9/de8/class_key_and_val.html", null ],
@@ -113,6 +112,7 @@ var hierarchy =
     [ "Token", "d9/d27/struct_token.html", null ],
     [ "TpiOneItem", "d9/dcc/class_tpi_one_item.html", null ],
     [ "std::vector< T >", null, [
+      [ "AllIndex", "d5/dc6/struct_all_index.html", null ],
       [ "Buffer", "d5/d2a/class_buffer.html", null ],
       [ "TexFonts", "d1/df4/struct_tex_fonts.html", null ]
     ] ],

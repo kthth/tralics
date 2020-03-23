@@ -20,7 +20,7 @@ var files_dup =
     [ "txaux.cpp", "d1/daa/txaux_8cpp.html", "d1/daa/txaux_8cpp" ],
     [ "txbib.cpp", "d1/ddd/txbib_8cpp.html", "d1/ddd/txbib_8cpp" ],
     [ "txbib.h", "d6/dcb/txbib_8h.html", [
-      [ "CitationKey", "d1/d59/class_citation_key.html", "d1/d59/class_citation_key" ],
+      [ "CitationKey", "d0/dfc/struct_citation_key.html", "d0/dfc/struct_citation_key" ],
       [ "CitationItem", "dc/d0f/class_citation_item.html", "dc/d0f/class_citation_item" ],
       [ "Bibliography", "dd/da8/class_bibliography.html", "dd/da8/class_bibliography" ],
       [ "BibMacro", "dc/d61/class_bib_macro.html", "dc/d61/class_bib_macro" ],

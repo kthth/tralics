@@ -11,7 +11,6 @@ var class_att_list =
     [ "push_back", "d5/d61/class_att_list.html#acb2b5b9e8706bf2363fe75a478e1e37c", null ],
     [ "has_value", "d5/d61/class_att_list.html#a2cf7114e5a2257a8e2ac31a39a2aed24", null ],
     [ "delete_att", "d5/d61/class_att_list.html#a57d4f9837f16d9e5383485a5a1c5078d", null ],
-    [ "destroy", "d5/d61/class_att_list.html#a5b160ccc131a5842bd4834e147fc5914", null ],
     [ "print", "d5/d61/class_att_list.html#a23269935f281117b07c366d705b5ae5f", null ],
     [ "val", "d5/d61/class_att_list.html#abd8d6f9870f52cea6efc365ea55f3a04", null ]
 ];

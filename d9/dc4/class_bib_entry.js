@@ -1,11 +1,9 @@
 var class_bib_entry =
 [
     [ "BibEntry", "d9/dc4/class_bib_entry.html#aaac99fa9ac38e515d95e1e7d66095980", null ],
-    [ "Sort_label", "d9/dc4/class_bib_entry.html#a9113a580fb64df1aeb288307f9b75f85", null ],
     [ "from_to_string", "d9/dc4/class_bib_entry.html#a1ba51e55896f24ff55026e07636b7953", null ],
     [ "ra_prefix", "d9/dc4/class_bib_entry.html#a8a17412634270e08e5e7abd5c0841613", null ],
-    [ "get_from", "d9/dc4/class_bib_entry.html#aedee2a67bb8420997b85b62207fcd45e", null ],
-    [ "get_name", "d9/dc4/class_bib_entry.html#aca7a230d5b96ffcc860fca6c6c49f110", null ],
+    [ "get_cite_prefix", "d9/dc4/class_bib_entry.html#a97de652a5c90daa26aa987190e64b73d", null ],
     [ "find_cnrs_type", "d9/dc4/class_bib_entry.html#a77e5bcfb58549b34d90ad4276c22ff28", null ],
     [ "output_bibitem", "d9/dc4/class_bib_entry.html#ab84ae50db41e4ae774130b449805c6ce", null ],
     [ "out_something", "d9/dc4/class_bib_entry.html#a5075d89f71691bc9ff547b88ade0a9dc", null ],
@@ -52,9 +50,6 @@ var class_bib_entry =
     [ "all_fields", "d9/dc4/class_bib_entry.html#ab1546560c2b9e1783cc9dc359925908a", null ],
     [ "author_data", "d9/dc4/class_bib_entry.html#a5c8c21c0545ceceb0c2f5ce1560709ba", null ],
     [ "editor_data", "d9/dc4/class_bib_entry.html#ac836cefe86b67dd16dc1553492e75b6a", null ],
-    [ "label", "d9/dc4/class_bib_entry.html#a4827159a6541f523ed26915d10d9a682", null ],
-    [ "sort_label", "d9/dc4/class_bib_entry.html#ac28cb09a5a72b97e36b6db445c609263", null ],
-    [ "aux_label", "d9/dc4/class_bib_entry.html#a3a73a2d668a647c71f782d741980fcd5", null ],
     [ "extra_num", "d9/dc4/class_bib_entry.html#ade91a3b20855457adfa2426af0954600", null ],
     [ "cur_year", "d9/dc4/class_bib_entry.html#a2fae55e3ccf0d93feab72ba30f401f11", null ],
     [ "lab1", "d9/dc4/class_bib_entry.html#a7e0450f74150378a850067b8b1fd1bc4", null ],
@@ -67,5 +62,8 @@ var class_bib_entry =
     [ "first_line", "d9/dc4/class_bib_entry.html#a92821d61fb6cea2671449851143bc693", null ],
     [ "user_fields", "d9/dc4/class_bib_entry.html#a691e66f8e276621b9e61cffad4a7779a", null ],
     [ "is_extension", "d9/dc4/class_bib_entry.html#ab0b97530f7c466e2d7175781467c4141", null ],
+    [ "label", "d9/dc4/class_bib_entry.html#a4827159a6541f523ed26915d10d9a682", null ],
+    [ "sort_label", "d9/dc4/class_bib_entry.html#ac28cb09a5a72b97e36b6db445c609263", null ],
+    [ "aux_label", "d9/dc4/class_bib_entry.html#a3a73a2d668a647c71f782d741980fcd5", null ],
     [ "unique_id", "d9/dc4/class_bib_entry.html#a3929b0580f361bdf65b74191175a121f", null ]
 ];
