@@ -7,7 +7,7 @@ var txio_8cpp =
     [ "plural", "d0/d1f/txio_8cpp.html#abd0126c954d0cdcc1453377836652f98", null ],
     [ "set_enc_param", "d0/d1f/txio_8cpp.html#a5879b2fec749ee82dc6c7fd057a94e8d", null ],
     [ "get_enc_param", "d0/d1f/txio_8cpp.html#a2a21d6f1577e34273a64930a04ef45fa", null ],
-    [ "find_encoding", "d0/d1f/txio_8cpp.html#a60d4c4b3d316e2f234ab889687529442", null ],
+    [ "find_encoding", "d0/d1f/txio_8cpp.html#a266a5fac37f1387f6aa896dbc02e7ccd", null ],
     [ "operator<<", "d0/d1f/txio_8cpp.html#a077b6b7ffa0b121d56586d6e765ba9b0", null ],
     [ "operator<<", "d0/d1f/txio_8cpp.html#a2e261be77279ac2f835942c2aa5ff751", null ],
     [ "operator<<", "d0/d1f/txio_8cpp.html#a205c9a022d4b7e6e716242d5af380c35", null ],

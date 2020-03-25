@@ -103,7 +103,7 @@ $(document).ready(function(){initNavTree('d5/d2a/class_buffer.html','../../'); i
 <p>a big structure  
  <a href="../../d5/d2a/class_buffer.html#details">More...</a></p>
 
-<p><code>#include &lt;<a class="el" href="../../dd/d74/txbuffer_8h_source.html">txbuffer.h</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="../../d7/d1b/_buffer_8h_source.html">Buffer.h</a>&gt;</code></p>
 <div class="dynheader">
 Inheritance diagram for Buffer:</div>
 <div class="dyncontent">
@@ -119,48 +119,56 @@ Collaboration diagram for Buffer:</div>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:ae7ef2cd201190fde551dcb902627112b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ae7ef2cd201190fde551dcb902627112b">Buffer</a> ()</td></tr>
 <tr class="separator:ae7ef2cd201190fde551dcb902627112b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2330332dfd3d5ace2d22f25b0f2c081"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#aa2330332dfd3d5ace2d22f25b0f2c081">add_with_space</a> (const std::string &amp;s) -&gt; std::string</td></tr>
+<tr class="memdesc:aa2330332dfd3d5ace2d22f25b0f2c081"><td class="mdescLeft">&#160;</td><td class="mdescRight">Weird RA stuff.  <a href="../../d5/d2a/class_buffer.html#aa2330332dfd3d5ace2d22f25b0f2c081">More...</a><br /></td></tr>
+<tr class="separator:aa2330332dfd3d5ace2d22f25b0f2c081"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f2732bff2204dd34931ff6c9cd19132"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a9f2732bff2204dd34931ff6c9cd19132">backup_space</a> () -&gt; bool</td></tr>
+<tr class="memdesc:a9f2732bff2204dd34931ff6c9cd19132"><td class="mdescLeft">&#160;</td><td class="mdescRight">Remove trailing spaces.  <a href="../../d5/d2a/class_buffer.html#a9f2732bff2204dd34931ff6c9cd19132">More...</a><br /></td></tr>
+<tr class="separator:a9f2732bff2204dd34931ff6c9cd19132"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e219e781634918bdbc99240d12194fc"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a7e219e781634918bdbc99240d12194fc">contains</a> (const std::string &amp;s) const -&gt; bool</td></tr>
+<tr class="memdesc:a7e219e781634918bdbc99240d12194fc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Does the buffer has s as a substring?  <a href="../../d5/d2a/class_buffer.html#a7e219e781634918bdbc99240d12194fc">More...</a><br /></td></tr>
+<tr class="separator:a7e219e781634918bdbc99240d12194fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93b4233621370638471626895bc801af"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a93b4233621370638471626895bc801af">contains_braced</a> (const std::string &amp;s) -&gt; bool</td></tr>
+<tr class="memdesc:a93b4233621370638471626895bc801af"><td class="mdescLeft">&#160;</td><td class="mdescRight">Do we contain s with braces? (sets ptr after <code>}</code>)  <a href="../../d5/d2a/class_buffer.html#a93b4233621370638471626895bc801af">More...</a><br /></td></tr>
+<tr class="separator:a93b4233621370638471626895bc801af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b119ea6ad84423ee31cc1650e326676"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a1b119ea6ad84423ee31cc1650e326676">contains_env</a> (const std::string &amp;env) -&gt; bool</td></tr>
+<tr class="memdesc:a1b119ea6ad84423ee31cc1650e326676"><td class="mdescLeft">&#160;</td><td class="mdescRight">Do we contain <code>\end{env}</code>?  <a href="../../d5/d2a/class_buffer.html#a1b119ea6ad84423ee31cc1650e326676">More...</a><br /></td></tr>
+<tr class="separator:a1b119ea6ad84423ee31cc1650e326676"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83a1f39687fbe70233995a8a97b1daf9"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a83a1f39687fbe70233995a8a97b1daf9">convert_line0</a> (size_t wc) -&gt; bool</td></tr>
+<tr class="memdesc:a83a1f39687fbe70233995a8a97b1daf9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert to UTF8 into utf8_out.  <a href="../../d5/d2a/class_buffer.html#a83a1f39687fbe70233995a8a97b1daf9">More...</a><br /></td></tr>
+<tr class="separator:a83a1f39687fbe70233995a8a97b1daf9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abcfd350dff918a44d5472da85505dfcc"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#abcfd350dff918a44d5472da85505dfcc">convert_to_str</a> () const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
 <tr class="memdesc:abcfd350dff918a44d5472da85505dfcc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Make a copy of the contents as a new char*.  <a href="../../d5/d2a/class_buffer.html#abcfd350dff918a44d5472da85505dfcc">More...</a><br /></td></tr>
 <tr class="separator:abcfd350dff918a44d5472da85505dfcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad1ac55c720ff058fd9e463c8282ec0bd"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ad1ac55c720ff058fd9e463c8282ec0bd">convert_to_latin1</a> (bool nonascii) const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
+<tr class="memdesc:ad1ac55c720ff058fd9e463c8282ec0bd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert to latin 1 or ASCII.  <a href="../../d5/d2a/class_buffer.html#ad1ac55c720ff058fd9e463c8282ec0bd">More...</a><br /></td></tr>
+<tr class="separator:ad1ac55c720ff058fd9e463c8282ec0bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee50fe20b6a6f11a2fcf602a3376930e"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#aee50fe20b6a6f11a2fcf602a3376930e">convert_to_log_encoding</a> () const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
+<tr class="memdesc:aee50fe20b6a6f11a2fcf602a3376930e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert to logging encoding.  <a href="../../d5/d2a/class_buffer.html#aee50fe20b6a6f11a2fcf602a3376930e">More...</a><br /></td></tr>
+<tr class="separator:aee50fe20b6a6f11a2fcf602a3376930e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a647c6bad5a73bc282e82349351549316"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a647c6bad5a73bc282e82349351549316">convert_to_out_encoding</a> () const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
+<tr class="memdesc:a647c6bad5a73bc282e82349351549316"><td class="mdescLeft">&#160;</td><td class="mdescRight">Make a fresh copy with output encoding.  <a href="../../d5/d2a/class_buffer.html#a647c6bad5a73bc282e82349351549316">More...</a><br /></td></tr>
+<tr class="separator:a647c6bad5a73bc282e82349351549316"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aea2651ce2fafc718e760724d0714ad8c"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#aea2651ce2fafc718e760724d0714ad8c">hashcode</a> (size_t prime) const -&gt; size_t</td></tr>
 <tr class="memdesc:aea2651ce2fafc718e760724d0714ad8c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Hash code of the string in the buffer.  <a href="../../d5/d2a/class_buffer.html#aea2651ce2fafc718e760724d0714ad8c">More...</a><br /></td></tr>
 <tr class="separator:aea2651ce2fafc718e760724d0714ad8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a59ff3ea525c66da6092a652c0f10ac0d"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a59ff3ea525c66da6092a652c0f10ac0d">int_val</a> () const -&gt; std::optional&lt; size_t &gt;</td></tr>
 <tr class="memdesc:a59ff3ea525c66da6092a652c0f10ac0d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Try to parse the contents as an integer.  <a href="../../d5/d2a/class_buffer.html#a59ff3ea525c66da6092a652c0f10ac0d">More...</a><br /></td></tr>
 <tr class="separator:a59ff3ea525c66da6092a652c0f10ac0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4520915f6085b04567c171704b45b43"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ac4520915f6085b04567c171704b45b43">substring</a> () const -&gt; std::string</td></tr>
+<tr class="memdesc:ac4520915f6085b04567c171704b45b43"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the slice [ptr1,ptr)  <a href="../../d5/d2a/class_buffer.html#ac4520915f6085b04567c171704b45b43">More...</a><br /></td></tr>
+<tr class="separator:ac4520915f6085b04567c171704b45b43"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae70798c01579afc57446b4c5a7aa9002"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ae70798c01579afc57446b4c5a7aa9002">to_string</a> (size_t k=0) const -&gt; std::string</td></tr>
 <tr class="memdesc:ae70798c01579afc57446b4c5a7aa9002"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../d5/d2a/class_buffer.html" title="a big structure">Buffer</a> contents as a std::string.  <a href="../../d5/d2a/class_buffer.html#ae70798c01579afc57446b4c5a7aa9002">More...</a><br /></td></tr>
 <tr class="separator:ae70798c01579afc57446b4c5a7aa9002"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8ac6bdc2dc9dc175e44897424d7932b6"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a8ac6bdc2dc9dc175e44897424d7932b6">add_with_space</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> s) -&gt; std::string</td></tr>
-<tr class="memdesc:a8ac6bdc2dc9dc175e44897424d7932b6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Weird RA stuff.  <a href="../../d5/d2a/class_buffer.html#a8ac6bdc2dc9dc175e44897424d7932b6">More...</a><br /></td></tr>
-<tr class="separator:a8ac6bdc2dc9dc175e44897424d7932b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9d05ecc166e6f418377b14645a0109f6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a9d05ecc166e6f418377b14645a0109f6">alloc</a> (size_t n)</td></tr>
 <tr class="memdesc:a9d05ecc166e6f418377b14645a0109f6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ensure that there is space for n+1 slots beyond wptr.  <a href="../../d5/d2a/class_buffer.html#a9d05ecc166e6f418377b14645a0109f6">More...</a><br /></td></tr>
 <tr class="separator:a9d05ecc166e6f418377b14645a0109f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9f2732bff2204dd34931ff6c9cd19132"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a9f2732bff2204dd34931ff6c9cd19132">backup_space</a> () -&gt; bool</td></tr>
-<tr class="memdesc:a9f2732bff2204dd34931ff6c9cd19132"><td class="mdescLeft">&#160;</td><td class="mdescRight">Remove trailing spaces.  <a href="../../d5/d2a/class_buffer.html#a9f2732bff2204dd34931ff6c9cd19132">More...</a><br /></td></tr>
-<tr class="separator:a9f2732bff2204dd34931ff6c9cd19132"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89dfa35d9d48d2a3f747ff56c245bc69"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a89dfa35d9d48d2a3f747ff56c245bc69">contains</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> s) const -&gt; bool</td></tr>
-<tr class="separator:a89dfa35d9d48d2a3f747ff56c245bc69"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a546c42e2dfed7a2b2cf85af4d1db78ea"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a546c42e2dfed7a2b2cf85af4d1db78ea">contains_braced</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> s) -&gt; bool</td></tr>
-<tr class="separator:a546c42e2dfed7a2b2cf85af4d1db78ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa042f09263ad86d961b64f814613b618"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#aa042f09263ad86d961b64f814613b618">contains_env</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> env) -&gt; bool</td></tr>
-<tr class="separator:aa042f09263ad86d961b64f814613b618"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af830c7e00f9c53174b90b425b12f7374"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#af830c7e00f9c53174b90b425b12f7374">contains_here</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> s) const -&gt; bool</td></tr>
-<tr class="separator:af830c7e00f9c53174b90b425b12f7374"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac8fe468151b20c3d5ed6b78c25211455"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ac8fe468151b20c3d5ed6b78c25211455">convert_to_out_encoding</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> a) const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
-<tr class="separator:ac8fe468151b20c3d5ed6b78c25211455"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aee50fe20b6a6f11a2fcf602a3376930e"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#aee50fe20b6a6f11a2fcf602a3376930e">convert_to_log_encoding</a> () const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
-<tr class="separator:aee50fe20b6a6f11a2fcf602a3376930e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad1ac55c720ff058fd9e463c8282ec0bd"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ad1ac55c720ff058fd9e463c8282ec0bd">convert_to_latin1</a> (bool nonascii) const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
-<tr class="separator:ad1ac55c720ff058fd9e463c8282ec0bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a83a1f39687fbe70233995a8a97b1daf9"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a83a1f39687fbe70233995a8a97b1daf9">convert_line0</a> (size_t wc) -&gt; bool</td></tr>
-<tr class="separator:a83a1f39687fbe70233995a8a97b1daf9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a19fc7200a4df27e2146a2e9c0ff39074"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a19fc7200a4df27e2146a2e9c0ff39074">convert_line</a> (int l, size_t wc)</td></tr>
+<tr class="memdesc:a19fc7200a4df27e2146a2e9c0ff39074"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert a line to UTF8.  <a href="../../d5/d2a/class_buffer.html#a19fc7200a4df27e2146a2e9c0ff39074">More...</a><br /></td></tr>
 <tr class="separator:a19fc7200a4df27e2146a2e9c0ff39074"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8743a9fdf90088c1c41f91089c5c6905"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a8743a9fdf90088c1c41f91089c5c6905">copy</a> (const <a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;B)</td></tr>
-<tr class="separator:a8743a9fdf90088c1c41f91089c5c6905"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a711a39d47acb51ad3ce657d66cc5485f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a711a39d47acb51ad3ce657d66cc5485f">dump_prefix</a> (bool err, bool gbl, <a class="el" href="../../d0/d0b/enums_8h.html#ad9fa722fa2849c703424c4eea93f2ee7">symcodes</a> K)</td></tr>
+<tr class="memdesc:a711a39d47acb51ad3ce657d66cc5485f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Insert def qualifiers (<code>\global</code> etc.)  <a href="../../d5/d2a/class_buffer.html#a711a39d47acb51ad3ce657d66cc5485f">More...</a><br /></td></tr>
 <tr class="separator:a711a39d47acb51ad3ce657d66cc5485f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af65c2af247534f5aeb2cf215b1d57bef"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#af65c2af247534f5aeb2cf215b1d57bef">extract_dtd</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> a, std::string &amp;b, std::string &amp;c)</td></tr>
 <tr class="separator:af65c2af247534f5aeb2cf215b1d57bef"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -219,8 +227,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a0f57518be335e28850a015d9c35f8904"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a228ce322aff45879e82a1a713ac01f9a"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a228ce322aff45879e82a1a713ac01f9a">is_and</a> (size_t k) const -&gt; bool</td></tr>
 <tr class="separator:a228ce322aff45879e82a1a713ac01f9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8fa476b540d36b617786d9886cc8cdc1"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a8fa476b540d36b617786d9886cc8cdc1">is_begin_end</a> () const -&gt; int</td></tr>
-<tr class="separator:a8fa476b540d36b617786d9886cc8cdc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a479457fb3f0794c877c392bcb57622e7"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a479457fb3f0794c877c392bcb57622e7">is_begin_end</a> () -&gt; int</td></tr>
+<tr class="separator:a479457fb3f0794c877c392bcb57622e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae50cfd3fe8622eab74d56e8d89acaf05"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ae50cfd3fe8622eab74d56e8d89acaf05">is_begin_something</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> s) -&gt; int</td></tr>
 <tr class="separator:ae50cfd3fe8622eab74d56e8d89acaf05"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a29a3a2050359c8f333bc04c9c535ed84"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a29a3a2050359c8f333bc04c9c535ed84">is_equal</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> x) const -&gt; bool</td></tr>
@@ -357,8 +365,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:abf5bf1e3c392c9bd04843a9965000328"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a31d14b960bb13dff1a277f34a4a5ae26"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a31d14b960bb13dff1a277f34a4a5ae26">push_back_Roman</a> (long n)</td></tr>
 <tr class="separator:a31d14b960bb13dff1a277f34a4a5ae26"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a61e0d6c674c6fd0b0031297fd5a0d711"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a61e0d6c674c6fd0b0031297fd5a0d711">push_back_space</a> ()</td></tr>
-<tr class="separator:a61e0d6c674c6fd0b0031297fd5a0d711"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1546ca0bf0d0c8acbf530ab594840da9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a1546ca0bf0d0c8acbf530ab594840da9">push_back_special_att</a> (<a class="el" href="../../de/d3f/class_xid.html">Xid</a> id)</td></tr>
 <tr class="separator:a1546ca0bf0d0c8acbf530ab594840da9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa3b6e57d5836aef8a0627c5730464e68"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#aa3b6e57d5836aef8a0627c5730464e68">push_back_special_string</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> s)</td></tr>
@@ -445,9 +451,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a6229c702a674829ca6383f5db41b6ae7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a121d19d7f25b24e5d82d2136d8c9bd47"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a121d19d7f25b24e5d82d2136d8c9bd47">string_delims</a> () -&gt; bool</td></tr>
 <tr class="separator:a121d19d7f25b24e5d82d2136d8c9bd47"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6300e2ced5326109f8f15b2f077ed5af"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a6300e2ced5326109f8f15b2f077ed5af">substring</a> () -&gt; std::string</td></tr>
-<tr class="memdesc:a6300e2ced5326109f8f15b2f077ed5af"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the slice [ptr1,ptr)  <a href="../../d5/d2a/class_buffer.html#a6300e2ced5326109f8f15b2f077ed5af">More...</a><br /></td></tr>
-<tr class="separator:a6300e2ced5326109f8f15b2f077ed5af"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5f827eba877541d8a131225a4fb30e9d"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a5f827eba877541d8a131225a4fb30e9d">convert_for_xml_err</a> (<a class="el" href="../../d9/d27/struct_token.html">Token</a> t) -&gt; <a class="el" href="../../d9/d20/struct_istring.html">Istring</a></td></tr>
 <tr class="separator:a5f827eba877541d8a131225a4fb30e9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4037a120af305cd735b6b734feffd99f"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a4037a120af305cd735b6b734feffd99f">tp_next_char</a> (char &amp;res) -&gt; bool</td></tr>
@@ -510,7 +513,7 @@ Private Member Functions</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>a big structure </p>
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000018">Todo:</a></b></dt><dd>This is kind of a messy class, would be better off using <code>std::string</code> as much as possible but we can't because of all the zero-char manipulations.</dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000003">Todo:</a></b></dt><dd>This is kind of a messy class, would be better off using <code>std::string</code> as much as possible but we can't because of all the zero-char manipulations.</dd></dl>
 <p>Or at least, replace wptr and vector::size() by just size() and capacity() from the vector. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="ae7ef2cd201190fde551dcb902627112b"></a>
@@ -539,6 +542,126 @@ Private Member Functions</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="aa2330332dfd3d5ace2d22f25b0f2c081"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2330332dfd3d5ace2d22f25b0f2c081">&#9670;&nbsp;</a></span>add_with_space()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Buffer::add_with_space </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>s</em></td><td>)</td>
+          <td> -&gt; std::string</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Weird RA stuff. </p>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000004">Todo:</a></b></dt><dd>remove </dd></dl>
+
+</div>
+</div>
+<a id="a9f2732bff2204dd34931ff6c9cd19132"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f2732bff2204dd34931ff6c9cd19132">&#9670;&nbsp;</a></span>backup_space()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Buffer::backup_space </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> -&gt; bool</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Remove trailing spaces. </p>
+
+</div>
+</div>
+<a id="a7e219e781634918bdbc99240d12194fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e219e781634918bdbc99240d12194fc">&#9670;&nbsp;</a></span>contains()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Buffer::contains </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>s</em></td><td>)</td>
+          <td> const -&gt; bool</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Does the buffer has s as a substring? </p>
+
+</div>
+</div>
+<a id="a93b4233621370638471626895bc801af"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93b4233621370638471626895bc801af">&#9670;&nbsp;</a></span>contains_braced()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Buffer::contains_braced </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>s</em></td><td>)</td>
+          <td> -&gt; bool</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Do we contain s with braces? (sets ptr after <code>}</code>) </p>
+
+</div>
+</div>
+<a id="a1b119ea6ad84423ee31cc1650e326676"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b119ea6ad84423ee31cc1650e326676">&#9670;&nbsp;</a></span>contains_env()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Buffer::contains_env </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>env</em></td><td>)</td>
+          <td> -&gt; bool</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Do we contain <code>\end{env}</code>? </p>
+
+</div>
+</div>
+<a id="a83a1f39687fbe70233995a8a97b1daf9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83a1f39687fbe70233995a8a97b1daf9">&#9670;&nbsp;</a></span>convert_line0()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Buffer::convert_line0 </td>
+          <td>(</td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>wc</em></td><td>)</td>
+          <td> -&gt; bool</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Convert to UTF8 into utf8_out. </p>
+
+</div>
+</div>
 <a id="abcfd350dff918a44d5472da85505dfcc"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#abcfd350dff918a44d5472da85505dfcc">&#9670;&nbsp;</a></span>convert_to_str()</h2>
 
@@ -555,6 +678,64 @@ Private Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Make a copy of the contents as a new char*. </p>
+
+</div>
+</div>
+<a id="ad1ac55c720ff058fd9e463c8282ec0bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad1ac55c720ff058fd9e463c8282ec0bd">&#9670;&nbsp;</a></span>convert_to_latin1()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Buffer::convert_to_latin1 </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>nonascii</em></td><td>)</td>
+          <td> const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Convert to latin 1 or ASCII. </p>
+
+</div>
+</div>
+<a id="aee50fe20b6a6f11a2fcf602a3376930e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee50fe20b6a6f11a2fcf602a3376930e">&#9670;&nbsp;</a></span>convert_to_log_encoding()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Buffer::convert_to_log_encoding </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Convert to logging encoding. </p>
+
+</div>
+</div>
+<a id="a647c6bad5a73bc282e82349351549316"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a647c6bad5a73bc282e82349351549316">&#9670;&nbsp;</a></span>convert_to_out_encoding()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Buffer::convert_to_out_encoding </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Make a fresh copy with output encoding. </p>
 
 </div>
 </div>
@@ -597,6 +778,25 @@ Private Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="ac4520915f6085b04567c171704b45b43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4520915f6085b04567c171704b45b43">&#9670;&nbsp;</a></span>substring()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">auto Buffer::substring </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const -&gt; std::string</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get the slice [ptr1,ptr) </p>
+
+</div>
+</div>
 <a id="ae70798c01579afc57446b4c5a7aa9002"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae70798c01579afc57446b4c5a7aa9002">&#9670;&nbsp;</a></span>to_string()</h2>
 
@@ -617,27 +817,6 @@ Private Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a8ac6bdc2dc9dc175e44897424d7932b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ac6bdc2dc9dc175e44897424d7932b6">&#9670;&nbsp;</a></span>add_with_space()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::add_with_space </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>&#160;</td>
-          <td class="paramname"><em>s</em></td><td>)</td>
-          <td> -&gt; std::string</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Weird RA stuff. </p>
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000020">Todo:</a></b></dt><dd>remove </dd></dl>
-
-</div>
-</div>
 <a id="a9d05ecc166e6f418377b14645a0109f6"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a9d05ecc166e6f418377b14645a0109f6">&#9670;&nbsp;</a></span>alloc()</h2>
 
@@ -655,176 +834,6 @@ Private Member Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Ensure that there is space for n+1 slots beyond wptr. </p>
-
-</div>
-</div>
-<a id="a9f2732bff2204dd34931ff6c9cd19132"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9f2732bff2204dd34931ff6c9cd19132">&#9670;&nbsp;</a></span>backup_space()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::backup_space </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> -&gt; bool</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Remove trailing spaces. </p>
-
-</div>
-</div>
-<a id="a89dfa35d9d48d2a3f747ff56c245bc69"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89dfa35d9d48d2a3f747ff56c245bc69">&#9670;&nbsp;</a></span>contains()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::contains </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>&#160;</td>
-          <td class="paramname"><em>s</em></td><td>)</td>
-          <td> const -&gt; bool </td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a546c42e2dfed7a2b2cf85af4d1db78ea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a546c42e2dfed7a2b2cf85af4d1db78ea">&#9670;&nbsp;</a></span>contains_braced()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::contains_braced </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>&#160;</td>
-          <td class="paramname"><em>s</em></td><td>)</td>
-          <td> -&gt; bool</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aa042f09263ad86d961b64f814613b618"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa042f09263ad86d961b64f814613b618">&#9670;&nbsp;</a></span>contains_env()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::contains_env </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>&#160;</td>
-          <td class="paramname"><em>env</em></td><td>)</td>
-          <td> -&gt; bool</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af830c7e00f9c53174b90b425b12f7374"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af830c7e00f9c53174b90b425b12f7374">&#9670;&nbsp;</a></span>contains_here()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::contains_here </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>&#160;</td>
-          <td class="paramname"><em>s</em></td><td>)</td>
-          <td> const -&gt; bool</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac8fe468151b20c3d5ed6b78c25211455"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac8fe468151b20c3d5ed6b78c25211455">&#9670;&nbsp;</a></span>convert_to_out_encoding()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::convert_to_out_encoding </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a>&#160;</td>
-          <td class="paramname"><em>a</em></td><td>)</td>
-          <td> const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aee50fe20b6a6f11a2fcf602a3376930e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee50fe20b6a6f11a2fcf602a3376930e">&#9670;&nbsp;</a></span>convert_to_log_encoding()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::convert_to_log_encoding </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad1ac55c720ff058fd9e463c8282ec0bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad1ac55c720ff058fd9e463c8282ec0bd">&#9670;&nbsp;</a></span>convert_to_latin1()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::convert_to_latin1 </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>nonascii</em></td><td>)</td>
-          <td> const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a83a1f39687fbe70233995a8a97b1daf9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a83a1f39687fbe70233995a8a97b1daf9">&#9670;&nbsp;</a></span>convert_line0()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::convert_line0 </td>
-          <td>(</td>
-          <td class="paramtype">size_t&#160;</td>
-          <td class="paramname"><em>wc</em></td><td>)</td>
-          <td> -&gt; bool</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
 
 </div>
 </div>
@@ -854,23 +863,7 @@ Private Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="a8743a9fdf90088c1c41f91089c5c6905"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8743a9fdf90088c1c41f91089c5c6905">&#9670;&nbsp;</a></span>copy()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Buffer::copy </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../d5/d2a/class_buffer.html">Buffer</a> &amp;&#160;</td>
-          <td class="paramname"><em>B</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p>Convert a line to UTF8. </p>
 
 </div>
 </div>
@@ -905,6 +898,8 @@ Private Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Insert def qualifiers (<code>\global</code> etc.) </p>
 
 </div>
 </div>
@@ -1468,8 +1463,8 @@ Private Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a8fa476b540d36b617786d9886cc8cdc1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8fa476b540d36b617786d9886cc8cdc1">&#9670;&nbsp;</a></span>is_begin_end()</h2>
+<a id="a479457fb3f0794c877c392bcb57622e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a479457fb3f0794c877c392bcb57622e7">&#9670;&nbsp;</a></span>is_begin_end()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1478,7 +1473,7 @@ Private Member Functions</h2></td></tr>
           <td class="memname">auto Buffer::is_begin_end </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td> const -&gt; int</td>
+          <td> -&gt; int</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2891,31 +2886,6 @@ Private Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a61e0d6c674c6fd0b0031297fd5a0d711"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a61e0d6c674c6fd0b0031297fd5a0d711">&#9670;&nbsp;</a></span>push_back_space()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Buffer::push_back_space </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a1546ca0bf0d0c8acbf530ab594840da9"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a1546ca0bf0d0c8acbf530ab594840da9">&#9670;&nbsp;</a></span>push_back_special_att()</h2>
 
@@ -3834,25 +3804,6 @@ Private Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="a6300e2ced5326109f8f15b2f077ed5af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6300e2ced5326109f8f15b2f077ed5af">&#9670;&nbsp;</a></span>substring()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::substring </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> -&gt; std::string</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Get the slice [ptr1,ptr) </p>
-
-</div>
-</div>
 <a id="a5f827eba877541d8a131225a4fb30e9d"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a5f827eba877541d8a131225a4fb30e9d">&#9670;&nbsp;</a></span>convert_for_xml_err()</h2>
 
@@ -4360,10 +4311,10 @@ template&lt;typename T &gt; </div>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
-<li><a class="el" href="../../dd/d74/txbuffer_8h_source.html">txbuffer.h</a></li>
+<li>tralics/<a class="el" href="../../d7/d1b/_buffer_8h_source.html">Buffer.h</a></li>
+<li><a class="el" href="../../dc/dcf/_buffer_8cpp.html">Buffer.cpp</a></li>
 <li><a class="el" href="../../d5/d6d/txatt_8cpp.html">txatt.cpp</a></li>
 <li><a class="el" href="../../d1/ddd/txbib_8cpp.html">txbib.cpp</a></li>
-<li><a class="el" href="../../de/d74/txbuffer_8cpp.html">txbuffer.cpp</a></li>
 <li><a class="el" href="../../df/d98/txconfig_8cpp.html">txconfig.cpp</a></li>
 <li><a class="el" href="../../d7/d80/txfp_8cpp.html">txfp.cpp</a></li>
 <li><a class="el" href="../../d0/d1f/txio_8cpp.html">txio.cpp</a></li>

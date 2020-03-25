@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['enums_2eh_7467',['enums.h',['../d0/d0b/enums_8h.html',1,'']]],
-  ['eqtb_2eh_7468',['EQTB.h',['../d8/dd6/_e_q_t_b_8h.html',1,'']]]
+  ['changelog_2emd_7458',['CHANGELOG.md',['../da/d00/_c_h_a_n_g_e_l_o_g_8md.html',1,'']]],
+  ['cmdchr_2eh_7459',['CmdChr.h',['../d2/d68/_cmd_chr_8h.html',1,'']]],
+  ['codepoint_2eh_7460',['codepoint.h',['../d8/d47/codepoint_8h.html',1,'']]],
+  ['consts_2eh_7461',['consts.h',['../d8/db5/consts_8h.html',1,'']]]
 ];

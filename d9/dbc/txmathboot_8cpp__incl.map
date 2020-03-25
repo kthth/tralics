@@ -1,8 +1,8 @@
 <map id="txmathboot.cpp" name="txmathboot.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="223,5,335,31"/>
+<area shape="rect" id="node1" title=" " alt="" coords="324,5,437,31"/>
 <area shape="rect" id="node2" href="$d5/d87/globals_8h.html" title=" " alt="" coords="440,592,553,617"/>
-<area shape="rect" id="node14" href="$d7/d79/txinline_8h.html" title=" " alt="" coords="194,79,268,104"/>
-<area shape="rect" id="node32" href="$df/d79/txmath_8h.html" title=" " alt="" coords="411,79,483,104"/>
+<area shape="rect" id="node14" href="$d7/d79/txinline_8h.html" title=" " alt="" coords="175,79,249,104"/>
+<area shape="rect" id="node32" href="$df/d79/txmath_8h.html" title=" " alt="" coords="387,79,459,104"/>
 <area shape="rect" id="node34" href="$d2/d1b/txparser_8h.html" title=" " alt="" coords="638,79,718,104"/>
 <area shape="rect" id="node3" href="$d8/d47/codepoint_8h.html" title=" " alt="" coords="475,739,566,764"/>
 <area shape="rect" id="node9" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="619,739,691,764"/>
@@ -16,14 +16,14 @@
 <area shape="rect" id="node7" title=" " alt="" coords="628,959,711,984"/>
 <area shape="rect" id="node10" href="$d8/db5/consts_8h.html" title=" " alt="" coords="620,812,691,837"/>
 <area shape="rect" id="node15" href="$d4/de9/_main_class_8h.html" title=" " alt="" coords="286,152,419,177"/>
-<area shape="rect" id="node29" href="$d2/d06/txlogger_8h.html" title=" " alt="" coords="27,152,107,177"/>
+<area shape="rect" id="node29" href="$d2/d06/txlogger_8h.html" title=" " alt="" coords="28,152,107,177"/>
 <area shape="rect" id="node31" href="$d5/d08/txparam_8h.html" title=" " alt="" coords="131,152,211,177"/>
 <area shape="rect" id="node16" href="$de/d29/txio_8h.html" title=" " alt="" coords="216,225,281,251"/>
-<area shape="rect" id="node28" href="$dc/def/txstring_8h.html" title=" " alt="" coords="566,299,653,324"/>
-<area shape="rect" id="node17" href="$dd/d74/txbuffer_8h.html" title=" " alt="" coords="554,372,630,397"/>
+<area shape="rect" id="node28" href="$dc/def/txstring_8h.html" title=" " alt="" coords="580,299,666,324"/>
+<area shape="rect" id="node17" href="$d7/d1b/_buffer_8h.html" title=" " alt="" coords="553,372,659,397"/>
 <area shape="rect" id="node27" title=" " alt="" coords="172,299,237,324"/>
-<area shape="rect" id="node18" href="$d1/d9e/txid_8h.html" title=" " alt="" coords="616,519,670,544"/>
-<area shape="rect" id="node20" href="$d9/d18/txscaled_8h.html" title=" " alt="" coords="738,445,820,471"/>
+<area shape="rect" id="node18" href="$d1/d9e/txid_8h.html" title=" " alt="" coords="611,519,675,544"/>
+<area shape="rect" id="node20" href="$d9/d18/txscaled_8h.html" title=" " alt="" coords="733,445,825,471"/>
 <area shape="rect" id="node26" title=" " alt="" coords="545,445,605,471"/>
 <area shape="rect" id="node19" href="$d5/daf/_istring_8h.html" title=" " alt="" coords="589,592,697,617"/>
 <area shape="rect" id="node21" href="$dc/d91/txtokenlist_8h.html" title=" " alt="" coords="733,519,825,544"/>

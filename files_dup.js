@@ -2,6 +2,7 @@ var files_dup =
 [
     [ "doc", "dir_e68e8157741866f444e17edd764ebbae.html", null ],
     [ "tralics", "dir_34757b718924119af78d27f1d70115f6.html", "dir_34757b718924119af78d27f1d70115f6" ],
+    [ "Buffer.cpp", "dc/dcf/_buffer_8cpp.html", "dc/dcf/_buffer_8cpp" ],
     [ "globals.cpp", "da/d77/globals_8cpp.html", "da/d77/globals_8cpp" ],
     [ "Istring.cpp", "d0/d4b/_istring_8cpp.html", null ],
     [ "MainClass.cpp", "df/d37/_main_class_8cpp.html", "df/d37/_main_class_8cpp" ],
@@ -33,8 +34,6 @@ var files_dup =
       [ "Bbl", "d2/d56/class_bbl.html", "d2/d56/class_bbl" ],
       [ "BblAndTty", "d8/dbe/class_bbl_and_tty.html", "d8/dbe/class_bbl_and_tty" ]
     ] ],
-    [ "txbuffer.cpp", "de/d74/txbuffer_8cpp.html", "de/d74/txbuffer_8cpp" ],
-    [ "txbuffer.h", "dd/d74/txbuffer_8h.html", "dd/d74/txbuffer_8h" ],
     [ "txclasses.cpp", "d4/dee/txclasses_8cpp.html", "d4/dee/txclasses_8cpp" ],
     [ "txclasses.h", "dc/dd7/txclasses_8h.html", "dc/dd7/txclasses_8h" ],
     [ "txcommands.cpp", "df/d9e/txcommands_8cpp.html", "df/d9e/txcommands_8cpp" ],

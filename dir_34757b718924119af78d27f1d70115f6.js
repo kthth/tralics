@@ -1,5 +1,6 @@
 var dir_34757b718924119af78d27f1d70115f6 =
 [
+    [ "Buffer.h", "d7/d1b/_buffer_8h.html", "d7/d1b/_buffer_8h" ],
     [ "CmdChr.h", "d2/d68/_cmd_chr_8h.html", [
       [ "CmdChr", "de/d72/class_cmd_chr.html", "de/d72/class_cmd_chr" ]
     ] ],

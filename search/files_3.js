@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['index_2emd_7471',['index.md',['../df/dcf/index_8md.html',1,'']]],
-  ['istring_2ecpp_7472',['Istring.cpp',['../d0/d4b/_istring_8cpp.html',1,'']]],
-  ['istring_2eh_7473',['Istring.h',['../d5/daf/_istring_8h.html',1,'']]]
+  ['globals_2ecpp_7464',['globals.cpp',['../da/d77/globals_8cpp.html',1,'']]],
+  ['globals_2eh_7465',['globals.h',['../d5/d87/globals_8h.html',1,'']]]
 ];

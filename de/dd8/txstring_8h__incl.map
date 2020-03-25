@@ -1,10 +1,10 @@
 <map id="txstring.h" name="txstring.h">
-<area shape="rect" id="node1" title=" " alt="" coords="202,5,277,31"/>
-<area shape="rect" id="node2" href="$dd/d74/txbuffer_8h.html" title=" " alt="" coords="202,79,278,104"/>
-<area shape="rect" id="node3" href="$d1/d9e/txid_8h.html" title=" " alt="" coords="76,225,129,251"/>
-<area shape="rect" id="node13" href="$d9/d18/txscaled_8h.html" title=" " alt="" coords="152,152,234,177"/>
-<area shape="rect" id="node21" title=" " alt="" coords="257,152,318,177"/>
-<area shape="rect" id="node22" title=" " alt="" coords="342,152,399,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="207,5,283,31"/>
+<area shape="rect" id="node2" href="$d7/d1b/_buffer_8h.html" title=" " alt="" coords="192,79,298,104"/>
+<area shape="rect" id="node3" href="$d1/d9e/txid_8h.html" title=" " alt="" coords="66,225,130,251"/>
+<area shape="rect" id="node13" href="$d9/d18/txscaled_8h.html" title=" " alt="" coords="149,152,242,177"/>
+<area shape="rect" id="node21" title=" " alt="" coords="265,152,326,177"/>
+<area shape="rect" id="node22" title=" " alt="" coords="350,152,407,177"/>
 <area shape="rect" id="node4" href="$d5/daf/_istring_8h.html" title=" " alt="" coords="31,299,139,324"/>
 <area shape="rect" id="node5" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="54,445,127,471"/>
 <area shape="rect" id="node11" title=" " alt="" coords="20,372,72,397"/>
@@ -14,7 +14,7 @@
 <area shape="rect" id="node8" title=" " alt="" coords="6,665,70,691"/>
 <area shape="rect" id="node9" title=" " alt="" coords="94,665,158,691"/>
 <area shape="rect" id="node10" title=" " alt="" coords="182,665,265,691"/>
-<area shape="rect" id="node14" href="$dc/d91/txtokenlist_8h.html" title=" " alt="" coords="160,225,252,251"/>
+<area shape="rect" id="node14" href="$dc/d91/txtokenlist_8h.html" title=" " alt="" coords="162,225,254,251"/>
 <area shape="rect" id="node15" href="$dd/dcd/_token_8h.html" title=" " alt="" coords="162,299,269,324"/>
 <area shape="rect" id="node20" title=" " alt="" coords="292,299,344,324"/>
 <area shape="rect" id="node16" href="$d2/d68/_cmd_chr_8h.html" title=" " alt="" coords="175,372,256,397"/>

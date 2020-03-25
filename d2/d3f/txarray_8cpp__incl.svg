@@ -125,9 +125,9 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="../../dd/d74/txbuffer_8h.html" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="391.2,-440.5 391.2,-458.5 448.17,-458.5 448.17,-440.5 391.2,-440.5"/>
-<text text-anchor="middle" x="419.68" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">txbuffer.h</text>
+<g id="a_node6"><a xlink:href="../../d7/d1b/_buffer_8h.html" target="_top" xlink:title=" ">
+<polygon fill="none" stroke="black" points="380.09,-440.5 380.09,-458.5 459.28,-458.5 459.28,-440.5 380.09,-440.5"/>
+<text text-anchor="middle" x="419.68" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">tralics/Buffer.h</text>
 </a>
 </g>
 </g>
@@ -141,8 +141,8 @@
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="../../d1/d9e/txid_8h.html" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="441.73,-330.5 441.73,-348.5 481.64,-348.5 481.64,-330.5 441.73,-330.5"/>
-<text text-anchor="middle" x="461.68" y="-336.5" font-family="Helvetica,sans-Serif" font-size="10.00">txid.h</text>
+<polygon fill="none" stroke="black" points="437.57,-330.5 437.57,-348.5 485.8,-348.5 485.8,-330.5 437.57,-330.5"/>
+<text text-anchor="middle" x="461.68" y="-336.5" font-family="Helvetica,sans-Serif" font-size="10.00">../txid.h</text>
 </a>
 </g>
 </g>
@@ -156,8 +156,8 @@
 <g id="node17" class="node">
 <title>Node17</title>
 <g id="a_node17"><a xlink:href="../../d9/d18/txscaled_8h.html" target="_top" xlink:title=" ">
-<polygon fill="none" stroke="black" points="528.17,-385.5 528.17,-403.5 589.2,-403.5 589.2,-385.5 528.17,-385.5"/>
-<text text-anchor="middle" x="558.68" y="-391.5" font-family="Helvetica,sans-Serif" font-size="10.00">txscaled.h</text>
+<polygon fill="none" stroke="black" points="524,-385.5 524,-403.5 593.36,-403.5 593.36,-385.5 524,-385.5"/>
+<text text-anchor="middle" x="558.68" y="-391.5" font-family="Helvetica,sans-Serif" font-size="10.00">../txscaled.h</text>
 </a>
 </g>
 </g>
