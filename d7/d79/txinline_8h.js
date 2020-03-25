@@ -5,7 +5,6 @@ var txinline_8h =
     [ "find_in_confdir", "d7/d79/txinline_8h.html#ad57f2f218fcf5540a414d22c7da91ad2", null ],
     [ "find_in_path", "d7/d79/txinline_8h.html#a8c471d27975f479acfeae9b703ac1303", null ],
     [ "read_a_file", "d7/d79/txinline_8h.html#a534487cbb2a275b5de7bd8b638634505", null ],
-    [ "make_string", "d7/d79/txinline_8h.html#a88216744bbad7bacb51fcb7910fd7ad8", null ],
     [ "titlepage_is_valid", "d7/d79/txinline_8h.html#a227fbeab42cfd1fca544c0adf743d9fb", null ],
     [ "file_exists", "d7/d79/txinline_8h.html#abc68cd17883cd48b4b89d9afab733804", null ],
     [ "file_exists", "d7/d79/txinline_8h.html#a7b9fc04c76d45a766b992c8df9acf15d", null ],

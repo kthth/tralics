@@ -14,7 +14,6 @@ var class_main_class =
     [ "parse_option", "d5/d5e/class_main_class.html#ac8a45245fea50e1181c8fa0d4d2951a4", null ],
     [ "read_config_and_other", "d5/d5e/class_main_class.html#a0f7c3891801e63916a581b4e24f807c2", null ],
     [ "set_tpa_status", "d5/d5e/class_main_class.html#a60a71e9b01602e8ed4ad6f8e0dcb1cbc", null ],
-    [ "append_checked_line", "d5/d5e/class_main_class.html#a359a738d8881d40d45250befe9d1ded1", null ],
     [ "append_nonempty_line", "d5/d5e/class_main_class.html#a5e1edb20c80f25ab70c18c89931297e4", null ],
     [ "check_for_alias_type", "d5/d5e/class_main_class.html#ab93d98a0ecf9b0e38f0445f3caf73a9f", null ],
     [ "check_for_arg", "d5/d5e/class_main_class.html#a21f0fe2b5937247041c2dd732dacab00", null ],

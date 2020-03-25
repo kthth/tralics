@@ -7,7 +7,7 @@ var class_xml =
     [ "Xml", "d6/d9a/class_xml.html#af4ccf5ff79f4834c805745fc5a93013c", null ],
     [ "Xml", "d6/d9a/class_xml.html#aa112525effbc003d38c81a3651337cf7", null ],
     [ "empty", "d6/d9a/class_xml.html#aa54c08791b91a60f301b2be10c568318", null ],
-    [ "get_cell_span", "d6/d9a/class_xml.html#a09410edc889b870076c9688c820c86eb", null ],
+    [ "get_cell_span", "d6/d9a/class_xml.html#af40163148ae1e085cabfa58499a7c174", null ],
     [ "has_name", "d6/d9a/class_xml.html#af45074434a9e808892197f992e815632", null ],
     [ "has_name", "d6/d9a/class_xml.html#a8c56252e990408cf8beb502f14287e07", null ],
     [ "is_anchor", "d6/d9a/class_xml.html#aad8dcf00aa0afa9bc551f58299ef29f9", null ],
