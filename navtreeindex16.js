@@ -1,5 +1,6 @@
 var NAVTREEINDEX16 =
 {
+"d0/de2/class_bibtex.html#a796100b443292d24308837a9dbffbc94":[3,0,12,77],
 "d0/de2/class_bibtex.html#a7cd1fb4d0f35808a57515f2b13d19d59":[3,0,12,79],
 "d0/de2/class_bibtex.html#a7e8776f5629c04901452713dc14dbff7":[3,0,12,53],
 "d0/de2/class_bibtex.html#a7fd8450c7ef23aff91935137bb74294d":[3,0,12,90],
@@ -248,6 +249,5 @@ var NAVTREEINDEX16 =
 "d2/d06/txlogger_8h.html#afe8cdfca4bbc114724a5742934a048a2":[4,0,34,37],
 "d2/d06/txlogger_8h_source.html":[4,0,34],
 "d2/d1b/txparser_8h.html":[4,0,44],
-"d2/d1b/txparser_8h.html#adf418282a32959c1fdaf7e8728922695":[4,0,44,1],
-"d2/d1b/txparser_8h_source.html":[4,0,44]
+"d2/d1b/txparser_8h.html#adf418282a32959c1fdaf7e8728922695":[4,0,44,1]
 };

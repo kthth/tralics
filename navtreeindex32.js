@@ -1,10 +1,5 @@
 var NAVTREEINDEX32 =
 {
-"de/d72/class_cmd_chr.html#a19bc695e8924598bbf9a80dd69fed718":[3,0,19,33],
-"de/d72/class_cmd_chr.html#a1a91e7dec2582000617403bb0983d785":[3,0,19,28],
-"de/d72/class_cmd_chr.html#a1ab4ece25ddbc2c4ba7d4de14fccaef6":[3,0,19,21],
-"de/d72/class_cmd_chr.html#a1bec23551eb389f9708f98dda9b57448":[3,0,19,15],
-"de/d72/class_cmd_chr.html#a1e15cf53de0ced56001128d754d4c239":[3,0,19,34],
 "de/d72/class_cmd_chr.html#a1eb20c1bffcf19b778a4d1f2789edab9":[3,0,19,60],
 "de/d72/class_cmd_chr.html#a20366d053be4bfbeb6a3402f1405a637":[3,0,19,35],
 "de/d72/class_cmd_chr.html#a226f86c8545d1e7f12c0d244705f8657":[3,0,19,71],
@@ -124,12 +119,12 @@ var NAVTREEINDEX32 =
 "de/d73/class_image.html":[3,0,40],
 "de/d73/class_image.html#a108b7805399fbab15564da44f7497290":[3,0,40,7],
 "de/d73/class_image.html#a28e776629b36469a1634efb20166b473":[3,0,40,4],
-"de/d73/class_image.html#a2d05186ecc6b909e7b6e7b8c5901f26c":[3,0,40,2],
 "de/d73/class_image.html#a4038639db01981d6257294dd4dbed0fc":[3,0,40,5],
 "de/d73/class_image.html#a5502e928122744be1d3b89648298e162":[3,0,40,0],
 "de/d73/class_image.html#ac082dd1a5cd416ebb29d690642110293":[3,0,40,6],
 "de/d73/class_image.html#aca75aef51b6a793dee6b18133d42a42e":[3,0,40,3],
 "de/d73/class_image.html#ae5aad21565ce2fa1e2aceff6b8da9502":[3,0,40,1],
+"de/d73/class_image.html#afad7de7dec711a339c7f33e0bcf2b264":[3,0,40,2],
 "de/d7c/tximage_8h.html":[4,0,29],
 "de/d7c/tximage_8h_source.html":[4,0,29],
 "de/da4/txparser3_8cpp.html":[4,0,47],
@@ -249,5 +244,10 @@ var NAVTREEINDEX32 =
 "df/d1b/class_stats.html#a97770908d891058557e75f7e82c9eb51":[3,0,96,49],
 "df/d1b/class_stats.html#a9a4ef4dc8dbbc712bdd3210a279c0bdf":[3,0,96,22],
 "df/d1b/class_stats.html#a9c38be926a6ef87a45a8983dcdb3a0e1":[3,0,96,50],
-"df/d1b/class_stats.html#a9da488ac712b5a6a182bedc35c6bb677":[3,0,96,31]
+"df/d1b/class_stats.html#a9da488ac712b5a6a182bedc35c6bb677":[3,0,96,31],
+"df/d1b/class_stats.html#aa1ee22210e1dcae24800899663ed24d5":[3,0,96,51],
+"df/d1b/class_stats.html#aa3e55a1e32cb95923ac19e85ee3db9b1":[3,0,96,28],
+"df/d1b/class_stats.html#aaf649f5c50657fcad309d84e35bfb418":[3,0,96,58],
+"df/d1b/class_stats.html#ab2a01f2107cb2adc44bfd877227f7834":[3,0,96,17],
+"df/d1b/class_stats.html#ab60519d97b32a6179618ee6e576e7f30":[3,0,96,48]
 };

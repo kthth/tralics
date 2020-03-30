@@ -1,5 +1,6 @@
 var NAVTREEINDEX15 =
 {
+"d0/d6a/class_hashtab.html#a75aa3081a2620bbd9c2cecc00b087292":[3,0,39,226],
 "d0/d6a/class_hashtab.html#a774bf9f0083990a050786b96397448ad":[3,0,39,7],
 "d0/d6a/class_hashtab.html#a77d7b3a4e0c17a5aa35be3c304783e9d":[3,0,39,214],
 "d0/d6a/class_hashtab.html#a78b1fc2e3daed498a82aedc89507c466":[3,0,39,192],
@@ -248,6 +249,5 @@ var NAVTREEINDEX15 =
 "d0/de2/class_bibtex.html#a6bf0699f7c9d5d67822b3e1d2fa149f0":[3,0,12,72],
 "d0/de2/class_bibtex.html#a6cf488d724f72eba985bb82e22394a46":[3,0,12,51],
 "d0/de2/class_bibtex.html#a713bd30df5d3e3d94aeef48406377fb1":[3,0,12,45],
-"d0/de2/class_bibtex.html#a76d6d2ed94bb82896271fa5112a4cf38":[3,0,12,60],
-"d0/de2/class_bibtex.html#a796100b443292d24308837a9dbffbc94":[3,0,12,77]
+"d0/de2/class_bibtex.html#a76d6d2ed94bb82896271fa5112a4cf38":[3,0,12,60]
 };

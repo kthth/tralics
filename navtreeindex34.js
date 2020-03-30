@@ -1,10 +1,5 @@
 var NAVTREEINDEX34 =
 {
-"functions_p.html":[3,3,0,15],
-"functions_q.html":[3,3,0,16],
-"functions_r.html":[3,3,0,17],
-"functions_rela.html":[3,3,3],
-"functions_s.html":[3,3,0,18],
 "functions_t.html":[3,3,0,19],
 "functions_u.html":[3,3,0,20],
 "functions_v.html":[3,3,0,21],
