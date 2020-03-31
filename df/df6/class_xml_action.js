@@ -6,7 +6,7 @@ var class_xml_action =
     [ "get_what", "df/df6/class_xml_action.html#a5f31f113e96d9d14dd81617bc30018bc", null ],
     [ "incr_int_val", "df/df6/class_xml_action.html#a19997459da833765838b88b5caf3d34b", null ],
     [ "mark_found", "df/df6/class_xml_action.html#a6d819b06d602334dda9738a28be26a2f", null ],
-    [ "is_ok", "df/df6/class_xml_action.html#af193fbe322778cf7eb108d2f85db501a", null ],
+    [ "is_ok", "df/df6/class_xml_action.html#a2e86f5c2a76d0718f7fb70d1cb840cac", null ],
     [ "get_xml_val", "df/df6/class_xml_action.html#a73022dbae7c1457f000bfb6294e71531", null ],
     [ "get_int_val", "df/df6/class_xml_action.html#a335c24a332eb300452ed1c412a5b9d4a", null ],
     [ "get_string_val", "df/df6/class_xml_action.html#a03fb9ecd79302ef84dd301309386be48", null ],

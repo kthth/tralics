@@ -1,10 +1,11 @@
 <map id="txmath.cpp" name="txmath.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="660,5,747,31"/>
-<area shape="rect" id="node2" href="$df/d79/txmath_8h.html" title=" " alt="" coords="458,79,530,104"/>
+<area shape="rect" id="node1" title=" " alt="" coords="820,5,907,31"/>
+<area shape="rect" id="node2" href="$df/d79/txmath_8h.html" title=" " alt="" coords="506,79,578,104"/>
 <area shape="rect" id="node26" href="$d5/d87/globals_8h.html" title=" " alt="" coords="935,592,1048,617"/>
 <area shape="rect" id="node27" href="$d7/d79/txinline_8h.html" title=" " alt="" coords="177,79,251,104"/>
-<area shape="rect" id="node34" href="$d2/d1b/txparser_8h.html" title=" " alt="" coords="664,79,744,104"/>
+<area shape="rect" id="node34" href="$d2/d1b/txparser_8h.html" title=" " alt="" coords="712,79,792,104"/>
 <area shape="rect" id="node44" title=" " alt="" coords="1015,79,1091,104"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1115,79,1207,104"/>
 <area shape="rect" id="node3" href="$d9/d1c/_xml_8h.html" title=" " alt="" coords="474,225,568,251"/>
 <area shape="rect" id="node4" href="$dc/def/txstring_8h.html" title=" " alt="" coords="571,299,658,324"/>
 <area shape="rect" id="node5" href="$d7/d1b/_buffer_8h.html" title=" " alt="" coords="556,372,662,397"/>

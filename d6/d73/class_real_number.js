@@ -10,7 +10,7 @@ var class_real_number =
     [ "set_negative", "d6/d73/class_real_number.html#abbc43765e6e58b5968e7df62ad265d91", null ],
     [ "set_neg", "d6/d73/class_real_number.html#af89887356b2c71f24ad4898fb4a789b4", null ],
     [ "change_sign_i", "d6/d73/class_real_number.html#af8a4a9fcd348042d7f14c150fde97bf3", null ],
-    [ "get_negative", "d6/d73/class_real_number.html#a1eb4b7d64747b99a8a43cd659da834ef", null ],
+    [ "get_negative", "d6/d73/class_real_number.html#a1a8a83df06f2560973b7e6c1d8741f24", null ],
     [ "from_int", "d6/d73/class_real_number.html#a4f72c04b0f8aed30e44c98d769123feb", null ],
     [ "negative", "d6/d73/class_real_number.html#aa746ef1e86b66656e2c827eb8598daa4", null ],
     [ "ipart", "d6/d73/class_real_number.html#adf2ffc1fb4c8ee89821af4d7bde7518b", null ],

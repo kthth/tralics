@@ -6,7 +6,7 @@ var class_logger =
     [ "dump0", "d3/d42/class_logger.html#ac68ef8390d67063ecbd04e6bd65d043e", null ],
     [ "set_finished", "d3/d42/class_logger.html#a28c28ed4e02404616fb795e8f6c84ce1", null ],
     [ "set_file_name", "d3/d42/class_logger.html#a41764252bf757528bc3a9fb9dd09d128", null ],
-    [ "abort", "d3/d42/class_logger.html#ab31ed82fab62566e7932a3225f4ef505", null ],
+    [ "abort", "d3/d42/class_logger.html#a7b2551ed36897e69c71dd372974cbed7", null ],
     [ "get_filename", "d3/d42/class_logger.html#a7c498c5d52ecce7db20bb2cd370b60a7", null ],
     [ "operator<<", "d3/d42/class_logger.html#ad5a232ba29b216958e3ca0c48853c107", null ],
     [ "operator<<", "d3/d42/class_logger.html#ae66cb6e6506a19fa8f33160829467948", null ],

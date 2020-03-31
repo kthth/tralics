@@ -30,7 +30,7 @@ var class_stats =
     [ "one_more_allocated", "df/d1b/class_stats.html#a29ab6a24179775f54c261a682935806f", null ],
     [ "more_math_destroy", "df/d1b/class_stats.html#aa3e55a1e32cb95923ac19e85ee3db9b1", null ],
     [ "one_more_merge", "df/d1b/class_stats.html#a7ce2fb16ac86c2128c1688a60ae0c4a6", null ],
-    [ "token_stats", "df/d1b/class_stats.html#aea99dae54ffc05fac00eac1448b6f1a4", null ],
+    [ "token_stats", "df/d1b/class_stats.html#ab96b75215bea59091748dcc9b9a07be4", null ],
     [ "io_convert_stats", "df/d1b/class_stats.html#a9da488ac712b5a6a182bedc35c6bb677", null ],
     [ "print_module_stats", "df/d1b/class_stats.html#acd63e50b38fb3c46fe73760866c7fb8e", null ],
     [ "st_short", "df/d1b/class_stats.html#a79de8789504a4bde92a99b5697dcb879", null ],

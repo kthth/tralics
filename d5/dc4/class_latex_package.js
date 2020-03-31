@@ -13,7 +13,7 @@ var class_latex_package =
     [ "check_global_options", "d5/dc4/class_latex_package.html#a873da855007335c1482c7a778f9a612a", null ],
     [ "check_local_options", "d5/dc4/class_latex_package.html#ac36de06660b1eacfad0271fdd89167da", null ],
     [ "check_all_options", "d5/dc4/class_latex_package.html#ae48ba71d2ed94bf8e66d0a16786ec4e2", null ],
-    [ "reload", "d5/dc4/class_latex_package.html#ad41316f201947c6ef87970f2f6b054a7", null ],
+    [ "reload", "d5/dc4/class_latex_package.html#a1c6937d8f2c33dbdf89cf2fb187815c0", null ],
     [ "name", "d5/dc4/class_latex_package.html#a1171a7dc427577b57df3b10770b96fad", null ],
     [ "date", "d5/dc4/class_latex_package.html#ad23f90933d488a55f9526dee31f66520", null ],
     [ "req_date", "d5/dc4/class_latex_package.html#aa59aa17d6c185f1e71bef863026adc83", null ],

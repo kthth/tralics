@@ -29,7 +29,7 @@ var searchData=
   ['has_5fa_5fdefault_2523',['has_a_default',['../d5/dc4/class_latex_package.html#a1b3b75819dce51328c49ea23815b327b',1,'LatexPackage']]],
   ['has_5fa_5fnct_2524',['has_a_nct',['../da/d78/class_new_array.html#a765bcba9df9ccc08a2ac74a6ad306e03',1,'NewArray']]],
   ['has_5fa_5fsingle_5ftoken_2525',['has_a_single_token',['../dc/d80/namespacetoken__ns.html#ab4922dd59dbee58d5fc1fc79ae5241e7',1,'token_ns::has_a_single_token(const TokenList &amp;L) -&gt; bool'],['../dc/d80/namespacetoken__ns.html#a286f7cae07ec23fd6abd6f90ceff73f4',1,'token_ns::has_a_single_token(const TokenList &amp;L, Token t) -&gt; bool']]],
-  ['has_5fattribute_2526',['has_attribute',['../de/d3f/class_xid.html#aff11eef67796351574e1e8d50709be28',1,'Xid']]],
+  ['has_5fattribute_2526',['has_attribute',['../de/d3f/class_xid.html#a5f7395e9f5db261d97b8f8130b497248',1,'Xid']]],
   ['has_5fcmd_2527',['has_cmd',['../dd/da8/class_bibliography.html#ad2c58b658a697807f854739efa9c2e3e',1,'Bibliography']]],
   ['has_5fe_5fflags_2528',['has_e_flags',['../d7/d65/class_title_page_aux.html#aecd5c0c18ee7823bb2d9c7b5bfa216e9',1,'TitlePageAux']]],
   ['has_5fempty_5fid_2529',['has_empty_id',['../dc/d0f/class_citation_item.html#af29c60809e54aa458ddcf4f1782d670d',1,'CitationItem']]],

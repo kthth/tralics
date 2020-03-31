@@ -30,7 +30,7 @@ var class_title_page_aux =
     [ "find_cmd", "d7/d65/class_title_page_aux.html#a137c17dbf847601b51e69e11def230b2", null ],
     [ "move_T1T2", "d7/d65/class_title_page_aux.html#a0a3ce7b99a8ea2e0d9867efbf6f1aaa4", null ],
     [ "increment_flag", "d7/d65/class_title_page_aux.html#a91652254e6e39d7861f2b8847f37c554", null ],
-    [ "decode_flags", "d7/d65/class_title_page_aux.html#a3f004574944ff0fc22740962e2f5d3fc", null ],
+    [ "decode_flags", "d7/d65/class_title_page_aux.html#afcc94cb67c35ab3c300e5b950cca08a3", null ],
     [ "T1", "d7/d65/class_title_page_aux.html#a5ab551bb79f6116e19007b100647a160", null ],
     [ "T2", "d7/d65/class_title_page_aux.html#a14c5e3bb57dc3b263957c55477454c0d", null ],
     [ "T3", "d7/d65/class_title_page_aux.html#acf34c0e89faa6c45af4a4b6e0ceb5a89", null ],

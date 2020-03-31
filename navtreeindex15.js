@@ -249,5 +249,5 @@ var NAVTREEINDEX15 =
 "d0/de2/class_bibtex.html#a6bf0699f7c9d5d67822b3e1d2fa149f0":[3,0,12,72],
 "d0/de2/class_bibtex.html#a6cf488d724f72eba985bb82e22394a46":[3,0,12,51],
 "d0/de2/class_bibtex.html#a713bd30df5d3e3d94aeef48406377fb1":[3,0,12,45],
-"d0/de2/class_bibtex.html#a76d6d2ed94bb82896271fa5112a4cf38":[3,0,12,60]
+"d0/de2/class_bibtex.html#a74d8ae1ebfb16fe9f368350c628fe938":[3,0,12,6]
 };

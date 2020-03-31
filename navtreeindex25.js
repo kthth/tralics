@@ -1,9 +1,5 @@
 var NAVTREEINDEX25 =
 {
-"d9/dd2/struct_equivalent.html#a02fdce77085aaf21690ca0e68eba857a":[3,0,29,5],
-"d9/dd2/struct_equivalent.html#a1f5d2541948344e3794f89455adf4b97":[3,0,29,4],
-"d9/dd2/struct_equivalent.html#a255ca742a86be9738fde147395babf11":[3,0,29,3],
-"d9/dd2/struct_equivalent.html#ac169e15eebf1a175a6ecd9445dd804ac":[3,0,29,0],
 "d9/dd2/struct_equivalent.html#acf73ce218d5915957f57148f270ce7b0":[3,0,29,6],
 "d9/dd2/struct_equivalent.html#aff3ba992f0c8863627a45598a9d0fdc3":[3,0,29,1],
 "d9/dd7/class_restore_vb_space.html":[3,0,71],
@@ -198,11 +194,11 @@ var NAVTREEINDEX25 =
 "db/d92/class_converter.html#ab665af88653524a705025f84713c9b0d":[3,0,24,10],
 "db/d95/class_splitter.html":[3,0,94],
 "db/d95/class_splitter.html#a238c1e84883457920e9a04ca62dd8a5a":[3,0,94,8],
-"db/d95/class_splitter.html#a462cf053265310a19225b3d4ea3c88d1":[3,0,94,4],
 "db/d95/class_splitter.html#a993efe17fd527235fefe39c5eb8587f9":[3,0,94,7],
 "db/d95/class_splitter.html#a9d7117ce81288509bc690b0439c7cd70":[3,0,94,2],
 "db/d95/class_splitter.html#aa8c7d872df3c36e6e9fbbabbdbdea3ff":[3,0,94,3],
 "db/d95/class_splitter.html#aad0462eecac4e82eebf6dc0ea07acb53":[3,0,94,1],
+"db/d95/class_splitter.html#ae376ee42245c6235c0fc52d4b21dea4c":[3,0,94,4],
 "db/d95/class_splitter.html#ae6dfc8e454476e978d4cc8ecfb200d43":[3,0,94,0],
 "db/d95/class_splitter.html#afbf3b27dddf6d7ab28bd5e44458e69bb":[3,0,94,6],
 "db/d95/class_splitter.html#affc140de814e627b1ce98083dd517d2f":[3,0,94,5],
@@ -249,5 +245,9 @@ var NAVTREEINDEX25 =
 "dc/d37/class_one_index.html#ab722634321764e0421991f483ddcb852":[3,0,65,10],
 "dc/d37/class_one_index.html#ad8da79c844e7d9ca279a8a565de8bf52":[3,0,65,9],
 "dc/d37/class_one_index.html#ae653edd288965c990d29aa3a27069f2d":[3,0,65,13],
-"dc/d61/class_bib_macro.html":[3,0,11]
+"dc/d61/class_bib_macro.html":[3,0,11],
+"dc/d61/class_bib_macro.html#a01b7d5701fd137d46def2b23fcfadc9c":[3,0,11,7],
+"dc/d61/class_bib_macro.html#a0359fc3e230c03faa0d47bb118a9e2fc":[3,0,11,5],
+"dc/d61/class_bib_macro.html#a11dc6e9644d4f11fc8dc70e8fda7c7ca":[3,0,11,8],
+"dc/d61/class_bib_macro.html#a26bdc40155f0d106bb0ac0152b39b31f":[3,0,11,1]
 };

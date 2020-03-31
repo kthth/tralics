@@ -4,7 +4,7 @@ var class_title_page =
     [ "operator[]", "d7/d66/class_title_page.html#a81c5d4a545c90533ac52e90e6f9bb502", null ],
     [ "get_bigtable", "d7/d66/class_title_page.html#a9f99a982974c9b54b8d360f630453298", null ],
     [ "get_len2", "d7/d66/class_title_page.html#a78faca256df1dc90a2ee0fa9df7d15b4", null ],
-    [ "is_valid", "d7/d66/class_title_page.html#aeb99c41f68c584cd6cd1c10e87044d76", null ],
+    [ "is_valid", "d7/d66/class_title_page.html#a607ba517d9adedd7e04e0ad1762aed9f", null ],
     [ "make_invalid", "d7/d66/class_title_page.html#a99890a7831a81c8262956542fa1546ba", null ],
     [ "make_valid", "d7/d66/class_title_page.html#a97df169551a2d3fe41f904b3c92a952c", null ],
     [ "start_thing", "d7/d66/class_title_page.html#a0a83c1a45e3545b804d2e55d7be205d8", null ],

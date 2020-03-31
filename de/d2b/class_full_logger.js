@@ -1,6 +1,6 @@
 var class_full_logger =
 [
-    [ "abort", "de/d2b/class_full_logger.html#acaffb0b4a6e05803bd7c5cbdf3cee923", null ],
+    [ "abort", "de/d2b/class_full_logger.html#a885764c5aba653ebfb3b83523787ca51", null ],
     [ "operator<<", "de/d2b/class_full_logger.html#af7a6a9c0d5ce9e502c0a19528a536dfb", null ],
     [ "finish", "de/d2b/class_full_logger.html#a1fce9d1914d8fd8148b43c834bf65cd2", null ],
     [ "init", "de/d2b/class_full_logger.html#a568b952aebfa044ca73753a937ca67fe", null ],

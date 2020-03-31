@@ -1,13 +1,13 @@
 var class_xml_i_o =
 [
     [ "XmlIO", "d3/dda/class_xml_i_o.html#ab4db6ce2985daa519178576988bf69d6", null ],
-    [ "error", "d3/dda/class_xml_i_o.html#aa881dfdc316a88ee54161c01807f9906", null ],
+    [ "error", "d3/dda/class_xml_i_o.html#a7a3b0d8d2050317e87e6b96bf85d836f", null ],
     [ "peek_char", "d3/dda/class_xml_i_o.html#a556a806487c1ad16f536a95757e282d7", null ],
     [ "skip_char", "d3/dda/class_xml_i_o.html#a1a7bc64f1a99efca99116d8155700f4e", null ],
     [ "next_char", "d3/dda/class_xml_i_o.html#a619a5a1b40050f2776c1c419c52475f0", null ],
     [ "skip_space", "d3/dda/class_xml_i_o.html#a0240ccbe0712acf7480e5fb2266558c2", null ],
     [ "next_line", "d3/dda/class_xml_i_o.html#a755694caf6614eb8e5244839ee1c6d9d", null ],
-    [ "at_eol", "d3/dda/class_xml_i_o.html#a6593ac01e513b41887c99ef74f0c3ca9", null ],
+    [ "at_eol", "d3/dda/class_xml_i_o.html#a99219f294948df2a1e55699cc5e52039", null ],
     [ "scan_name", "d3/dda/class_xml_i_o.html#a0c433762f1cdaa8e0386f94f242cf7ad", null ],
     [ "scan_name", "d3/dda/class_xml_i_o.html#aaaf8f058b177889094b12b79c3d70b09", null ],
     [ "scan_name", "d3/dda/class_xml_i_o.html#a7e900f70d8ec936aa84dca1b816acccd", null ],

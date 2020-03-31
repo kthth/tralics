@@ -55,10 +55,10 @@ var struct_token =
     [ "val_as_digit", "d9/d27/struct_token.html#af08fbfa412f8e6029ed53577d4c84182", null ],
     [ "val_as_letter", "d9/d27/struct_token.html#a2a1b0de9a5cef15e411394c99f4cbc8d", null ],
     [ "no_case_letter", "d9/d27/struct_token.html#a30da9e1c1054e5e73a587a7eb46c73bf", null ],
-    [ "tex_is_digit", "d9/d27/struct_token.html#a50596f622c8291649b6bbf29d94570cf", null ],
+    [ "tex_is_digit", "d9/d27/struct_token.html#a400843288ca0d4f9ca94bd420edbb40b", null ],
     [ "is_dec_separator", "d9/d27/struct_token.html#a6530371887fa6907b01b9e066f930646", null ],
     [ "to_string", "d9/d27/struct_token.html#a708a195838fb8f6930ce32ca1034aebf", null ],
-    [ "tok_to_str", "d9/d27/struct_token.html#a17b74e8b571d97de4f980002dfaf77fe", null ],
+    [ "tok_to_str", "d9/d27/struct_token.html#a95474c01b8a30819a35d0acb50f40ec7", null ],
     [ "tok_to_str1", "d9/d27/struct_token.html#a6e59bdca1918196c28ba627e42fc6ba7", null ],
     [ "testpach", "d9/d27/struct_token.html#ae6df3058bfe6cf96313f9e22b364d115", null ],
     [ "val", "d9/d27/struct_token.html#a2992fe7d1cb1e12628c74d9fb5715c1e", null ]

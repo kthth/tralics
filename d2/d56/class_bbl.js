@@ -9,7 +9,7 @@ var class_bbl =
     [ "non_empty_buf", "d2/d56/class_bbl.html#a990a5a3d2d7f46a719063177af68fea6", null ],
     [ "reset", "d2/d56/class_bbl.html#ad93be3ba1f14bc1f1f22cb142897c6d2", null ],
     [ "reset_lines", "d2/d56/class_bbl.html#ab570d902a7e6d0131378a8f2c89049ad", null ],
-    [ "is_too_late", "d2/d56/class_bbl.html#a425b48563824e70114949814255b029c", null ],
+    [ "is_too_late", "d2/d56/class_bbl.html#a1104207815cd7f7091816a6faa51db66", null ],
     [ "finish", "d2/d56/class_bbl.html#ae31fd1b462f5529dfc8aba109eb32ba5", null ],
     [ "open", "d2/d56/class_bbl.html#adc529a7312963af53ccf16b4280eeb59", null ],
     [ "install_file", "d2/d56/class_bbl.html#a433e696de0b4ef94d0746fa31ff95b09", null ],

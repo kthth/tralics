@@ -11,7 +11,7 @@ var class_xkv_token =
     [ "get_name", "dd/d84/class_xkv_token.html#a91e19425ffa1a25087ec0ba56ab999b1", null ],
     [ "prepare", "dd/d84/class_xkv_token.html#a52a55bb01ec1fdd75a5260a3ebb4325a", null ],
     [ "is_defined", "dd/d84/class_xkv_token.html#a2d28b88a103ec7b3a6ff60241685b383", null ],
-    [ "get_save", "dd/d84/class_xkv_token.html#a7338561180a7a9290b5a19a99b5ca296", null ],
+    [ "get_save", "dd/d84/class_xkv_token.html#af98d2cf6cea601bfead056111780bc1d", null ],
     [ "check_save", "dd/d84/class_xkv_token.html#a1d5a62b880ca7bda6ec9bd2e150f6af3", null ],
     [ "initial", "dd/d84/class_xkv_token.html#aa9cdd8875e21279ad95e45c6246ae835", null ],
     [ "value", "dd/d84/class_xkv_token.html#a1749107105c78aec81bfec26b8107e25", null ],

@@ -9,7 +9,7 @@ var class_bibliography =
     [ "has_cmd", "dd/da8/class_bibliography.html#ad2c58b658a697807f854739efa9c2e3e", null ],
     [ "location_exists", "dd/da8/class_bibliography.html#a7341ee2628e656d4bb086c0c4a7d117d", null ],
     [ "number_of_data_bases", "dd/da8/class_bibliography.html#a39e711de088c472e243091f323ccdf8c", null ],
-    [ "push_back_src", "dd/da8/class_bibliography.html#a0c255511b3cab9e2c4833699d028d09a", null ],
+    [ "push_back_src", "dd/da8/class_bibliography.html#ad2332a7e4ec92a22a25ea59c91eacc2d", null ],
     [ "seen_nocite", "dd/da8/class_bibliography.html#a53b8c442c6d6ee2831807fc998624313", null ],
     [ "set_cmd", "dd/da8/class_bibliography.html#a920efa5a530ef8bb4f7f2227cf8bb004", null ],
     [ "set_location", "dd/da8/class_bibliography.html#a0f0f1ee85186c80bea45f836a973c8e9", null ],
