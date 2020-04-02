@@ -1,8 +1,6 @@
 var class_save_aux_env =
 [
     [ "SaveAuxEnv", "d3/d93/class_save_aux_env.html#a82d9a1ef471c78a08cc01b135792db1c", null ],
-    [ "~SaveAuxEnv", "d3/d93/class_save_aux_env.html#a89c359c1eaa00b4d7721e825dc9fcd27", null ],
-    [ "set_line", "d3/d93/class_save_aux_env.html#a904adb7ee8567db8c46f4b936f44fddd", null ],
     [ "unsave", "d3/d93/class_save_aux_env.html#a4c733fc37c482bf39e349721f77470cc", null ],
     [ "oldname", "d3/d93/class_save_aux_env.html#a96ae2db849ad631e547a850bbce3828c", null ],
     [ "name", "d3/d93/class_save_aux_env.html#aad52de45f6f7b78c59dd41854b5b6f37", null ],

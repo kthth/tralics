@@ -40,7 +40,7 @@ var class_xml_i_o =
     [ "line_buffer", "d3/dda/class_xml_i_o.html#ae354f9fffce5bf8f8896a697c05fadbf", null ],
     [ "lines", "d3/dda/class_xml_i_o.html#a4bb49fa095027ead767f0ef42114fc07", null ],
     [ "cur_line", "d3/dda/class_xml_i_o.html#abb8a75e082d0fc6c1a694b7c983e845a", null ],
-    [ "Type", "d3/dda/class_xml_i_o.html#aee78be29c2b9e478e15048c22735adad", null ],
+    [ "Type", "d3/dda/class_xml_i_o.html#a9d37797691fe2f61d4e566b2955dbf1b", null ],
     [ "input_line", "d3/dda/class_xml_i_o.html#af533a9e6fe968d6651bd1498cf35ed71", null ],
     [ "reread_list", "d3/dda/class_xml_i_o.html#af1674905cdfb7b23fe3576cd6e430747", null ],
     [ "cur_char", "d3/dda/class_xml_i_o.html#aad273158ee4fb08f6497e1a59ef48446", null ],

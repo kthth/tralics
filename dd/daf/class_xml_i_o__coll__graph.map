@@ -1,18 +1,19 @@
 <map id="XmlIO" name="XmlIO">
-<area shape="rect" id="node1" title=" " alt="" coords="880,171,939,197"/>
-<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="409,39,453,65"/>
-<area shape="rect" id="node3" title=" " alt="" coords="616,70,753,95"/>
-<area shape="rect" id="node4" href="$d9/d20/struct_istring.html" title=" " alt="" coords="191,15,249,41"/>
-<area shape="rect" id="node5" href="$de/d3f/class_xid.html" title=" " alt="" coords="199,65,240,90"/>
-<area shape="rect" id="node6" title=" " alt="" coords="603,121,766,146"/>
-<area shape="rect" id="node7" href="$d6/d10/structcodepoint.html" title=" " alt="" coords="391,131,471,157"/>
-<area shape="rect" id="node8" href="$d6/d5a/struct_line_ptr.html" title=" " alt="" coords="653,282,716,307"/>
-<area shape="rect" id="node9" title="STL class." alt="" coords="370,234,492,259"/>
-<area shape="rect" id="node10" title=" " alt="" coords="200,210,239,235"/>
-<area shape="rect" id="node16" title="STL class." alt="" coords="365,185,497,210"/>
-<area shape="rect" id="node11" title="STL class." alt="" coords="180,311,259,337"/>
-<area shape="rect" id="node14" href="$d9/d70/class_entity_def.html" title=" " alt="" coords="393,346,469,371"/>
-<area shape="rect" id="node12" title="STL class." alt="" coords="5,305,131,343"/>
-<area shape="rect" id="node13" title=" " alt="" coords="604,334,764,359"/>
-<area shape="rect" id="node15" href="$d5/d2a/class_buffer.html" title="a big structure" alt="" coords="656,233,713,258"/>
+<area shape="rect" id="node1" title=" " alt="" coords="880,211,939,237"/>
+<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="409,41,453,66"/>
+<area shape="rect" id="node3" title=" " alt="" coords="616,78,753,103"/>
+<area shape="rect" id="node4" href="$d9/d20/struct_istring.html" title=" " alt="" coords="191,17,249,42"/>
+<area shape="rect" id="node5" href="$de/d3f/class_xid.html" title=" " alt="" coords="199,66,240,91"/>
+<area shape="rect" id="node6" title=" " alt="" coords="603,190,766,215"/>
+<area shape="rect" id="node7" href="$d6/d10/structcodepoint.html" title=" " alt="" coords="391,153,471,178"/>
+<area shape="rect" id="node8" href="$d6/d5a/struct_line_ptr.html" title=" " alt="" coords="653,289,716,314"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="370,289,492,314"/>
+<area shape="rect" id="node10" title=" " alt="" coords="200,265,239,290"/>
+<area shape="rect" id="node17" title="STL class." alt="" coords="365,239,497,265"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="180,366,259,391"/>
+<area shape="rect" id="node14" href="$d9/d70/class_entity_def.html" title=" " alt="" coords="393,401,469,426"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="5,359,131,398"/>
+<area shape="rect" id="node13" title=" " alt="" coords="604,401,764,426"/>
+<area shape="rect" id="node15" title=" " alt="" coords="619,338,750,377"/>
+<area shape="rect" id="node16" href="$d5/d2a/class_buffer.html" title="a big structure" alt="" coords="656,239,713,265"/>
 </map>

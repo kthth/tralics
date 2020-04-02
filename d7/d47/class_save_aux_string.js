@@ -1,7 +1,6 @@
 var class_save_aux_string =
 [
     [ "SaveAuxString", "d7/d47/class_save_aux_string.html#ae49c9d6afccea8026ce4688ae383fe58", null ],
-    [ "~SaveAuxString", "d7/d47/class_save_aux_string.html#a0578fcfe3a28f4130bac468f9d24b6e5", null ],
     [ "unsave", "d7/d47/class_save_aux_string.html#a8fe6512313fed53bded2e8b5fe382402", null ],
     [ "level", "d7/d47/class_save_aux_string.html#acb073c7fe86f6feb34b7313a0fe3d193", null ],
     [ "pos", "d7/d47/class_save_aux_string.html#aa4ba918325092db6b84765e9ee56e357", null ],

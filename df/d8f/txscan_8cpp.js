@@ -9,7 +9,7 @@ var txscan_8cpp =
     [ "tfonts", "df/d8f/txscan_8cpp.html#a123d78c697c5dfe9de6cca34bb810f10", null ],
     [ "cur_input_stack", "df/d8f/txscan_8cpp.html#ab1557d89afad2eead51202ddd3f7e974", null ],
     [ "name_in_progress", "df/d8f/txscan_8cpp.html#a78f97f573a5cb19903ff44b73144198b", null ],
-    [ "tex_input_files", "df/d8f/txscan_8cpp.html#a5d71cd9b2c5026fdf95c6e759863ffc9", null ],
+    [ "tex_input_files", "df/d8f/txscan_8cpp.html#aa68aa3f85b8c5b5e50159359ad195030", null ],
     [ "scan_glue_opt", "df/d8f/txscan_8cpp.html#a49c14c4776abd6e62df7e4501f62a59e", null ],
     [ "penalties", "df/d8f/txscan_8cpp.html#a4f631b3b0293c58f0484075a1537d384", null ],
     [ "parshape_vector", "df/d8f/txscan_8cpp.html#a297a44a330eddfbe5044e1458f405fd1", null ],

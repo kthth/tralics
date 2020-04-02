@@ -12,7 +12,7 @@ var txmath1_8cpp =
     [ "mathml_buffer", "dc/d78/txmath1_8cpp.html#acfc3c5b02b65dd44d6ec1590d13468f8", null ],
     [ "aux_buffer", "dc/d78/txmath1_8cpp.html#aa8199b392fac2b3b84fd43ebdfcac75f", null ],
     [ "att_buffer", "dc/d78/txmath1_8cpp.html#a80a0d7a093c6cea3404a6d1a33597188", null ],
-    [ "single_chars", "dc/d78/txmath1_8cpp.html#adaa4b1a8321375e80b5b75d9684bcdd3", null ],
+    [ "single_chars", "dc/d78/txmath1_8cpp.html#ad40c6396497324ffd97010e7f099ffa1", null ],
     [ "cmi_verbose", "dc/d78/txmath1_8cpp.html#a48b23d1ce16ec69b6f576b261051c44d", null ],
     [ "math_data", "dc/d78/txmath1_8cpp.html#a67b3dab46e14d856fe1c7614a0924de0", null ]
 ];

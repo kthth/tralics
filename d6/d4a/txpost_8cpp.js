@@ -23,7 +23,7 @@ var txpost_8cpp =
     [ "last_label_id", "d6/d4a/txpost_8cpp.html#a15ed1e52df1af7b043cb29a89cccbe3b", null ],
     [ "last_top_label_id", "d6/d4a/txpost_8cpp.html#ae21d54de51260cbb0e91b7877dc5fbf3", null ],
     [ "nb_words", "d6/d4a/txpost_8cpp.html#abf6330182770f3ea9825bd3ecdf4fc50", null ],
-    [ "WL0", "d6/d4a/txpost_8cpp.html#aeb7b87d55e62e87f19de477937c5e3df", null ],
+    [ "WL0", "d6/d4a/txpost_8cpp.html#a03f0791e67104f057a56d21db5c06b37", null ],
     [ "fp", "d6/d4a/txpost_8cpp.html#a43376bb7d4de8e71f98ef1b3131b4985", null ],
-    [ "entities", "d6/d4a/txpost_8cpp.html#a073bcdc6359acc94fd5824b7398d47bd", null ]
+    [ "entities", "d6/d4a/txpost_8cpp.html#a5f0a6bca50806aaff3ea1c75fea1f8e4", null ]
 ];

@@ -44,13 +44,6 @@ var files_dup =
     [ "txconfig.cpp", "df/d98/txconfig_8cpp.html", "df/d98/txconfig_8cpp" ],
     [ "txeqtb.h", "d3/d01/txeqtb_8h.html", [
       [ "Equivalent", "d9/dd2/struct_equivalent.html", "d9/dd2/struct_equivalent" ],
-      [ "RestoreVbSpace", "d9/dd7/class_restore_vb_space.html", "d9/dd7/class_restore_vb_space" ],
-      [ "SaveCatcode", "dc/d8e/class_save_catcode.html", "dc/d8e/class_save_catcode" ],
-      [ "SaveScannerStatus", "d3/dba/class_save_scanner_status.html", "d3/dba/class_save_scanner_status" ],
-      [ "SaveLongState", "d6/da1/class_save_long_state.html", "d6/da1/class_save_long_state" ],
-      [ "SaveErrTok", "df/d8c/class_save_err_tok.html", "df/d8c/class_save_err_tok" ],
-      [ "InLoadHandler", "dc/d7e/class_in_load_handler.html", "dc/d7e/class_in_load_handler" ],
-      [ "InUrlHandler", "d5/deb/class_in_url_handler.html", "d5/deb/class_in_url_handler" ],
       [ "SaveState", "db/dde/class_save_state.html", "db/dde/class_save_state" ],
       [ "SaveAux", "da/df8/class_save_aux.html", "da/df8/class_save_aux" ],
       [ "SaveAuxBoundary", "da/dbf/class_save_aux_boundary.html", "da/dbf/class_save_aux_boundary" ],

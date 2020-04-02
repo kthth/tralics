@@ -167,6 +167,7 @@ var class_buffer =
     [ "push_back", "d5/d2a/class_buffer.html#afdfe2001680666a22db7fd00078ad740", null ],
     [ "push_back", "d5/d2a/class_buffer.html#a5be4225b266511a9196d2b49bb75895d", null ],
     [ "push_back", "d5/d2a/class_buffer.html#afb965d5fd6496824cf8501ed81457f2d", null ],
+    [ "push_back", "d5/d2a/class_buffer.html#ae28f87e92d1450d2fc4518ace757e78b", null ],
     [ "wptr", "d5/d2a/class_buffer.html#aab9cc64532a5d5e3fc59cf38af8e3721", null ],
     [ "ptr", "d5/d2a/class_buffer.html#ad4e62dc552906568b81971d49c0d9dd9", null ],
     [ "ptr1", "d5/d2a/class_buffer.html#adba609ee3a95cf733ab98c86a38e5eca", null ]
