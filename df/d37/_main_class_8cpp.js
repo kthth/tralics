@@ -10,7 +10,7 @@ var _main_class_8cpp =
     [ "hack_for_input", "df/d37/_main_class_8cpp.html#afb716aadfd609bb30f9698265207e29c", null ],
     [ "mk_empty", "df/d37/_main_class_8cpp.html#a1e1447fb3c626513ea8b3666df98533b", null ],
     [ "usage_and_quit", "df/d37/_main_class_8cpp.html#a6f6bd518a59f20af3936f428c7b1a72c", null ],
-    [ "try_conf", "df/d37/_main_class_8cpp.html#a43017869f312c4fa24022d91c54a0c3d", null ],
+    [ "try_conf", "df/d37/_main_class_8cpp.html#a517e66ab278a5b1b3a11496311e852f7", null ],
     [ "find_conf_path", "df/d37/_main_class_8cpp.html#a886c3f52e637f6d71dc5dd776c79da42", null ],
     [ "new_in_dir", "df/d37/_main_class_8cpp.html#abbea7de9d9b886daa509135d5af30adb", null ],
     [ "obsolete", "df/d37/_main_class_8cpp.html#a212ec60e6a786c2b00fb021af5976fa2", null ],

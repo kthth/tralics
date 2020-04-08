@@ -93,6 +93,7 @@ var annotated_dup =
     [ "Stats", "df/d1b/class_stats.html", "df/d1b/class_stats" ],
     [ "SthInternal", "d2/db5/class_sth_internal.html", "d2/db5/class_sth_internal" ],
     [ "StrHash", "de/df7/class_str_hash.html", "de/df7/class_str_hash" ],
+    [ "StrHash_record", "d7/dd4/struct_str_hash__record.html", "d7/dd4/struct_str_hash__record" ],
     [ "TeXChar", "dc/dea/class_te_x_char.html", "dc/dea/class_te_x_char" ],
     [ "TexFont", "de/dbe/class_tex_font.html", "de/dbe/class_tex_font" ],
     [ "TexFonts", "d1/df4/struct_tex_fonts.html", "d1/df4/struct_tex_fonts" ],

@@ -20,8 +20,6 @@ var txpost_8cpp =
     [ "defined_labels", "d6/d4a/txpost_8cpp.html#a72207ae81086b7f30fcb3ad4f41f04e7", null ],
     [ "removed_labels", "d6/d4a/txpost_8cpp.html#a3c51c3e686632218cb2a062763406c5a", null ],
     [ "cur_fp", "d6/d4a/txpost_8cpp.html#af7c71473c0574fb12b9df49e74e8d96d", null ],
-    [ "last_label_id", "d6/d4a/txpost_8cpp.html#a15ed1e52df1af7b043cb29a89cccbe3b", null ],
-    [ "last_top_label_id", "d6/d4a/txpost_8cpp.html#ae21d54de51260cbb0e91b7877dc5fbf3", null ],
     [ "nb_words", "d6/d4a/txpost_8cpp.html#abf6330182770f3ea9825bd3ecdf4fc50", null ],
     [ "WL0", "d6/d4a/txpost_8cpp.html#a03f0791e67104f057a56d21db5c06b37", null ],
     [ "fp", "d6/d4a/txpost_8cpp.html#a43376bb7d4de8e71f98ef1b3131b4985", null ],

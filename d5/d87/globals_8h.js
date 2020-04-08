@@ -1,15 +1,14 @@
 var globals_8h =
 [
     [ "assign", "d5/d87/globals_8h.html#ab6e46bf3c395e080bea30465af860707", null ],
-    [ "register_file", "d5/d87/globals_8h.html#abfc212fc4a35034c99ff0675cd50d2e3", null ],
+    [ "register_file", "d5/d87/globals_8h.html#a273cbbf1f698baa67c8b6c3306279e08", null ],
     [ "search_in_confdir", "d5/d87/globals_8h.html#aa26e8259ca171249089ac7071487bbb0", null ],
-    [ "conf_path", "d5/d87/globals_8h.html#ad4f01cac1d43b59fe696f127443bbc2c", null ],
+    [ "conf_path", "d5/d87/globals_8h.html#a5127aa8f579e9bf475ea7c41ba945739", null ],
     [ "input_path", "d5/d87/globals_8h.html#a755d9618c26010081da25e9ae262e075", null ],
     [ "file_name", "d5/d87/globals_8h.html#a6780a91e804b0bccb16fc13dec117947", null ],
     [ "all_themes", "d5/d87/globals_8h.html#a8531830449fbde76990aa97d13049720", null ],
     [ "everyjob_string", "d5/d87/globals_8h.html#a9545753df0b95afdd253ca871bf05490", null ],
-    [ "file_pool", "d5/d87/globals_8h.html#a865ab304fdaeae8e229551ef05a47e45", null ],
-    [ "pool_position", "d5/d87/globals_8h.html#af43b4693183ac6477f9893915088f7eb", null ],
+    [ "file_pool", "d5/d87/globals_8h.html#aa39edfa42730ab45384cb6c5163c57e5", null ],
     [ "leftquote_val", "d5/d87/globals_8h.html#a7c45fd35253d95023155073c13e68056", null ],
     [ "rightquote_val", "d5/d87/globals_8h.html#a39dbe4450811a62423b7b6989fb19e36", null ],
     [ "bad_minus", "d5/d87/globals_8h.html#af8d4f699dff2942ba82cc1630cc95f07", null ],

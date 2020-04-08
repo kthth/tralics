@@ -1,44 +1,45 @@
 <map id="txmlio.cpp" name="txmlio.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="203,5,284,31"/>
-<area shape="rect" id="node2" href="$dc/d84/txmlio_8h.html" title=" " alt="" coords="210,79,277,104"/>
-<area shape="rect" id="node26" href="$d7/d79/txinline_8h.html" title=" " alt="" coords="112,79,186,104"/>
-<area shape="rect" id="node32" href="$d2/d1b/txparser_8h.html" title=" " alt="" coords="569,79,649,104"/>
-<area shape="rect" id="node3" href="$de/d29/txio_8h.html" title=" " alt="" coords="261,225,314,251"/>
-<area shape="rect" id="node4" href="$d7/d1b/_buffer_8h.html" title=" " alt="" coords="587,372,692,397"/>
-<area shape="rect" id="node25" title=" " alt="" coords="155,299,220,324"/>
-<area shape="rect" id="node5" href="$d1/d9e/txid_8h.html" title=" " alt="" coords="657,519,721,544"/>
-<area shape="rect" id="node15" href="$d9/d18/txscaled_8h.html" title=" " alt="" coords="491,445,583,471"/>
-<area shape="rect" id="node23" title=" " alt="" coords="607,445,667,471"/>
-<area shape="rect" id="node24" title=" " alt="" coords="772,445,830,471"/>
-<area shape="rect" id="node6" href="$d5/daf/_istring_8h.html" title=" " alt="" coords="619,592,727,617"/>
-<area shape="rect" id="node7" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="643,739,716,764"/>
-<area shape="rect" id="node13" title=" " alt="" coords="710,665,761,691"/>
-<area shape="rect" id="node14" title=" " alt="" coords="793,665,847,691"/>
-<area shape="rect" id="node8" href="$d8/db5/consts_8h.html" title=" " alt="" coords="644,812,715,837"/>
-<area shape="rect" id="node9" href="$d9/d49/types_8h.html" title=" " alt="" coords="610,885,674,911"/>
-<area shape="rect" id="node10" title=" " alt="" coords="522,959,586,984"/>
-<area shape="rect" id="node11" title=" " alt="" coords="610,959,674,984"/>
-<area shape="rect" id="node12" title=" " alt="" coords="698,959,781,984"/>
-<area shape="rect" id="node16" href="$dc/d91/txtokenlist_8h.html" title=" " alt="" coords="502,519,593,544"/>
-<area shape="rect" id="node17" href="$dd/dcd/_token_8h.html" title=" " alt="" coords="489,592,596,617"/>
-<area shape="rect" id="node22" title=" " alt="" coords="751,592,803,617"/>
-<area shape="rect" id="node18" href="$d2/d68/_cmd_chr_8h.html" title=" " alt="" coords="540,665,622,691"/>
-<area shape="rect" id="node21" title=" " alt="" coords="478,665,516,691"/>
-<area shape="rect" id="node19" href="$d8/d47/codepoint_8h.html" title=" " alt="" coords="529,739,619,764"/>
-<area shape="rect" id="node20" title=" " alt="" coords="500,812,568,837"/>
-<area shape="rect" id="node27" href="$d4/de9/_main_class_8h.html" title=" " alt="" coords="264,152,397,177"/>
-<area shape="rect" id="node29" href="$d2/d06/txlogger_8h.html" title=" " alt="" coords="5,152,84,177"/>
-<area shape="rect" id="node31" href="$d5/d08/txparam_8h.html" title=" " alt="" coords="109,152,189,177"/>
-<area shape="rect" id="node28" href="$dc/def/txstring_8h.html" title=" " alt="" coords="596,299,683,324"/>
-<area shape="rect" id="node30" title=" " alt="" coords="82,225,154,251"/>
-<area shape="rect" id="node33" href="$d8/dd6/_e_q_t_b_8h.html" title=" " alt="" coords="442,299,549,324"/>
-<area shape="rect" id="node34" href="$d3/d6b/txcond_8h.html" title=" " alt="" coords="853,372,925,397"/>
-<area shape="rect" id="node35" href="$d7/d4d/txfonts_8h.html" title=" " alt="" coords="510,225,582,251"/>
-<area shape="rect" id="node36" href="$d7/d7e/txhash_8h.html" title=" " alt="" coords="669,152,741,177"/>
-<area shape="rect" id="node38" href="$de/d7c/tximage_8h.html" title=" " alt="" coords="773,519,852,544"/>
-<area shape="rect" id="node39" href="$dc/d65/txstack_8h.html" title=" " alt="" coords="765,152,839,177"/>
-<area shape="rect" id="node42" href="$d8/d3d/txstats_8h.html" title=" " alt="" coords="573,152,644,177"/>
-<area shape="rect" id="node37" href="$d3/d01/txeqtb_8h.html" title=" " alt="" coords="607,225,675,251"/>
-<area shape="rect" id="node40" href="$d9/d1c/_xml_8h.html" title=" " alt="" coords="781,225,875,251"/>
-<area shape="rect" id="node41" href="$d4/da4/txatt_8h.html" title=" " alt="" coords="699,225,756,251"/>
+<area shape="rect" id="node1" title=" " alt="" coords="176,5,258,31"/>
+<area shape="rect" id="node2" href="$dc/d84/txmlio_8h.html" title=" " alt="" coords="89,79,156,104"/>
+<area shape="rect" id="node27" href="$d7/d79/txinline_8h.html" title=" " alt="" coords="180,79,254,104"/>
+<area shape="rect" id="node33" href="$d2/d1b/txparser_8h.html" title=" " alt="" coords="614,79,694,104"/>
+<area shape="rect" id="node3" href="$de/d29/txio_8h.html" title=" " alt="" coords="238,225,292,251"/>
+<area shape="rect" id="node4" href="$d7/d1b/_buffer_8h.html" title=" " alt="" coords="596,372,702,397"/>
+<area shape="rect" id="node26" title=" " alt="" coords="180,299,246,324"/>
+<area shape="rect" id="node5" href="$d1/d9e/txid_8h.html" title=" " alt="" coords="577,519,641,544"/>
+<area shape="rect" id="node16" href="$d9/d18/txscaled_8h.html" title=" " alt="" coords="785,445,878,471"/>
+<area shape="rect" id="node24" title=" " alt="" coords="620,445,681,471"/>
+<area shape="rect" id="node25" title=" " alt="" coords="704,445,762,471"/>
+<area shape="rect" id="node6" href="$d5/daf/_istring_8h.html" title=" " alt="" coords="575,592,683,617"/>
+<area shape="rect" id="node7" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="797,739,869,764"/>
+<area shape="rect" id="node13" href="$d8/d3c/util_8h.html" title=" " alt="" coords="489,665,539,691"/>
+<area shape="rect" id="node14" title=" " alt="" coords="487,739,541,764"/>
+<area shape="rect" id="node15" title=" " alt="" coords="614,665,665,691"/>
+<area shape="rect" id="node8" href="$d8/db5/consts_8h.html" title=" " alt="" coords="797,812,868,837"/>
+<area shape="rect" id="node9" href="$d9/d49/types_8h.html" title=" " alt="" coords="718,885,782,911"/>
+<area shape="rect" id="node10" title=" " alt="" coords="630,959,694,984"/>
+<area shape="rect" id="node11" title=" " alt="" coords="718,959,782,984"/>
+<area shape="rect" id="node12" title=" " alt="" coords="806,959,889,984"/>
+<area shape="rect" id="node17" href="$dc/d91/txtokenlist_8h.html" title=" " alt="" coords="716,519,808,544"/>
+<area shape="rect" id="node18" href="$dd/dcd/_token_8h.html" title=" " alt="" coords="728,592,834,617"/>
+<area shape="rect" id="node23" title=" " alt="" coords="494,592,545,617"/>
+<area shape="rect" id="node19" href="$d2/d68/_cmd_chr_8h.html" title=" " alt="" coords="740,665,822,691"/>
+<area shape="rect" id="node22" title=" " alt="" coords="846,665,884,691"/>
+<area shape="rect" id="node20" href="$d8/d47/codepoint_8h.html" title=" " alt="" coords="682,739,773,764"/>
+<area shape="rect" id="node21" title=" " alt="" coords="706,812,774,837"/>
+<area shape="rect" id="node28" href="$d4/de9/_main_class_8h.html" title=" " alt="" coords="264,152,397,177"/>
+<area shape="rect" id="node30" href="$d2/d06/txlogger_8h.html" title=" " alt="" coords="5,152,84,177"/>
+<area shape="rect" id="node32" href="$d5/d08/txparam_8h.html" title=" " alt="" coords="159,152,240,177"/>
+<area shape="rect" id="node29" href="$dc/def/txstring_8h.html" title=" " alt="" coords="604,299,691,324"/>
+<area shape="rect" id="node31" title=" " alt="" coords="9,225,81,251"/>
+<area shape="rect" id="node34" href="$d8/dd6/_e_q_t_b_8h.html" title=" " alt="" coords="961,299,1068,324"/>
+<area shape="rect" id="node35" href="$d3/d6b/txcond_8h.html" title=" " alt="" coords="886,372,958,397"/>
+<area shape="rect" id="node36" href="$d7/d4d/txfonts_8h.html" title=" " alt="" coords="814,225,886,251"/>
+<area shape="rect" id="node37" href="$d7/d7e/txhash_8h.html" title=" " alt="" coords="522,152,594,177"/>
+<area shape="rect" id="node39" href="$de/d7c/tximage_8h.html" title=" " alt="" coords="445,519,524,544"/>
+<area shape="rect" id="node40" href="$dc/d65/txstack_8h.html" title=" " alt="" coords="713,152,787,177"/>
+<area shape="rect" id="node43" href="$d8/d3d/txstats_8h.html" title=" " alt="" coords="619,152,690,177"/>
+<area shape="rect" id="node38" href="$d3/d01/txeqtb_8h.html" title=" " alt="" coords="523,225,591,251"/>
+<area shape="rect" id="node41" href="$d9/d1c/_xml_8h.html" title=" " alt="" coords="697,225,791,251"/>
+<area shape="rect" id="node42" href="$d4/da4/txatt_8h.html" title=" " alt="" coords="615,225,672,251"/>
 </map>

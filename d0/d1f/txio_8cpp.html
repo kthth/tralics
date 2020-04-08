@@ -102,11 +102,13 @@ $(document).ready(function(){initNavTree('d0/d1f/txio_8cpp.html','../../'); init
 <code>#include &quot;<a class="el" href="../../d7/d79/txinline_8h_source.html">txinline.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../d2/d1b/txparser_8h_source.html">txparser.h</a>&quot;</code><br />
 <code>#include &lt;filesystem&gt;</code><br />
+<code>#include &lt;fmt/format.h&gt;</code><br />
 <code>#include &lt;sstream&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for txio.cpp:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d4/da1/txio_8cpp__incl.svg" width="992" height="1063"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d4/da1/txio_8cpp__incl.svg" width="1138" height="1063"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
@@ -123,6 +125,9 @@ Functions</h2></td></tr>
 <tr class="separator:a3e055f11f7cf74ecd6a5d29d2e2693ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4906907decb626782a655f5f10ad01d3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/namespaceanonymous__namespace_02txio_8cpp_03.html#a4906907decb626782a655f5f10ad01d3">anonymous_namespace{txio.cpp}::utf8_ovf</a> (size_t n)</td></tr>
 <tr class="separator:a4906907decb626782a655f5f10ad01d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61d35b6e014708138ff60fe41e972b04"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/namespaceanonymous__namespace_02txio_8cpp_03.html#a61d35b6e014708138ff60fe41e972b04">anonymous_namespace{txio.cpp}::search_in_pool</a> (const std::string &amp;name) -&gt; std::optional&lt; size_t &gt;</td></tr>
+<tr class="memdesc:a61d35b6e014708138ff60fe41e972b04"><td class="mdescLeft">&#160;</td><td class="mdescRight">Look for a file in the pool.  <a href="../../d0/dd3/namespaceanonymous__namespace_02txio_8cpp_03.html#a61d35b6e014708138ff60fe41e972b04">More...</a><br /></td></tr>
+<tr class="separator:a61d35b6e014708138ff60fe41e972b04"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a78c1e3fdf8d1fd516e93a6d7a2ad7347"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/namespaceio__ns.html#a78c1e3fdf8d1fd516e93a6d7a2ad7347">io_ns::print_ascii</a> (std::ostream &amp;fp, char c)</td></tr>
 <tr class="separator:a78c1e3fdf8d1fd516e93a6d7a2ad7347"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acce035301d0022baab729fa778f9ee4c"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d81/namespaceio__ns.html#acce035301d0022baab729fa778f9ee4c">io_ns::how_many_bytes</a> (char) -&gt; size_t</td></tr>
@@ -186,6 +191,8 @@ Variables</h2></td></tr>
 <tr class="separator:a4c49570235d886d0400e89db2e5ad5b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7e1a863a66f7ed476aa481dffae3002a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d92/class_converter.html">Converter</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/namespaceanonymous__namespace_02txio_8cpp_03.html#a7e1a863a66f7ed476aa481dffae3002a">anonymous_namespace{txio.cpp}::the_converter</a></td></tr>
 <tr class="separator:a7e1a863a66f7ed476aa481dffae3002a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5a2c3b755e7aa5493ff4a1aba0f0f6e"><td class="memItemLeft" align="right" valign="top">std::optional&lt; size_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/namespaceanonymous__namespace_02txio_8cpp_03.html#ab5a2c3b755e7aa5493ff4a1aba0f0f6e">anonymous_namespace{txio.cpp}::pool_position</a></td></tr>
+<tr class="separator:ab5a2c3b755e7aa5493ff4a1aba0f0f6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="a077b6b7ffa0b121d56586d6e765ba9b0"></a>

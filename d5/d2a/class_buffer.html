@@ -117,6 +117,8 @@ Collaboration diagram for Buffer:</div>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:ae7ef2cd201190fde551dcb902627112b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ae7ef2cd201190fde551dcb902627112b">Buffer</a> ()</td></tr>
 <tr class="separator:ae7ef2cd201190fde551dcb902627112b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a0419a842f5d3a78973d65951d50575"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a1a0419a842f5d3a78973d65951d50575">Buffer</a> (const std::string &amp;s)</td></tr>
+<tr class="separator:a1a0419a842f5d3a78973d65951d50575"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4d3b8a1218df3938f95b7062c00abf50"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a4d3b8a1218df3938f95b7062c00abf50">c_str</a> (size_t k=0) const -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
 <tr class="memdesc:a4d3b8a1218df3938f95b7062c00abf50"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../d5/d2a/class_buffer.html" title="a big structure">Buffer</a> contents as a char*.  <a href="../../d5/d2a/class_buffer.html#a4d3b8a1218df3938f95b7062c00abf50">More...</a><br /></td></tr>
 <tr class="separator:a4d3b8a1218df3938f95b7062c00abf50"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -273,9 +275,6 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a40abb78d004a81a1dc52bea5e7fa8db9"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a40abb78d004a81a1dc52bea5e7fa8db9">horner</a> (size_t p) -&gt; <a class="el" href="../../d9/d49/types_8h.html#ac5aa0b5103dcecdc43c57c669d432ba3">Digit</a></td></tr>
 <tr class="memdesc:a40abb78d004a81a1dc52bea5e7fa8db9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Read an integer at <code>ptr</code>, advance.  <a href="../../d5/d2a/class_buffer.html#a40abb78d004a81a1dc52bea5e7fa8db9">More...</a><br /></td></tr>
 <tr class="separator:a40abb78d004a81a1dc52bea5e7fa8db9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad5b5787fea2999a8523e06de383f2726"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ad5b5787fea2999a8523e06de383f2726">insert_fp</a> (const <a class="el" href="../../db/d0c/class_fp_num.html">FpNum</a> &amp;X) -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td></tr>
-<tr class="memdesc:ad5b5787fea2999a8523e06de383f2726"><td class="mdescLeft">&#160;</td><td class="mdescRight">Insert a number at buffer start.  <a href="../../d5/d2a/class_buffer.html#ad5b5787fea2999a8523e06de383f2726">More...</a><br /></td></tr>
-<tr class="separator:ad5b5787fea2999a8523e06de383f2726"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a41bc4f8fa64894df51e84132d82deba5"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a41bc4f8fa64894df51e84132d82deba5">insert_break</a> (const std::string &amp;x) -&gt; std::string</td></tr>
 <tr class="separator:a41bc4f8fa64894df51e84132d82deba5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af254305536d6c04abe61c5a68d6ee9f3"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#af254305536d6c04abe61c5a68d6ee9f3">install_att</a> (<a class="el" href="../../de/d3f/class_xid.html">Xid</a> idx, <a class="el" href="../../d9/d20/struct_istring.html">Istring</a> match) -&gt; bool</td></tr>
@@ -392,10 +391,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a13582a01e0d33e116c590eaaf00f42c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a88bc7c21a88011638820100c168da87e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a88bc7c21a88011638820100c168da87e">push_back_unless_punct</a> (char c)</td></tr>
 <tr class="separator:a88bc7c21a88011638820100c168da87e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a83af07230f86d6b6be6791492eb84497"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a83af07230f86d6b6be6791492eb84497">push_back3</a> (unsigned int x)</td></tr>
-<tr class="separator:a83af07230f86d6b6be6791492eb84497"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab8ff6a2fc35355c71589e3e339385020"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ab8ff6a2fc35355c71589e3e339385020">push_back9</a> (unsigned int x)</td></tr>
-<tr class="separator:ab8ff6a2fc35355c71589e3e339385020"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa1320c953d2e759c4b6408299243df6d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#aa1320c953d2e759c4b6408299243df6d">put_at_end</a> (<a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a> s)</td></tr>
 <tr class="separator:aa1320c953d2e759c4b6408299243df6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a46f85adc78467ae5b16c4d6c0f3b11f2"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a46f85adc78467ae5b16c4d6c0f3b11f2">remove_digits</a> (const std::string &amp;s) -&gt; std::string</td></tr>
@@ -500,10 +495,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:afdfe2001680666a22db7fd00078ad740"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5be4225b266511a9196d2b49bb75895d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#a5be4225b266511a9196d2b49bb75895d">push_back</a> (const <a class="el" href="../../dd/dcd/_token_8h.html#a629d658c186a915f8c83137cfaf3bc9e">TokenList</a> &amp;L)</td></tr>
 <tr class="separator:a5be4225b266511a9196d2b49bb75895d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afb965d5fd6496824cf8501ed81457f2d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#afb965d5fd6496824cf8501ed81457f2d">push_back</a> (long n)</td></tr>
-<tr class="separator:afb965d5fd6496824cf8501ed81457f2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae28f87e92d1450d2fc4518ace757e78b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2a/class_buffer.html#ae28f87e92d1450d2fc4518ace757e78b">push_back</a> (size_t n)</td></tr>
-<tr class="separator:ae28f87e92d1450d2fc4518ace757e78b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -523,7 +514,7 @@ Public Attributes</h2></td></tr>
 <p>Or at least, replace wptr and vector::size() by just size() and capacity() from the vector. Many methods do not belong in a general class like that because they are specific to TeX. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="ae7ef2cd201190fde551dcb902627112b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae7ef2cd201190fde551dcb902627112b">&#9670;&nbsp;</a></span>Buffer()</h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ae7ef2cd201190fde551dcb902627112b">&#9670;&nbsp;</a></span>Buffer() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -535,6 +526,32 @@ Public Attributes</h2></td></tr>
           <td class="memname">Buffer::Buffer </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1a0419a842f5d3a78973d65951d50575"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a0419a842f5d3a78973d65951d50575">&#9670;&nbsp;</a></span>Buffer() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Buffer::Buffer </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>s</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -1619,26 +1636,6 @@ Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Read an integer at <code>ptr</code>, advance. </p>
-
-</div>
-</div>
-<a id="ad5b5787fea2999a8523e06de383f2726"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad5b5787fea2999a8523e06de383f2726">&#9670;&nbsp;</a></span>insert_fp()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Buffer::insert_fp </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../db/d0c/class_fp_num.html">FpNum</a> &amp;&#160;</td>
-          <td class="paramname"><em>X</em></td><td>)</td>
-          <td> -&gt; <a class="el" href="../../d9/d49/types_8h.html#afc1fb549fe70cb348a1b6203b60b7800">String</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Insert a number at buffer start. </p>
 
 </div>
 </div>
@@ -2856,42 +2853,6 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a83af07230f86d6b6be6791492eb84497"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a83af07230f86d6b6be6791492eb84497">&#9670;&nbsp;</a></span>push_back3()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Buffer::push_back3 </td>
-          <td>(</td>
-          <td class="paramtype">unsigned int&#160;</td>
-          <td class="paramname"><em>x</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab8ff6a2fc35355c71589e3e339385020"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab8ff6a2fc35355c71589e3e339385020">&#9670;&nbsp;</a></span>push_back9()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Buffer::push_back9 </td>
-          <td>(</td>
-          <td class="paramtype">unsigned int&#160;</td>
-          <td class="paramname"><em>x</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="aa1320c953d2e759c4b6408299243df6d"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aa1320c953d2e759c4b6408299243df6d">&#9670;&nbsp;</a></span>put_at_end()</h2>
 
@@ -3629,7 +3590,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="a62ef2839e39fcdb87b35803c7a78e000"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62ef2839e39fcdb87b35803c7a78e000">&#9670;&nbsp;</a></span>push_back() <span class="overload">[1/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a62ef2839e39fcdb87b35803c7a78e000">&#9670;&nbsp;</a></span>push_back() <span class="overload">[1/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3647,7 +3608,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="a142e2dbf8b67e6121f9d881d4bb3ca3e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a142e2dbf8b67e6121f9d881d4bb3ca3e">&#9670;&nbsp;</a></span>push_back() <span class="overload">[2/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a142e2dbf8b67e6121f9d881d4bb3ca3e">&#9670;&nbsp;</a></span>push_back() <span class="overload">[2/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3665,7 +3626,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="acd01d8de614d005ae33504fa7c45f228"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acd01d8de614d005ae33504fa7c45f228">&#9670;&nbsp;</a></span>push_back() <span class="overload">[3/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#acd01d8de614d005ae33504fa7c45f228">&#9670;&nbsp;</a></span>push_back() <span class="overload">[3/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3683,7 +3644,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="a6709c5d3fb852f2066463218aa200d8a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6709c5d3fb852f2066463218aa200d8a">&#9670;&nbsp;</a></span>push_back() <span class="overload">[4/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a6709c5d3fb852f2066463218aa200d8a">&#9670;&nbsp;</a></span>push_back() <span class="overload">[4/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3701,7 +3662,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="ab9dce15c49ce8d73118a2abcea18c19f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab9dce15c49ce8d73118a2abcea18c19f">&#9670;&nbsp;</a></span>push_back() <span class="overload">[5/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9dce15c49ce8d73118a2abcea18c19f">&#9670;&nbsp;</a></span>push_back() <span class="overload">[5/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3727,7 +3688,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="a3bbf9da0303ca6d29b9c70a6d2343327"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3bbf9da0303ca6d29b9c70a6d2343327">&#9670;&nbsp;</a></span>push_back() <span class="overload">[6/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a3bbf9da0303ca6d29b9c70a6d2343327">&#9670;&nbsp;</a></span>push_back() <span class="overload">[6/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3745,7 +3706,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="a05be1bae89fb757fae05f9018374fcbe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05be1bae89fb757fae05f9018374fcbe">&#9670;&nbsp;</a></span>push_back() <span class="overload">[7/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a05be1bae89fb757fae05f9018374fcbe">&#9670;&nbsp;</a></span>push_back() <span class="overload">[7/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3763,7 +3724,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="a127603b9420261b57653fafa8346dfa8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a127603b9420261b57653fafa8346dfa8">&#9670;&nbsp;</a></span>push_back() <span class="overload">[8/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a127603b9420261b57653fafa8346dfa8">&#9670;&nbsp;</a></span>push_back() <span class="overload">[8/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3791,7 +3752,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="aca769ad55c4f3d0badb0333e46a94f06"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aca769ad55c4f3d0badb0333e46a94f06">&#9670;&nbsp;</a></span>push_back() <span class="overload">[9/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#aca769ad55c4f3d0badb0333e46a94f06">&#9670;&nbsp;</a></span>push_back() <span class="overload">[9/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3809,7 +3770,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="a1ee12919e84cfc355ccfd794ef91e276"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1ee12919e84cfc355ccfd794ef91e276">&#9670;&nbsp;</a></span>push_back() <span class="overload">[10/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a1ee12919e84cfc355ccfd794ef91e276">&#9670;&nbsp;</a></span>push_back() <span class="overload">[10/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3827,7 +3788,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="abdc9cca1bd990d961916bb13d42f667b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abdc9cca1bd990d961916bb13d42f667b">&#9670;&nbsp;</a></span>push_back() <span class="overload">[11/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#abdc9cca1bd990d961916bb13d42f667b">&#9670;&nbsp;</a></span>push_back() <span class="overload">[11/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3845,7 +3806,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="ab9186c0fbc7183683570ef6e275d0ef3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab9186c0fbc7183683570ef6e275d0ef3">&#9670;&nbsp;</a></span>push_back() <span class="overload">[12/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9186c0fbc7183683570ef6e275d0ef3">&#9670;&nbsp;</a></span>push_back() <span class="overload">[12/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3863,7 +3824,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="a2a99883982ed539574d61f22de7115da"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2a99883982ed539574d61f22de7115da">&#9670;&nbsp;</a></span>push_back() <span class="overload">[13/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a99883982ed539574d61f22de7115da">&#9670;&nbsp;</a></span>push_back() <span class="overload">[13/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3881,7 +3842,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="afdfe2001680666a22db7fd00078ad740"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afdfe2001680666a22db7fd00078ad740">&#9670;&nbsp;</a></span>push_back() <span class="overload">[14/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#afdfe2001680666a22db7fd00078ad740">&#9670;&nbsp;</a></span>push_back() <span class="overload">[14/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3909,7 +3870,7 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <a id="a5be4225b266511a9196d2b49bb75895d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5be4225b266511a9196d2b49bb75895d">&#9670;&nbsp;</a></span>push_back() <span class="overload">[15/17]</span></h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a5be4225b266511a9196d2b49bb75895d">&#9670;&nbsp;</a></span>push_back() <span class="overload">[15/15]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -3919,42 +3880,6 @@ Public Attributes</h2></td></tr>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="../../dd/dcd/_token_8h.html#a629d658c186a915f8c83137cfaf3bc9e">TokenList</a> &amp;&#160;</td>
           <td class="paramname"><em>L</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="afb965d5fd6496824cf8501ed81457f2d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afb965d5fd6496824cf8501ed81457f2d">&#9670;&nbsp;</a></span>push_back() <span class="overload">[16/17]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Buffer::push_back </td>
-          <td>(</td>
-          <td class="paramtype">long&#160;</td>
-          <td class="paramname"><em>n</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae28f87e92d1450d2fc4518ace757e78b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae28f87e92d1450d2fc4518ace757e78b">&#9670;&nbsp;</a></span>push_back() <span class="overload">[17/17]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Buffer::push_back </td>
-          <td>(</td>
-          <td class="paramtype">size_t&#160;</td>
-          <td class="paramname"><em>n</em></td><td>)</td>
           <td></td>
         </tr>
       </table>

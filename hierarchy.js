@@ -95,7 +95,7 @@ var hierarchy =
     [ "Stack::StackSlot", "d8/dc9/class_stack_1_1_stack_slot.html", null ],
     [ "Stats", "df/d1b/class_stats.html", null ],
     [ "SthInternal", "d2/db5/class_sth_internal.html", null ],
-    [ "StrHash", "de/df7/class_str_hash.html", null ],
+    [ "StrHash_record", "d7/dd4/struct_str_hash__record.html", null ],
     [ "TeXChar", "dc/dea/class_te_x_char.html", null ],
     [ "TexFont", "de/dbe/class_tex_font.html", null ],
     [ "TexOutStream", "de/dcf/class_tex_out_stream.html", null ],
@@ -108,6 +108,7 @@ var hierarchy =
     [ "std::vector< T >", null, [
       [ "AllIndex", "d5/dc6/struct_all_index.html", null ],
       [ "Buffer", "d5/d2a/class_buffer.html", null ],
+      [ "StrHash", "de/df7/class_str_hash.html", null ],
       [ "TexFonts", "d1/df4/struct_tex_fonts.html", null ]
     ] ],
     [ "WordList", "d5/d8c/class_word_list.html", null ],

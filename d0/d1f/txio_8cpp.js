@@ -2,6 +2,7 @@ var txio_8cpp =
 [
     [ "use_pool", "d0/d1f/txio_8cpp.html#a3e055f11f7cf74ecd6a5d29d2e2693ab", null ],
     [ "utf8_ovf", "d0/d1f/txio_8cpp.html#a4906907decb626782a655f5f10ad01d3", null ],
+    [ "search_in_pool", "d0/d1f/txio_8cpp.html#a61d35b6e014708138ff60fe41e972b04", null ],
     [ "print_ascii", "d0/d1f/txio_8cpp.html#a78c1e3fdf8d1fd516e93a6d7a2ad7347", null ],
     [ "how_many_bytes", "d0/d1f/txio_8cpp.html#acce035301d0022baab729fa778f9ee4c", null ],
     [ "make_utf8char", "d0/d1f/txio_8cpp.html#a6c17675b8dcc8c0e433707f213a44660", null ],
@@ -31,5 +32,6 @@ var txio_8cpp =
     [ "log_is_open", "d0/d1f/txio_8cpp.html#a019ddd06fba40dfd8b6c53854b83e6f0", null ],
     [ "utf8_out", "d0/d1f/txio_8cpp.html#a3c72d82e5385e0362b60ee88d449a9ce", null ],
     [ "utf8_in", "d0/d1f/txio_8cpp.html#a4c49570235d886d0400e89db2e5ad5b1", null ],
-    [ "the_converter", "d0/d1f/txio_8cpp.html#a7e1a863a66f7ed476aa481dffae3002a", null ]
+    [ "the_converter", "d0/d1f/txio_8cpp.html#a7e1a863a66f7ed476aa481dffae3002a", null ],
+    [ "pool_position", "d0/d1f/txio_8cpp.html#ab5a2c3b755e7aa5493ff4a1aba0f0f6e", null ]
 ];

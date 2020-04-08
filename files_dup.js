@@ -4,7 +4,6 @@ var files_dup =
     [ "tralics", "dir_34757b718924119af78d27f1d70115f6.html", "dir_34757b718924119af78d27f1d70115f6" ],
     [ "Buffer.cpp", "dc/dcf/_buffer_8cpp.html", "dc/dcf/_buffer_8cpp" ],
     [ "globals.cpp", "da/d77/globals_8cpp.html", "da/d77/globals_8cpp" ],
-    [ "Istring.cpp", "d0/d4b/_istring_8cpp.html", null ],
     [ "MainClass.cpp", "df/d37/_main_class_8cpp.html", "df/d37/_main_class_8cpp" ],
     [ "readline.cpp", "d7/d53/readline_8cpp.html", "d7/d53/readline_8cpp" ],
     [ "tralics.cpp", "d5/ddd/tralics_8cpp.html", "d5/ddd/tralics_8cpp" ],
@@ -123,6 +122,7 @@ var files_dup =
       [ "Stats", "df/d1b/class_stats.html", "df/d1b/class_stats" ]
     ] ],
     [ "txstring.h", "dc/def/txstring_8h.html", [
+      [ "StrHash_record", "d7/dd4/struct_str_hash__record.html", "d7/dd4/struct_str_hash__record" ],
       [ "StrHash", "de/df7/class_str_hash.html", "de/df7/class_str_hash" ]
     ] ],
     [ "txtitlepage.cpp", "d1/dc8/txtitlepage_8cpp.html", "d1/dc8/txtitlepage_8cpp" ],
@@ -133,5 +133,6 @@ var files_dup =
     [ "txtokenlist.h", "dc/d91/txtokenlist_8h.html", "dc/d91/txtokenlist_8h" ],
     [ "txtranslate.cpp", "dd/da4/txtranslate_8cpp.html", "dd/da4/txtranslate_8cpp" ],
     [ "txtrees.cpp", "d0/d93/txtrees_8cpp.html", "d0/d93/txtrees_8cpp" ],
-    [ "txtrees.h", "d0/dd4/txtrees_8h.html", "d0/dd4/txtrees_8h" ]
+    [ "txtrees.h", "d0/dd4/txtrees_8h.html", "d0/dd4/txtrees_8h" ],
+    [ "util.cpp", "df/d2d/util_8cpp.html", "df/d2d/util_8cpp" ]
 ];

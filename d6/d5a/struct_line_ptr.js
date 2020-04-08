@@ -31,7 +31,6 @@ var struct_line_ptr =
     [ "parse_and_extract_clean", "d6/d5a/struct_line_ptr.html#a21d7ad10d0d17f74cf7a191f06acbd1c", null ],
     [ "parse_conf_toplevel", "d6/d5a/struct_line_ptr.html#a2c95f0eb39310617f3c97f11ae255754", null ],
     [ "parse_and_extract", "d6/d5a/struct_line_ptr.html#ae4a7c22e5fa5deeb0331e42a0a155af8", null ],
-    [ "print", "d6/d5a/struct_line_ptr.html#ac42bc65c0f7163d7c67a8dbb81996ffd", null ],
     [ "print", "d6/d5a/struct_line_ptr.html#ac42ab486bec0d0bb7f776415452a96d1", null ],
     [ "print1", "d6/d5a/struct_line_ptr.html#a3be4a82eee2a6b01ca55373364a85bea", null ],
     [ "reset", "d6/d5a/struct_line_ptr.html#a7a254f2e5170c7f41572a68cfb872e76", null ],

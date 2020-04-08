@@ -125,9 +125,8 @@ Functions</h2></td></tr>
 <tr class="memitem:a6f6bd518a59f20af3936f428c7b1a72c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#a6f6bd518a59f20af3936f428c7b1a72c">usage_and_quit</a> (int v)</td></tr>
 <tr class="memdesc:a6f6bd518a59f20af3936f428c7b1a72c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Display usage message, then exit the program.  <a href="../../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#a6f6bd518a59f20af3936f428c7b1a72c">More...</a><br /></td></tr>
 <tr class="separator:a6f6bd518a59f20af3936f428c7b1a72c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a43017869f312c4fa24022d91c54a0c3d"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#a43017869f312c4fa24022d91c54a0c3d">try_conf</a> (const std::string &amp;prefix) -&gt; bool</td></tr>
-<tr class="memdesc:a43017869f312c4fa24022d91c54a0c3d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if prefix is the path to the conf_path.  <a href="../../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#a43017869f312c4fa24022d91c54a0c3d">More...</a><br /></td></tr>
-<tr class="separator:a43017869f312c4fa24022d91c54a0c3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a517e66ab278a5b1b3a11496311e852f7"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#a517e66ab278a5b1b3a11496311e852f7">try_conf</a> (const std::filesystem::path &amp;dir) -&gt; bool</td></tr>
+<tr class="separator:a517e66ab278a5b1b3a11496311e852f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a886c3f52e637f6d71dc5dd776c79da42"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#a886c3f52e637f6d71dc5dd776c79da42">find_conf_path</a> ()</td></tr>
 <tr class="memdesc:a886c3f52e637f6d71dc5dd776c79da42"><td class="mdescLeft">&#160;</td><td class="mdescRight">Locate the config dir, using a few sources.  <a href="../../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#a886c3f52e637f6d71dc5dd776c79da42">More...</a><br /></td></tr>
 <tr class="separator:a886c3f52e637f6d71dc5dd776c79da42"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -386,8 +385,8 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a43017869f312c4fa24022d91c54a0c3d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a43017869f312c4fa24022d91c54a0c3d">&#9670;&nbsp;</a></span>try_conf()</h2>
+<a id="a517e66ab278a5b1b3a11496311e852f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a517e66ab278a5b1b3a11496311e852f7">&#9670;&nbsp;</a></span>try_conf()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -395,15 +394,12 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">auto anonymous_namespace{MainClass.cpp}::try_conf </td>
           <td>(</td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>prefix</em></td><td>)</td>
+          <td class="paramtype">const std::filesystem::path &amp;&#160;</td>
+          <td class="paramname"><em>dir</em></td><td>)</td>
           <td> -&gt; bool </td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p>Returns true if prefix is the path to the conf_path. </p>
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000002">Todo:</a></b></dt><dd>std::filesystem </dd></dl>
 
 </div>
 </div>
@@ -423,6 +419,7 @@ Variables</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Locate the config dir, using a few sources. </p>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000002">Todo:</a></b></dt><dd>do it better </dd></dl>
 
 </div>
 </div>

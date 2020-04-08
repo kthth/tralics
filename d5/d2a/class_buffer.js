@@ -1,6 +1,7 @@
 var class_buffer =
 [
     [ "Buffer", "d5/d2a/class_buffer.html#ae7ef2cd201190fde551dcb902627112b", null ],
+    [ "Buffer", "d5/d2a/class_buffer.html#a1a0419a842f5d3a78973d65951d50575", null ],
     [ "c_str", "d5/d2a/class_buffer.html#a4d3b8a1218df3938f95b7062c00abf50", null ],
     [ "contains", "d5/d2a/class_buffer.html#a7e219e781634918bdbc99240d12194fc", null ],
     [ "convert_to_str", "d5/d2a/class_buffer.html#abcfd350dff918a44d5472da85505dfcc", null ],
@@ -53,7 +54,6 @@ var class_buffer =
     [ "find_equals", "d5/d2a/class_buffer.html#ae5e228ff9d0a397aabd44e40523a3aae", null ],
     [ "get_machine_name", "d5/d2a/class_buffer.html#a7968ebe52bc84161330cc8949d8d1dca", null ],
     [ "horner", "d5/d2a/class_buffer.html#a40abb78d004a81a1dc52bea5e7fa8db9", null ],
-    [ "insert_fp", "d5/d2a/class_buffer.html#ad5b5787fea2999a8523e06de383f2726", null ],
     [ "insert_break", "d5/d2a/class_buffer.html#a41bc4f8fa64894df51e84132d82deba5", null ],
     [ "install_att", "d5/d2a/class_buffer.html#af254305536d6c04abe61c5a68d6ee9f3", null ],
     [ "interpret_aux", "d5/d2a/class_buffer.html#ad8520d35739ff005b99f4244a8bef43b", null ],
@@ -112,8 +112,6 @@ var class_buffer =
     [ "push_back_substring", "d5/d2a/class_buffer.html#a6f00bb778146819aeea994a9941fe395", null ],
     [ "push_back_substring", "d5/d2a/class_buffer.html#a13582a01e0d33e116c590eaaf00f42c0", null ],
     [ "push_back_unless_punct", "d5/d2a/class_buffer.html#a88bc7c21a88011638820100c168da87e", null ],
-    [ "push_back3", "d5/d2a/class_buffer.html#a83af07230f86d6b6be6791492eb84497", null ],
-    [ "push_back9", "d5/d2a/class_buffer.html#ab8ff6a2fc35355c71589e3e339385020", null ],
     [ "put_at_end", "d5/d2a/class_buffer.html#aa1320c953d2e759c4b6408299243df6d", null ],
     [ "remove_digits", "d5/d2a/class_buffer.html#a46f85adc78467ae5b16c4d6c0f3b11f2", null ],
     [ "remove_space", "d5/d2a/class_buffer.html#a9747321598e5cabaa00b31933fef79e7", null ],
@@ -166,8 +164,6 @@ var class_buffer =
     [ "push_back", "d5/d2a/class_buffer.html#a2a99883982ed539574d61f22de7115da", null ],
     [ "push_back", "d5/d2a/class_buffer.html#afdfe2001680666a22db7fd00078ad740", null ],
     [ "push_back", "d5/d2a/class_buffer.html#a5be4225b266511a9196d2b49bb75895d", null ],
-    [ "push_back", "d5/d2a/class_buffer.html#afb965d5fd6496824cf8501ed81457f2d", null ],
-    [ "push_back", "d5/d2a/class_buffer.html#ae28f87e92d1450d2fc4518ace757e78b", null ],
     [ "wptr", "d5/d2a/class_buffer.html#aab9cc64532a5d5e3fc59cf38af8e3721", null ],
     [ "ptr", "d5/d2a/class_buffer.html#ad4e62dc552906568b81971d49c0d9dd9", null ],
     [ "ptr1", "d5/d2a/class_buffer.html#adba609ee3a95cf733ab98c86a38e5eca", null ]
