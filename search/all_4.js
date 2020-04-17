@@ -84,7 +84,7 @@ var searchData=
   ['em_5fdash_5fcode_1536',['em_dash_code',['../d0/d0b/enums_8h.html#a7423c243c38a57b042d479052ae57705aeab1b9cca1735aa7cff70d64e76d06c1',1,'enums.h']]],
   ['emdash_5fcode_1537',['emdash_code',['../d0/d0b/enums_8h.html#a7423c243c38a57b042d479052ae57705a5563ac0c02a5bbcaa8ffae086d7c22cf',1,'enums.h']]],
   ['emergencystretch_5fcode_1538',['emergencystretch_code',['../d0/d0b/enums_8h.html#a7423c243c38a57b042d479052ae57705a564c143d2022ab8b6271c1ac6d81c69c',1,'enums.h']]],
-  ['empty_1539',['empty',['../d9/d20/struct_istring.html#a2dea9a0f59ece95bc1d81d04ddf70693',1,'Istring::empty()'],['../d6/d9a/class_xml.html#aa54c08791b91a60f301b2be10c568318',1,'Xml::empty()'],['../d5/d61/class_att_list.html#a301a38f13f98f336a4cc6021be8393e2',1,'AttList::empty()'],['../d6/d63/class_bchar.html#ab6618f8454677da4b48204acd8e7c51f',1,'Bchar::empty()'],['../da/df9/class_condition.html#adb72ab4955f0bfd98ba91e97a3c7a2bb',1,'Condition::empty()'],['../d4/d34/class_math.html#a079246ae573d7531269b63834978400e',1,'Math::empty()'],['../d4/d93/class_cv3_helper.html#a28fe0c382482ec554687a68ea930f678',1,'Cv3Helper::empty()'],['../d1/d6e/class_math_p.html#a48fdafacc26ca2d9a66fa723927ed296',1,'MathP::empty()'],['../d7/de7/class_param_data_list.html#aefebacf61bbc4c398c420a0940707efc',1,'ParamDataList::empty()'],['../d2/d47/class_fp_stack.html#a18fb2396d68db983b023802a2298dde6',1,'FpStack::empty()']]],
+  ['empty_1539',['empty',['../d9/d20/struct_istring.html#a2dea9a0f59ece95bc1d81d04ddf70693',1,'Istring::empty()'],['../d5/d61/class_att_list.html#a301a38f13f98f336a4cc6021be8393e2',1,'AttList::empty()'],['../d6/d63/class_bchar.html#ab6618f8454677da4b48204acd8e7c51f',1,'Bchar::empty()'],['../da/df9/class_condition.html#adb72ab4955f0bfd98ba91e97a3c7a2bb',1,'Condition::empty()'],['../d4/d34/class_math.html#a079246ae573d7531269b63834978400e',1,'Math::empty()'],['../d4/d93/class_cv3_helper.html#a28fe0c382482ec554687a68ea930f678',1,'Cv3Helper::empty()'],['../d1/d6e/class_math_p.html#a48fdafacc26ca2d9a66fa723927ed296',1,'MathP::empty()'],['../d7/de7/class_param_data_list.html#aefebacf61bbc4c398c420a0940707efc',1,'ParamDataList::empty()'],['../d2/d47/class_fp_stack.html#a18fb2396d68db983b023802a2298dde6',1,'FpStack::empty()']]],
   ['empty_5flist_1540',['empty_list',['../d3/d3f/namespaceanonymous__namespace_02txl3_8cpp_03.html#abd0b407a31ff9e9fcd591736539b527d',1,'anonymous_namespace{txl3.cpp}']]],
   ['empty_5ftoken_1541',['empty_token',['../d0/d6a/class_hashtab.html#a04559af781094c70312e482636a97990',1,'Hashtab']]],
   ['emptyset_5fcode_1542',['emptyset_code',['../d0/d0b/enums_8h.html#a97d61fb99458ad2412ba6e5f032e3ddaa73e620474f8b21e1558c75806f6d0d90',1,'enums.h']]],
@@ -268,7 +268,7 @@ var searchData=
   ['expand_5ffu_1720',['EXPAND_fu',['../d0/dc3/txl3_8cpp.html#a995ee5f7451c0825119a462bd7713fca',1,'txl3.cpp']]],
   ['expand_5fmac_1721',['expand_mac',['../dc/db7/class_parser.html#a06d4c834a27995e524883816bc170bb5',1,'Parser']]],
   ['expand_5fmac_5finner_1722',['expand_mac_inner',['../dc/db7/class_parser.html#ac6e055558095814cf13949d740aa01d4',1,'Parser']]],
-  ['expand_5fn_1723',['EXPAND_n',['../d0/dc3/txl3_8cpp.html#a192e8640e156cc54851423b864cdb33c',1,'EXPAND_n():&#160;txl3.cpp'],['../d0/dc3/txl3_8cpp.html#a20498d1b1a85efa592ffb3af2691226c',1,'EXPAND_N():&#160;txl3.cpp']]],
+  ['expand_5fn_1723',['EXPAND_N',['../d0/dc3/txl3_8cpp.html#a20498d1b1a85efa592ffb3af2691226c',1,'EXPAND_N():&#160;txl3.cpp'],['../d0/dc3/txl3_8cpp.html#a192e8640e156cc54851423b864cdb33c',1,'EXPAND_n():&#160;txl3.cpp']]],
   ['expand_5fnct_1724',['expand_nct',['../dc/db7/class_parser.html#a34697655f8002b9702a233d3bc05187a',1,'Parser::expand_nct()'],['../dc/d80/namespacetoken__ns.html#a2f57ebf7fdf0473de5b876aa5315c392',1,'token_ns::expand_nct(TokenList &amp;)'],['../dc/d80/namespacetoken__ns.html#ab6a3f1cc8932faea90f7fe353584d647',1,'token_ns::expand_nct(TokenList &amp;L, size_t n, uchar c, int &amp;MX, TokenList &amp;body) -&gt; bool']]],
   ['expand_5fno_5farg_1725',['expand_no_arg',['../dc/db7/class_parser.html#adf16e314cb258512e27986d6cae79688',1,'Parser']]],
   ['expand_5fno_5farg0_1726',['expand_no_arg0',['../dc/db7/class_parser.html#a39375c683d2801671c726166d2f59ccb',1,'Parser']]],
@@ -301,8 +301,8 @@ var searchData=
   ['expr_5fso_5ffar_1753',['expr_so_far',['../de/d09/class_scan_slot.html#abe50142a4e35492524f65809a4fed45e',1,'ScanSlot']]],
   ['expr_5fstate_1754',['expr_state',['../de/d09/class_scan_slot.html#a47c27196302b5e29f5be09d4b413d82b',1,'ScanSlot']]],
   ['expr_5ftype_1755',['expr_type',['../de/d09/class_scan_slot.html#a8973cc3dfe0e5d218892af546e409ba6',1,'ScanSlot']]],
-  ['exten_5flen_1756',['exten_len',['../de/dbe/class_tex_font.html#a80ecf7b07412f76bad29493e6ed577ae',1,'TexFont']]],
-  ['exten_5ftable_1757',['exten_table',['../de/dbe/class_tex_font.html#a5641e910740074377031c9574e23c2e2',1,'TexFont']]],
+  ['exten_5flen_1756',['exten_len',['../de/d0b/struct_tex_font.html#a80ecf7b07412f76bad29493e6ed577ae',1,'TexFont']]],
+  ['exten_5ftable_1757',['exten_table',['../de/d0b/struct_tex_font.html#a5641e910740074377031c9574e23c2e2',1,'TexFont']]],
   ['extended_5fchars_1758',['extended_chars',['../dc/db7/class_parser.html#ae3de15356167a7ba272fcfb903d8dad3',1,'Parser']]],
   ['extension_5fcmd_1759',['extension_cmd',['../d0/d0b/enums_8h.html#ad9fa722fa2849c703424c4eea93f2ee7a5b4c4e3a8cd32f1d350de06c46bf2778',1,'enums.h']]],
   ['extern_5fcall_1760',['extern_call',['../d0/d0b/enums_8h.html#a5ac33e6b7de2d9f96fb0cc889c707b0d',1,'enums.h']]],
@@ -313,6 +313,5 @@ var searchData=
   ['extract_5fchars_1765',['extract_chars',['../d5/d2a/class_buffer.html#adc6abc305a1c63edc47607b8eab057c3',1,'Buffer']]],
   ['extract_5fdtd_1766',['extract_dtd',['../d5/d2a/class_buffer.html#ac86580bb3c1f9b15662ebda12942b56c',1,'Buffer']]],
   ['extract_5fkeys_1767',['extract_keys',['../dc/db7/class_parser.html#a47773ba4298d3962d26422f0c4f35b25',1,'Parser::extract_keys()'],['../d6/d9a/class_xkv_setkeys.html#a1eca4da88e99942a0f43228afa304a42',1,'XkvSetkeys::extract_keys()']]],
-  ['extract_5fkeyval_1768',['extract_keyval',['../db/d95/class_splitter.html#affc140de814e627b1ce98083dd517d2f',1,'Splitter']]],
-  ['extract_5fyear_1769',['extract_year',['../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#acffa6bd7c265228235688820ed5bba95',1,'anonymous_namespace{MainClass.cpp}']]]
+  ['extract_5fyear_1768',['extract_year',['../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#acffa6bd7c265228235688820ed5bba95',1,'anonymous_namespace{MainClass.cpp}']]]
 ];

@@ -16,7 +16,7 @@ var class_bbl =
     [ "BibEntry", "d2/d56/class_bbl.html#a6fbf5a9a30039622c415b67dae42489d", null ],
     [ "BblAndTty", "d2/d56/class_bbl.html#ab92ecb50b0eb79e13d1fcc6874b98bf4", null ],
     [ "B", "d2/d56/class_bbl.html#a595b63d417fe65c1f3a5163cc28305bb", null ],
-    [ "file", "d2/d56/class_bbl.html#a38f61bcb7d3950380551bc84859373a1", null ],
+    [ "file", "d2/d56/class_bbl.html#ae7b668a3b1369c66528a714cebf0cf65", null ],
     [ "name", "d2/d56/class_bbl.html#a25d3fcb8ea6397633d1c97577a262982", null ],
     [ "too_late", "d2/d56/class_bbl.html#a39aa25d2ac3375a02af3c07eccaf854e", null ],
     [ "lines", "d2/d56/class_bbl.html#a81c69352e5e318d436feaa589e54e9d8", null ]

@@ -4,8 +4,10 @@ var files_dup =
     [ "tralics", "dir_34757b718924119af78d27f1d70115f6.html", "dir_34757b718924119af78d27f1d70115f6" ],
     [ "Buffer.cpp", "dc/dcf/_buffer_8cpp.html", "dc/dcf/_buffer_8cpp" ],
     [ "globals.cpp", "da/d77/globals_8cpp.html", "da/d77/globals_8cpp" ],
+    [ "Istring.cpp", "d0/d4b/_istring_8cpp.html", null ],
     [ "MainClass.cpp", "df/d37/_main_class_8cpp.html", "df/d37/_main_class_8cpp" ],
     [ "readline.cpp", "d7/d53/readline_8cpp.html", "d7/d53/readline_8cpp" ],
+    [ "StrHash.cpp", "d8/d62/_str_hash_8cpp.html", null ],
     [ "tralics.cpp", "d5/ddd/tralics_8cpp.html", "d5/ddd/tralics_8cpp" ],
     [ "txaccent.cpp", "dd/dce/txaccent_8cpp.html", "dd/dce/txaccent_8cpp" ],
     [ "txarray.cpp", "d7/de8/txarray_8cpp.html", "d7/de8/txarray_8cpp" ],
@@ -63,7 +65,7 @@ var files_dup =
     [ "txfonts.h", "d7/d4d/txfonts_8h.html", [
       [ "FontInfo", "dd/d39/class_font_info.html", "dd/d39/class_font_info" ],
       [ "TeXChar", "dc/dea/class_te_x_char.html", "dc/dea/class_te_x_char" ],
-      [ "TexFont", "de/dbe/class_tex_font.html", "de/dbe/class_tex_font" ],
+      [ "TexFont", "de/d0b/struct_tex_font.html", "de/d0b/struct_tex_font" ],
       [ "TexFonts", "d1/df4/struct_tex_fonts.html", "d1/df4/struct_tex_fonts" ]
     ] ],
     [ "txfp.cpp", "d7/d80/txfp_8cpp.html", "d7/d80/txfp_8cpp" ],
@@ -72,9 +74,7 @@ var files_dup =
     ] ],
     [ "txhash.h", "d7/d7e/txhash_8h.html", [
       [ "Hashtab", "d0/d6a/class_hashtab.html", "d0/d6a/class_hashtab" ],
-      [ "SpecialHash", "d7/d99/class_special_hash.html", "d7/d99/class_special_hash" ],
-      [ "LabelInfo", "dc/df1/class_label_info.html", "dc/df1/class_label_info" ],
-      [ "Splitter", "db/d95/class_splitter.html", "db/d95/class_splitter" ]
+      [ "LabelInfo", "dc/df1/class_label_info.html", "dc/df1/class_label_info" ]
     ] ],
     [ "txid.h", "d1/d9e/txid_8h.html", [
       [ "Xid", "de/d3f/class_xid.html", "de/d3f/class_xid" ]
@@ -120,10 +120,6 @@ var files_dup =
     ] ],
     [ "txstats.h", "d8/d3d/txstats_8h.html", [
       [ "Stats", "df/d1b/class_stats.html", "df/d1b/class_stats" ]
-    ] ],
-    [ "txstring.h", "dc/def/txstring_8h.html", [
-      [ "StrHash_record", "d7/dd4/struct_str_hash__record.html", "d7/dd4/struct_str_hash__record" ],
-      [ "StrHash", "de/df7/class_str_hash.html", "de/df7/class_str_hash" ]
     ] ],
     [ "txtitlepage.cpp", "d1/dc8/txtitlepage_8cpp.html", "d1/dc8/txtitlepage_8cpp" ],
     [ "txtitlepage.h", "d5/d7f/txtitlepage_8h.html", "d5/d7f/txtitlepage_8h" ],

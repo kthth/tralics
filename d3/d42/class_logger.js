@@ -9,19 +9,8 @@ var class_logger =
     [ "abort", "d3/d42/class_logger.html#a7b2551ed36897e69c71dd372974cbed7", null ],
     [ "get_filename", "d3/d42/class_logger.html#a7c498c5d52ecce7db20bb2cd370b60a7", null ],
     [ "operator<<", "d3/d42/class_logger.html#ad5a232ba29b216958e3ca0c48853c107", null ],
-    [ "operator<<", "d3/d42/class_logger.html#ae66cb6e6506a19fa8f33160829467948", null ],
-    [ "operator<<", "d3/d42/class_logger.html#a72628b5833a45cfc0d1777d6f31eed9d", null ],
-    [ "operator<<", "d3/d42/class_logger.html#a0023d31c655fb0840072718ea04fca30", null ],
-    [ "operator<<", "d3/d42/class_logger.html#a952aa46ff01d21fd63dc73130cebcd09", null ],
-    [ "operator<<", "d3/d42/class_logger.html#a3af2e8dc66d8c464054652090565e0a4", null ],
-    [ "operator<<", "d3/d42/class_logger.html#a9a785f5a1d89aad6a0ffba197afd7bca", null ],
-    [ "operator<<", "d3/d42/class_logger.html#a44b993517fa60f17c1778d6685299f4c", null ],
-    [ "operator<<", "d3/d42/class_logger.html#a0bdeb8a156b6e46a90e1ce2108359d25", null ],
-    [ "operator<<", "d3/d42/class_logger.html#a5636a0bff9d3ce877e89bf59b7597280", null ],
-    [ "operator<<", "d3/d42/class_logger.html#ac8b3e5cb3af0d12577dea980477ffa03", null ],
-    [ "operator<<", "d3/d42/class_logger.html#ac1f160d8a501d60208ec55269c9f6d59", null ],
-    [ "operator<<", "d3/d42/class_logger.html#ade965cc5839b0839bb068b6a6b47f798", null ],
+    [ "operator<<", "d3/d42/class_logger.html#aedf6c7c6fd516eff995df63a74463354", null ],
     [ "finished", "d3/d42/class_logger.html#aae8bd1a094f3a7f41ccde0be052071ab", null ],
     [ "filename", "d3/d42/class_logger.html#a7d2eb96ffbb512b79834c8d7313c69b7", null ],
-    [ "fp", "d3/d42/class_logger.html#a6e312fb3739aea7af14ff148745efe81", null ]
+    [ "fp", "d3/d42/class_logger.html#ad1ec9ce7f5b961318050415d35119827", null ]
 ];

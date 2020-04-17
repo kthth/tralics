@@ -37,6 +37,6 @@ var txmath_8h =
     [ "special_fence", "df/d79/txmath_8h.html#af45dffd7764703da8bc355e6607f6fd6", null ],
     [ "style_level", "df/d79/txmath_8h.html#a0b8b81b5bf032a6c18b08b57f646a24e", null ],
     [ "make_math_char", "df/d79/txmath_8h.html#aae5256cdb83967ca72091fb89ab1afaf", null ],
-    [ "xml2sons", "df/d79/txmath_8h.html#ad671ec49644062b2355e8da5627672ae", null ],
+    [ "xml2sons", "df/d79/txmath_8h.html#a59cdb145bc5f2d7999b0fd528ef9cbd1", null ],
     [ "math_chars", "df/d79/txmath_8h.html#a66e6b958a9076c195768113af96988f4", null ]
 ];

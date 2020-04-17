@@ -1,5 +1,6 @@
 var globals_8cpp =
 [
+    [ "next_label_id", "da/d77/globals_8cpp.html#a9cecd39d4137658b4c2fdb0a72040799", null ],
     [ "conf_path", "da/d77/globals_8cpp.html#a5127aa8f579e9bf475ea7c41ba945739", null ],
     [ "input_path", "da/d77/globals_8cpp.html#a755d9618c26010081da25e9ae262e075", null ],
     [ "file_name", "da/d77/globals_8cpp.html#a6780a91e804b0bccb16fc13dec117947", null ],

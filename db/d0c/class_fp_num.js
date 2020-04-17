@@ -60,8 +60,6 @@ var class_fp_num =
     [ "trigo_xy", "db/d0c/class_fp_num.html#a6409ba7f3c8c1a9b1690132592a04604", null ],
     [ "truncate", "db/d0c/class_fp_num.html#a600759b0da7ca99b07380f1af6b3bb56", null ],
     [ "unsplit_mul4", "db/d0c/class_fp_num.html#a796d41a79354e97cff06ed5d3c03c123", null ],
-    [ "prop_carry", "db/d0c/class_fp_num.html#a0c5f32327403daa093e83ecc598b79c7", null ],
-    [ "set_xmax", "db/d0c/class_fp_num.html#a5acdca28093c5f4dfce5d5b775a8dee6", null ],
     [ "sign", "db/d0c/class_fp_num.html#ac405a690f55a05849a5b4be10f39428a", null ],
     [ "data", "db/d0c/class_fp_num.html#a648ffcd448c46c36cf0f801ec2c18935", null ]
 ];

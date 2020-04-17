@@ -1,7 +1,11 @@
 <map id="XmlAndType" name="XmlAndType">
-<area shape="rect" id="node1" title=" " alt="" coords="5,179,102,204"/>
-<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="98,92,143,117"/>
-<area shape="rect" id="node3" title=" " alt="" coords="133,179,271,204"/>
-<area shape="rect" id="node4" href="$d9/d20/struct_istring.html" title=" " alt="" coords="56,5,113,31"/>
-<area shape="rect" id="node5" href="$de/d3f/class_xid.html" title=" " alt="" coords="137,5,178,31"/>
+<area shape="rect" id="node1" title=" " alt="" coords="114,477,210,503"/>
+<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="140,391,184,416"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="5,155,143,193"/>
+<area shape="rect" id="node4" title=" " alt="" coords="88,5,127,31"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="100,92,243,131"/>
+<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="133,304,191,329"/>
+<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="137,217,206,243"/>
+<area shape="rect" id="node8" title=" " alt="" coords="266,99,407,124"/>
+<area shape="rect" id="node9" href="$de/d3f/class_xid.html" title=" " alt="" coords="215,304,256,329"/>
 </map>

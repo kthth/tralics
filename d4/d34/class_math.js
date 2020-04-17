@@ -64,7 +64,7 @@ var class_math =
     [ "add_fence", "d4/d34/class_math.html#a06cf6e545b4c2133fcb750a15579e1b7", null ],
     [ "concat", "d4/d34/class_math.html#ad488f090e071a409708ff2826677e7db", null ],
     [ "concat_space", "d4/d34/class_math.html#ae4968960a392ded91a55d864ac3948c9", null ],
-    [ "convert_cell", "d4/d34/class_math.html#abd6c158b9ee18ac6b197ce84b1d0c8b1", null ],
+    [ "convert_cell", "d4/d34/class_math.html#aa1cba52cf1f67d87b8be4195c2651f05", null ],
     [ "convert_char_seq", "d4/d34/class_math.html#a8b8a7072035a7a66e1c99d9472053fc7", null ],
     [ "convert_char_iseq", "d4/d34/class_math.html#a7b40142d70ed776499ad3acc8e8873b3", null ],
     [ "fetch_rlc", "d4/d34/class_math.html#a30307a0b2d5b01487ffdd21ea0d5d93f", null ],

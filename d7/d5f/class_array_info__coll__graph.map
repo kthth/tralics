@@ -1,12 +1,15 @@
 <map id="ArrayInfo" name="ArrayInfo">
-<area shape="rect" id="node1" title=" " alt="" coords="225,465,300,491"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,365,167,391"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="40,279,133,304"/>
-<area shape="rect" id="node4" title=" " alt="" coords="67,192,106,217"/>
-<area shape="rect" id="node5" title=" " alt="" coords="191,365,333,391"/>
-<area shape="rect" id="node6" href="$d5/d61/class_att_list.html" title=" " alt="" coords="233,279,291,304"/>
-<area shape="rect" id="node7" title=" " alt="" coords="190,192,335,217"/>
-<area shape="rect" id="node8" href="$d6/d34/struct_att_pair.html" title=" " alt="" coords="232,105,293,131"/>
-<area shape="rect" id="node9" href="$d9/d20/struct_istring.html" title=" " alt="" coords="233,5,291,31"/>
-<area shape="rect" id="node10" href="$de/d3f/class_xid.html" title=" " alt="" coords="358,365,399,391"/>
+<area shape="rect" id="node1" title=" " alt="" coords="166,739,241,764"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,241,167,267"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="40,99,133,124"/>
+<area shape="rect" id="node4" title=" " alt="" coords="138,5,176,31"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="156,92,299,131"/>
+<area shape="rect" id="node5" title=" " alt="" coords="133,652,275,677"/>
+<area shape="rect" id="node6" href="$d5/d61/class_att_list.html" title=" " alt="" coords="194,565,253,591"/>
+<area shape="rect" id="node7" title=" " alt="" coords="158,478,303,503"/>
+<area shape="rect" id="node8" href="$d6/d34/struct_att_pair.html" title=" " alt="" coords="200,391,261,416"/>
+<area shape="rect" id="node9" href="$d9/d20/struct_istring.html" title=" " alt="" coords="201,291,259,316"/>
+<area shape="rect" id="node10" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="196,192,265,217"/>
+<area shape="rect" id="node12" title=" " alt="" coords="323,99,463,124"/>
+<area shape="rect" id="node13" href="$de/d3f/class_xid.html" title=" " alt="" coords="299,652,340,677"/>
 </map>

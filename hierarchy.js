@@ -29,7 +29,7 @@ var hierarchy =
     [ "EntityDef", "d9/d70/class_entity_def.html", null ],
     [ "EQTB< T >", "d1/daa/struct_e_q_t_b.html", null ],
     [ "anonymous_namespace{txbib.cpp}::Error", "d8/df2/classanonymous__namespace_02txbib_8cpp_03_1_1_error.html", null ],
-    [ "FileForInput", "dd/d5a/class_file_for_input.html", null ],
+    [ "FileForInput", "d9/d4e/struct_file_for_input.html", null ],
     [ "FontInfo", "dd/d39/class_font_info.html", null ],
     [ "FormatDate", "df/d49/class_format_date.html", null ],
     [ "FpGenList", "df/dd0/class_fp_gen_list.html", null ],
@@ -89,15 +89,12 @@ var hierarchy =
     [ "ScaledInt", "de/d34/class_scaled_int.html", null ],
     [ "ScanSlot", "de/d09/class_scan_slot.html", null ],
     [ "Slined", "de/d4d/class_slined.html", null ],
-    [ "SpecialHash", "d7/d99/class_special_hash.html", null ],
-    [ "Splitter", "db/d95/class_splitter.html", null ],
     [ "Stack", "d0/d14/class_stack.html", null ],
     [ "Stack::StackSlot", "d8/dc9/class_stack_1_1_stack_slot.html", null ],
     [ "Stats", "df/d1b/class_stats.html", null ],
     [ "SthInternal", "d2/db5/class_sth_internal.html", null ],
     [ "StrHash_record", "d7/dd4/struct_str_hash__record.html", null ],
     [ "TeXChar", "dc/dea/class_te_x_char.html", null ],
-    [ "TexFont", "de/dbe/class_tex_font.html", null ],
     [ "TexOutStream", "de/dcf/class_tex_out_stream.html", null ],
     [ "TexRule", "dd/db9/class_tex_rule.html", null ],
     [ "TitlePage", "d7/d66/class_title_page.html", null ],
@@ -105,17 +102,21 @@ var hierarchy =
     [ "TitlePageFullLine", "d0/d08/class_title_page_full_line.html", null ],
     [ "Token", "d9/d27/struct_token.html", null ],
     [ "TpiOneItem", "d9/dcc/class_tpi_one_item.html", null ],
+    [ "std::unordered_map< K, T >", null, [
+      [ "anonymous_namespace{txparser.cpp}::SpecialHash", "d0/d84/structanonymous__namespace_02txparser_8cpp_03_1_1_special_hash.html", null ]
+    ] ],
     [ "std::vector< T >", null, [
       [ "AllIndex", "d5/dc6/struct_all_index.html", null ],
       [ "Buffer", "d5/d2a/class_buffer.html", null ],
       [ "StrHash", "de/df7/class_str_hash.html", null ],
-      [ "TexFonts", "d1/df4/struct_tex_fonts.html", null ]
+      [ "TexFont", "de/d0b/struct_tex_font.html", null ],
+      [ "TexFonts", "d1/df4/struct_tex_fonts.html", null ],
+      [ "Xml", "d6/d9a/class_xml.html", null ]
     ] ],
     [ "WordList", "d5/d8c/class_word_list.html", null ],
     [ "Xid", "de/d3f/class_xid.html", null ],
     [ "XkvSetkeys", "d6/d9a/class_xkv_setkeys.html", null ],
     [ "XkvToken", "dd/d84/class_xkv_token.html", null ],
-    [ "Xml", "d6/d9a/class_xml.html", null ],
     [ "XmlAction", "df/df6/class_xml_action.html", null ],
     [ "XmlAndType", "d1/dec/struct_xml_and_type.html", null ],
     [ "XmlIO", "d3/dda/class_xml_i_o.html", null ]

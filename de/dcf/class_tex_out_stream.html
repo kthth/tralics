@@ -102,7 +102,7 @@ $(document).ready(function(){initNavTree('de/dcf/class_tex_out_stream.html','../
 <div class="dynheader">
 Collaboration diagram for TexOutStream:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/d62/class_tex_out_stream__coll__graph.svg" width="1492" height="143"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d8/d62/class_tex_out_stream__coll__graph.svg" width="1330" height="112"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 <center><span class="legend">[<a target="top" href="../../graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
@@ -111,8 +111,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a4cd4b78b07ed61bd6ecc1f66d55dadcb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a82f61f25ee3b358a742eb6a17b1679d1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#a82f61f25ee3b358a742eb6a17b1679d1">close</a> (size_t chan)</td></tr>
 <tr class="separator:a82f61f25ee3b358a742eb6a17b1679d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad75bd3949233e269eb100f698149b71c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#ad75bd3949233e269eb100f698149b71c">open</a> (size_t chan, const std::string &amp;<a class="el" href="../../d5/d87/globals_8h.html#a6780a91e804b0bccb16fc13dec117947">file_name</a>)</td></tr>
-<tr class="separator:ad75bd3949233e269eb100f698149b71c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad1f32dde084d001130e3851785b2d07d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#ad1f32dde084d001130e3851785b2d07d">open</a> (size_t chan, const std::string &amp;fn)</td></tr>
+<tr class="separator:ad1f32dde084d001130e3851785b2d07d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0b4d1ae03d38152e3916ff09b28d2622"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#a0b4d1ae03d38152e3916ff09b28d2622">is_open</a> (size_t i) const -&gt; bool</td></tr>
 <tr class="separator:a0b4d1ae03d38152e3916ff09b28d2622"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a80afff1161b7252642a8f3dd009a5c34"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#a80afff1161b7252642a8f3dd009a5c34">write</a> (size_t chan, const std::string &amp;s)</td></tr>
@@ -120,8 +120,8 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:ac2b1c9a9d32029c860916171220968fa"><td class="memItemLeft" align="right" valign="top">std::array&lt; std::fstream *, <a class="el" href="../../d0/d0b/enums_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a1f372969dc14eda48535c0005aacd5de">nb_input_channels</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#ac2b1c9a9d32029c860916171220968fa">write_file</a> {}</td></tr>
-<tr class="separator:ac2b1c9a9d32029c860916171220968fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a74e5584f54ac62ebf83db46653d76a00"><td class="memItemLeft" align="right" valign="top">std::array&lt; std::ofstream, <a class="el" href="../../d0/d0b/enums_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a474d3a8ff70bb789561d86a1caaabb2e">nb_output_channels</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#a74e5584f54ac62ebf83db46653d76a00">write_file</a> {}</td></tr>
+<tr class="separator:a74e5584f54ac62ebf83db46653d76a00"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af4ba3ee30bddd70659290da8d9cf13e0"><td class="memItemLeft" align="right" valign="top">std::array&lt; bool, <a class="el" href="../../d0/d0b/enums_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a474d3a8ff70bb789561d86a1caaabb2e">nb_output_channels</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dcf/class_tex_out_stream.html#af4ba3ee30bddd70659290da8d9cf13e0">write_open</a> {}</td></tr>
 <tr class="separator:af4ba3ee30bddd70659290da8d9cf13e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -162,8 +162,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="ad75bd3949233e269eb100f698149b71c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad75bd3949233e269eb100f698149b71c">&#9670;&nbsp;</a></span>open()</h2>
+<a id="ad1f32dde084d001130e3851785b2d07d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad1f32dde084d001130e3851785b2d07d">&#9670;&nbsp;</a></span>open()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -178,7 +178,7 @@ Private Attributes</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>file_name</em>&#160;</td>
+          <td class="paramname"><em>fn</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -253,8 +253,8 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ac2b1c9a9d32029c860916171220968fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac2b1c9a9d32029c860916171220968fa">&#9670;&nbsp;</a></span>write_file</h2>
+<a id="a74e5584f54ac62ebf83db46653d76a00"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a74e5584f54ac62ebf83db46653d76a00">&#9670;&nbsp;</a></span>write_file</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -263,7 +263,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::array&lt;std::fstream *, <a class="el" href="../../d0/d0b/enums_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a1f372969dc14eda48535c0005aacd5de">nb_input_channels</a>&gt; TexOutStream::write_file {}</td>
+          <td class="memname">std::array&lt;std::ofstream, <a class="el" href="../../d0/d0b/enums_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a474d3a8ff70bb789561d86a1caaabb2e">nb_output_channels</a>&gt; TexOutStream::write_file {}</td>
         </tr>
       </table>
   </td>

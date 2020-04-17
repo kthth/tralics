@@ -1,11 +1,15 @@
 <map id="OneIndex" name="OneIndex">
-<area shape="rect" id="node1" title=" " alt="" coords="116,392,196,417"/>
-<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="273,105,317,131"/>
-<area shape="rect" id="node3" title=" " alt="" coords="323,205,461,231"/>
-<area shape="rect" id="node9" href="$d6/d1f/class_indexer.html" title=" " alt="" coords="123,205,189,231"/>
-<area shape="rect" id="node4" href="$d9/d20/struct_istring.html" title=" " alt="" coords="235,12,293,37"/>
-<area shape="rect" id="node5" href="$de/d3f/class_xid.html" title=" " alt="" coords="317,12,358,37"/>
-<area shape="rect" id="node6" title="STL class." alt="" coords="28,105,108,131"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="5,5,131,44"/>
-<area shape="rect" id="node8" title=" " alt="" coords="76,305,236,331"/>
+<area shape="rect" id="node1" title=" " alt="" coords="132,691,212,716"/>
+<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="253,404,297,429"/>
+<area shape="rect" id="node13" href="$d6/d1f/class_indexer.html" title=" " alt="" coords="139,504,205,529"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="115,155,253,193"/>
+<area shape="rect" id="node4" title=" " alt="" coords="198,5,237,31"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="210,92,353,131"/>
+<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="246,311,304,336"/>
+<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="247,217,316,243"/>
+<area shape="rect" id="node8" title=" " alt="" coords="376,99,517,124"/>
+<area shape="rect" id="node9" href="$de/d3f/class_xid.html" title=" " alt="" coords="328,311,368,336"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="28,404,108,429"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="5,304,131,343"/>
+<area shape="rect" id="node12" title=" " alt="" coords="92,604,252,629"/>
 </map>

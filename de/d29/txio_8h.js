@@ -4,7 +4,7 @@ var txio_8h =
     [ "Clines", "dd/d7d/struct_clines.html", "dd/d7d/struct_clines" ],
     [ "LinePtr", "d6/d5a/struct_line_ptr.html", "d6/d5a/struct_line_ptr" ],
     [ "InputStack", "d0/d3a/struct_input_stack.html", "d0/d3a/struct_input_stack" ],
-    [ "FileForInput", "dd/d5a/class_file_for_input.html", "dd/d5a/class_file_for_input" ],
+    [ "FileForInput", "d9/d4e/struct_file_for_input.html", "d9/d4e/struct_file_for_input" ],
     [ "TexOutStream", "de/dcf/class_tex_out_stream.html", "de/dcf/class_tex_out_stream" ],
     [ "line_iterator_const", "de/d29/txio_8h.html#aa0cf4e1b9fb919693d7c45feb5748739", null ],
     [ "line_iterator", "de/d29/txio_8h.html#a6d9e3df5721291a473b6d593cfcc7fa5", null ],

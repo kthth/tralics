@@ -1,18 +1,16 @@
 <map id="BblAndTty" name="BblAndTty">
-<area shape="rect" id="node1" title=" " alt="" coords="171,616,254,641"/>
-<area shape="rect" id="node2" href="$d2/d56/class_bbl.html" title=" " alt="" coords="247,529,288,555"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="422,443,513,468"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="417,343,547,381"/>
-<area shape="rect" id="node5" title="STL class." alt="" coords="430,243,566,281"/>
-<area shape="rect" id="node6" title="STL class." alt="" coords="341,155,470,193"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="405,80,559,105"/>
-<area shape="rect" id="node9" title="STL class." alt="" coords="494,155,627,193"/>
-<area shape="rect" id="node8" title="STL class." alt="" coords="432,5,532,31"/>
-<area shape="rect" id="node10" href="$d6/d5a/struct_line_ptr.html" title=" " alt="" coords="234,443,298,468"/>
-<area shape="rect" id="node11" title="STL class." alt="" coords="160,349,283,375"/>
-<area shape="rect" id="node12" title=" " alt="" coords="176,249,215,275"/>
-<area shape="rect" id="node16" title="STL class." alt="" coords="5,349,137,375"/>
-<area shape="rect" id="node13" title="STL class." alt="" coords="308,349,387,375"/>
-<area shape="rect" id="node14" title="STL class." alt="" coords="280,243,406,281"/>
-<area shape="rect" id="node15" href="$d5/d2a/class_buffer.html" title="a big structure" alt="" coords="152,443,209,468"/>
+<area shape="rect" id="node1" title=" " alt="" coords="171,528,254,553"/>
+<area shape="rect" id="node2" href="$d2/d56/class_bbl.html" title=" " alt="" coords="247,441,288,467"/>
+<area shape="rect" id="node3" href="$d6/d5a/struct_line_ptr.html" title=" " alt="" coords="234,355,298,380"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="160,261,283,287"/>
+<area shape="rect" id="node5" title=" " alt="" coords="176,161,215,187"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="5,261,137,287"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="308,261,387,287"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="282,155,407,193"/>
+<area shape="rect" id="node8" href="$d5/d2a/class_buffer.html" title="a big structure" alt="" coords="152,355,209,380"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="422,355,520,380"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="416,255,553,293"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="431,155,564,193"/>
+<area shape="rect" id="node13" title="STL class." alt="" coords="421,80,575,105"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="448,5,548,31"/>
 </map>

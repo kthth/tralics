@@ -28,10 +28,9 @@ var txio_8cpp =
     [ "operator<<", "d0/d1f/txio_8cpp.html#ad2a784125f12af1c95b3d1802b82aba1", null ],
     [ "operator<<", "d0/d1f/txio_8cpp.html#ac9d7f43323b4f038cdb06f86e9ab429b", null ],
     [ "operator<<", "d0/d1f/txio_8cpp.html#ae0b924efb858d1e8bcc511feff564773", null ],
-    [ "thebuffer", "d0/d1f/txio_8cpp.html#ac8ce19a74a7457bd80ac2d38f54b4453", null ],
+    [ "buf", "d0/d1f/txio_8cpp.html#a8650b1f8431a7f81e114e0c00e6da75b", null ],
     [ "log_is_open", "d0/d1f/txio_8cpp.html#a019ddd06fba40dfd8b6c53854b83e6f0", null ],
     [ "utf8_out", "d0/d1f/txio_8cpp.html#a3c72d82e5385e0362b60ee88d449a9ce", null ],
-    [ "utf8_in", "d0/d1f/txio_8cpp.html#a4c49570235d886d0400e89db2e5ad5b1", null ],
     [ "the_converter", "d0/d1f/txio_8cpp.html#a7e1a863a66f7ed476aa481dffae3002a", null ],
     [ "pool_position", "d0/d1f/txio_8cpp.html#ab5a2c3b755e7aa5493ff4a1aba0f0f6e", null ]
 ];

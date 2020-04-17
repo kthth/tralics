@@ -1,6 +1,10 @@
 <map id="LabelInfo" name="LabelInfo">
-<area shape="rect" id="node1" title=" " alt="" coords="77,193,153,219"/>
-<area shape="rect" id="node2" title="STL class." alt="" coords="28,93,108,119"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="5,5,131,44"/>
-<area shape="rect" id="node4" href="$d9/d20/struct_istring.html" title=" " alt="" coords="131,93,189,119"/>
+<area shape="rect" id="node1" title=" " alt="" coords="90,392,167,417"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="44,292,123,317"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="6,192,131,231"/>
+<area shape="rect" id="node4" href="$d9/d20/struct_istring.html" title=" " alt="" coords="153,292,211,317"/>
+<area shape="rect" id="node5" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="155,199,225,224"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="5,92,148,131"/>
+<area shape="rect" id="node7" title=" " alt="" coords="57,5,96,31"/>
+<area shape="rect" id="node8" title=" " alt="" coords="172,99,312,124"/>
 </map>

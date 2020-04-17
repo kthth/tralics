@@ -1,5 +1,7 @@
 var txfp_8cpp =
 [
+    [ "prop_carry", "d7/d80/txfp_8cpp.html#a677ed739ec31935f37bb6dd13e28f14d", null ],
+    [ "set_xmax", "d7/d80/txfp_8cpp.html#a8b319043e8109c67d5d76aeb6e916da1", null ],
     [ "mul_split_aux", "d7/d80/txfp_8cpp.html#a1ec1a0d96f9f00bb67facf7f43761a13", null ],
     [ "unsplit_mul", "d7/d80/txfp_8cpp.html#a0b3fd403b20f4e8519a606e117e409b7", null ],
     [ "compare_abs", "d7/d80/txfp_8cpp.html#a59f27ba85eacff15cadb6511638aaa2a", null ],

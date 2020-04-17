@@ -1,6 +1,7 @@
 var txbib_8cpp =
 [
     [ "Error", "d8/df2/classanonymous__namespace_02txbib_8cpp_03_1_1_error.html", null ],
+    [ "make_cit_ref", "d1/ddd/txbib_8cpp.html#aa09e35552abba777f1cdd1c48e97d150", null ],
     [ "normalise_for_bib", "d1/ddd/txbib_8cpp.html#a875e100c000e6f78f2c2585fbf28ab12", null ],
     [ "boot_ra_prefix", "d1/ddd/txbib_8cpp.html#a14c66cc7d6c6ac43b90f6caac5f032d6", null ],
     [ "first_three", "d1/ddd/txbib_8cpp.html#a09babad31ce0b3ace954ee9806040172", null ],
