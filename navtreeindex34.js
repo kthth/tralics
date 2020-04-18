@@ -1,13 +1,5 @@
 var NAVTREEINDEX34 =
 {
-"namespacemembers_func_r.html":[2,1,15],
-"namespacemembers_func_s.html":[2,1,16],
-"namespacemembers_func_t.html":[2,1,17],
-"namespacemembers_func_u.html":[2,1,18],
-"namespacemembers_func_v.html":[2,1,19],
-"namespacemembers_func_w.html":[2,1,20],
-"namespacemembers_func_x.html":[2,1,21],
-"namespacemembers_func_y.html":[2,1,22],
 "namespacemembers_g.html":[2,0,6],
 "namespacemembers_h.html":[2,0,7],
 "namespacemembers_i.html":[2,0,8],

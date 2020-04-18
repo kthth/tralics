@@ -1,8 +1,10 @@
 <map id="ModChecker" name="ModChecker">
-<area shape="rect" id="node1" title=" " alt="" coords="152,365,249,391"/>
-<area shape="rect" id="node2" href="$d9/d20/struct_istring.html" title=" " alt="" coords="172,279,229,304"/>
-<area shape="rect" id="node3" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="166,192,235,217"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="5,92,148,131"/>
-<area shape="rect" id="node5" title=" " alt="" coords="57,5,96,31"/>
-<area shape="rect" id="node6" title=" " alt="" coords="172,99,312,124"/>
+<area shape="rect" id="node1" title=" " alt="" coords="111,453,208,479"/>
+<area shape="rect" id="node2" href="$d9/d20/struct_istring.html" title=" " alt="" coords="130,367,188,392"/>
+<area shape="rect" id="node3" href="$de/df7/class_str_hash.html" title=" " alt="" coords="124,280,194,305"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="5,180,148,219"/>
+<area shape="rect" id="node5" title=" " alt="" coords="57,93,96,119"/>
+<area shape="rect" id="node6" title=" " alt="" coords="172,180,317,219"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="205,93,284,119"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="182,5,307,44"/>
 </map>

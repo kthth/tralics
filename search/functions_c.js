@@ -1,7 +1,7 @@
 var searchData=
 [
   ['n_5ftimes_5fx_8919',['n_times_x',['../d8/d76/namespacearith__ns.html#ace75f3aec8f560d450210ae39ece43c9',1,'arith_ns']]],
-  ['name_8920',['name',['../de/d72/class_cmd_chr.html#a7edab43bdc92caa09b530864548ab621',1,'CmdChr::name()'],['../d1/df4/struct_tex_fonts.html#a2be37fc988d5a337226450ec0e8bb77d',1,'TexFonts::name()']]],
+  ['name_8920',['name',['../de/d72/class_cmd_chr.html#a7edab43bdc92caa09b530864548ab621',1,'CmdChr::name()'],['../d9/d20/struct_istring.html#af425fe5a5a38cd292894bc3e91232d0c',1,'Istring::name()'],['../d1/df4/struct_tex_fonts.html#a2be37fc988d5a337226450ec0e8bb77d',1,'TexFonts::name()']]],
   ['namesplitter_8921',['NameSplitter',['../d2/d48/class_name_splitter.html#ac2e9924a67d120e1f4db6d45a0c031e7',1,'NameSplitter']]],
   ['nb_5fargs_5ffor_5fcmd_8922',['nb_args_for_cmd',['../de/d4a/namespacemath__ns.html#ac8e9d331c51f698a7ddb6f23ff3aa729',1,'math_ns']]],
   ['nb_5fenv_5fon_5fstack_8923',['nb_env_on_stack',['../dc/db7/class_parser.html#aadb1a747a72457b5246f95132d5ade97',1,'Parser::nb_env_on_stack(const std::string &amp;s) -&gt; int'],['../dc/db7/class_parser.html#a199755cb93dd61fb2223daa138178b56',1,'Parser::nb_env_on_stack() -&gt; int']]],

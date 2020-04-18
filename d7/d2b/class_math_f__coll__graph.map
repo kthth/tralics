@@ -1,16 +1,18 @@
 <map id="MathF" name="MathF">
-<area shape="rect" id="node1" title=" " alt="" coords="275,477,334,503"/>
-<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="164,391,208,416"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="5,155,143,193"/>
-<area shape="rect" id="node4" title=" " alt="" coords="89,5,128,31"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="101,92,244,131"/>
-<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="136,304,193,329"/>
-<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="138,217,207,243"/>
-<area shape="rect" id="node8" title=" " alt="" coords="268,99,408,124"/>
-<area shape="rect" id="node9" href="$de/d3f/class_xid.html" title=" " alt="" coords="218,304,258,329"/>
-<area shape="rect" id="node10" title=" " alt="" coords="242,391,368,416"/>
-<area shape="rect" id="node11" href="$dc/d6e/class_math_q.html" title=" " alt="" coords="282,304,343,329"/>
-<area shape="rect" id="node12" title=" " alt="" coords="391,391,522,416"/>
-<area shape="rect" id="node13" href="$d2/da0/class_math_elt.html" title=" " alt="" coords="423,304,490,329"/>
-<area shape="rect" id="node14" href="$de/d72/class_cmd_chr.html" title=" " alt="" coords="421,217,492,243"/>
+<area shape="rect" id="node1" title=" " alt="" coords="275,565,334,591"/>
+<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="164,479,208,504"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="5,243,143,281"/>
+<area shape="rect" id="node4" title=" " alt="" coords="91,93,129,119"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="101,180,244,219"/>
+<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="136,392,193,417"/>
+<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title=" " alt="" coords="138,305,207,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="268,180,413,219"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="301,93,380,119"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="278,5,403,44"/>
+<area shape="rect" id="node11" href="$de/d3f/class_xid.html" title=" " alt="" coords="218,392,258,417"/>
+<area shape="rect" id="node12" title=" " alt="" coords="242,479,368,504"/>
+<area shape="rect" id="node13" href="$dc/d6e/class_math_q.html" title=" " alt="" coords="282,392,343,417"/>
+<area shape="rect" id="node14" title=" " alt="" coords="391,479,522,504"/>
+<area shape="rect" id="node15" href="$d2/da0/class_math_elt.html" title=" " alt="" coords="423,392,490,417"/>
+<area shape="rect" id="node16" href="$de/d72/class_cmd_chr.html" title=" " alt="" coords="421,305,492,331"/>
 </map>

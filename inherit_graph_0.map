@@ -1,9 +1,10 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title="STL class." alt="" coords="5,129,119,155"/>
+<area shape="rect" id="node1" title="STL class." alt="" coords="5,153,119,179"/>
 <area shape="rect" id="node2" href="$d5/dc6/struct_all_index.html" title=" " alt="" coords="170,5,239,31"/>
 <area shape="rect" id="node3" href="$d5/d2a/class_buffer.html" title="a big structure" alt="" coords="176,55,233,80"/>
-<area shape="rect" id="node4" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="170,104,239,129"/>
-<area shape="rect" id="node5" href="$de/d0b/struct_tex_font.html" title=" " alt="" coords="170,153,239,179"/>
-<area shape="rect" id="node6" href="$d1/df4/struct_tex_fonts.html" title=" " alt="" coords="167,203,242,228"/>
-<area shape="rect" id="node7" href="$d6/d9a/class_xml.html" title=" " alt="" coords="182,252,227,277"/>
+<area shape="rect" id="node4" href="$d0/d6a/class_hashtab.html" title=" " alt="" coords="169,104,240,129"/>
+<area shape="rect" id="node5" href="$de/df7/class_str_hash.html" title=" " alt="" coords="170,153,239,179"/>
+<area shape="rect" id="node6" href="$de/d0b/struct_tex_font.html" title=" " alt="" coords="170,203,239,228"/>
+<area shape="rect" id="node7" href="$d1/df4/struct_tex_fonts.html" title=" " alt="" coords="167,252,242,277"/>
+<area shape="rect" id="node8" href="$d6/d9a/class_xml.html" title=" " alt="" coords="182,301,227,327"/>
 </map>

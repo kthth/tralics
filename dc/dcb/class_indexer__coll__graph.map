@@ -1,13 +1,13 @@
 <map id="Indexer" name="Indexer">
-<area shape="rect" id="node1" title=" " alt="" coords="242,504,308,529"/>
-<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="164,404,208,429"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="5,155,143,193"/>
-<area shape="rect" id="node4" title=" " alt="" coords="88,5,127,31"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="100,92,243,131"/>
-<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="133,311,191,336"/>
-<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="137,217,206,243"/>
-<area shape="rect" id="node8" title=" " alt="" coords="266,99,407,124"/>
-<area shape="rect" id="node9" href="$de/d3f/class_xid.html" title=" " alt="" coords="215,311,256,336"/>
-<area shape="rect" id="node10" title="STL class." alt="" coords="298,404,378,429"/>
-<area shape="rect" id="node11" title="STL class." alt="" coords="279,304,405,343"/>
+<area shape="rect" id="node1" title=" " alt="" coords="28,579,94,604"/>
+<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="193,492,237,517"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="338,243,475,281"/>
+<area shape="rect" id="node4" title=" " alt="" coords="361,93,399,119"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="246,180,389,219"/>
+<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="147,405,205,431"/>
+<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title=" " alt="" coords="141,305,211,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="77,180,222,219"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="28,93,108,119"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="5,5,131,44"/>
+<area shape="rect" id="node11" href="$de/d3f/class_xid.html" title=" " alt="" coords="229,405,270,431"/>
 </map>

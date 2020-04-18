@@ -9,6 +9,9 @@ var dir_34757b718924119af78d27f1d70115f6 =
     [ "enums.h", "d0/d0b/enums_8h.html", "d0/d0b/enums_8h" ],
     [ "EQTB.h", "d8/dd6/_e_q_t_b_8h.html", "d8/dd6/_e_q_t_b_8h" ],
     [ "globals.h", "d5/d87/globals_8h.html", "d5/d87/globals_8h" ],
+    [ "Hashtab.h", "da/d27/_hashtab_8h.html", [
+      [ "Hashtab", "d0/d6a/class_hashtab.html", "d0/d6a/class_hashtab" ]
+    ] ],
     [ "Istring.h", "d5/daf/_istring_8h.html", "d5/daf/_istring_8h" ],
     [ "MainClass.h", "d4/de9/_main_class_8h.html", "d4/de9/_main_class_8h" ],
     [ "Saver.h", "db/d59/_saver_8h.html", "db/d59/_saver_8h" ],

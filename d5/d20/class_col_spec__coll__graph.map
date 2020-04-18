@@ -1,13 +1,13 @@
 <map id="ColSpec" name="ColSpec">
-<area shape="rect" id="node1" title=" " alt="" coords="269,517,340,543"/>
-<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="282,404,327,429"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="281,155,419,193"/>
-<area shape="rect" id="node4" title=" " alt="" coords="195,5,233,31"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="5,92,148,131"/>
-<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="172,311,229,336"/>
-<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="166,217,235,243"/>
-<area shape="rect" id="node8" title=" " alt="" coords="172,99,312,124"/>
-<area shape="rect" id="node9" href="$de/d3f/class_xid.html" title=" " alt="" coords="272,311,313,336"/>
-<area shape="rect" id="node10" title="STL class." alt="" coords="380,404,459,429"/>
-<area shape="rect" id="node11" title="STL class." alt="" coords="387,304,513,343"/>
+<area shape="rect" id="node1" title=" " alt="" coords="106,592,177,617"/>
+<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="205,505,249,531"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="338,243,475,281"/>
+<area shape="rect" id="node4" title=" " alt="" coords="361,93,399,119"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="246,180,389,219"/>
+<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="147,419,205,444"/>
+<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title=" " alt="" coords="141,305,211,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="77,180,222,219"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="28,93,108,119"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="5,5,131,44"/>
+<area shape="rect" id="node11" href="$de/d3f/class_xid.html" title=" " alt="" coords="233,419,274,444"/>
 </map>

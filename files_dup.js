@@ -4,6 +4,8 @@ var files_dup =
     [ "tralics", "dir_34757b718924119af78d27f1d70115f6.html", "dir_34757b718924119af78d27f1d70115f6" ],
     [ "Buffer.cpp", "dc/dcf/_buffer_8cpp.html", "dc/dcf/_buffer_8cpp" ],
     [ "globals.cpp", "da/d77/globals_8cpp.html", "da/d77/globals_8cpp" ],
+    [ "Hashtab.cpp", "dd/dca/_hashtab_8cpp.html", null ],
+    [ "Hashtab_boot.cpp", "de/d02/_hashtab__boot_8cpp.html", null ],
     [ "Istring.cpp", "d0/d4b/_istring_8cpp.html", null ],
     [ "MainClass.cpp", "df/d37/_main_class_8cpp.html", "df/d37/_main_class_8cpp" ],
     [ "readline.cpp", "d7/d53/readline_8cpp.html", "d7/d53/readline_8cpp" ],
@@ -73,7 +75,6 @@ var files_dup =
       [ "FpNum", "db/d0c/class_fp_num.html", "db/d0c/class_fp_num" ]
     ] ],
     [ "txhash.h", "d7/d7e/txhash_8h.html", [
-      [ "Hashtab", "d0/d6a/class_hashtab.html", "d0/d6a/class_hashtab" ],
       [ "LabelInfo", "dc/df1/class_label_info.html", "dc/df1/class_label_info" ]
     ] ],
     [ "txid.h", "d1/d9e/txid_8h.html", [
@@ -125,7 +126,6 @@ var files_dup =
     [ "txtitlepage.h", "d5/d7f/txtitlepage_8h.html", "d5/d7f/txtitlepage_8h" ],
     [ "txtoken.cpp", "d7/d6c/txtoken_8cpp.html", "d7/d6c/txtoken_8cpp" ],
     [ "txtoken1.cpp", "dd/d02/txtoken1_8cpp.html", "dd/d02/txtoken1_8cpp" ],
-    [ "txtoken2.cpp", "d9/d80/txtoken2_8cpp.html", null ],
     [ "txtokenlist.h", "dc/d91/txtokenlist_8h.html", "dc/d91/txtokenlist_8h" ],
     [ "txtranslate.cpp", "dd/da4/txtranslate_8cpp.html", "dd/da4/txtranslate_8cpp" ],
     [ "txtrees.cpp", "d0/d93/txtrees_8cpp.html", "d0/d93/txtrees_8cpp" ],

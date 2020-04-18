@@ -1,11 +1,13 @@
 <map id="Stack::StackSlot" name="Stack::StackSlot">
-<area shape="rect" id="node1" title=" " alt="" coords="139,479,257,504"/>
-<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="125,391,169,417"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="5,155,143,193"/>
-<area shape="rect" id="node4" title=" " alt="" coords="99,5,137,31"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="276,92,419,131"/>
-<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="191,304,248,329"/>
-<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="185,217,254,243"/>
-<area shape="rect" id="node8" title=" " alt="" coords="112,99,252,124"/>
-<area shape="rect" id="node9" href="$de/d3f/class_xid.html" title=" " alt="" coords="111,304,152,329"/>
+<area shape="rect" id="node1" title=" " alt="" coords="139,567,257,592"/>
+<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="125,479,169,505"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="5,243,143,281"/>
+<area shape="rect" id="node4" title=" " alt="" coords="100,93,139,119"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="111,180,253,219"/>
+<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="191,392,248,417"/>
+<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title=" " alt="" coords="185,305,254,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="278,180,422,219"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="310,93,390,119"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="287,5,413,44"/>
+<area shape="rect" id="node11" href="$de/d3f/class_xid.html" title=" " alt="" coords="111,392,152,417"/>
 </map>

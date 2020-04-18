@@ -270,7 +270,7 @@ var searchData=
   ['at_5fone_5ftoken_267',['at_one_token',['../d0/d6a/class_hashtab.html#a02e7ea93e49413ff323404cae5d31217',1,'Hashtab']]],
   ['at_5fval_268',['at_val',['../de/d0b/struct_tex_font.html#a2e5fea65ca3b235a05d7d67dedbd292f',1,'TexFont::at_val()'],['../d0/d3a/struct_input_stack.html#a6d4a1b11dfe78c6955db23513be467ca',1,'InputStack::at_val()']]],
   ['at_5fzero_5ftoken_269',['at_zero_token',['../d0/d6a/class_hashtab.html#a18ba2d314898f731424b4415be3f4dce',1,'Hashtab']]],
-  ['atalph_5ftoken_270',['atAlph_token',['../d0/d6a/class_hashtab.html#a19e326d2b4b10402153e9a0f41cef1c1',1,'Hashtab::atAlph_token()'],['../d0/d6a/class_hashtab.html#a07a89dc290c4614dbdf796da3b36a7f8',1,'Hashtab::atalph_token()']]],
+  ['atalph_5ftoken_270',['atalph_token',['../d0/d6a/class_hashtab.html#a07a89dc290c4614dbdf796da3b36a7f8',1,'Hashtab::atalph_token()'],['../d0/d6a/class_hashtab.html#a19e326d2b4b10402153e9a0f41cef1c1',1,'Hashtab::atAlph_token()']]],
   ['atatend_5fcode_271',['atatend_code',['../d0/d0b/enums_8h.html#a7423c243c38a57b042d479052ae57705a8ec1807aab006ede560f2d25550a95dc',1,'enums.h']]],
   ['atbd_5ftoken_272',['atbd_token',['../d0/d6a/class_hashtab.html#ae6f175c6d471ea9ba5375f9f1d7f4471',1,'Hashtab']]],
   ['atdocument_5fcmd_273',['atdocument_cmd',['../d0/d0b/enums_8h.html#ad9fa722fa2849c703424c4eea93f2ee7a67b88e40547a824d00bd160049535fd8',1,'enums.h']]],

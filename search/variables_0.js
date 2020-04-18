@@ -51,7 +51,7 @@ var searchData=
   ['at_5fone_5ftoken_10225',['at_one_token',['../d0/d6a/class_hashtab.html#a02e7ea93e49413ff323404cae5d31217',1,'Hashtab']]],
   ['at_5fval_10226',['at_val',['../de/d0b/struct_tex_font.html#a2e5fea65ca3b235a05d7d67dedbd292f',1,'TexFont::at_val()'],['../d0/d3a/struct_input_stack.html#a6d4a1b11dfe78c6955db23513be467ca',1,'InputStack::at_val()']]],
   ['at_5fzero_5ftoken_10227',['at_zero_token',['../d0/d6a/class_hashtab.html#a18ba2d314898f731424b4415be3f4dce',1,'Hashtab']]],
-  ['atalph_5ftoken_10228',['atAlph_token',['../d0/d6a/class_hashtab.html#a19e326d2b4b10402153e9a0f41cef1c1',1,'Hashtab::atAlph_token()'],['../d0/d6a/class_hashtab.html#a07a89dc290c4614dbdf796da3b36a7f8',1,'Hashtab::atalph_token()']]],
+  ['atalph_5ftoken_10228',['atalph_token',['../d0/d6a/class_hashtab.html#a07a89dc290c4614dbdf796da3b36a7f8',1,'Hashtab::atalph_token()'],['../d0/d6a/class_hashtab.html#a19e326d2b4b10402153e9a0f41cef1c1',1,'Hashtab::atAlph_token()']]],
   ['atbd_5ftoken_10229',['atbd_token',['../d0/d6a/class_hashtab.html#ae6f175c6d471ea9ba5375f9f1d7f4471',1,'Hashtab']]],
   ['att_5fbuffer_10230',['att_buffer',['../dc/d78/txmath1_8cpp.html#a80a0d7a093c6cea3404a6d1a33597188',1,'txmath1.cpp']]],
   ['attribs_10231',['attribs',['../da/d78/class_new_array.html#a444a328fde6ed11ab65e727c236b7c28',1,'NewArray::attribs()'],['../d8/dc7/class_array_info.html#a8c199e1c409f6191ab07480579963a38',1,'ArrayInfo::attribs()']]],

@@ -1,13 +1,13 @@
 <map id="BibEntry" name="BibEntry">
-<area shape="rect" id="node1" title=" " alt="" coords="282,501,353,526"/>
-<area shape="rect" id="node2" title="STL class." alt="" coords="194,192,273,217"/>
-<area shape="rect" id="node4" title=" " alt="" coords="99,359,249,398"/>
-<area shape="rect" id="node5" href="$d0/dfc/struct_citation_key.html" title=" " alt="" coords="273,366,362,391"/>
-<area shape="rect" id="node11" href="$de/d3a/class_bibtex_name.html" title=" " alt="" coords="387,366,481,391"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="171,92,296,131"/>
-<area shape="rect" id="node6" href="$d9/d20/struct_istring.html" title=" " alt="" coords="505,366,562,391"/>
-<area shape="rect" id="node7" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="499,192,568,217"/>
-<area shape="rect" id="node8" title="STL class." alt="" coords="338,92,481,131"/>
-<area shape="rect" id="node9" title=" " alt="" coords="390,5,429,31"/>
-<area shape="rect" id="node10" title=" " alt="" coords="505,99,645,124"/>
+<area shape="rect" id="node1" title=" " alt="" coords="235,613,307,638"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="235,93,315,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,463,155,501"/>
+<area shape="rect" id="node5" href="$d0/dfc/struct_citation_key.html" title=" " alt="" coords="136,296,225,321"/>
+<area shape="rect" id="node10" title=" " alt="" coords="359,233,503,272"/>
+<area shape="rect" id="node11" href="$de/d3a/class_bibtex_name.html" title=" " alt="" coords="312,296,406,321"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="212,5,338,44"/>
+<area shape="rect" id="node6" href="$d9/d20/struct_istring.html" title=" " alt="" coords="427,525,485,551"/>
+<area shape="rect" id="node7" href="$de/df7/class_str_hash.html" title=" " alt="" coords="439,379,508,405"/>
+<area shape="rect" id="node8" title="STL class." alt="" coords="528,233,670,272"/>
+<area shape="rect" id="node9" title=" " alt="" coords="580,93,618,119"/>
 </map>

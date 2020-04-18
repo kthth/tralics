@@ -38,7 +38,6 @@ var hierarchy =
     [ "FullLogger", "de/d2b/class_full_logger.html", null ],
     [ "Glue", "d2/da4/class_glue.html", null ],
     [ "HalfLogger", "d9/d8e/class_half_logger.html", null ],
-    [ "Hashtab", "d0/d6a/class_hashtab.html", null ],
     [ "Image", "de/d73/class_image.html", null ],
     [ "Indexer", "d6/d1f/class_indexer.html", null ],
     [ "InputStack", "d0/d3a/struct_input_stack.html", null ],
@@ -108,6 +107,7 @@ var hierarchy =
     [ "std::vector< T >", null, [
       [ "AllIndex", "d5/dc6/struct_all_index.html", null ],
       [ "Buffer", "d5/d2a/class_buffer.html", null ],
+      [ "Hashtab", "d0/d6a/class_hashtab.html", null ],
       [ "StrHash", "de/df7/class_str_hash.html", null ],
       [ "TexFont", "de/d0b/struct_tex_font.html", null ],
       [ "TexFonts", "d1/df4/struct_tex_fonts.html", null ],

@@ -1,11 +1,11 @@
 <map id="StrHash_record" name="StrHash_record">
-<area shape="rect" id="node1" title=" " alt="" coords="197,479,311,504"/>
-<area shape="rect" id="node2" title="STL class." alt="" coords="249,292,328,317"/>
-<area shape="rect" id="node4" href="$dc/df1/class_label_info.html" title=" " alt="" coords="173,392,249,417"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="226,192,351,231"/>
-<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="130,292,188,317"/>
-<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title="The string_hash table." alt="" coords="124,199,194,224"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="5,92,148,131"/>
-<area shape="rect" id="node8" title=" " alt="" coords="57,5,96,31"/>
-<area shape="rect" id="node9" title=" " alt="" coords="172,99,312,124"/>
+<area shape="rect" id="node1" title=" " alt="" coords="342,567,457,592"/>
+<area shape="rect" id="node2" title="STL class." alt="" coords="314,93,393,119"/>
+<area shape="rect" id="node4" href="$dc/df1/class_label_info.html" title=" " alt="" coords="316,480,392,505"/>
+<area shape="rect" id="node9" title=" " alt="" coords="172,180,317,219"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="291,5,417,44"/>
+<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="248,380,305,405"/>
+<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title=" " alt="" coords="210,280,279,305"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="5,180,148,219"/>
+<area shape="rect" id="node8" title=" " alt="" coords="57,93,96,119"/>
 </map>

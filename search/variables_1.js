@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['b_10238',['B',['../d2/d56/class_bbl.html#a595b63d417fe65c1f3a5163cc28305bb',1,'Bbl::B()'],['../d0/d6a/class_hashtab.html#acc043065c449f4e76d5964208a9ede82',1,'Hashtab::B()'],['../d3/dda/class_xml_i_o.html#a1f549c7963db9f13105cf1103aafb562',1,'XmlIO::B()']]],
+  ['b_10238',['B',['../d2/d56/class_bbl.html#a595b63d417fe65c1f3a5163cc28305bb',1,'Bbl::B()'],['../d3/dda/class_xml_i_o.html#a1f549c7963db9f13105cf1103aafb562',1,'XmlIO::B()']]],
   ['b_5fafter_10239',['b_after',['../dd/d12/namespaceanonymous__namespace_02_main_class_8cpp_03.html#a78e5a98701a4cdd7a8e6f9c436405fa9',1,'anonymous_namespace{MainClass.cpp}']]],
   ['backslash_5ftoken_10240',['backslash_token',['../d0/d6a/class_hashtab.html#aa445fb0cde8eb9590c8f6aacf1ac99e5',1,'Hashtab']]],
   ['bad_5fchars_10241',['bad_chars',['../db/d92/class_converter.html#ab665af88653524a705025f84713c9b0d',1,'Converter']]],
