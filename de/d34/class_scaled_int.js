@@ -19,5 +19,6 @@ var class_scaled_int =
     [ "times_10_18", "de/d34/class_scaled_int.html#a397ae5b591461b6dbcf5197d5c6ed359", null ],
     [ "ovf30", "de/d34/class_scaled_int.html#ad1057b341b4752aed4435aaa7500a0d8", null ],
     [ "ovf31", "de/d34/class_scaled_int.html#aa5c308f369d9dd02f0339bad7a8b5b14", null ],
+    [ "operator std::string", "de/d34/class_scaled_int.html#a9690f892e8f4356cfcae37aa34ff4023", null ],
     [ "value", "de/d34/class_scaled_int.html#ab2151c975c3bd097651a738a4f6193f4", null ]
 ];

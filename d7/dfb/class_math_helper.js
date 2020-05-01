@@ -28,7 +28,7 @@ var class_math_helper =
     [ "update_math_env_ctr", "d7/dfb/class_math_helper.html#a43d2d500e6327c791356d95c35e6aa4a", null ],
     [ "get_math_env_ctr", "d7/dfb/class_math_helper.html#ae417e6d94d0a65af0ebf28ce4f5f7a85", null ],
     [ "get_all_env_ctr", "d7/dfb/class_math_helper.html#aa1bced306d257b9be3e6c6bb4c1aa794", null ],
-    [ "add_attribute", "d7/dfb/class_math_helper.html#a3ab43e14cf70c11d1c41edaf3e0eafdd", null ],
+    [ "add_attribute", "d7/dfb/class_math_helper.html#ad7a601615d35363d2a26191ed26f7f35", null ],
     [ "get_cid", "d7/dfb/class_math_helper.html#af72f5fbf39b8d9a1075c1888c53c838d", null ],
     [ "get_rid", "d7/dfb/class_math_helper.html#aec9b759626f8bf9f5b51534b16d73388", null ],
     [ "get_mid", "d7/dfb/class_math_helper.html#a7486b18d08da45f95d9c2e03f81a7ec7", null ],

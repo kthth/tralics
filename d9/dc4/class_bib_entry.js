@@ -1,7 +1,7 @@
 var class_bib_entry =
 [
     [ "BibEntry", "d9/dc4/class_bib_entry.html#aaac99fa9ac38e515d95e1e7d66095980", null ],
-    [ "from_to_string", "d9/dc4/class_bib_entry.html#a1ba51e55896f24ff55026e07636b7953", null ],
+    [ "from_to_string", "d9/dc4/class_bib_entry.html#a4cbee9001d95652d6c356105629b6025", null ],
     [ "ra_prefix", "d9/dc4/class_bib_entry.html#a8a17412634270e08e5e7abd5c0841613", null ],
     [ "get_cite_prefix", "d9/dc4/class_bib_entry.html#a97de652a5c90daa26aa987190e64b73d", null ],
     [ "find_cnrs_type", "d9/dc4/class_bib_entry.html#a77e5bcfb58549b34d90ad4276c22ff28", null ],

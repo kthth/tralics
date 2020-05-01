@@ -1,13 +1,10 @@
 <map id="ColSpec" name="ColSpec">
-<area shape="rect" id="node1" title=" " alt="" coords="106,592,177,617"/>
-<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="205,505,249,531"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="338,243,475,281"/>
-<area shape="rect" id="node4" title=" " alt="" coords="361,93,399,119"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="246,180,389,219"/>
-<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="147,419,205,444"/>
-<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title=" " alt="" coords="141,305,211,331"/>
-<area shape="rect" id="node8" title=" " alt="" coords="77,180,222,219"/>
-<area shape="rect" id="node9" title="STL class." alt="" coords="28,93,108,119"/>
-<area shape="rect" id="node10" title="STL class." alt="" coords="5,5,131,44"/>
-<area shape="rect" id="node11" href="$de/d3f/class_xid.html" title=" " alt="" coords="233,419,274,444"/>
+<area shape="rect" id="node1" title=" " alt="" coords="254,407,326,432"/>
+<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="181,320,225,345"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="5,193,143,232"/>
+<area shape="rect" id="node4" title=" " alt="" coords="55,93,93,119"/>
+<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="247,200,304,225"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="272,93,351,119"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="249,5,374,44"/>
+<area shape="rect" id="node8" href="$de/d3f/class_xid.html" title=" " alt="" coords="167,200,208,225"/>
 </map>

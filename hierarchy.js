@@ -35,9 +35,7 @@ var hierarchy =
     [ "FpGenList", "df/dd0/class_fp_gen_list.html", null ],
     [ "FpNum", "db/d0c/class_fp_num.html", null ],
     [ "FpStack", "d2/d47/class_fp_stack.html", null ],
-    [ "FullLogger", "de/d2b/class_full_logger.html", null ],
     [ "Glue", "d2/da4/class_glue.html", null ],
-    [ "HalfLogger", "d9/d8e/class_half_logger.html", null ],
     [ "Image", "de/d73/class_image.html", null ],
     [ "Indexer", "d6/d1f/class_indexer.html", null ],
     [ "InputStack", "d0/d3a/struct_input_stack.html", null ],
@@ -48,7 +46,7 @@ var hierarchy =
     [ "std::list< T >", null, [
       [ "LinePtr", "d6/d5a/struct_line_ptr.html", null ]
     ] ],
-    [ "Logger", "d3/d42/class_logger.html", null ],
+    [ "Logger", "d3/dc2/struct_logger.html", null ],
     [ "Macro", "d9/dbe/class_macro.html", null ],
     [ "Mactab", "d8/d75/class_mactab.html", null ],
     [ "MainClass", "d5/d5e/class_main_class.html", null ],
@@ -92,7 +90,6 @@ var hierarchy =
     [ "Stack::StackSlot", "d8/dc9/class_stack_1_1_stack_slot.html", null ],
     [ "Stats", "df/d1b/class_stats.html", null ],
     [ "SthInternal", "d2/db5/class_sth_internal.html", null ],
-    [ "StrHash_record", "d7/dd4/struct_str_hash__record.html", null ],
     [ "TeXChar", "dc/dea/class_te_x_char.html", null ],
     [ "TexOutStream", "de/dcf/class_tex_out_stream.html", null ],
     [ "TexRule", "dd/db9/class_tex_rule.html", null ],
@@ -108,7 +105,6 @@ var hierarchy =
       [ "AllIndex", "d5/dc6/struct_all_index.html", null ],
       [ "Buffer", "d5/d2a/class_buffer.html", null ],
       [ "Hashtab", "d0/d6a/class_hashtab.html", null ],
-      [ "StrHash", "de/df7/class_str_hash.html", null ],
       [ "TexFont", "de/d0b/struct_tex_font.html", null ],
       [ "TexFonts", "d1/df4/struct_tex_fonts.html", null ],
       [ "Xml", "d6/d9a/class_xml.html", null ]

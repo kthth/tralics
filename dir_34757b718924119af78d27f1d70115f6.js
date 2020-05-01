@@ -13,12 +13,13 @@ var dir_34757b718924119af78d27f1d70115f6 =
       [ "Hashtab", "d0/d6a/class_hashtab.html", "d0/d6a/class_hashtab" ]
     ] ],
     [ "Istring.h", "d5/daf/_istring_8h.html", "d5/daf/_istring_8h" ],
-    [ "MainClass.h", "d4/de9/_main_class_8h.html", "d4/de9/_main_class_8h" ],
-    [ "Saver.h", "db/d59/_saver_8h.html", "db/d59/_saver_8h" ],
-    [ "StrHash.h", "dd/d47/_str_hash_8h.html", [
-      [ "StrHash_record", "d7/dd4/struct_str_hash__record.html", "d7/dd4/struct_str_hash__record" ],
-      [ "StrHash", "de/df7/class_str_hash.html", "de/df7/class_str_hash" ]
+    [ "LabelInfo.h", "d9/dba/_label_info_8h.html", [
+      [ "LabelInfo", "dc/df1/class_label_info.html", "dc/df1/class_label_info" ]
     ] ],
+    [ "Logger.h", "d6/dec/_logger_8h.html", "d6/dec/_logger_8h" ],
+    [ "MainClass.h", "d4/de9/_main_class_8h.html", "d4/de9/_main_class_8h" ],
+    [ "Parser.h", "de/d40/_parser_8h.html", "de/d40/_parser_8h" ],
+    [ "Saver.h", "db/d59/_saver_8h.html", "db/d59/_saver_8h" ],
     [ "Token.h", "dd/dcd/_token_8h.html", "dd/dcd/_token_8h" ],
     [ "types.h", "d9/d49/types_8h.html", "d9/d49/types_8h" ],
     [ "util.h", "d8/d3c/util_8h.html", "d8/d3c/util_8h" ],

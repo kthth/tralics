@@ -30,7 +30,7 @@ var txtokenlist_8h =
     [ "replace_space", "dc/d91/txtokenlist_8h.html#ace9cff0c951dfd802381423bbc439ceb", null ],
     [ "show", "dc/d91/txtokenlist_8h.html#afebd514bcf1797226edb3fe97dd38af3", null ],
     [ "split_at", "dc/d91/txtokenlist_8h.html#a8f35f170b229c506e62e04c7e336c40a", null ],
-    [ "string_to_list", "dc/d91/txtokenlist_8h.html#aa3bac9b89cde0b058866819f37958991", null ],
+    [ "string_to_list", "dc/d91/txtokenlist_8h.html#a9b03e0ad28b9f33865d38e074479dbc6", null ],
     [ "string_to_list", "dc/d91/txtokenlist_8h.html#a72f30b0ccddd5e8e9f3cb1e9d75290f9", null ],
     [ "string_to_list", "dc/d91/txtokenlist_8h.html#ae6e0c5b286318c139ff41cbd7c297876", null ],
     [ "double_hack", "dc/d91/txtokenlist_8h.html#a9518b2da87b4918c8195cd7a88b695d3", null ],
@@ -42,5 +42,6 @@ var txtokenlist_8h =
     [ "sanitize_one", "dc/d91/txtokenlist_8h.html#aaa9e72a052ef2bb858a245ef8545425d", null ],
     [ "sanitize_one", "dc/d91/txtokenlist_8h.html#af7dc3fac7e2488ebb1532e1cd4aaf77a", null ],
     [ "check_brace", "dc/d91/txtokenlist_8h.html#a1b897b0aed7e895ae50d5b8e8a8876c0", null ],
-    [ "compare", "dc/d91/txtokenlist_8h.html#aa2ebbc6898e1a95596c40dcb8f78b555", null ]
+    [ "compare", "dc/d91/txtokenlist_8h.html#aa2ebbc6898e1a95596c40dcb8f78b555", null ],
+    [ "operator<<", "dc/d91/txtokenlist_8h.html#a7e335dd27fe0b8ac541dff9bc65c3229", null ]
 ];

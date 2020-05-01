@@ -1,17 +1,14 @@
 <map id="Cv3Helper" name="Cv3Helper">
-<area shape="rect" id="node1" title=" " alt="" coords="228,592,312,617"/>
-<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="189,479,233,504"/>
-<area shape="rect" id="node3" title="STL class." alt="" coords="5,243,143,281"/>
-<area shape="rect" id="node4" title=" " alt="" coords="75,93,113,119"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="85,180,228,219"/>
-<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="149,392,207,417"/>
-<area shape="rect" id="node6" href="$de/df7/class_str_hash.html" title=" " alt="" coords="143,305,213,331"/>
-<area shape="rect" id="node8" title=" " alt="" coords="252,180,397,219"/>
-<area shape="rect" id="node9" title="STL class." alt="" coords="285,93,364,119"/>
-<area shape="rect" id="node10" title="STL class." alt="" coords="262,5,387,44"/>
-<area shape="rect" id="node11" href="$de/d3f/class_xid.html" title=" " alt="" coords="231,392,272,417"/>
-<area shape="rect" id="node12" href="$d4/d34/class_math.html" title=" " alt="" coords="311,479,362,504"/>
-<area shape="rect" id="node13" title=" " alt="" coords="324,392,455,417"/>
-<area shape="rect" id="node14" href="$d2/da0/class_math_elt.html" title=" " alt="" coords="419,305,486,331"/>
-<area shape="rect" id="node15" href="$de/d72/class_cmd_chr.html" title=" " alt="" coords="421,187,492,212"/>
+<area shape="rect" id="node1" title=" " alt="" coords="237,419,321,444"/>
+<area shape="rect" id="node2" href="$d6/d9a/class_xml.html" title=" " alt="" coords="199,305,243,331"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="5,205,143,244"/>
+<area shape="rect" id="node4" title=" " alt="" coords="55,105,93,131"/>
+<area shape="rect" id="node5" href="$d9/d20/struct_istring.html" title=" " alt="" coords="167,212,224,237"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="156,105,235,131"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="133,5,258,44"/>
+<area shape="rect" id="node8" href="$de/d3f/class_xid.html" title=" " alt="" coords="248,212,289,237"/>
+<area shape="rect" id="node9" href="$d4/d34/class_math.html" title=" " alt="" coords="315,305,366,331"/>
+<area shape="rect" id="node10" title=" " alt="" coords="312,212,443,237"/>
+<area shape="rect" id="node11" href="$d2/da0/class_math_elt.html" title=" " alt="" coords="345,105,411,131"/>
+<area shape="rect" id="node12" href="$de/d72/class_cmd_chr.html" title=" " alt="" coords="343,12,413,37"/>
 </map>

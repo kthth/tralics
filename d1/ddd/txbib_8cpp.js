@@ -1,7 +1,7 @@
 var txbib_8cpp =
 [
     [ "Error", "d8/df2/classanonymous__namespace_02txbib_8cpp_03_1_1_error.html", null ],
-    [ "make_cit_ref", "d1/ddd/txbib_8cpp.html#aa09e35552abba777f1cdd1c48e97d150", null ],
+    [ "make_cit_ref", "d1/ddd/txbib_8cpp.html#a599fc6fa3d82e96f67a511b919cff3f9", null ],
     [ "normalise_for_bib", "d1/ddd/txbib_8cpp.html#a875e100c000e6f78f2c2585fbf28ab12", null ],
     [ "boot_ra_prefix", "d1/ddd/txbib_8cpp.html#a14c66cc7d6c6ac43b90f6caac5f032d6", null ],
     [ "first_three", "d1/ddd/txbib_8cpp.html#a09babad31ce0b3ace954ee9806040172", null ],
@@ -14,7 +14,6 @@ var txbib_8cpp =
     [ "how_many_bytes", "d1/ddd/txbib_8cpp.html#acce035301d0022baab729fa778f9ee4c", null ],
     [ "xless", "d1/ddd/txbib_8cpp.html#aa4f06caf507f1ffd91df774018bbe075", null ],
     [ "operator<<", "d1/ddd/txbib_8cpp.html#add12689cfa5666d52e2667346e4ad865", null ],
-    [ "the_bibtex", "d1/ddd/txbib_8cpp.html#abf2cc457e4a7310a192b1c4f14a1d8d2", null ],
     [ "my_constant_table", "d1/ddd/txbib_8cpp.html#a91a6ed75ff04c602cdd6c301f5636cf5", null ],
     [ "bbl", "d1/ddd/txbib_8cpp.html#aeab5d13ca8a46221f98fe85b15589b5a", null ],
     [ "biblio_buf1", "d1/ddd/txbib_8cpp.html#a01fd6ebe688ec48b98d86bc2e209943c", null ],
@@ -35,7 +34,7 @@ var txbib_8cpp =
     [ "similar_entries", "d1/ddd/txbib_8cpp.html#a31d31afd266f2954522f66ef52b7ba5f", null ],
     [ "old_ra", "d1/ddd/txbib_8cpp.html#abc2e3f3a42040afcb660a40f8163327a", null ],
     [ "start_comma", "d1/ddd/txbib_8cpp.html#a11186db4ec3b6c6c4807c6568519d855", null ],
-    [ "bib_xml_name", "d1/ddd/txbib_8cpp.html#ac6b0df7e30bf4e394b27326897d14e05", null ],
+    [ "bib_xml_name", "d1/ddd/txbib_8cpp.html#a3a86881096c684f2a71d63393a44da3d", null ],
     [ "ra_pretable", "d1/ddd/txbib_8cpp.html#a97495449d206ba2b09248e94624806cd", null ],
     [ "scan_msgs", "d1/ddd/txbib_8cpp.html#ae3c1f30801fdcae929d275e39f4707da", null ]
 ];

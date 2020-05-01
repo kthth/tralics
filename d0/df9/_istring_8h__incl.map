@@ -1,13 +1,9 @@
 <map id="tralics/Istring.h" name="tralics/Istring.h">
-<area shape="rect" id="node1" title=" " alt="" coords="253,5,360,31"/>
-<area shape="rect" id="node2" href="$dd/d47/_str_hash_8h.html" title=" " alt="" coords="223,79,303,104"/>
-<area shape="rect" id="node11" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="108,79,180,104"/>
-<area shape="rect" id="node12" href="$d8/d3c/util_8h.html" title=" " alt="" coords="327,79,377,104"/>
-<area shape="rect" id="node13" title=" " alt="" coords="401,79,453,104"/>
+<area shape="rect" id="node1" title=" " alt="" coords="159,5,266,31"/>
+<area shape="rect" id="node2" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="89,79,162,104"/>
+<area shape="rect" id="node8" title=" " alt="" coords="186,79,238,104"/>
+<area shape="rect" id="node9" title=" " alt="" coords="263,79,316,104"/>
 <area shape="rect" id="node3" href="$d8/db5/consts_8h.html" title=" " alt="" coords="90,152,161,177"/>
-<area shape="rect" id="node8" title=" " alt="" coords="325,152,379,177"/>
-<area shape="rect" id="node9" title=" " alt="" coords="185,152,301,177"/>
-<area shape="rect" id="node10" title=" " alt="" coords="403,152,461,177"/>
 <area shape="rect" id="node4" href="$d9/d49/types_8h.html" title=" " alt="" coords="93,225,158,251"/>
 <area shape="rect" id="node5" title=" " alt="" coords="5,299,70,324"/>
 <area shape="rect" id="node6" title=" " alt="" coords="93,299,158,324"/>

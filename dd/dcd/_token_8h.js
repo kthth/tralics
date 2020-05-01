@@ -2,7 +2,9 @@ var _token_8h =
 [
     [ "Token", "d9/d27/struct_token.html", "d9/d27/struct_token" ],
     [ "TokenList", "dd/dcd/_token_8h.html#a629d658c186a915f8c83137cfaf3bc9e", null ],
+    [ "operator<<", "dd/dcd/_token_8h.html#ad3b03f2165992a65c5a9366e67027587", null ],
     [ "make_char_token", "dd/dcd/_token_8h.html#a34777cf3c1d996f4bfbd2a74819797cc", null ],
+    [ "operator<<", "dd/dcd/_token_8h.html#a76f90a95cb43f405ce57f6826e0168ab", null ],
     [ "q_nil", "dd/dcd/_token_8h.html#a41d59709f1856db513a9bfd124e3f10a", null ],
     [ "q_stop", "dd/dcd/_token_8h.html#a53b99f1dc78425145df62a3c43422e69", null ],
     [ "q_recursion_stop", "dd/dcd/_token_8h.html#a648f98532c2e850bfa905cad387e6039", null ],
@@ -21,5 +23,6 @@ var _token_8h =
     [ "Tc_true_bool", "dd/dcd/_token_8h.html#acf96cd22f8337676dc0ef861b643f8a1", null ],
     [ "Tc_false_bool", "dd/dcd/_token_8h.html#ac695cd250e46ef6f27b3d867537c7c99", null ],
     [ "cmd_name", "dd/dcd/_token_8h.html#a4630c0789fc2d33b194db238db5b67c3", null ],
-    [ "token_to_split", "dd/dcd/_token_8h.html#a2418bb001b2f007a9c3f13b6776a44ff", null ]
+    [ "token_to_split", "dd/dcd/_token_8h.html#a2418bb001b2f007a9c3f13b6776a44ff", null ],
+    [ "special_double", "dd/dcd/_token_8h.html#a1695fdd30aaa0574023be0afb1f5e275", null ]
 ];

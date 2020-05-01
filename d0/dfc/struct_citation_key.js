@@ -10,7 +10,7 @@ var struct_citation_key =
     [ "is_same_old", "d0/dfc/struct_citation_key.html#ac9febfe11b72683633272acead43a1ce", null ],
     [ "is_same_lower", "d0/dfc/struct_citation_key.html#a903655519891316d4b8099fc0d8e4284", null ],
     [ "is_same_lower_old", "d0/dfc/struct_citation_key.html#a2811d8d316eb20796f7fbf30543bf2d4", null ],
-    [ "from_to_string", "d0/dfc/struct_citation_key.html#ac745e7dbec8b0c2c7bce20bf4386b71a", null ],
+    [ "from_to_string", "d0/dfc/struct_citation_key.html#a70b7426a3527e1cf5288267b2e9f59aa", null ],
     [ "move_to_year", "d0/dfc/struct_citation_key.html#a0db4eb081c877763cf9268337ba3e8e9", null ],
     [ "move_to_refer", "d0/dfc/struct_citation_key.html#a31aea44481124c9d1a4a987a00a6140a", null ],
     [ "cite_key", "d0/dfc/struct_citation_key.html#a099b159c6cbdab2e135b270cc09995fc", null ],

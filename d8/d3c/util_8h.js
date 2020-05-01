@@ -5,5 +5,6 @@ var util_8h =
     [ "only_space", "d8/d3c/util_8h.html#a5d561e6513ad36e18b833b21fb0542b2", null ],
     [ "split_commas", "d8/d3c/util_8h.html#a8f03495640c649762cddfd04cc2daa93", null ],
     [ "split_assign", "d8/d3c/util_8h.html#ae9a3fc3af88d1690eaa82c56156912f1", null ],
-    [ "without_end_spaces", "d8/d3c/util_8h.html#a3ce24cc1f4d12e9402fffb64054fd0ed", null ]
+    [ "without_end_spaces", "d8/d3c/util_8h.html#a3ce24cc1f4d12e9402fffb64054fd0ed", null ],
+    [ "operator<<", "d8/d3c/util_8h.html#aa09b8a3d06bc48c8bc81b80ab1dddbf3", null ]
 ];

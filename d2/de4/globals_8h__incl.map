@@ -1,19 +1,16 @@
 <map id="tralics/globals.h" name="tralics/globals.h">
-<area shape="rect" id="node1" title=" " alt="" coords="155,5,269,31"/>
-<area shape="rect" id="node2" href="$d5/daf/_istring_8h.html" title=" " alt="" coords="178,79,246,104"/>
-<area shape="rect" id="node15" href="$d8/d47/codepoint_8h.html" title=" " alt="" coords="10,79,100,104"/>
-<area shape="rect" id="node17" title=" " alt="" coords="270,79,351,104"/>
-<area shape="rect" id="node3" href="$dd/d47/_str_hash_8h.html" title=" " alt="" coords="262,152,343,177"/>
-<area shape="rect" id="node12" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="374,152,447,177"/>
-<area shape="rect" id="node13" href="$d8/d3c/util_8h.html" title=" " alt="" coords="113,152,162,177"/>
-<area shape="rect" id="node14" title=" " alt="" coords="186,152,238,177"/>
-<area shape="rect" id="node4" href="$d8/db5/consts_8h.html" title=" " alt="" coords="379,225,450,251"/>
-<area shape="rect" id="node9" title=" " alt="" coords="161,225,215,251"/>
-<area shape="rect" id="node10" title=" " alt="" coords="240,225,355,251"/>
-<area shape="rect" id="node11" title=" " alt="" coords="79,225,137,251"/>
-<area shape="rect" id="node5" href="$d9/d49/types_8h.html" title=" " alt="" coords="160,299,224,324"/>
-<area shape="rect" id="node6" title=" " alt="" coords="72,372,136,397"/>
-<area shape="rect" id="node7" title=" " alt="" coords="160,372,224,397"/>
-<area shape="rect" id="node8" title=" " alt="" coords="248,372,331,397"/>
-<area shape="rect" id="node16" title=" " alt="" coords="21,152,89,177"/>
+<area shape="rect" id="node1" title=" " alt="" coords="268,5,381,31"/>
+<area shape="rect" id="node2" href="$d5/daf/_istring_8h.html" title=" " alt="" coords="113,79,181,104"/>
+<area shape="rect" id="node11" href="$d8/d47/codepoint_8h.html" title=" " alt="" coords="224,79,315,104"/>
+<area shape="rect" id="node13" title=" " alt="" coords="339,79,419,104"/>
+<area shape="rect" id="node14" title=" " alt="" coords="443,79,501,104"/>
+<area shape="rect" id="node3" href="$d0/d0b/enums_8h.html" title=" " alt="" coords="5,152,78,177"/>
+<area shape="rect" id="node9" title=" " alt="" coords="102,152,154,177"/>
+<area shape="rect" id="node10" title=" " alt="" coords="179,152,233,177"/>
+<area shape="rect" id="node4" href="$d8/db5/consts_8h.html" title=" " alt="" coords="83,225,154,251"/>
+<area shape="rect" id="node5" href="$d9/d49/types_8h.html" title=" " alt="" coords="123,299,187,324"/>
+<area shape="rect" id="node6" title=" " alt="" coords="35,372,99,397"/>
+<area shape="rect" id="node7" title=" " alt="" coords="123,372,187,397"/>
+<area shape="rect" id="node8" title=" " alt="" coords="211,372,294,397"/>
+<area shape="rect" id="node12" title=" " alt="" coords="308,152,376,177"/>
 </map>

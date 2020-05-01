@@ -5,7 +5,6 @@ var class_key_and_val =
     [ "has_name", "d9/de8/class_key_and_val.html#af3f67ca912017affe71b1acc6c93615f", null ],
     [ "has_full_name", "d9/de8/class_key_and_val.html#a3596bfccce4026f402f37fa32cc596d0", null ],
     [ "has_name", "d9/de8/class_key_and_val.html#aafd17a7c5c04bd582bef4e29e5ab75e8", null ],
-    [ "dump", "d9/de8/class_key_and_val.html#a1ebad50376fc9e79b1cfc174c15915ed", null ],
     [ "use", "d9/de8/class_key_and_val.html#acc3e7428b9e362142af35d67ee78c371", null ],
     [ "kill", "d9/de8/class_key_and_val.html#ada858da030f74eab83b9a1fc81a735e0", null ],
     [ "use_and_kill", "d9/de8/class_key_and_val.html#a65c941498c546e1ef711ea03592fb4c7", null ],

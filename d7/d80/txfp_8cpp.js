@@ -21,7 +21,6 @@ var txfp_8cpp =
     [ "x_solve", "d7/d80/txfp_8cpp.html#ad60400eefe5be4ca5707c0e1a9895b37", null ],
     [ "x_solve", "d7/d80/txfp_8cpp.html#a8850544913244a6188a998f1f3b45fe7", null ],
     [ "operator<<", "d7/d80/txfp_8cpp.html#a638c422bd2959c0f795f1103ec72f83a", null ],
-    [ "operator<<", "d7/d80/txfp_8cpp.html#a6092579253a1cbdd3bf5143a243b0c0e", null ],
     [ "operator-", "d7/d80/txfp_8cpp.html#a9682c56aeb672c0865dee053ab7c9721", null ],
     [ "operator*", "d7/d80/txfp_8cpp.html#a8ee97ce0f60445462e43cd3ab6d386bd", null ],
     [ "operator*", "d7/d80/txfp_8cpp.html#a30e8b389ccc1e03c77579b1daba9c2f0", null ],

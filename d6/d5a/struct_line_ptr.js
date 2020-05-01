@@ -1,6 +1,6 @@
 var struct_line_ptr =
 [
-    [ "dump_name", "d6/d5a/struct_line_ptr.html#af3323073d5c1dc18fb1a6de8e9e6ef42", null ],
+    [ "dump_name", "d6/d5a/struct_line_ptr.html#a9aa4dc6cdc1f284d53f52f1e48b4fb40", null ],
     [ "add", "d6/d5a/struct_line_ptr.html#a50868b79093357d1dce93de6ed103b84", null ],
     [ "add_buffer", "d6/d5a/struct_line_ptr.html#ad20f6e62c209518d476358df9bba48e5", null ],
     [ "after_open", "d6/d5a/struct_line_ptr.html#ac8d3a9f82239c164ac2f0d65bb786161", null ],
@@ -41,7 +41,7 @@ var struct_line_ptr =
     [ "skip_env", "d6/d5a/struct_line_ptr.html#af2c144cced6dc109a673a6e12c49a843", null ],
     [ "splice_end", "d6/d5a/struct_line_ptr.html#a5e07fc82e82b75f8dc429375bfd7c6e5", null ],
     [ "splice_first", "d6/d5a/struct_line_ptr.html#aa0fb56b05eeaf1ab3c72ca6726815715", null ],
-    [ "split_string", "d6/d5a/struct_line_ptr.html#a0244b937d146da798bb06ec8229667cb", null ],
+    [ "split_string", "d6/d5a/struct_line_ptr.html#aa25d7b59617e254623f298c9b32f9fc7", null ],
     [ "cur_line", "d6/d5a/struct_line_ptr.html#aab559d7e811078403094cda43fe33855", null ],
     [ "interactive", "d6/d5a/struct_line_ptr.html#a3b6e4a15215e61fd0233532c9436f67a", null ],
     [ "file_name", "d6/d5a/struct_line_ptr.html#aeec9b266654c1ba05b856503bd5ae5ba", null ],
