@@ -15,6 +15,7 @@
 #include "tralics/MainClass.h"
 #include "tralics/Saver.h"
 #include "tralics/util.h"
+#include <cstdlib>
 #include <fmt/format.h>
 #include <fmt/ostream.h>
 #include <spdlog/spdlog.h>
@@ -26,10 +27,33 @@ namespace {
         spdlog::error("UTF-8 parsing overflow (char U+{:04X}, line {}, file {})", n, cur_file_line, cur_file_name);
         bad_chars++;
     }
+
     /// Look for a file in the pool
     auto search_in_pool(const std::string &name) -> std::optional<size_t> {
         for (size_t i = 0; i < file_pool.size(); i++)
             if (file_pool[i].file_name == name) return i;
+        return {};
+    }
+
+    auto kpsewhich(const std::string &s) -> std::optional<std::filesystem::path> {
+        auto                  cmd = fmt::format("kpsewhich {}", s);
+        std::array<char, 128> buffer;
+        std::string           result;
+
+        std::unique_ptr<FILE, decltype(&pclose)> pipe(popen(cmd.c_str(), "r"), pclose);
+        if (!pipe) {
+            spdlog::error("Could not launch kpsewhich, reverting to internal paths");
+            return {};
+        }
+
+        while (fgets(buffer.data(), buffer.size(), pipe.get()) != nullptr) result += buffer.data();
+
+        if (!result.empty()) {
+            if (result.back() == '\n') result.pop_back();
+            spdlog::trace("Found {} as {} (kpsewhich)", s, result);
+            return result;
+        }
+        spdlog::trace("Did not find {} (kpsewhich)", s, result);
         return {};
     }
 } // namespace
@@ -275,10 +299,13 @@ void Parser::T_filecontents(subtypes spec) {
 // \todo the next three function are kind of misleadingly named
 
 auto main_ns::search_in_confdir(const std::string &s) -> std::optional<std::filesystem::path> {
+    if (use_kpathsea)
+        if (auto out = kpsewhich(s)) return out;
+
     for (auto i = conf_path.size(); i != 0; i--) {
         auto f = conf_path[i - 1] / s;
         if (std::filesystem::exists(f)) {
-            spdlog::trace("Found in configuration path: {}", f);
+            spdlog::warn("Found in configuration path: {}", f);
             return f;
         }
     }

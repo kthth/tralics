@@ -21,6 +21,8 @@ else
     cp $source_dir/test/*.* .
 fi
 
+export TEXINPUTS=$config_dir
+
 # This checks that no error is signaled.
 run_tralics() {
     local status

@@ -722,6 +722,10 @@ void MainClass::parse_option(int &p, int argc, char **argv) {
         dualmath = true;
         return;
     }
+    if (s == "kpathsea") {
+        use_kpathsea = true;
+        return;
+    }
     if ((s == "radebug") || (s == "check") || (s == "ps") || (s == "xmlfo") || (s == "xmlhtml") || (s == "xmltex") || (s == "xmllint") ||
         (s == "xmlall") || (s == "all") || (s == "nobibyearerror") || (s == "nobibyearmodify") || (s == "findwords") ||
         (s == "interactivemath") || (s == "i") || (s == "adventure")) {
