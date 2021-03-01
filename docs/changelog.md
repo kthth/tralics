@@ -303,7 +303,7 @@ Work in progress
     `\ignorespaces`, produces a bibitem element. Bug fix: declaration
     xml_pack_font_att = \"true\" is honored. Changed
     `\mathversion{bold}$\mathnormal x$` to produce bold. Implemented
-    tipa package. Bug fix `$\hbox{{\ensuremath{x}y}}$` is OK .
+    tipa package. Bug fix ``$\hbox{{\ensuremath{x}y}}$`` is OK .
     Implemented bold math Greek letter (Wagner).
 -   **\[2008-05-29, version 2.12.2\]** Newline is OK in `\zap@space`.
     Changed `\:` to medmuskip. Use `<unexpected>` for junk in table
